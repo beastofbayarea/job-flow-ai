@@ -1,0 +1,210 @@
+{
+  "1_Linear": {
+    "index": 1,
+    "company": "Linear",
+    "title": "Demand Generation Lead, Growth",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": []
+  },
+  "2_Runway Ml": {
+    "index": 2,
+    "company": "Runway Ml",
+    "title": "Growth Marketing Manager, Paid Channels",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": []
+  },
+  "3_Kestra": {
+    "index": 3,
+    "company": "Kestra",
+    "title": "Product Manager, Data Orchestration",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": []
+  },
+  "4_Preply": {
+    "index": 4,
+    "company": "Preply",
+    "title": "Digital PR Growth Manager",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": []
+  },
+  "5_Weaviate": {
+    "index": 5,
+    "company": "Weaviate",
+    "title": "Director of Product",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": []
+  },
+  "6_Tribe Ai": {
+    "index": 6,
+    "company": "Tribe Ai",
+    "title": "Product Marketing Lead",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "$175K – $225K • Offers Equity"
+    ]
+  },
+  "7_Coder": {
+    "index": 7,
+    "company": "Coder",
+    "title": "Senior Product Marketing Manager",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "$148K – $201K • Offers Equity • Offers Bonus",
+      "$135K – $183K • Offers Equity • Offers Bonus",
+      "$131K – $178K • Offers Equity • Offers Bonus"
+    ]
+  },
+  "8_Rogo": {
+    "index": 8,
+    "company": "Rogo",
+    "title": "GTM Manager, London",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": []
+  },
+  "9_Helpscout": {
+    "index": 9,
+    "company": "Helpscout",
+    "title": "Lead/Principal Product Manager, Growth",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "$172K – $248K • Offers Equity",
+      "This role is currently open to consideration at 2 levels. The compensation range reflects the range across both levels.",
+      "A co-working stipend up to $300 a month if you choose to work out of your house"
+    ]
+  },
+  "10_Element451": {
+    "index": 10,
+    "company": "Element451",
+    "title": "Director of Growth Marketing",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "Manage and optimize a ~$1.5M annual paid media budget, working closely with external media agency partners to maximize performance across channels",
+      "Successfully manage and optimize a $1.5M paid media budget with clear performance reporting and forecasting"
+    ]
+  },
+  "11_Revenuecat": {
+    "index": 11,
+    "company": "Revenuecat",
+    "title": "Strategy & Operations Manager",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "$200K • Offers Equity",
+      "$2,000 USD for workspace setup and $1,000 USD annual stipend for continuous learning"
+    ]
+  },
+  "12_Netboxlabs": {
+    "index": 12,
+    "company": "Netboxlabs",
+    "title": "Technical Program Manager",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "$130K – $140K • Offers Equity • Offers Bonus"
+    ]
+  },
+  "13_Supabase": {
+    "index": 13,
+    "company": "Supabase",
+    "title": "Product Manager - Marketplace",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "Over $1B raised (including our $500M Series F)"
+    ]
+  },
+  "14_Elevenlabs": {
+    "index": 14,
+    "company": "Elevenlabs",
+    "title": "Marketing Operations",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": []
+  },
+  "15_Openai": {
+    "index": 15,
+    "company": "Openai",
+    "title": "Technical Program Manager, Rack Delivery",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "$205K – $335K • Offers Equity"
+    ]
+  },
+  "16_Aiprise": {
+    "index": 16,
+    "company": "Aiprise",
+    "title": "Senior Content Marketing Manager",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "$100K – $150K"
+    ]
+  },
+  "17_Pano Ai": {
+    "index": 17,
+    "company": "Pano Ai",
+    "title": "Technical Program Manager (Hardware Deployment) - Contract",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "A$67 – A$88 per hour"
+    ]
+  },
+  "18_Goodparty": {
+    "index": 18,
+    "company": "Goodparty",
+    "title": "Product Marketing Lead",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "Founded by serial entrepreneur Farhad Mohit ($1B+ in exits, including Flipagram/TikTok and Shopzilla), GoodParty.org is building solutions so we can have a truly representative democracy where society’s biggest problems are solved.",
+      "If you work from home, we give $50/month to help with your internet and other expenses. If you prefer co-working, that’s an option we can discuss too."
+    ]
+  },
+  "19_Synthesia": {
+    "index": 19,
+    "company": "Synthesia",
+    "title": "Field Marketing Manager - US",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": []
+  },
+  "20_Cohere": {
+    "index": 20,
+    "company": "Cohere",
+    "title": "Technical Program Manager, AI Delivery, Korea",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.",
+      "Everyone receives a $500 home office stipend to set up your workspace properly."
+    ]
+  },
+  "21_Infisical": {
+    "index": 21,
+    "company": "Infisical",
+    "title": "Growth Marketing Manager",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "$135K – $165K • Offers Equity",
+      "We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face, Lucid, and LG."
+    ]
+  },
+  "22_Confluent": {
+    "index": 22,
+    "company": "Confluent",
+    "title": "Staff Security Risk & Compliance Program Manager - Access Management",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": [
+      "$222.1K – $261K • Offers Equity"
+    ]
+  },
+  "23_Audiohook": {
+    "index": 23,
+    "company": "Audiohook",
+    "title": "Director of Performance Marketing Sales",
+    "salary_line": "$120,000–$160,000 USD (Candidate Default)",
+    "all_candidates": []
+  },
+  "24_Tremendous": {
+    "index": 24,
+    "company": "Tremendous",
+    "title": "Senior Product Manager",
+    "salary_line": "Competitive pay and equity. Base salary for this role: $225,000 to $300,000",
+    "all_candidates": [
+      "$225K – $300K • Offers Equity",
+      "Competitive pay and equity. Base salary for this role: $225,000 to $300,000"
+    ]
+  }
+}
