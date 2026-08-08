@@ -37,7 +37,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Pointclickcare - Principal Product Manager - AI Models.pdf`
 18. **Why are you a fit for Pointclickcare & Principal Product Manager - AI Models? / Custom Essay Response**:
     > Combining a CS engineering degree from IIT and a Ross MBA with hands-on GenAI product leadership at AWS, I lead agentic AI copilot strategy across 12 workstreams (+15% session depth, hallucination reduction from 8% to 2.8% using RAG and Bedrock Guardrails). At D. E. Shaw, I built real-time data platforms handling 5.4M msg/sec. Pointclickcare’s vision in Principal Product Manager - AI Models aligns directly with my background deploying secure, high-impact enterprise AI platforms.
 19. **EEO Gender**: Male
@@ -67,7 +67,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Pointclickcare - Principal Product Manager - AI Models.pdf`
 18. **Why are you a fit for Pointclickcare & Principal Product Manager - AI Models? / Custom Essay Response**:
     > Combining a CS engineering degree from IIT and a Ross MBA with hands-on GenAI product leadership at AWS, I lead agentic AI copilot strategy across 12 workstreams (+15% session depth, hallucination reduction from 8% to 2.8% using RAG and Bedrock Guardrails). At D. E. Shaw, I built real-time data platforms handling 5.4M msg/sec. Pointclickcare’s vision in Principal Product Manager - AI Models aligns directly with my background deploying secure, high-impact enterprise AI platforms.
 19. **EEO Gender**: Male
@@ -97,7 +97,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Flex - Senior Product Marketing Manager, Flex.pdf`
 18. **Why are you a fit for Flex & Senior Product Marketing Manager, Flex? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Flex’s Senior Product Marketing Manager, Flex role.
 19. **EEO Gender**: Male
@@ -127,7 +127,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Outreach - Senior Technical Program Manager, Business Systems.pdf`
 18. **Why are you a fit for Outreach & Senior Technical Program Manager, Business Systems? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Outreach.
 19. **EEO Gender**: Male
@@ -157,7 +157,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Crypto - Lead Product Manager - Exchange, Trading.pdf`
 18. **Why are you a fit for Crypto & Lead Product Manager - Exchange, Trading? / Custom Essay Response**:
     > With 4 years at The D. E. Shaw Group managing $10M real-time risk platforms (5.4M msg/sec) and publishing blockchain research, I bring deep quantitative finance and Web3 platform experience. At AWS and Microsoft, I scaled digital platform products to millions of users. I am excited to drive product vision and execution for Lead Product Manager - Exchange, Trading at Crypto.
 19. **EEO Gender**: Male
@@ -187,7 +187,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Crypto - Senior Product Manager - Predictions, OG.pdf`
 18. **Why are you a fit for Crypto & Senior Product Manager - Predictions, OG? / Custom Essay Response**:
     > With 4 years at The D. E. Shaw Group managing $10M real-time risk platforms (5.4M msg/sec) and publishing blockchain research, I bring deep quantitative finance and Web3 platform experience. At AWS and Microsoft, I scaled digital platform products to millions of users. I am excited to drive product vision and execution for Senior Product Manager - Predictions, OG at Crypto.
 19. **EEO Gender**: Male
@@ -217,7 +217,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Kpmgnz - Product Manager.pdf`
 18. **Why are you a fit for Kpmgnz & Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Manager position at Kpmgnz.
 19. **EEO Gender**: Male
@@ -247,7 +247,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Novara - Senior Manager, Integrated Demand Generation & Account-Based Marketing.pdf`
 18. **Why are you a fit for Novara & Senior Manager, Integrated Demand Generation & Account-Based Marketing? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Novara’s Senior Manager, Integrated Demand Generation & Account-Based Marketing role.
 19. **EEO Gender**: Male
@@ -277,7 +277,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Kraken123 - Senior Product Manager.pdf`
 18. **Why are you a fit for Kraken123 & Senior Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Product Manager position at Kraken123.
 19. **EEO Gender**: Male
@@ -307,7 +307,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Sonarsource - Global HR Operations Program Manager.pdf`
 18. **Why are you a fit for Sonarsource & Global HR Operations Program Manager? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Sonarsource.
 19. **EEO Gender**: Male
@@ -337,7 +337,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Paytm - Product Management - Senior Product Manager - Ads.pdf`
 18. **Why are you a fit for Paytm & Product Management - Senior Product Manager - Ads? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Management - Senior Product Manager - Ads position at Paytm.
 19. **EEO Gender**: Male
@@ -367,7 +367,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Complex - TITOL™ Senior Product Manager.pdf`
 18. **Why are you a fit for Complex & TITOL™ Senior Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the TITOL™ Senior Product Manager position at Complex.
 19. **EEO Gender**: Male
@@ -397,7 +397,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Paytm - Product Management - Senior Product Manager - UPI Product.pdf`
 18. **Why are you a fit for Paytm & Product Management - Senior Product Manager - UPI Product? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Management - Senior Product Manager - UPI Product position at Paytm.
 19. **EEO Gender**: Male
@@ -427,7 +427,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Hihello - Demand Generation Manager.pdf`
 18. **Why are you a fit for Hihello & Demand Generation Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Hihello’s Demand Generation Manager role.
 19. **EEO Gender**: Male
@@ -457,7 +457,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Smarsh - Sr. Principal, Product Manager - Agentic & Platform.pdf`
 18. **Why are you a fit for Smarsh & Sr. Principal,  Product Manager - Agentic & Platform? / Custom Essay Response**:
     > Combining a CS engineering degree from IIT and a Ross MBA with hands-on GenAI product leadership at AWS, I lead agentic AI copilot strategy across 12 workstreams (+15% session depth, hallucination reduction from 8% to 2.8% using RAG and Bedrock Guardrails). At D. E. Shaw, I built real-time data platforms handling 5.4M msg/sec. Smarsh’s vision in Sr. Principal,  Product Manager - Agentic & Platform aligns directly with my background deploying secure, high-impact enterprise AI platforms.
 19. **EEO Gender**: Male
@@ -487,7 +487,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Wmg - Product Manager.pdf`
 18. **Why are you a fit for Wmg & Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Manager position at Wmg.
 19. **EEO Gender**: Male
@@ -517,7 +517,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Ethena - Senior Product Marketing Manager.pdf`
 18. **Why are you a fit for Ethena & Senior Product Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Ethena’s Senior Product Marketing Manager role.
 19. **EEO Gender**: Male
@@ -547,7 +547,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Spotify - Product Marketing Lead - Podcast Creator Marketing.pdf`
 18. **Why are you a fit for Spotify & Product Marketing Lead - Podcast Creator Marketing? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Spotify’s Product Marketing Lead - Podcast Creator Marketing role.
 19. **EEO Gender**: Male
@@ -577,7 +577,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Kpler - Product Manager.pdf`
 18. **Why are you a fit for Kpler & Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Manager position at Kpler.
 19. **EEO Gender**: Male
@@ -607,7 +607,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Coupa - Technical Program Manager, Security & GRC - 11745.pdf`
 18. **Why are you a fit for Coupa & Technical Program Manager, Security & GRC  - 11745? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Coupa.
 19. **EEO Gender**: Male
@@ -637,7 +637,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Hive - Associate Product Manager, Hive Models.pdf`
 18. **Why are you a fit for Hive & Associate Product Manager, Hive Models? / Custom Essay Response**:
     > Combining a CS engineering degree from IIT and a Ross MBA with hands-on GenAI product leadership at AWS, I lead agentic AI copilot strategy across 12 workstreams (+15% session depth, hallucination reduction from 8% to 2.8% using RAG and Bedrock Guardrails). At D. E. Shaw, I built real-time data platforms handling 5.4M msg/sec. Hive’s vision in Associate Product Manager, Hive Models aligns directly with my background deploying secure, high-impact enterprise AI platforms.
 19. **EEO Gender**: Male
@@ -667,7 +667,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Paytm - Product Management - Senior Product Manager - Travel.pdf`
 18. **Why are you a fit for Paytm & Product Management -  Senior Product Manager - Travel? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Management -  Senior Product Manager - Travel position at Paytm.
 19. **EEO Gender**: Male
@@ -697,7 +697,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Coupa - Sr.Technical Program Manager, Security & GRC - 11740.pdf`
 18. **Why are you a fit for Coupa & Sr.Technical Program Manager, Security & GRC - 11740? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Coupa.
 19. **EEO Gender**: Male
@@ -727,7 +727,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Workwave - Marketing Operations Manager.pdf`
 18. **Why are you a fit for Workwave & Marketing Operations Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Workwave’s Marketing Operations Manager role.
 19. **EEO Gender**: Male
@@ -757,7 +757,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Conversica - Senior Product Manager.pdf`
 18. **Why are you a fit for Conversica & Senior Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Product Manager position at Conversica.
 19. **EEO Gender**: Male
@@ -787,7 +787,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Spotify - Principal Product Manager, Engagement Journeys.pdf`
 18. **Why are you a fit for Spotify & Principal Product Manager, Engagement Journeys? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Principal Product Manager, Engagement Journeys position at Spotify.
 19. **EEO Gender**: Male
@@ -817,7 +817,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Kpler - Senior Product Manager.pdf`
 18. **Why are you a fit for Kpler & Senior Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Product Manager position at Kpler.
 19. **EEO Gender**: Male
@@ -847,7 +847,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Wisecode - Senior Technical Product Manager.pdf`
 18. **Why are you a fit for Wisecode & Senior Technical Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Technical Product Manager position at Wisecode.
 19. **EEO Gender**: Male
@@ -877,7 +877,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Spotify - Senior Product Manager - User Platform.pdf`
 18. **Why are you a fit for Spotify & Senior Product Manager - User Platform? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Product Manager - User Platform position at Spotify.
 19. **EEO Gender**: Male
@@ -907,7 +907,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Rainfocus - Sr. Product Marketing Manager.pdf`
 18. **Why are you a fit for Rainfocus & Sr. Product Marketing Manager (Remote)? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Rainfocus’s Sr. Product Marketing Manager (Remote) role.
 19. **EEO Gender**: Male
@@ -937,7 +937,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Yuno - Technical Product Manager - Money and Risk.pdf`
 18. **Why are you a fit for Yuno & Technical Product Manager - Money and Risk? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Technical Product Manager - Money and Risk position at Yuno.
 19. **EEO Gender**: Male
@@ -967,7 +967,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Yuno - Technical Product Manager - Client Intelligence & Data.pdf`
 18. **Why are you a fit for Yuno & Technical Product Manager - Client Intelligence & Data? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Technical Product Manager - Client Intelligence & Data position at Yuno.
 19. **EEO Gender**: Male
@@ -997,7 +997,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Yuno - Technical Product Manager - Client Experience.pdf`
 18. **Why are you a fit for Yuno & Technical Product Manager - Client Experience? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Technical Product Manager - Client Experience position at Yuno.
 19. **EEO Gender**: Male
@@ -1027,7 +1027,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Ethena - Lead Product Manager.pdf`
 18. **Why are you a fit for Ethena & Lead Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Lead Product Manager position at Ethena.
 19. **EEO Gender**: Male
@@ -1057,7 +1057,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Zoox - Senior Program Manager, Quality Assurance.pdf`
 18. **Why are you a fit for Zoox & Senior Program Manager, Quality Assurance? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Zoox.
 19. **EEO Gender**: Male
@@ -1087,7 +1087,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Kraken123 - Senior Product Marketing Manager.pdf`
 18. **Why are you a fit for Kraken123 & Senior Product Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Kraken123’s Senior Product Marketing Manager role.
 19. **EEO Gender**: Male
@@ -1117,7 +1117,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Deliverect - Product Marketing Manager.pdf`
 18. **Why are you a fit for Deliverect & Product Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Deliverect’s Product Marketing Manager role.
 19. **EEO Gender**: Male
@@ -1147,7 +1147,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Flex - Lifecycle Marketing Operations Manager.pdf`
 18. **Why are you a fit for Flex & Lifecycle Marketing Operations Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Flex’s Lifecycle Marketing Operations Manager role.
 19. **EEO Gender**: Male
@@ -1177,7 +1177,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Gauntlet - Product Marketing Manager.pdf`
 18. **Why are you a fit for Gauntlet & Product Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Gauntlet’s Product Marketing Manager role.
 19. **EEO Gender**: Male
@@ -1207,7 +1207,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Saviynt - Staff Product Manager.pdf`
 18. **Why are you a fit for Saviynt & Staff Product Manager (Partner & Developer Ecosystem)? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Staff Product Manager (Partner & Developer Ecosystem) position at Saviynt.
 19. **EEO Gender**: Male
@@ -1237,7 +1237,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Smarsh - Sr. Technical Product Manager.pdf`
 18. **Why are you a fit for Smarsh & Sr. Technical Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Sr. Technical Product Manager position at Smarsh.
 19. **EEO Gender**: Male
@@ -1267,7 +1267,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Thinkahead - Principal Consultant, Internal AI.pdf`
 18. **Why are you a fit for Thinkahead & Principal Consultant, Internal AI? / Custom Essay Response**:
     > IIT CS graduate & Ross MBA with 10+ years experience spanning AWS, D. E. Shaw, Microsoft, and McKinsey. I combine technical architecture expertise with commercial strategy to drive high-leverage execution. Excited to contribute to Thinkahead's growth in the Principal Consultant, Internal AI role.
 19. **EEO Gender**: Male
@@ -1297,7 +1297,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Magnopus - Director of Product Operations.pdf`
 18. **Why are you a fit for Magnopus & Director of Product Operations? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Magnopus.
 19. **EEO Gender**: Male
@@ -1327,7 +1327,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Outreach - Principal Product Marketing Manager, Competitive.pdf`
 18. **Why are you a fit for Outreach & Principal Product Marketing Manager, Competitive? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Outreach’s Principal Product Marketing Manager, Competitive role.
 19. **EEO Gender**: Male
@@ -1357,7 +1357,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Spreetail - Sr. Analyst, Marketing Operations.pdf`
 18. **Why are you a fit for Spreetail & Sr. Analyst, Marketing Operations? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Spreetail’s Sr. Analyst, Marketing Operations role.
 19. **EEO Gender**: Male
@@ -1387,7 +1387,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Lindblad Expeditions - Senior Manager, Corporate Development M&A.pdf`
 18. **Why are you a fit for Lindblad Expeditions & Senior Manager, Corporate Development M&A? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Manager, Corporate Development M&A position at Lindblad Expeditions.
 19. **EEO Gender**: Male
@@ -1417,7 +1417,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Lindblad Expeditions - Director, Corporate Development M&A.pdf`
 18. **Why are you a fit for Lindblad Expeditions & Director, Corporate Development M&A? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Director, Corporate Development M&A position at Lindblad Expeditions.
 19. **EEO Gender**: Male
@@ -1447,7 +1447,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Caseware - Product Manager.pdf`
 18. **Why are you a fit for Caseware & Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Manager position at Caseware.
 19. **EEO Gender**: Male
@@ -1477,7 +1477,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Pointclickcare - Principal Product Manager - AI Models.pdf`
 18. **Why are you a fit for Pointclickcare & Principal Product Manager - AI Models? / Custom Essay Response**:
     > Combining a CS engineering degree from IIT and a Ross MBA with hands-on GenAI product leadership at AWS, I lead agentic AI copilot strategy across 12 workstreams (+15% session depth, hallucination reduction from 8% to 2.8% using RAG and Bedrock Guardrails). At D. E. Shaw, I built real-time data platforms handling 5.4M msg/sec. Pointclickcare’s vision in Principal Product Manager - AI Models aligns directly with my background deploying secure, high-impact enterprise AI platforms.
 19. **EEO Gender**: Male
@@ -1507,7 +1507,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Pointclickcare - Principal Product Manager - AI Models.pdf`
 18. **Why are you a fit for Pointclickcare & Principal Product Manager - AI Models? / Custom Essay Response**:
     > Combining a CS engineering degree from IIT and a Ross MBA with hands-on GenAI product leadership at AWS, I lead agentic AI copilot strategy across 12 workstreams (+15% session depth, hallucination reduction from 8% to 2.8% using RAG and Bedrock Guardrails). At D. E. Shaw, I built real-time data platforms handling 5.4M msg/sec. Pointclickcare’s vision in Principal Product Manager - AI Models aligns directly with my background deploying secure, high-impact enterprise AI platforms.
 19. **EEO Gender**: Male
@@ -1537,7 +1537,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Flex - Senior Product Marketing Manager, Flex.pdf`
 18. **Why are you a fit for Flex & Senior Product Marketing Manager, Flex? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Flex’s Senior Product Marketing Manager, Flex role.
 19. **EEO Gender**: Male
@@ -1567,7 +1567,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Outreach - Senior Technical Program Manager, Business Systems.pdf`
 18. **Why are you a fit for Outreach & Senior Technical Program Manager, Business Systems? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Outreach.
 19. **EEO Gender**: Male
@@ -1597,7 +1597,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Crypto - Lead Product Manager - Exchange, Trading.pdf`
 18. **Why are you a fit for Crypto & Lead Product Manager - Exchange, Trading? / Custom Essay Response**:
     > With 4 years at The D. E. Shaw Group managing $10M real-time risk platforms (5.4M msg/sec) and publishing blockchain research, I bring deep quantitative finance and Web3 platform experience. At AWS and Microsoft, I scaled digital platform products to millions of users. I am excited to drive product vision and execution for Lead Product Manager - Exchange, Trading at Crypto.
 19. **EEO Gender**: Male
@@ -1627,7 +1627,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Crypto - Senior Product Manager - Predictions, OG.pdf`
 18. **Why are you a fit for Crypto & Senior Product Manager - Predictions, OG? / Custom Essay Response**:
     > With 4 years at The D. E. Shaw Group managing $10M real-time risk platforms (5.4M msg/sec) and publishing blockchain research, I bring deep quantitative finance and Web3 platform experience. At AWS and Microsoft, I scaled digital platform products to millions of users. I am excited to drive product vision and execution for Senior Product Manager - Predictions, OG at Crypto.
 19. **EEO Gender**: Male
@@ -1657,7 +1657,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Kpmgnz - Product Manager.pdf`
 18. **Why are you a fit for Kpmgnz & Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Manager position at Kpmgnz.
 19. **EEO Gender**: Male
@@ -1687,7 +1687,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Novara - Senior Manager, Integrated Demand Generation & Account-Based Marketing.pdf`
 18. **Why are you a fit for Novara & Senior Manager, Integrated Demand Generation & Account-Based Marketing? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Novara’s Senior Manager, Integrated Demand Generation & Account-Based Marketing role.
 19. **EEO Gender**: Male
@@ -1717,7 +1717,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Kraken123 - Senior Product Manager.pdf`
 18. **Why are you a fit for Kraken123 & Senior Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Product Manager position at Kraken123.
 19. **EEO Gender**: Male
@@ -1747,7 +1747,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Sonarsource - Global HR Operations Program Manager.pdf`
 18. **Why are you a fit for Sonarsource & Global HR Operations Program Manager? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Sonarsource.
 19. **EEO Gender**: Male
@@ -1777,7 +1777,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Paytm - Product Management - Senior Product Manager - Ads.pdf`
 18. **Why are you a fit for Paytm & Product Management - Senior Product Manager - Ads? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Management - Senior Product Manager - Ads position at Paytm.
 19. **EEO Gender**: Male
@@ -1807,7 +1807,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Complex - TITOL™ Senior Product Manager.pdf`
 18. **Why are you a fit for Complex & TITOL™ Senior Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the TITOL™ Senior Product Manager position at Complex.
 19. **EEO Gender**: Male
@@ -1837,7 +1837,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Paytm - Product Management - Senior Product Manager - UPI Product.pdf`
 18. **Why are you a fit for Paytm & Product Management - Senior Product Manager - UPI Product? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Management - Senior Product Manager - UPI Product position at Paytm.
 19. **EEO Gender**: Male
@@ -1867,7 +1867,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Hihello - Demand Generation Manager.pdf`
 18. **Why are you a fit for Hihello & Demand Generation Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Hihello’s Demand Generation Manager role.
 19. **EEO Gender**: Male
@@ -1897,7 +1897,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Smarsh - Sr. Principal, Product Manager - Agentic & Platform.pdf`
 18. **Why are you a fit for Smarsh & Sr. Principal,  Product Manager - Agentic & Platform? / Custom Essay Response**:
     > Combining a CS engineering degree from IIT and a Ross MBA with hands-on GenAI product leadership at AWS, I lead agentic AI copilot strategy across 12 workstreams (+15% session depth, hallucination reduction from 8% to 2.8% using RAG and Bedrock Guardrails). At D. E. Shaw, I built real-time data platforms handling 5.4M msg/sec. Smarsh’s vision in Sr. Principal,  Product Manager - Agentic & Platform aligns directly with my background deploying secure, high-impact enterprise AI platforms.
 19. **EEO Gender**: Male
@@ -1927,7 +1927,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Wmg - Product Manager.pdf`
 18. **Why are you a fit for Wmg & Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Manager position at Wmg.
 19. **EEO Gender**: Male
@@ -1957,7 +1957,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Ethena - Senior Product Marketing Manager.pdf`
 18. **Why are you a fit for Ethena & Senior Product Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Ethena’s Senior Product Marketing Manager role.
 19. **EEO Gender**: Male
@@ -1987,7 +1987,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Spotify - Product Marketing Lead - Podcast Creator Marketing.pdf`
 18. **Why are you a fit for Spotify & Product Marketing Lead - Podcast Creator Marketing? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Spotify’s Product Marketing Lead - Podcast Creator Marketing role.
 19. **EEO Gender**: Male
@@ -2017,7 +2017,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Kpler - Product Manager.pdf`
 18. **Why are you a fit for Kpler & Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Manager position at Kpler.
 19. **EEO Gender**: Male
@@ -2047,7 +2047,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Coupa - Technical Program Manager, Security & GRC - 11745.pdf`
 18. **Why are you a fit for Coupa & Technical Program Manager, Security & GRC  - 11745? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Coupa.
 19. **EEO Gender**: Male
@@ -2077,7 +2077,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Hive - Associate Product Manager, Hive Models.pdf`
 18. **Why are you a fit for Hive & Associate Product Manager, Hive Models? / Custom Essay Response**:
     > Combining a CS engineering degree from IIT and a Ross MBA with hands-on GenAI product leadership at AWS, I lead agentic AI copilot strategy across 12 workstreams (+15% session depth, hallucination reduction from 8% to 2.8% using RAG and Bedrock Guardrails). At D. E. Shaw, I built real-time data platforms handling 5.4M msg/sec. Hive’s vision in Associate Product Manager, Hive Models aligns directly with my background deploying secure, high-impact enterprise AI platforms.
 19. **EEO Gender**: Male
@@ -2107,7 +2107,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Paytm - Product Management - Senior Product Manager - Travel.pdf`
 18. **Why are you a fit for Paytm & Product Management -  Senior Product Manager - Travel? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Management -  Senior Product Manager - Travel position at Paytm.
 19. **EEO Gender**: Male
@@ -2137,7 +2137,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Coupa - Sr.Technical Program Manager, Security & GRC - 11740.pdf`
 18. **Why are you a fit for Coupa & Sr.Technical Program Manager, Security & GRC - 11740? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Coupa.
 19. **EEO Gender**: Male
@@ -2167,7 +2167,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Workwave - Marketing Operations Manager.pdf`
 18. **Why are you a fit for Workwave & Marketing Operations Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Workwave’s Marketing Operations Manager role.
 19. **EEO Gender**: Male
@@ -2197,7 +2197,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Conversica - Senior Product Manager.pdf`
 18. **Why are you a fit for Conversica & Senior Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Product Manager position at Conversica.
 19. **EEO Gender**: Male
@@ -2227,7 +2227,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Spotify - Principal Product Manager, Engagement Journeys.pdf`
 18. **Why are you a fit for Spotify & Principal Product Manager, Engagement Journeys? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Principal Product Manager, Engagement Journeys position at Spotify.
 19. **EEO Gender**: Male
@@ -2257,7 +2257,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Kpler - Senior Product Manager.pdf`
 18. **Why are you a fit for Kpler & Senior Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Product Manager position at Kpler.
 19. **EEO Gender**: Male
@@ -2287,7 +2287,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Wisecode - Senior Technical Product Manager.pdf`
 18. **Why are you a fit for Wisecode & Senior Technical Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Technical Product Manager position at Wisecode.
 19. **EEO Gender**: Male
@@ -2317,7 +2317,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Spotify - Senior Product Manager - User Platform.pdf`
 18. **Why are you a fit for Spotify & Senior Product Manager - User Platform? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Product Manager - User Platform position at Spotify.
 19. **EEO Gender**: Male
@@ -2347,7 +2347,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Rainfocus - Sr. Product Marketing Manager.pdf`
 18. **Why are you a fit for Rainfocus & Sr. Product Marketing Manager (Remote)? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Rainfocus’s Sr. Product Marketing Manager (Remote) role.
 19. **EEO Gender**: Male
@@ -2377,7 +2377,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Yuno - Technical Product Manager - Money and Risk.pdf`
 18. **Why are you a fit for Yuno & Technical Product Manager - Money and Risk? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Technical Product Manager - Money and Risk position at Yuno.
 19. **EEO Gender**: Male
@@ -2407,7 +2407,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Yuno - Technical Product Manager - Client Intelligence & Data.pdf`
 18. **Why are you a fit for Yuno & Technical Product Manager - Client Intelligence & Data? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Technical Product Manager - Client Intelligence & Data position at Yuno.
 19. **EEO Gender**: Male
@@ -2437,7 +2437,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Yuno - Technical Product Manager - Client Experience.pdf`
 18. **Why are you a fit for Yuno & Technical Product Manager - Client Experience? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Technical Product Manager - Client Experience position at Yuno.
 19. **EEO Gender**: Male
@@ -2467,7 +2467,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Ethena - Lead Product Manager.pdf`
 18. **Why are you a fit for Ethena & Lead Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Lead Product Manager position at Ethena.
 19. **EEO Gender**: Male
@@ -2497,7 +2497,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Zoox - Senior Program Manager, Quality Assurance.pdf`
 18. **Why are you a fit for Zoox & Senior Program Manager, Quality Assurance? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Zoox.
 19. **EEO Gender**: Male
@@ -2527,7 +2527,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Kraken123 - Senior Product Marketing Manager.pdf`
 18. **Why are you a fit for Kraken123 & Senior Product Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Kraken123’s Senior Product Marketing Manager role.
 19. **EEO Gender**: Male
@@ -2557,7 +2557,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Deliverect - Product Marketing Manager.pdf`
 18. **Why are you a fit for Deliverect & Product Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Deliverect’s Product Marketing Manager role.
 19. **EEO Gender**: Male
@@ -2587,7 +2587,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Flex - Lifecycle Marketing Operations Manager.pdf`
 18. **Why are you a fit for Flex & Lifecycle Marketing Operations Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Flex’s Lifecycle Marketing Operations Manager role.
 19. **EEO Gender**: Male
@@ -2617,7 +2617,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Gauntlet - Product Marketing Manager.pdf`
 18. **Why are you a fit for Gauntlet & Product Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Gauntlet’s Product Marketing Manager role.
 19. **EEO Gender**: Male
@@ -2647,7 +2647,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Saviynt - Staff Product Manager.pdf`
 18. **Why are you a fit for Saviynt & Staff Product Manager (Partner & Developer Ecosystem)? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Staff Product Manager (Partner & Developer Ecosystem) position at Saviynt.
 19. **EEO Gender**: Male
@@ -2677,7 +2677,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Smarsh - Sr. Technical Product Manager.pdf`
 18. **Why are you a fit for Smarsh & Sr. Technical Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Sr. Technical Product Manager position at Smarsh.
 19. **EEO Gender**: Male
@@ -2707,7 +2707,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Thinkahead - Principal Consultant, Internal AI.pdf`
 18. **Why are you a fit for Thinkahead & Principal Consultant, Internal AI? / Custom Essay Response**:
     > IIT CS graduate & Ross MBA with 10+ years experience spanning AWS, D. E. Shaw, Microsoft, and McKinsey. I combine technical architecture expertise with commercial strategy to drive high-leverage execution. Excited to contribute to Thinkahead's growth in the Principal Consultant, Internal AI role.
 19. **EEO Gender**: Male
@@ -2737,7 +2737,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Magnopus - Director of Product Operations.pdf`
 18. **Why are you a fit for Magnopus & Director of Product Operations? / Custom Essay Response**:
     > 10+ years leading cross-functional technical program management across AWS, D. E. Shaw, and Microsoft. At AWS, I led sovereign-cloud deployment reference architectures reducing enterprise rollout time from 6 months to 2 hours across regulated sectors. At D. E. Shaw, I orchestrated high-frequency infrastructure programs handling 5.4M msg/sec. I bring disciplined GRC, hardware/software delivery telemetry, and executive stakeholder alignment to Magnopus.
 19. **EEO Gender**: Male
@@ -2767,7 +2767,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Outreach - Principal Product Marketing Manager, Competitive.pdf`
 18. **Why are you a fit for Outreach & Principal Product Marketing Manager, Competitive? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Outreach’s Principal Product Marketing Manager, Competitive role.
 19. **EEO Gender**: Male
@@ -2797,7 +2797,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Spreetail - Sr. Analyst, Marketing Operations.pdf`
 18. **Why are you a fit for Spreetail & Sr. Analyst, Marketing Operations? / Custom Essay Response**:
     > At Microsoft, I architected a $12M partner marketing and demand generation engine using Random Forest propensity scoring and budget traffic-shaping, generating $50M incremental GMV at a 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I executed a B2B2C GTM repositioning that reduced CAC from $42 to $8.50. I am eager to leverage data-driven growth channels, multi-touch attribution, and technical messaging to scale demand for Spreetail’s Sr. Analyst, Marketing Operations role.
 19. **EEO Gender**: Male
@@ -2827,7 +2827,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Lindblad Expeditions - Senior Manager, Corporate Development M&A.pdf`
 18. **Why are you a fit for Lindblad Expeditions & Senior Manager, Corporate Development M&A? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Senior Manager, Corporate Development M&A position at Lindblad Expeditions.
 19. **EEO Gender**: Male
@@ -2857,7 +2857,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Lindblad Expeditions - Director, Corporate Development M&A.pdf`
 18. **Why are you a fit for Lindblad Expeditions & Director, Corporate Development M&A? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Director, Corporate Development M&A position at Lindblad Expeditions.
 19. **EEO Gender**: Male
@@ -2887,7 +2887,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: $120,000–$160,000 USD
-17. **Resume Attachment**: `data/resumes/resume-general.pdf`
+17. **Resume Attachment**: `output/Lever - Caseware - Product Manager.pdf`
 18. **Why are you a fit for Caseware & Product Manager? / Custom Essay Response**:
     > Computer Science engineer (IIT B.Tech) and Ross MBA with 10+ years scaling core product platforms across AWS, Microsoft, and D. E. Shaw. At Rakuten, I doubled D30 retention from 34% to 67% and optimized LTV:CAC from 0.8 to 4.5; at AWS, I compressed client rollout cycles from 6 months to 2 hours. I bring proven product lifecycle execution, customer telemetry analytics, and platform scale to the Product Manager position at Caseware.
 19. **EEO Gender**: Male
