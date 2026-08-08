@@ -1,17 +1,15 @@
 {
-  "schema_version": 2,
   "headless": false,
   "download_root": "output",
   "candidate_evidence_file": "resumes/base-resume.txt",
-  "navigation_timeout_ms": 30000,
-  "action_timeout_ms": 30000,
   "skip_application_question_topics": [
     "internal mobility",
     "internal candidate",
     "internal transfer",
     "high school performance",
     "mathematics at high school",
-    "native language at high school"
+    "native language at high school",
+    "security clearance"
   ],
   "candidate": {
     "identity": {
@@ -23,7 +21,7 @@
     },
     "employment": {
     "current_company": "Amazon Web Services",
-    "current_job_title": "Principal Product Manager, Technical - Generative AI",
+    "current_job_title": "Principal, Generative AI",
     "currently_employed": "Yes",
     "start_month": "June",
     "start_year": "2022",
@@ -33,7 +31,7 @@
     "contact": {
     "fallback_email": "shiv-ai-pm@umich.edu",
     "phone": "6502833478",
-    "portfolio": "https://www.researchgate.net/profile/Shivam-Singh-188",
+    "portfolio": "https://www.researchgate.net/profile/Shivam-Singh-188; https://goodreads.com/beastofbayarea; https://github.com/beastofbayarea",
     "publications": "https://www.researchgate.net/profile/Shivam-Singh-188",
     "linkedin": "https://linkedin.com/in/beastofbayarea",
     "twitter": "https://x.com/BeastofBayArea",
@@ -166,7 +164,16 @@
       "u.s. work authorization status": "Can work for any employer",
       "if relocation is required, when would you realistically be able to relocate": "Within 2 weeks",
       "have you spoken with your current manager about your interest in the position": "Yes",
-      "targeted compensation range (base comp only)": "$120,000–$160,000"
+      "targeted compensation range (base comp only)": "$120,000–$160,000",
+      "where are you already working ai-first today": "At AWS, I lead product strategy and deployment for agentic GenAI shopping copilots using Amazon Bedrock, fine-tuned RAG models, prompt chains, Bedrock Guardrails, and automated evaluation frameworks. In my daily workflow, I leverage Claude/Gemini and AI coding assistants for prototyping, synthetic user testing, and data analysis.",
+      "how frequently do you use ai tools or techniques in your work": "Daily",
+      "are you based in a us or eu equivalent timezone": "Yes",
+      "applicant arbitration agreement acknowledgement": "Checked / Agreed",
+      "passport country": "India",
+      "country of residence": "United States",
+      "how many years of relevant experience do you have": "10",
+      "where did you go to university": "University of Michigan (Ross MBA) / Indian Institute of Technology (IIT B.Tech CSE)",
+      "excited to work full-time in an office": "Yes"
     }
   },
   "policies": {
@@ -223,7 +230,14 @@
     "a final step in the hiring process is for you to arrange reference calls with former managers, direct reports (for managerial roles), and others": "I acknowledge this.",
     "i acknowledge that for remote-based us roles, depending upon where the remote work is performed, income could be subject to nys tax withholdings": "Yes, I acknowledge this.",
     "upon hire, can you provide verification of your identity and legal right to work": "Yes",
-    "tell us about something you've been actively trying to get better": "For more than a year, I have been improving how I translate fast-moving generative AI research into simple, measurable product decisions. I regularly read new research, prototype with emerging models, compare quality, cost, and latency tradeoffs, seek feedback from users and engineers, and document what works so each iteration becomes more reliable."
+    "tell us about something you've been actively trying to get better": "For more than a year, I have been improving how I translate fast-moving generative AI research into simple, measurable product decisions. I regularly read new research, prototype with emerging models, compare quality, cost, and latency tradeoffs, seek feedback from users and engineers, and document what works so each iteration becomes more reliable.",
+    "where are you already working ai-first today": "At AWS, I lead product strategy and deployment for agentic GenAI shopping copilots using Amazon Bedrock, fine-tuned RAG models, prompt chains, Bedrock Guardrails, and automated evaluation frameworks. In my daily workflow, I leverage Claude/Gemini and AI coding assistants for prototyping, synthetic user testing, and data analysis.",
+    "how frequently do you use ai tools or techniques in your work": "Daily",
+    "are you based in a us or eu equivalent timezone": "Yes",
+    "passport country": "India",
+    "country of residence": "United States",
+    "how many years of relevant experience do you have": "10",
+    "where did you go to university": "University of Michigan (Ross MBA) / Indian Institute of Technology (IIT B.Tech CSE)"
   },
   "answers": {
     "visa_sponsorship": "No",

@@ -1,0 +1,3242 @@
+{
+  "1_Linear": {
+    "index": 1,
+    "company": "Linear",
+    "title": "Demand Generation Lead, Growth",
+    "url": "https://jobs.ashbyhq.com/Linear/910805ac-96e8-42b9-a8e9-8adf4c4ef536/application",
+    "field_count": 8,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "Cover letter",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": "Tell us why you want to join our team!"
+      },
+      {
+        "id": 5,
+        "label": "LinkedIn profile",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": "Please provide a link to your LinkedIn profile."
+      },
+      {
+        "id": 6,
+        "label": "Twitter handle",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": "Please provide a link to your Twitter profile."
+      },
+      {
+        "id": 7,
+        "label": "Are you based in a US or EU equivalent timezone?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "What country are you based in?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "2_Runway Ml": {
+    "index": 2,
+    "company": "Runway Ml",
+    "title": "Growth Marketing Manager, Paid Channels",
+    "url": "https://jobs.ashbyhq.com/runway-ml/ad77d776-ff58-4d04-b6ad-20bdd6d91929/application",
+    "field_count": 27,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "Phone",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Cover Letter",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 6,
+        "label": "LinkedIn Profile",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "Website",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "What state are you located in? (If not in the U.S., what country are you located in?)",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "If located in the US, are you currently authorized to work in the US?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "What are your preferred pronouns?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 11,
+        "label": "So we can pronounce it correctly, what is the phonetic spelling of your name? (e.g., Kristina would be chris-teen-uh)",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 12,
+        "label": "What is the monthly budget you currently or most recently managed across paid channels? (Single Select)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Under $50K/mo",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "$50K-$200K/mo",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 15,
+        "label": "$200K-$1M/mo",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 16,
+        "label": "$1M+/mo",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 17,
+        "label": "Which paid channels do you have the most hands-on experience with? (Select all that apply)",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 18,
+        "label": "Google Search",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 19,
+        "label": "ChatGPT Ads / other AI ad platforms",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 20,
+        "label": "Meta",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 21,
+        "label": "TikTok",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 22,
+        "label": "Youtube",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 23,
+        "label": "Programmatic",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 24,
+        "label": "Reddit",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 25,
+        "label": "Not applicable",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 27,
+        "label": "I agree",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 27,
+        "label": "Growth Marketing Manager, Paid Channels",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "3_Kestra": {
+    "index": 3,
+    "company": "Kestra",
+    "title": "Product Manager, Data Orchestration",
+    "url": "https://jobs.ashbyhq.com/kestra/4532dbcf-b71d-4a3f-bfcd-a22cb2724e9a/application",
+    "field_count": 7,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Location",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 4,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 5,
+        "label": "LinkedIn Profile URL",
+        "required": false,
+        "type": "url",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Additional files",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 7,
+        "label": "Product Manager, Data Orchestration",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "4_Preply": {
+    "index": 4,
+    "company": "Preply",
+    "title": "Digital PR Growth Manager",
+    "url": "https://jobs.ashbyhq.com/preply/62c6b16d-1308-46ec-a2bb-ec06ccd347be/application",
+    "field_count": 19,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Full Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Phone Number",
+        "required": false,
+        "type": "tel",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 4,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "Preferred file type: pdf"
+      },
+      {
+        "id": 5,
+        "label": "Linkedin profile URL",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": "Drop your LinkedIn profile link here. We may use it along the way (i.e. https://www.linkedin.com/in/your-profile/)"
+      },
+      {
+        "id": 6,
+        "label": "Are you based in Barcelona or open to relocating?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "How did you get to know Preply?",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": "Share with us the one source that led you to apply to Preply"
+      },
+      {
+        "id": 8,
+        "label": "If you selected other, please let us know the source",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "GDPR",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": "Personal data you submit as part of your application will be used in accordance with Preply HR Privacy Notice for the purposes of carrying out the application and recruitment process.\n\n\nYou control the personal data you share with us. You can request access to such data, or request to have us rectify or delete such data, at any time by contacting us at talent@preply.com. You also have the right to object to and restrict certain processing of your personal data"
+      },
+      {
+        "id": 10,
+        "label": "Acknowledge/Confirm",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 11,
+        "label": "Newsletter",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": "We may send you our quarterly Newsletter by email. You can unsubscribe at any time by clicking the link in our emails. For more information on how we process your data, please see our HR Privacy Notice"
+      },
+      {
+        "id": 12,
+        "label": "I do not want to receive the newsletter",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Which of the following best describes your gender identity? (Optional and voluntary)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "Woman",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 15,
+        "label": "Man",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 16,
+        "label": "Gender Queer or Non-binary",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 17,
+        "label": "Prefer to self-describe",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 18,
+        "label": "Prefer not to say",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 19,
+        "label": "Digital PR Growth Manager",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "5_Weaviate": {
+    "index": 5,
+    "company": "Weaviate",
+    "title": "Director of Product",
+    "url": "https://jobs.ashbyhq.com/weaviate/10c5e3e9-26eb-48d1-ab5a-d9ffb6ab432b/application",
+    "field_count": 9,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "Your LinkedIn profile",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Do you currently have legal work authorization (or right to work) in the country you are planning to live and work?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Will you, now or in the future, require\u00a0 Weaviate's support to maintain that authorization?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "What is your notice period?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "What are your salary\u00a0 expectations for this role?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": "Share your expectations in your local currency"
+      },
+      {
+        "id": 9,
+        "label": "Director of Product",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "6_Tribe Ai": {
+    "index": 6,
+    "company": "Tribe Ai",
+    "title": "Product Marketing Lead",
+    "url": "https://jobs.ashbyhq.com/tribe-ai/186aa4dd-0578-4935-9e76-7938533503d8/application",
+    "field_count": 10,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "LinkedIn",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Are you legally authorized to work where the job is being offered?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Will you require sponsorship in the future?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "What is your current location?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "How did you hear about us?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "Why are you a good fit for this role?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "TRIBE AI",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "7_Coder": {
+    "index": 7,
+    "company": "Coder",
+    "title": "Senior Product Marketing Manager",
+    "url": "https://jobs.ashbyhq.com/Coder/afe5f104-2c78-410a-a7a7-9b0da1badbfc/application",
+    "field_count": 26,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Preferred name (if applicable)",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 4,
+        "label": "Location",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 6,
+        "label": "Links to your GitHub, portfolio, website, Linkedin, etc.",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "How did you hear about this job?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "What interests you in Coder?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "Will you now, or in the future, require visa sponsorship to work in the country that you are residing in?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "Gender",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Input gender"
+      },
+      {
+        "id": 11,
+        "label": "Male",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 12,
+        "label": "Female",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Decline to self-identify",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "Race",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.\n\nWhite (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.\n\nBlack or African American (Not Hispanic or Latino) - A person having origins in any of the Black racial groups of Africa.\n\nNative Hawaiian or Other Pacific Islander (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.\n\nAsian (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.\n\nAmerican Indian or Alaska Native (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.\n\nTwo or More Races (Not Hispanic or Latino) - All persons who identify with more than one of the above five races."
+      },
+      {
+        "id": 15,
+        "label": "Hispanic or Latino",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 16,
+        "label": "White (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 17,
+        "label": "Black or African American (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 18,
+        "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 19,
+        "label": "Asian (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 20,
+        "label": "American Indian or Alaska Native (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 21,
+        "label": "Two or More Races (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 23,
+        "label": "Veteran Status",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 24,
+        "label": "I identify as one or more of the classifications of protected veteran listed above",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 25,
+        "label": "I am not a protected veteran",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 26,
+        "label": "I decline to self-identify for protected veteran status",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 29,
+        "label": "Senior Product Marketing Manager",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "8_Rogo": {
+    "index": 8,
+    "company": "Rogo",
+    "title": "GTM Manager, London",
+    "url": "https://jobs.ashbyhq.com/rogo/d3e94490-b8b5-414f-b455-64af6bc5a580/application",
+    "field_count": 14,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Linkedin URL",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 4,
+        "label": "Are you able, willing, and excited to work full-time in an office?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Why are you interested in Rogo?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "How many years of relevant experience do you have?",
+        "required": false,
+        "type": "number",
+        "options": [],
+        "description": "Do not include time\u00a0 spent in undergraduate or graduate institutions pursuing degrees"
+      },
+      {
+        "id": 7,
+        "label": "Where did you go to University?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Please Upload Your Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 9,
+        "label": "How did you hear about this role?",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "Location",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 11,
+        "label": "Are you legally authorized to work in the U.S.?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 12,
+        "label": "Yes",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "No",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "Will you now or in the future require sponsorship for an immigration-related employement benefit?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Note: For purposes of this question, \"sponsorship for an immigration-related employment benefit\" means \"an H-1B visa petition, an O-1 visa petition, an E-3 visa petition, TN status and 'job flexibility benefits' (also known as I-140 portability or adjustment of status portability) for long-delayed adjustment of status applications that have been pending for 180 days or longer.\" (Please ask us if you are uncertain whether you may need immigration sponsorship or desire clarification). Responding \u201cYes\u201d to this question will not preclude you from consideration for employment."
+      }
+    ]
+  },
+  "9_Helpscout": {
+    "index": 9,
+    "company": "Helpscout",
+    "title": "Lead/Principal Product Manager, Growth",
+    "url": "https://jobs.ashbyhq.com/helpscout/c7efec74-e8f7-428f-8c33-be4e7097b2cd/application",
+    "field_count": 23,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Full Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "LinkedIn",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "GitHub",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Website",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "What are your pronouns?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": "example: she/her; he/him; they/them"
+      },
+      {
+        "id": 8,
+        "label": "What country do you live in?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Please note, at this time we are only able to hire in the following locations: United States"
+      },
+      {
+        "id": 9,
+        "label": "United States",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "Other",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 11,
+        "label": "Please type out the city and state/province/country you live in.",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 12,
+        "label": "Do you now, or will you in the future, require sponsorship for employment visa status in the United States?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Yes, I require visa sponsorship now, or will in the future, to work in the United States.",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "No, I will not require sponsorship for a visa to work in the United States.",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 15,
+        "label": "How did you hear about Help Scout?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 16,
+        "label": "AI Application Policy - Please indicate \u2018Yes\u2019 if you have read and agree.",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Excellent communication skills are critical to your success working at Help Scout. We want to hear your voice and personal interest in Help Scout come through in the application responses. While AI systems can help you work faster and more efficiently, please refrain from using AI assistants to help with our application process."
+      },
+      {
+        "id": 17,
+        "label": "Yes",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 18,
+        "label": "No",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 19,
+        "label": "Why are you interested in joining Help Scout? Why are you interested in this role?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 20,
+        "label": "Do you have experience leading Growth for a SaaS company?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 23,
+        "label": "Do you have experience with PLG?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 26,
+        "label": "Record a 2-3 minute video!",
+        "required": false,
+        "type": "url",
+        "options": [],
+        "description": "We'd like to learn more about your work. Please record a video (We recommend Loom since there's a free version and you can get notifications when we view your recording \ud83d\ude09) telling us about a specific Growth initiative you lead.\n\nWhat were the goals of the product/initiative? Who did you work with to achieve it? How did you know if you were successful or not?\n\nEnsure we have permissions to view, and then share the link below.\n\nWhile these videos are never mandatory, they are incredibly valuable in this application process. We promise to review every submission, and while we can't always give specific feedback, you will absolutely get a direct response on the outcome of your application.\n\nAnd if you want to see the video our hiring manager made for this role, you can check it out here."
+      },
+      {
+        "id": 29,
+        "label": "Lead/Principal Product Manager, Growth",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "10_Element451": {
+    "index": 10,
+    "company": "Element451",
+    "title": "Director of Growth Marketing",
+    "url": "https://jobs.ashbyhq.com/element451/f1e625bb-1961-483c-96e6-b11f4d1e6275/application",
+    "field_count": 20,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "Gender",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Input gender"
+      },
+      {
+        "id": 5,
+        "label": "Male",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Female",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "Decline to self-identify",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Race",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.\n\nWhite (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.\n\nBlack or African American (Not Hispanic or Latino) - A person having origins in any of the Black racial groups of Africa.\n\nNative Hawaiian or Other Pacific Islander (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.\n\nAsian (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.\n\nAmerican Indian or Alaska Native (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.\n\nTwo or More Races (Not Hispanic or Latino) - All persons who identify with more than one of the above five races."
+      },
+      {
+        "id": 9,
+        "label": "Hispanic or Latino",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "White (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 11,
+        "label": "Black or African American (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 12,
+        "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Asian (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "American Indian or Alaska Native (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 15,
+        "label": "Two or More Races (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 17,
+        "label": "Veteran Status",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 18,
+        "label": "I identify as one or more of the classifications of protected veteran listed above",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 19,
+        "label": "I am not a protected veteran",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 20,
+        "label": "I decline to self-identify for protected veteran status",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 21,
+        "label": "Director of Growth Marketing",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "11_Revenuecat": {
+    "index": 11,
+    "company": "Revenuecat",
+    "title": "Strategy & Operations Manager",
+    "url": "https://jobs.ashbyhq.com/revenuecat/b5c7d1af-f693-4be0-8566-a10a4002b6cd/application",
+    "field_count": 22,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Full Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "What location do you plan to work from?",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 4,
+        "label": "Do you now or in the future require sponsorship for a visa to work from your planned work location?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 6,
+        "label": "LinkedIn",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "Website",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Why do you want to work at RevenueCat?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "What is an example of a non-computer system you've hacked to your advantage?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "What task or activity do you think AI will make much easier or better for you by next year? Why can\u2019t it do that well today?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 11,
+        "label": "How would you rate your financial modeling and forecasting skills?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 12,
+        "label": "Beginner",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Intermediate",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "Advanced",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 15,
+        "label": "Expert",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 16,
+        "label": "Have you worked in a startup environment before?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 17,
+        "label": "Have you implemented a net new operational process end-to-end?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 18,
+        "label": "If you have implemented a net new operational process end-to-end, describe it.",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 19,
+        "label": "I acknowledge the GDPR Candidate Privacy Notice",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Scope and Overview\n\nRevenueCat, Inc. (\u201cRevenueCat\u201d) is committed to protecting the privacy and security of your personal data. This GDPR Candidate Privacy Notice (this \u201cPrivacy Notice\u201d) describes how\u00a0RevenueCat and its subsidiaries, affiliates, and related entities (collectively, \"RevenueCat,\" \"we,\" or \"us\") collect and process personal data about you during the application and recruitment process. This Privacy Notice applies only to job applicants located in the European Economic Area (\u201cEEA\u201d) or the United Kingdom (\u201cUK\u201d) in accordance with the General Data Protection Regulation (the \u201cGDPR\u201d).\u00a0\n\nThis Privacy Notice is a binding contract between you and RevenueCat. Your application to any job posting made available by us means that you agree to all of this Privacy Notice.\n\nThis Privacy Notice describes the categories of personal data that we collect, how we use your personal data, how we secure your personal data, when we may disclose your personal data to third parties, and when we may transfer your personal data outside of your home jurisdiction. This Privacy Notice also describes your rights regarding the personal data that we hold about you including how you can access, correct, and request erasure of your personal data.\n\nWe will only process your personal data in accordance with this Privacy Notice unless otherwise required by applicable law. We take steps to ensure that the personal data that we collect about you is adequate, relevant, not excessive, and processed for limited purposes.\n\nCollection of Personal Data\n\nFor the purposes of this Privacy Notice, personal data means any information about an identifiable individual collected in connection with the recruitment process. RevenueCat may collect personal data directly from you, as a job applicant, or may receive your personal data from third parties, for example, in connection with a background, employment, or reference check, subject to your consent where required by law. Personal data excludes anonymous or de-identified data that is not associated with a particular individual. We may collect, store, and process the following categories of personal data in connection with our recruiting activities:\n\nPersonal contact details such as name, title, addresses, telephone numbers, and personal email addresses.\n\nWork history and other relevant experience including information contained in a resume, CV, cover letter, or job application.\n\nEducation information including degrees awarded, transcripts, and other information provided in support of the job application.\n\nInformation collected during interviews.\n\nDetails regarding the type of employment sought, desired salary, willingness to relocate, job preferences, and other information related to compensation and benefits.\n\nReference information and information received from background checks, where applicable, including information provided by third parties.\n\nInformation related to previous applications to RevenueCat or previous employment history with RevenueCat.\n\nThe personal data listed in this notice is mandatory in connection with our recruiting activities. Failure to provide or allow us to process mandatory personal data may affect our ability to accomplish the purposes stated in this Privacy Notice.\u00a0\n\nUse of Personal Data\n\nWe only process your personal data where applicable law permits or requires it in connection with carrying out our application and recruitment process, to take steps necessary to enter into an employment contract with you, where the processing is necessary to comply with a legal obligation that applies to us, for our legitimate interests or the legitimate interests of third parties, or with your consent if applicable law requires consent. We may process your personal data for the following legitimate business purposes:\n\nIdentifying and evaluating job applicants, including assessing skills, qualifications, and interests for the purposes of determining suitability for the position for which you have applied.\n\nVerifying your information and carrying out employment, background, and reference checks, where applicable, subject to your consent where required by applicable law.\n\nCommunicating with you about the recruitment process and your application.\n\nKeeping records related to our hiring processes, for only as long as appropriate under the circumstances.\n\nCreating and submitting reports as required by applicable laws or regulations.\n\nTo comply with our legal, regulatory, or other corporate governance requirements.\n\nAnalyzing and improving our application and recruitment process.\n\nIn addition to using your personal data for the position for which you have applied, we may retain and use your personal data to inform you about and consider you for other positions that may be appropriate for you with your consent. If you want us to consider you for other positions, you may contact us as specified below under Contact Us and we will retain your personal data for that purpose.\u00a0\n\nWe will only process your personal data for the purposes we collected it for or for compatible purposes. If we need to process your personal data for an incompatible purpose, we will provide notice to you and, if required by law, seek your consent. We may process your personal data without your knowledge or consent only where required by applicable law or regulation.\n\nWe may also process your personal data for our own legitimate interests, including for the following purposes:\n\nTo prevent fraud.\n\nTo ensure network and information security, including preventing unauthorized access to our computer and electronic communications systems and preventing malicious software distribution.\n\nYou will not be subject to hiring decisions based solely on automated data processing without your prior consent.\n\nCollection and Use of Special Categories of Personal Data\n\nThe following special categories of personal data are considered sensitive under the laws of your jurisdiction and may receive special protection:\n\nRacial or ethnic origin.\n\nPolitical opinions.\n\nReligious or philosophical beliefs.\n\nTrade union membership.\n\nGenetic data.\n\nBiometric data.\n\nData concerning health.\n\nData concerning sex life or sexual orientation.\n\nData relating to criminal convictions or offences.\n\nWe may collect and process the following special categories of personal data when you voluntarily provide them, or we receive them from a third party with your consent, when relevant for a particular position to carry out our obligations under employment law, or as applicable law otherwise permits:\n\nPhysical or mental health condition or disability status to determine appropriate workplace accommodations and evaluate fitness for a particular position.\n\nRace or ethnic origin to comply with statutory obligations.\n\nPrevious criminal charges or convictions where relevant for the position.\n\nWhere we have a legitimate need to process special categories of personal data about you for purposes not identified above, we will only do so only after providing you with notice and, if required by law, obtaining your prior, express consent.\n\nData Sharing\n\nWe will only disclose your personal data to third parties where required by law or to our employees, contractors, designated agents, or third-party service providers who require such information to assist us with administering the recruitment process, including third-party service providers who provide services to us or on our behalf. We may use third-party service providers for various purposes, including, but not limited to, obtaining employment verification and background checks, and data storage or hosting. These third-party service providers may be located outside of the country in which you live or the country where the position you have applied for is located.\n\nWe require all our third-party service providers, by written contract, to implement appropriate security measures to protect your personal data consistent with our policies and any data security obligations applicable to us. We do not permit our third-party service providers to process your personal data for their own purposes. We only permit them to process your personal data for specified purposes in accordance with our instructions.\n\nWe may also disclose your personal data for the following additional purposes where permitted or required by applicable law:\n\nTo other members of our group of companies (including outside of your home jurisdiction) for the purposes set out in this Privacy Notice and as necessary to administer the application and recruitment process.\n\nAs part of our regular reporting activities to other members of our group of companies.\n\nTo comply with legal obligations or valid legal processes such as search warrants, subpoenas, or court orders. When we disclose your personal data to comply with a legal obligation or legal process, we will take reasonable steps to ensure that we only disclose the minimum personal data necessary for the specific purpose and circumstances.\n\nTo protect the rights and property of RevenueCat.\n\nDuring emergency situations or where necessary to protect the safety of persons.\n\nWhere the personal data is publicly available.\n\nIf a business transfer or change in ownership occurs and the disclosure is necessary to complete the transaction. In these circumstances, we will limit data sharing to what is absolutely necessary, and we will anonymize the data where possible.\n\nFor additional purposes with your consent where such consent is required by law.\n\nCross-Border Data Transfers\n\nWhere permitted by applicable law, we may transfer the personal data we collect about you to the United States and other jurisdictions that may not be deemed to provide the same level of data protection as your home country for the purposes set out in this Privacy Notice. If you are located in the EEA or UK, you acknowledge that your personal data may be transferred to the United States and other jurisdictions.\u00a0\n\nData Security\n\nWe have implemented appropriate physical, technical, and organizational security measures designed to secure your personal data against accidental loss and unauthorized access, use, alteration, or disclosure. In addition, we limit access to personal data to those employees, agents, contractors, and other third parties that have a legitimate business need for such access.\n\nData Retention\n\nExcept as otherwise permitted or required by applicable law or regulation, we will only retain your personal data for as long as necessary to fulfill the purposes we collected it for, as required to satisfy any legal, accounting, or reporting requirements, or as necessary to resolve disputes. To determine the appropriate retention period for personal data, we consider our statutory obligations, the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes we process your personal data for, and whether we can achieve those purposes through other means. We specify the retention periods for your personal data in our data retention policy.\n\nUnder some circumstances we may anonymize your personal data so that it can no longer be associated with you. We reserve the right to use such anonymous and de-identified data for any legitimate business purpose without further notice to you or your consent.\n\nIf you are offered and accept employment with RevenueCat, the personal data we collected during the application and recruitment process will become part of your employment record, and we may use it in connection with your employment consistent with our employee personal data policies. If you do not become an employee, or, once you are no longer an employee of RevenueCat, we will retain and securely destroy your personal data in accordance with our document retention policy and applicable laws and regulations.\n\nRights of Access, Correction, Erasure, and Objection\n\nIt is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during the recruitment process. By law you may have the right to request access to, correct, and erase the personal data that we hold about you, or object to the processing of your personal data under certain circumstances. You may also have the right to request that we transfer your personal data to another party. If you want to review, verify, correct, or request erasure of your personal data, object to the processing of your personal data, or request that we transfer a copy of your personal data to another party, please contact us at compliance@revenuecat.com. Any such communication must be in writing.\n\nWe may request specific information from you to help us confirm your identity and your right to access, and to provide you with the personal data that we hold about you or make your requested changes. Applicable law may allow or require us to refuse to provide you with access to some or all of the personal data that we hold about you, or we may have destroyed, erased, or anonymized your personal data in accordance with our record retention obligations and practices. If we cannot provide you with access to your personal data, we will inform you of the reasons why, subject to any legal or regulatory restrictions.\n\nRight to Withdraw Consent\n\nWhere you have provided your consent to the collection, processing, and transfer of your personal data, you may have the legal right to withdraw your consent under certain circumstances. To withdraw your consent, if applicable, contact us at compliance@revenuecat.com.\n\nData Protection Officer\n\nWe have appointed a Data Protection Officer to oversee compliance with this Privacy Notice. If you have any questions about this Privacy Notice or how we handle your personal data, or would like to request access to your personal data, please contact the Data Protection Officer at: miguel@revenuecat.com. If you are unsatisfied with our response to any issues that you raise with the Data Protection Officer, you may have the right to make a complaint with the data protection authority in your jurisdiction by contacting the data protection authority.\n\nChanges to This Privacy Notice\n\nWe reserve the right to update this Privacy Notice at any time, and we will provide you with a new Privacy Notice when we make any updates. If we would like to use your previously collected personal data for different purposes than those we notified you about at the time of collection, we will provide you with notice and, where required by law, seek your consent, before using your personal data for a new or unrelated purpose. We may process your personal data without your knowledge or consent only where required by applicable law or regulation.\n\nContact Us\n\nIf you have any questions about our processing of your personal data or would like to make an access or other request, please contact us at: compliance@revenuecat.com."
+      },
+      {
+        "id": 20,
+        "label": "I am located in the EEA/UK and consent to the GDPR Candidate Privacy Notice",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 21,
+        "label": "I am not located in the EEA/UK",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 26,
+        "label": "Strategy & Operations Manager",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "12_Netboxlabs": {
+    "index": 12,
+    "company": "Netboxlabs",
+    "title": "Technical Program Manager",
+    "url": "https://jobs.ashbyhq.com/netboxlabs/43c2df56-cedb-44af-86f9-53a4991466a6/application",
+    "field_count": 4,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "Technical Program Manager",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "13_Supabase": {
+    "index": 13,
+    "company": "Supabase",
+    "title": "Product Manager - Marketplace",
+    "url": "https://jobs.ashbyhq.com/supabase/23c9ce7e-6b7b-4316-8f00-8f318e902441/application",
+    "field_count": 12,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "Passport Country",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Country of Residence",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Twitter / X profile",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "Github Profile",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Linkedin",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "Tell us about your experience working in an async and/or remote environment. What practices or approaches have worked well for you? What challenges have you faced?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "Have you made any open source contributions in the past that you'd like to share with us?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 11,
+        "label": "Where\u00a0 did you hear about this vacancy?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "Product Manager - Marketplace",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "14_Elevenlabs": {
+    "index": 14,
+    "company": "Elevenlabs",
+    "title": "Marketing Operations",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/1c1f4cc9-08f7-4fbb-867f-7e87e7fa19d9/application",
+    "field_count": 20,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Location",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": "Country you're currently residing in"
+      },
+      {
+        "id": 4,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 5,
+        "label": "How did you hear about ElevenLabs?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "I'm a user",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "News article",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Job board",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "Social media (LinkedIn, Instagram, X etc)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "In person event",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 11,
+        "label": "Referral",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 12,
+        "label": "I was reached out to",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Other (please specify)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "If other, please specify below",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 15,
+        "label": "Link to your LinkedIn profile",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 16,
+        "label": "What makes you excited about the ElevenLabs mission?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 17,
+        "label": "Describe a marketing-ops/revops automation you built end to end at a B2B SaaS company \u2014 what it did and the impact.",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 18,
+        "label": "Which low-code/automation tools have you built in (HubSpot, Clay, Splash, Zapier/n8n)? Ever vibe-coded an internal tool? Link or describe.",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 19,
+        "label": "Where are you already working AI-first today?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 23,
+        "label": "Marketing Operations",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "15_Openai": {
+    "index": 15,
+    "company": "Openai",
+    "title": "Technical Program Manager, Rack Delivery",
+    "url": "https://jobs.ashbyhq.com/openai/713a9469-fb35-49db-809e-36f67c920880/application",
+    "field_count": 35,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Legal Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": "Please enter your legal name exactly as shown on your government-issued ID. This helps keep records accurate for later hiring steps."
+      },
+      {
+        "id": 2,
+        "label": "Preferred Name (if applicable)",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 4,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 5,
+        "label": "Phone Number",
+        "required": false,
+        "type": "tel",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Where are you currently located?",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "When can you start a new role?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Are you authorized to work in the country where the job is located?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "Will you now or in the future require sponsorship for employment visa status in this country?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": "We may provide immigration and sponsorship support to new employees based on their unique circumstances."
+      },
+      {
+        "id": 10,
+        "label": "Additional Information",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": "Please share anything else you want us to know, such as your motivation to apply or additional context for your application."
+      },
+      {
+        "id": 11,
+        "label": "Applicant Arbitration Agreement Acknowledgement",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": "Applicant Arbitration Agreement"
+      },
+      {
+        "id": 12,
+        "label": "I acknowledge that I have opened, read, and understood the Arbitration Agreement. I understand that by submitting my application, I am agreeing to be bound by the terms of the Arbitration Agreement.",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "I hereby certify that I have not knowingly withheld any information that might adversely affect my chances for employment and that the answers given by me are true and correct to the best of my knowledge. I further certify that I, the undersigned applicant, have personally completed this application. I understand that, to the extent permitted by applicable law, any omission or misstatement of material fact on this application or on any document used to secure employment shall be grounds for rejection of this application or for immediate discharge if I am employed, regardless of the time elapsed before discovery.",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": "OpenAI is not seeking, nor should you disclose, any information that may be subject to confidentiality obligations to third parties, including but not limited to, your current employer."
+      },
+      {
+        "id": 14,
+        "label": "I confirm I have read the above.",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 15,
+        "label": "Gender",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Input gender"
+      },
+      {
+        "id": 16,
+        "label": "Male",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 17,
+        "label": "Female",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 18,
+        "label": "Decline to self-identify",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 19,
+        "label": "Race",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.\n\nWhite (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.\n\nBlack or African American (Not Hispanic or Latino) - A person having origins in any of the Black racial groups of Africa.\n\nNative Hawaiian or Other Pacific Islander (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.\n\nAsian (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.\n\nAmerican Indian or Alaska Native (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.\n\nTwo or More Races (Not Hispanic or Latino) - All persons who identify with more than one of the above five races."
+      },
+      {
+        "id": 20,
+        "label": "Hispanic or Latino",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 21,
+        "label": "White (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 22,
+        "label": "Black or African American (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 23,
+        "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 24,
+        "label": "Asian (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 25,
+        "label": "American Indian or Alaska Native (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 26,
+        "label": "Two or More Races (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 28,
+        "label": "Veteran Status",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 29,
+        "label": "I identify as one or more of the classifications of protected veteran listed above",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 30,
+        "label": "I am not a protected veteran",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 31,
+        "label": "I decline to self-identify for protected veteran status",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 32,
+        "label": "Disability Status",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 33,
+        "label": "Yes, I have a disability, or have had one in the past",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 34,
+        "label": "No, I don't have a disability and have not had one in the past",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 35,
+        "label": "I do not want to answer",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 37,
+        "label": "Technical Program Manager, Rack Delivery",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "16_Aiprise": {
+    "index": 16,
+    "company": "Aiprise",
+    "title": "Senior Content Marketing Manager",
+    "url": "https://jobs.ashbyhq.com/aiprise/f40fe1a3-8a70-480b-8df8-0cafcd471fee/application",
+    "field_count": 3,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      }
+    ]
+  },
+  "17_Pano Ai": {
+    "index": 17,
+    "company": "Pano Ai",
+    "title": "Technical Program Manager (Hardware Deployment) - Contract",
+    "url": "https://jobs.ashbyhq.com/pano-ai/5bc40db2-2b64-4d8c-8b3c-2df63691fb2d/application",
+    "field_count": 26,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Phone Number",
+        "required": false,
+        "type": "tel",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 4,
+        "label": "Location",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 6,
+        "label": "Are you currently located in Australia?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "Are you authorized to work in Australia?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Will you now or in the future require sponsorship for employment visa status (e.g. H1-B visa status)?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "Is there anything else you\u2019d like us or the hiring team to know about you?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "Gender",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Input gender"
+      },
+      {
+        "id": 11,
+        "label": "Male",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 12,
+        "label": "Female",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Decline to self-identify",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "Race",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": "Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.\n\nWhite (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.\n\nBlack or African American (Not Hispanic or Latino) - A person having origins in any of the Black racial groups of Africa.\n\nNative Hawaiian or Other Pacific Islander (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.\n\nAsian (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.\n\nAmerican Indian or Alaska Native (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.\n\nTwo or More Races (Not Hispanic or Latino) - All persons who identify with more than one of the above five races."
+      },
+      {
+        "id": 15,
+        "label": "Hispanic or Latino",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 16,
+        "label": "White (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 17,
+        "label": "Black or African American (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 18,
+        "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 19,
+        "label": "Asian (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 20,
+        "label": "American Indian or Alaska Native (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 21,
+        "label": "Two or More Races (Not Hispanic or Latino)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 23,
+        "label": "Veteran Status",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 24,
+        "label": "I identify as one or more of the classifications of protected veteran listed above",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 25,
+        "label": "I am not a protected veteran",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 26,
+        "label": "I decline to self-identify for protected veteran status",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 28,
+        "label": "Technical Program Manager (Hardware Deployment) - Contract",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "18_Goodparty": {
+    "index": 18,
+    "company": "Goodparty",
+    "title": "Product Marketing Lead",
+    "url": "https://jobs.ashbyhq.com/goodparty/b0c2df52-fa1f-4da0-9c26-8f36753b3711/application",
+    "field_count": 18,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Full Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": "(Please use your preferred first name for all communications, even if it's not your legal first name)"
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Phone Number",
+        "required": false,
+        "type": "tel",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 4,
+        "label": "Location",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Are you authorized to work in the United States?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 7,
+        "label": "LinkedIn URL",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Website / Portfolio / Github URL",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "Other URL",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "In 300 characters or less, please introduce yourself!",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 11,
+        "label": "Why are you interested in GoodParty.org?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 12,
+        "label": "How frequently do you use AI tools or techniques in your work?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Rarely (<1 x per week)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "Occasionally (1-2 x per week)",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 15,
+        "label": "Daily",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 16,
+        "label": "Describe a problem you solved using AI. What was the challenge, how did you approach it, what tool(s) did you use, and what outcome did you achieve?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 17,
+        "label": "Anything else you want to add?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 22,
+        "label": "Product Marketing Lead",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "19_Synthesia": {
+    "index": 19,
+    "company": "Synthesia",
+    "title": "Field Marketing Manager - US",
+    "url": "https://jobs.ashbyhq.com/synthesia/58c206dd-aa2b-40a5-9a61-08f0691dc488/application",
+    "field_count": 9,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "Cover Letter",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 5,
+        "label": "Linkedin Profile",
+        "required": false,
+        "type": "url",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Location",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "Are you legally authorised to work in the country you wish to work in without the need for visa sponsorship?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Do you require ongoing employer support to maintain your right to work (e.g., visa renewals or work permit sponsorship)?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "Field Marketing Manager - US",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "20_Cohere": {
+    "index": 20,
+    "company": "Cohere",
+    "title": "Technical Program Manager, AI Delivery, Korea",
+    "url": "https://jobs.ashbyhq.com/cohere/cd987666-aeda-4da6-a23c-d84d4231d33b/application",
+    "field_count": 13,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Phone Number",
+        "required": false,
+        "type": "tel",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 4,
+        "label": "Location",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "LinkedIn",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 7,
+        "label": "Are you authorized to work in Korea?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Yes",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "No",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 10,
+        "label": "Do you, now or in the future, require sponsorship to work in Korea?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Do you have years of experience as an Engineering or Technical Program Manager, with at least 2 years in customer-facing technical delivery and operations focused on enterprise-grade AI software/solutions? Please explain.",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "Do you have knowledge or experience with LLM training or optimization? Please explain.",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 17,
+        "label": "Technical Program Manager, AI Delivery, Korea",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "21_Infisical": {
+    "index": 21,
+    "company": "Infisical",
+    "title": "Growth Marketing Manager",
+    "url": "https://jobs.ashbyhq.com/infisical/96f136de-3cab-4e38-942e-0f079f4b0e02/application",
+    "field_count": 8,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "LinkedIn URL",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Are you currently located in the US?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Please add up to three bullets showing exceptional ability",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "How did you hear about us?",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "Growth Marketing Manager",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "22_Confluent": {
+    "index": 22,
+    "company": "Confluent",
+    "title": "Staff Security Risk & Compliance Program Manager - Access Management",
+    "url": "https://jobs.ashbyhq.com/Confluent/39143513-ad4c-41fb-86ed-b939a66e53d2/application",
+    "field_count": 29,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 2,
+        "label": "Preferred FULL Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Legal FULL Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 4,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Mobile Phone",
+        "required": false,
+        "type": "tel",
+        "options": [],
+        "description": "Check Yes or No to indicate your agreement to receive text message updates from Confluent, Inc. regarding your job application. Frequency may vary. Message and data rates may apply. Reply STOP to opt out of future messaging."
+      },
+      {
+        "id": 6,
+        "label": "Yes - I consent to receiving text messages",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "No - I do not consent to receiving text messages",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Alt. Phone",
+        "required": false,
+        "type": "tel",
+        "options": [],
+        "description": "Check Yes or No to indicate your agreement to receive text message updates from Confluent, Inc. regarding your job application. Frequency may vary. Message and data rates may apply. Reply STOP to opt out of future messaging."
+      },
+      {
+        "id": 11,
+        "label": "Location - City, State",
+        "required": false,
+        "type": "custom-select",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 12,
+        "label": "Location - Zip Code",
+        "required": false,
+        "type": "number",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Current Company",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 14,
+        "label": "Are you legally authorized to work in the United States?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 15,
+        "label": "Do you now, or will you in the future, require sponsorship for employment visa status in the United States?",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 16,
+        "label": "How did you hear about Confluent?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 17,
+        "label": "Career Site",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 18,
+        "label": "Employee Referral",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 19,
+        "label": "Job Board",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 20,
+        "label": "Job Fair",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 21,
+        "label": "Previously Employed",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 22,
+        "label": "Have you previously been employed at Confluent or one of our subsidiaries?",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 23,
+        "label": "Yes",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 24,
+        "label": "No",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 25,
+        "label": "Unsure",
+        "required": false,
+        "type": "radio",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 26,
+        "label": "LinkedIn Profile URL",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 27,
+        "label": "GitHub Profile URL",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 28,
+        "label": "Portfolio URL",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 29,
+        "label": "Other",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 31,
+        "label": "I agree",
+        "required": false,
+        "type": "checkbox",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 31,
+        "label": "Staff Security Risk & Compliance Program Manager - Access Management",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "23_Audiohook": {
+    "index": 23,
+    "company": "Audiohook",
+    "title": "Director of Performance Marketing Sales",
+    "url": "https://jobs.ashbyhq.com/audiohook/e321eedb-00cc-48a7-a901-5e1a82d4220a/application",
+    "field_count": 11,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "Describe how you have built or transformed a sales team from a transactional, quota-first culture to a consultative one. What did you change, how did you develop individual sellers, and what resistance did you encounter? How did you measure whether the shift was working?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Walk us through a sales process you built or significantly redesigned. What problem were you solving, what did you put in place, and how did you drive adoption across your team? What would you build differently at Audiohook given what you know about our model?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 6,
+        "label": "Forecasting in a consultative, complex-sale environment is notoriously difficult. Describe your approach to building forecast accuracy across a team. What systems, disciplines, or practices did you put in place, and how did you handle sellers who consistently over- or under-forecast?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 7,
+        "label": "The transition from signed agreement to successful campaign launch is where many sales organizations lose deals they've already won. Describe how you have managed or redesigned the handoff between Sales and implementation or client success teams. What broke, what did you fix, and how did you measure improvement?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 8,
+        "label": "Audiohook's model depends on bringing in the right clients not just more clients. Describe a time when you faced real pressure to close deals that you believed were not good fits. How did you handle it, how did you communicate upward, and what was the outcome? In retrospect, were you right?",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 9,
+        "label": "Please share your desired salary:",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 13,
+        "label": "Autofill from resume",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 15,
+        "label": "AUDIOHOOK",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  },
+  "24_Tremendous": {
+    "index": 24,
+    "company": "Tremendous",
+    "title": "Senior Product Manager",
+    "url": "https://jobs.ashbyhq.com/tremendous/db48b621-647f-410e-8aa9-6af43cdd1797/application",
+    "field_count": 5,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Name",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "required": false,
+        "type": "email",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 3,
+        "label": "Resume",
+        "required": true,
+        "type": "file",
+        "options": [],
+        "description": "or drag and drop here"
+      },
+      {
+        "id": 4,
+        "label": "LinkedIn Profile",
+        "required": false,
+        "type": "text",
+        "options": [],
+        "description": ""
+      },
+      {
+        "id": 5,
+        "label": "Senior Product Manager",
+        "required": false,
+        "type": "textarea",
+        "options": [],
+        "description": ""
+      }
+    ]
+  }
+}
