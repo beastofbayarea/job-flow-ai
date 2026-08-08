@@ -1,0 +1,4307 @@
+{
+  "1_Pointclickcare": {
+    "index": 1,
+    "company": "Pointclickcare",
+    "title": "Principal Product Manager - AI Models",
+    "url": "https://jobs.lever.co/pointclickcare/452194cf-3e51-4096-b07a-2b1c974bf052/apply",
+    "field_count": 56,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 5,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 7,
+        "label": "Pronouns",
+        "required": false
+      },
+      {
+        "id": 8,
+        "label": "He/him",
+        "required": false
+      },
+      {
+        "id": 9,
+        "label": "She/her",
+        "required": false
+      },
+      {
+        "id": 10,
+        "label": "They/them",
+        "required": false
+      },
+      {
+        "id": 11,
+        "label": "Xe/xem",
+        "required": false
+      },
+      {
+        "id": 12,
+        "label": "Ze/hir",
+        "required": false
+      },
+      {
+        "id": 13,
+        "label": "Ey/em",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "Hir/hir",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "Fae/faer",
+        "required": false
+      },
+      {
+        "id": 16,
+        "label": "Hu/hu",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "Use name only",
+        "required": false
+      },
+      {
+        "id": 18,
+        "label": "Custom",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 21,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 23,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 25,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 27,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 28,
+        "label": "LinkedIn URL\n✱",
+        "required": true
+      },
+      {
+        "id": 30,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 32,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 34,
+        "label": "WORK ELIGIBILITY - USA",
+        "required": false
+      },
+      {
+        "id": 35,
+        "label": "Are you legally authorized to work in the United States for our Company?\n✱",
+        "required": true
+      },
+      {
+        "id": 36,
+        "label": "Yes",
+        "required": true
+      },
+      {
+        "id": 37,
+        "label": "No",
+        "required": true
+      },
+      {
+        "id": 38,
+        "label": "Do you now, or will you in the future, require sponsorship for employment visa status (e.g., H-1B visa status, etc.) to work legally for our Company in the United States?\n✱",
+        "required": true
+      },
+      {
+        "id": 41,
+        "label": "SALARY EXPECTATIONS",
+        "required": false
+      },
+      {
+        "id": 42,
+        "label": "What is your minimum yearly base salary expectation (not including total rewards)?",
+        "required": false
+      },
+      {
+        "id": 43,
+        "label": "ADDITIONAL INFORMATION",
+        "required": false
+      },
+      {
+        "id": 45,
+        "label": "VOLUNTARY SELF-IDENTIFICATION SURVEY",
+        "required": false
+      },
+      {
+        "id": 46,
+        "label": "Gender Identity",
+        "required": false
+      },
+      {
+        "id": 47,
+        "label": "Female",
+        "required": false
+      },
+      {
+        "id": 48,
+        "label": "Male",
+        "required": false
+      },
+      {
+        "id": 49,
+        "label": "Gender non-binary",
+        "required": false
+      },
+      {
+        "id": 50,
+        "label": "Not Listed",
+        "required": false
+      },
+      {
+        "id": 51,
+        "label": "Prefer not to disclose",
+        "required": false
+      },
+      {
+        "id": 52,
+        "label": "Do you identify as a member of the LGBTQ+ Community?",
+        "required": false
+      },
+      {
+        "id": 56,
+        "label": "Race/Ethnicity",
+        "required": false
+      },
+      {
+        "id": 57,
+        "label": "Hispanic or Latine: A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race.",
+        "required": false
+      },
+      {
+        "id": 58,
+        "label": "Native American/Alaskan Native (not Hispanic or Latino: A person having origins in any of the original peoples of North and South America (including Central America) and who maintain tribal affiliation or community attachment.",
+        "required": false
+      },
+      {
+        "id": 59,
+        "label": "Indigenous Peoples (Canada)",
+        "required": false
+      },
+      {
+        "id": 61,
+        "label": "Black or African American (not Hispanic or Latino): A person having origins in any of the black racial groups of Africa",
+        "required": false
+      },
+      {
+        "id": 62,
+        "label": "Native Hawaiian or Other Pacific Islander (not Hispanic or Latino): A person having origins in any of the original peoples of Hawaii, Guam, Samoa or other Pacific Islands",
+        "required": false
+      },
+      {
+        "id": 63,
+        "label": "White (not Hispanic or Latino): A person having origins in any of the original peoples of Europe, the Middle East, or North Africa",
+        "required": false
+      },
+      {
+        "id": 64,
+        "label": "Two or more Races (not Hispanic or Latino)",
+        "required": false
+      },
+      {
+        "id": 66,
+        "label": "Veteran Status",
+        "required": false
+      },
+      {
+        "id": 67,
+        "label": "I am a veteran",
+        "required": false
+      },
+      {
+        "id": 68,
+        "label": "I am not a veteran",
+        "required": false
+      },
+      {
+        "id": 70,
+        "label": "Disability",
+        "required": false
+      },
+      {
+        "id": 71,
+        "label": "Yes, I Have A Disability, Or Have A History/Record Of Having A Disability",
+        "required": false
+      },
+      {
+        "id": 72,
+        "label": "No, I Don’t Have A Disability, Or A History/Record Of Having A Disability",
+        "required": false
+      },
+      {
+        "id": 73,
+        "label": "I Don’t Wish To Answer",
+        "required": false
+      }
+    ],
+    "full_jd": "Principal Product Manager - AI Models\nRemote, USAPointClickCare – Product Management /Full-Time /Remote\nSUBMIT YOUR APPLICATION\nLinkedIn profile\nLoading...\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nPronouns\nHe/him\n\t\nShe/her\n\t\nThey/them\n\n\nXe/xem\n\t\nZe/hir\n\t\nEy/em\n\n\nHir/hir\n\t\nFae/faer\n\t\nHu/hu\nUse name only\nCustom\n\nLet the employer know what pronouns you use so that they can address you correctly.\n\nEmail\n✱\nPhone\n✱\nCurrent location\n✱\nCurrent company\nLINKS\nLinkedIn URL\n✱\nPortfolio URL\nOther website\nWORK ELIGIBILITY - USA\nAre you legally authorized to work in the United States for our Company?\n✱\nYes\nNo\nDo you now, or will you in the future, require sponsorship for employment visa status (e.g., H-1B visa status, etc.) to work legally for our Company in the United States?\n✱\nYes\nNo\nSALARY EXPECTATIONS\nWhat is your minimum yearly base salary expectation (not including total rewards)?\nADDITIONAL INFORMATION\nVOLUNTARY SELF-IDENTIFICATION SURVEY\n\nWe invite you to complete this optional survey to help us evaluate our diversity and inclusion efforts. Completion of this form is voluntary on your part and your refusal to complete this form will not subject you to any adverse treatment or otherwise affect your job application. If you choose to complete this form, the information obtained on this form will be kept separate from your name and job application, made available only to personnel on a need-to-know basis, and will not be used to discriminate against or show preference for any applicant. This information will be kept secure and confidential and will be used solely to evaluate our diversity and inclusion efforts and in accordance with applicable law.\n\nGender Identity\nFemale\nMale\nGender non-binary\nNot Listed\nPrefer not to disclose\nDo you identify as a member of the LGBTQ+ Community?\nYes\nNo\nPrefer not to disclose\nRace/Ethnicity\nHispanic or Latine: A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race.\nNative American/Alaskan Native (not Hispanic or Latino: A person having origins in any of the original peoples of North and South America (including Central America) and who maintain tribal affiliation or community attachment.\nIndigenous Peoples (Canada)\nAsian (not Hispanic or Latino): A person having origins in any of the original peoples of the Far East, Southeast Asia or the Indian subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam\nBlack or African American (not Hispanic or Latino): A person having origins in any of the black racial groups of Africa\nNative Hawaiian or Other Pacific Islander (not Hispanic or Latino): A person having origins in any of the original peoples of Hawaii, Guam, Samoa or other Pacific Islands\nWhite (not Hispanic or Latino): A person having origins in any of the original peoples of Europe, the Middle East, or North Africa\nTwo or more Races (not Hispanic or Latino)\nPrefer not to disclose\nVeteran Status\nI am a veteran\nI am not a veteran\nPrefer not to disclose\nDisability\nYes, I Have A Disability, Or Have A History/Record Of Having A Disability\nNo, I Don’t Have A Disability, Or A History/Record Of Having A Disability\nI Don’t Wish To Answer\nSUBMIT APPLICATION\n\nPointClickCare Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  },
+  "2_Pointclickcare": {
+    "index": 2,
+    "company": "Pointclickcare",
+    "title": "Principal Product Manager - AI Models",
+    "url": "https://jobs.lever.co/pointclickcare/41506f40-0383-49f3-9c2f-5ea29a39562c/apply",
+    "field_count": 56,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 5,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 7,
+        "label": "Pronouns",
+        "required": false
+      },
+      {
+        "id": 8,
+        "label": "He/him",
+        "required": false
+      },
+      {
+        "id": 9,
+        "label": "She/her",
+        "required": false
+      },
+      {
+        "id": 10,
+        "label": "They/them",
+        "required": false
+      },
+      {
+        "id": 11,
+        "label": "Xe/xem",
+        "required": false
+      },
+      {
+        "id": 12,
+        "label": "Ze/hir",
+        "required": false
+      },
+      {
+        "id": 13,
+        "label": "Ey/em",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "Hir/hir",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "Fae/faer",
+        "required": false
+      },
+      {
+        "id": 16,
+        "label": "Hu/hu",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "Use name only",
+        "required": false
+      },
+      {
+        "id": 18,
+        "label": "Custom",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 21,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 23,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 25,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 27,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 28,
+        "label": "LinkedIn URL\n✱",
+        "required": true
+      },
+      {
+        "id": 30,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 32,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 34,
+        "label": "WORK ELIGIBILITY - CANADA",
+        "required": false
+      },
+      {
+        "id": 35,
+        "label": "Are you legally authorized to work in Canada for our company?\n✱",
+        "required": true
+      },
+      {
+        "id": 36,
+        "label": "Yes",
+        "required": true
+      },
+      {
+        "id": 37,
+        "label": "No",
+        "required": true
+      },
+      {
+        "id": 38,
+        "label": "Would you require future sponsorship in order to work for our company in Canada?\n✱",
+        "required": true
+      },
+      {
+        "id": 41,
+        "label": "SALARY EXPECTATIONS",
+        "required": false
+      },
+      {
+        "id": 42,
+        "label": "What is your minimum yearly base salary expectation (not including total rewards)?",
+        "required": false
+      },
+      {
+        "id": 43,
+        "label": "ADDITIONAL INFORMATION",
+        "required": false
+      },
+      {
+        "id": 45,
+        "label": "VOLUNTARY SELF-IDENTIFICATION SURVEY",
+        "required": false
+      },
+      {
+        "id": 46,
+        "label": "Gender Identity",
+        "required": false
+      },
+      {
+        "id": 47,
+        "label": "Female",
+        "required": false
+      },
+      {
+        "id": 48,
+        "label": "Male",
+        "required": false
+      },
+      {
+        "id": 49,
+        "label": "Gender non-binary",
+        "required": false
+      },
+      {
+        "id": 50,
+        "label": "Not Listed",
+        "required": false
+      },
+      {
+        "id": 51,
+        "label": "Prefer not to disclose",
+        "required": false
+      },
+      {
+        "id": 52,
+        "label": "Do you identify as a member of the LGBTQ+ Community?",
+        "required": false
+      },
+      {
+        "id": 56,
+        "label": "Race/Ethnicity",
+        "required": false
+      },
+      {
+        "id": 57,
+        "label": "Hispanic or Latine: A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race.",
+        "required": false
+      },
+      {
+        "id": 58,
+        "label": "Native American/Alaskan Native (not Hispanic or Latino: A person having origins in any of the original peoples of North and South America (including Central America) and who maintain tribal affiliation or community attachment.",
+        "required": false
+      },
+      {
+        "id": 59,
+        "label": "Indigenous Peoples (Canada)",
+        "required": false
+      },
+      {
+        "id": 61,
+        "label": "Black or African American (not Hispanic or Latino): A person having origins in any of the black racial groups of Africa",
+        "required": false
+      },
+      {
+        "id": 62,
+        "label": "Native Hawaiian or Other Pacific Islander (not Hispanic or Latino): A person having origins in any of the original peoples of Hawaii, Guam, Samoa or other Pacific Islands",
+        "required": false
+      },
+      {
+        "id": 63,
+        "label": "White (not Hispanic or Latino): A person having origins in any of the original peoples of Europe, the Middle East, or North Africa",
+        "required": false
+      },
+      {
+        "id": 64,
+        "label": "Two or more Races (not Hispanic or Latino)",
+        "required": false
+      },
+      {
+        "id": 66,
+        "label": "Veteran Status",
+        "required": false
+      },
+      {
+        "id": 67,
+        "label": "I am a veteran",
+        "required": false
+      },
+      {
+        "id": 68,
+        "label": "I am not a veteran",
+        "required": false
+      },
+      {
+        "id": 70,
+        "label": "Disability",
+        "required": false
+      },
+      {
+        "id": 71,
+        "label": "Yes, I Have A Disability, Or Have A History/Record Of Having A Disability",
+        "required": false
+      },
+      {
+        "id": 72,
+        "label": "No, I Don’t Have A Disability, Or A History/Record Of Having A Disability",
+        "required": false
+      },
+      {
+        "id": 73,
+        "label": "I Don’t Wish To Answer",
+        "required": false
+      }
+    ],
+    "full_jd": "Principal Product Manager - AI Models\nRemote Or MississaugaPointClickCare – Product Management /Full-Time /Hybrid\nSUBMIT YOUR APPLICATION\nLinkedIn profile\nLoading...\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nPronouns\nHe/him\n\t\nShe/her\n\t\nThey/them\n\n\nXe/xem\n\t\nZe/hir\n\t\nEy/em\n\n\nHir/hir\n\t\nFae/faer\n\t\nHu/hu\nUse name only\nCustom\n\nLet the employer know what pronouns you use so that they can address you correctly.\n\nEmail\n✱\nPhone\n✱\nCurrent location\n✱\nCurrent company\nLINKS\nLinkedIn URL\n✱\nPortfolio URL\nOther website\nWORK ELIGIBILITY - CANADA\nAre you legally authorized to work in Canada for our company?\n✱\nYes\nNo\nWould you require future sponsorship in order to work for our company in Canada?\n✱\nYes\nNo\nSALARY EXPECTATIONS\nWhat is your minimum yearly base salary expectation (not including total rewards)?\nADDITIONAL INFORMATION\nVOLUNTARY SELF-IDENTIFICATION SURVEY\n\nWe invite you to complete this optional survey to help us evaluate our diversity and inclusion efforts. Completion of this form is voluntary on your part and your refusal to complete this form will not subject you to any adverse treatment or otherwise affect your job application. If you choose to complete this form, the information obtained on this form will be kept separate from your name and job application, made available only to personnel on a need-to-know basis, and will not be used to discriminate against or show preference for any applicant. This information will be kept secure and confidential and will be used solely to evaluate our diversity and inclusion efforts and in accordance with applicable law.\n\nGender Identity\nFemale\nMale\nGender non-binary\nNot Listed\nPrefer not to disclose\nDo you identify as a member of the LGBTQ+ Community?\nYes\nNo\nPrefer not to disclose\nRace/Ethnicity\nHispanic or Latine: A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race.\nNative American/Alaskan Native (not Hispanic or Latino: A person having origins in any of the original peoples of North and South America (including Central America) and who maintain tribal affiliation or community attachment.\nIndigenous Peoples (Canada)\nAsian (not Hispanic or Latino): A person having origins in any of the original peoples of the Far East, Southeast Asia or the Indian subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam\nBlack or African American (not Hispanic or Latino): A person having origins in any of the black racial groups of Africa\nNative Hawaiian or Other Pacific Islander (not Hispanic or Latino): A person having origins in any of the original peoples of Hawaii, Guam, Samoa or other Pacific Islands\nWhite (not Hispanic or Latino): A person having origins in any of the original peoples of Europe, the Middle East, or North Africa\nTwo or more Races (not Hispanic or Latino)\nPrefer not to disclose\nVeteran Status\nI am a veteran\nI am not a veteran\nPrefer not to disclose\nDisability\nYes, I Have A Disability, Or Have A History/Record Of Having A Disability\nNo, I Don’t Have A Disability, Or A History/Record Of Having A Disability\nI Don’t Wish To Answer\nSUBMIT APPLICATION\n\nPointClickCare Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  },
+  "3_Flex": {
+    "index": 3,
+    "company": "Flex",
+    "title": "Senior Product Marketing Manager, Flex",
+    "url": "https://jobs.lever.co/Flex/39a67a76-74dc-494f-9890-bedf83788a01/apply",
+    "field_count": 14,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "Resume/CV\nATTACH RESUME/CV",
+        "required": false
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV",
+        "required": false
+      },
+      {
+        "id": 4,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 6,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 8,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 10,
+        "label": "Current location",
+        "required": false
+      },
+      {
+        "id": 12,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "Twitter URL",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 21,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 23,
+        "label": "Flexbase",
+        "required": false
+      }
+    ],
+    "full_jd": "Senior Product Marketing Manager, Flex\nRemote / USAMarketing /Full-Time /Remote\nSUBMIT YOUR APPLICATION\nResume/CV\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\n✱\nCurrent location\nCurrent company\nLINKS\nLinkedIn URL\nTwitter URL\nGitHub URL\nPortfolio URL\nFlexbase\nSUBMIT APPLICATION\n\nFlex Home Page\n\nFlexbase Technologies Inc.\n\nJobs powered by"
+  },
+  "4_Outreach": {
+    "index": 4,
+    "company": "Outreach",
+    "title": "Senior Technical Program Manager, Business Systems",
+    "url": "https://jobs.lever.co/outreach/d11d126a-22c4-403c-86fa-f633aab024a2/apply",
+    "field_count": 27,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 5,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 7,
+        "label": "Pronouns",
+        "required": false
+      },
+      {
+        "id": 8,
+        "label": "He/him",
+        "required": false
+      },
+      {
+        "id": 9,
+        "label": "She/her",
+        "required": false
+      },
+      {
+        "id": 10,
+        "label": "They/them",
+        "required": false
+      },
+      {
+        "id": 11,
+        "label": "Xe/xem",
+        "required": false
+      },
+      {
+        "id": 12,
+        "label": "Ze/hir",
+        "required": false
+      },
+      {
+        "id": 13,
+        "label": "Ey/em",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "Hir/hir",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "Fae/faer",
+        "required": false
+      },
+      {
+        "id": 16,
+        "label": "Hu/hu",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "Use name only",
+        "required": false
+      },
+      {
+        "id": 18,
+        "label": "Custom",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 21,
+        "label": "Phone",
+        "required": false
+      },
+      {
+        "id": 23,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 25,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 27,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 28,
+        "label": "LinkedIn URL\n✱",
+        "required": true
+      },
+      {
+        "id": 30,
+        "label": "Twitter URL",
+        "required": false
+      },
+      {
+        "id": 32,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 34,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 36,
+        "label": "Other website",
+        "required": false
+      }
+    ],
+    "full_jd": "Senior Technical Program Manager, Business Systems\nHyderabadBusiness Systems – Business Systems /Full-Time /Remote\nSUBMIT YOUR APPLICATION\nLinkedIn profile\nLoading...\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nPronouns\nHe/him\n\t\nShe/her\n\t\nThey/them\n\n\nXe/xem\n\t\nZe/hir\n\t\nEy/em\n\n\nHir/hir\n\t\nFae/faer\n\t\nHu/hu\nUse name only\nCustom\n\nPronouns are an important part of a person's identity. Using someone's correct pronouns demonstrates respect and inclusion. Let us know what pronouns you use so that we can address you correctly.\n\nEmail\n✱\nPhone\nCurrent location\n✱\nCurrent company\nLINKS\nLinkedIn URL\n✱\nTwitter URL\nGitHub URL\nPortfolio URL\nOther website\nSUBMIT APPLICATION\n\nOutreach Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  },
+  "5_Crypto": {
+    "index": 5,
+    "company": "Crypto",
+    "title": "Lead Product Manager - Exchange, Trading",
+    "url": "https://jobs.lever.co/crypto/fbb256a2-46a3-41b7-942d-5ba87018c0dc/apply",
+    "field_count": 34,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "Which location are you applying for?",
+        "required": false
+      },
+      {
+        "id": 3,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 5,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 6,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 8,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 10,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 12,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 14,
+        "label": "Current company\n✱",
+        "required": true
+      },
+      {
+        "id": 16,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 21,
+        "label": "GENERAL - UNITED STATES",
+        "required": false
+      },
+      {
+        "id": 22,
+        "label": "Are you at least 18 years of age?\n✱",
+        "required": true
+      },
+      {
+        "id": 23,
+        "label": "Yes",
+        "required": true
+      },
+      {
+        "id": 24,
+        "label": "No",
+        "required": true
+      },
+      {
+        "id": 25,
+        "label": "Where are you currently based? (City)\n✱",
+        "required": true
+      },
+      {
+        "id": 26,
+        "label": "Will you now, or in the future, require sponsorship to work in the United States?\n✱",
+        "required": true
+      },
+      {
+        "id": 29,
+        "label": "What is your expected annual salary (USD, Gross Amount)? Please put numbers only.\n✱",
+        "required": true
+      },
+      {
+        "id": 30,
+        "label": "How long is your notice period?\n✱",
+        "required": true
+      },
+      {
+        "id": 31,
+        "label": "Full information on the US Applicant and Candidate Privacy Policy can be found here: https://crypto.com/document/us_applicant_privacypolicy\n✱",
+        "required": true
+      },
+      {
+        "id": 32,
+        "label": "Yes, I have read and understood the privacy policy",
+        "required": true
+      },
+      {
+        "id": 33,
+        "label": "Have you ever been convicted of a crime or been subject to any sanctions by a regulatory body?\n✱",
+        "required": true
+      },
+      {
+        "id": 36,
+        "label": "Do you have any relatives currently employed by our company?\n✱",
+        "required": true
+      },
+      {
+        "id": 39,
+        "label": "How many years of relevant working experience do you have to the role?\n✱",
+        "required": true
+      },
+      {
+        "id": 40,
+        "label": "0 - 3 years",
+        "required": true
+      },
+      {
+        "id": 41,
+        "label": "3 - 5 years",
+        "required": true
+      },
+      {
+        "id": 42,
+        "label": "5 - 8 years",
+        "required": true
+      },
+      {
+        "id": 43,
+        "label": "More than 8 years",
+        "required": true
+      },
+      {
+        "id": 44,
+        "label": "GENERAL - HONG KONG",
+        "required": false
+      },
+      {
+        "id": 45,
+        "label": "Do you agree to the Foris Limited Privacy Policy? https://crypto.com/privacy/job-applicant-privacy-notice-hk.pdf\n✱",
+        "required": true
+      },
+      {
+        "id": 47,
+        "label": "What is your Expected Annual Salary (HKD)? Please put numbers only.\n✱",
+        "required": true
+      },
+      {
+        "id": 50,
+        "label": "Do you require a visa sponsorship to work in Hong Kong?\n✱",
+        "required": true
+      }
+    ],
+    "full_jd": "Lead Product Manager - Exchange, Trading\nUnited States / New York / San Fransisco, California / Chicago, IllinoisProduct Management & Product Design – Product Management /Full-Time /Hybrid\nSUBMIT YOUR APPLICATION\nWhich location are you applying for?\nSelect...\nUnited States\nNew York\nSan Fransisco, California\nChicago, Illinois\nLinkedIn profile\nLoading...\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\n✱\nCurrent location\n✱\nCurrent company\n✱\nLINKS\nLinkedIn URL\nGitHub URL\nGENERAL - UNITED STATES\nAre you at least 18 years of age?\n✱\nYes\nNo\nWhere are you currently based? (City)\n✱\nWill you now, or in the future, require sponsorship to work in the United States?\n✱\nYes\nNo\nWhat is your expected annual salary (USD, Gross Amount)? Please put numbers only.\n✱\nHow long is your notice period?\n✱\nFull information on the US Applicant and Candidate Privacy Policy can be found here: https://crypto.com/document/us_applicant_privacypolicy\n✱\nYes, I have read and understood the privacy policy\nHave you ever been convicted of a crime or been subject to any sanctions by a regulatory body?\n✱\nYes\nNo\nDo you have any relatives currently employed by our company?\n✱\nYes\nNo\nHow many years of relevant working experience do you have to the role?\n✱\n0 - 3 years\n3 - 5 years\n5 - 8 years\nMore than 8 years\nGENERAL - HONG KONG\nDo you agree to the Foris Limited Privacy Policy? https://crypto.com/privacy/job-applicant-privacy-notice-hk.pdf\n✱\nYes\nWhat is your Expected Annual Salary (HKD)? Please put numbers only.\n✱\nHow long is your Notice Period?\n✱\nWhere are you currently based? (City)\n✱\nDo you require a visa sponsorship to work in Hong Kong?\n✱\nYes\nNo\nHave you ever been convicted of a crime or been subject to any sanctions by a regulatory body?\n✱\nYes\nNo\nDo you have any relatives currently employed by our company?\n✱\nYes\nNo\nHow many years of relevant working experience do you have to the role?\n✱\n0 - 3 years\n3 - 5 years\n5 - 8 years\nMore than 8 years\n\nSUBMIT APPLICATION\n\nCrypto.com Home Page\n\nWe may use artificial intelligence tools to analyze the content of your Resume/CV against the specific requirements for the position. The purpose is to support our recruitment team in reviewing applications more effectively. These tools assist our recruitment team in their evaluation of your application by providing recommendations, but they do not replace human judgment. Final hiring decisions are ultimately made by humans who consider the insights generated by the tools along with other relevant information. If you would like more details about how your personal information is processed, please contact us.\n\nJobs powered by"
+  },
+  "6_Crypto": {
+    "index": 6,
+    "company": "Crypto",
+    "title": "Senior Product Manager - Predictions, OG",
+    "url": "https://jobs.lever.co/crypto/f6a19e4d-1150-476a-8566-ea0e7f2fd96a/apply",
+    "field_count": 29,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 5,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 7,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 9,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 11,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 13,
+        "label": "Current company\n✱",
+        "required": true
+      },
+      {
+        "id": 15,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 16,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 18,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 20,
+        "label": "GENERAL - UNITED STATES",
+        "required": false
+      },
+      {
+        "id": 21,
+        "label": "Are you at least 18 years of age?\n✱",
+        "required": true
+      },
+      {
+        "id": 22,
+        "label": "Yes",
+        "required": true
+      },
+      {
+        "id": 23,
+        "label": "No",
+        "required": true
+      },
+      {
+        "id": 24,
+        "label": "Where are you currently based? (City)\n✱",
+        "required": true
+      },
+      {
+        "id": 25,
+        "label": "Will you now, or in the future, require sponsorship to work in the United States?\n✱",
+        "required": true
+      },
+      {
+        "id": 28,
+        "label": "What is your expected annual salary (USD, Gross Amount)? Please put numbers only.\n✱",
+        "required": true
+      },
+      {
+        "id": 29,
+        "label": "How long is your notice period?\n✱",
+        "required": true
+      },
+      {
+        "id": 30,
+        "label": "Full information on the US Applicant and Candidate Privacy Policy can be found here: https://crypto.com/document/us_applicant_privacypolicy\n✱",
+        "required": true
+      },
+      {
+        "id": 31,
+        "label": "Yes, I have read and understood the privacy policy",
+        "required": true
+      },
+      {
+        "id": 32,
+        "label": "Have you ever been convicted of a crime or been subject to any sanctions by a regulatory body?\n✱",
+        "required": true
+      },
+      {
+        "id": 35,
+        "label": "Do you have any relatives currently employed by our company?\n✱",
+        "required": true
+      },
+      {
+        "id": 38,
+        "label": "How many years of relevant working experience do you have to the role?\n✱",
+        "required": true
+      },
+      {
+        "id": 39,
+        "label": "0 - 3 years",
+        "required": true
+      },
+      {
+        "id": 40,
+        "label": "3 - 5 years",
+        "required": true
+      },
+      {
+        "id": 41,
+        "label": "5 - 8 years",
+        "required": true
+      },
+      {
+        "id": 42,
+        "label": "More than 8 years",
+        "required": true
+      }
+    ],
+    "full_jd": "Senior Product Manager - Predictions, OG\nUnited StatesProduct Management & Product Design – Product Management /Full-Time /Hybrid\nSUBMIT YOUR APPLICATION\nLinkedIn profile\nLoading...\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\n✱\nCurrent location\n✱\nCurrent company\n✱\nLINKS\nLinkedIn URL\nGitHub URL\nGENERAL - UNITED STATES\nAre you at least 18 years of age?\n✱\nYes\nNo\nWhere are you currently based? (City)\n✱\nWill you now, or in the future, require sponsorship to work in the United States?\n✱\nYes\nNo\nWhat is your expected annual salary (USD, Gross Amount)? Please put numbers only.\n✱\nHow long is your notice period?\n✱\nFull information on the US Applicant and Candidate Privacy Policy can be found here: https://crypto.com/document/us_applicant_privacypolicy\n✱\nYes, I have read and understood the privacy policy\nHave you ever been convicted of a crime or been subject to any sanctions by a regulatory body?\n✱\nYes\nNo\nDo you have any relatives currently employed by our company?\n✱\nYes\nNo\nHow many years of relevant working experience do you have to the role?\n✱\n0 - 3 years\n3 - 5 years\n5 - 8 years\nMore than 8 years\n\nSUBMIT APPLICATION\n\nCrypto.com Home Page\n\nWe may use artificial intelligence tools to analyze the content of your Resume/CV against the specific requirements for the position. The purpose is to support our recruitment team in reviewing applications more effectively. These tools assist our recruitment team in their evaluation of your application by providing recommendations, but they do not replace human judgment. Final hiring decisions are ultimately made by humans who consider the insights generated by the tools along with other relevant information. If you would like more details about how your personal information is processed, please contact us.\n\nJobs powered by"
+  },
+  "7_Kpmgnz": {
+    "index": 7,
+    "company": "Kpmgnz",
+    "title": "Product Manager",
+    "url": "https://jobs.lever.co/kpmgnz/ff3d553d-582c-4388-a2c9-f3b64920b339/apply",
+    "field_count": 44,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\nATTACH RESUME/CV",
+        "required": false
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV",
+        "required": false
+      },
+      {
+        "id": 5,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 7,
+        "label": "Pronouns",
+        "required": false
+      },
+      {
+        "id": 8,
+        "label": "He/him",
+        "required": false
+      },
+      {
+        "id": 9,
+        "label": "She/her",
+        "required": false
+      },
+      {
+        "id": 10,
+        "label": "They/them",
+        "required": false
+      },
+      {
+        "id": 11,
+        "label": "Xe/xem",
+        "required": false
+      },
+      {
+        "id": 12,
+        "label": "Ze/hir",
+        "required": false
+      },
+      {
+        "id": 13,
+        "label": "Ey/em",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "Hir/hir",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "Fae/faer",
+        "required": false
+      },
+      {
+        "id": 16,
+        "label": "Hu/hu",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "Use name only",
+        "required": false
+      },
+      {
+        "id": 18,
+        "label": "Custom",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 21,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 23,
+        "label": "Current location",
+        "required": false
+      },
+      {
+        "id": 25,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 27,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 28,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 30,
+        "label": "Other URL",
+        "required": false
+      },
+      {
+        "id": 32,
+        "label": "DECLARATION",
+        "required": false
+      },
+      {
+        "id": 33,
+        "label": "Do you have any criminal convictions (not including any concealed under the Clean Slate Act) or are you awaiting the hearing of charges in a civil or criminal court of law?\n✱",
+        "required": true
+      },
+      {
+        "id": 34,
+        "label": "Have you ever been declared bankrupt?\n✱",
+        "required": true
+      },
+      {
+        "id": 35,
+        "label": "Have you ever been dismissed from any employment?\n✱",
+        "required": true
+      },
+      {
+        "id": 36,
+        "label": "Are you currently an elected official or have you held a role with a government entity or regulator in the past 3 years? https://assets.kpmg.com/content/dam/kpmg/nz/pdf/2023/09/government-entities-and-regulators.pdf\n✱",
+        "required": true
+      },
+      {
+        "id": 37,
+        "label": "If yes to the question above, and the role held was with a government entity, please advise whether it was a senior or sensitive position\n✱",
+        "required": true
+      },
+      {
+        "id": 38,
+        "label": "Are there any other factors that would affect your ability to accept this or any other position with KPMG? (e.g. Restraint of Trade)\n✱",
+        "required": true
+      },
+      {
+        "id": 39,
+        "label": "Are you currently located in New Zealand?\n✱",
+        "required": true
+      },
+      {
+        "id": 40,
+        "label": "If not, where is your current location?\n✱",
+        "required": true
+      },
+      {
+        "id": 41,
+        "label": "To be legally entitled to work in New Zealand, you should be a citizen or permanent resident of New Zealand or hold a current work visa. Please select the appropriate answer relevant to your current situation.\n✱",
+        "required": true
+      },
+      {
+        "id": 42,
+        "label": "If you currently hold a work or study visa, please upload a copy of this here:",
+        "required": false
+      },
+      {
+        "id": 43,
+        "label": "What is your contractual notice period?\n✱",
+        "required": true
+      },
+      {
+        "id": 44,
+        "label": "If you are successful in the recruitment process, when would you be able to commence employment with KPMG?\n✱",
+        "required": true
+      },
+      {
+        "id": 45,
+        "label": "Please indicate your salary expectations in NZD\n✱",
+        "required": true
+      },
+      {
+        "id": 46,
+        "label": "If you wish to elaborate on any of the above questions, please do so here:",
+        "required": false
+      },
+      {
+        "id": 50,
+        "label": "Gender\n✱",
+        "required": true
+      },
+      {
+        "id": 51,
+        "label": "Which ethnicity do you identify with primarily?\n✱",
+        "required": true
+      },
+      {
+        "id": 52,
+        "label": "Do you identify with a secondary or more specific ethnicity? If so, please specify here.",
+        "required": false
+      },
+      {
+        "id": 53,
+        "label": "Do you identify with a third ethnicity? If so, please specify below.",
+        "required": false
+      },
+      {
+        "id": 55,
+        "label": "Yes, KPMG New Zealand can contact me about future job opportunities for up to 3 years\nPrivacy policy",
+        "required": false
+      }
+    ],
+    "full_jd": "Product Manager\nAucklandBusiness Enablement – IT Services /Permanent Full-Time /Hybrid\nSUBMIT YOUR APPLICATION\nLinkedIn profile\nLoading...\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\nATTACH RESUME/CV\nFull name\n✱\nPronouns\nHe/him\n\t\nShe/her\n\t\nThey/them\n\n\nXe/xem\n\t\nZe/hir\n\t\nEy/em\n\n\nHir/hir\n\t\nFae/faer\n\t\nHu/hu\nUse name only\nCustom\n\nLet the employer know what pronouns you use so that they can address you correctly.\n\nEmail\n✱\nPhone\n✱\nCurrent location\nCurrent company\nLINKS\nLinkedIn URL\nOther URL\nDECLARATION\nDo you have any criminal convictions (not including any concealed under the Clean Slate Act) or are you awaiting the hearing of charges in a civil or criminal court of law?\n✱\nSelect...\nYes\nNo\nHave you ever been declared bankrupt?\n✱\nSelect...\nYes\nNo\nHave you ever been dismissed from any employment?\n✱\nSelect...\nYes\nNo\nAre you currently an elected official or have you held a role with a government entity or regulator in the past 3 years? https://assets.kpmg.com/content/dam/kpmg/nz/pdf/2023/09/government-entities-and-regulators.pdf\n✱\nSelect...\nYes\nNo\nIf yes to the question above, and the role held was with a government entity, please advise whether it was a senior or sensitive position\n✱\nSelect...\nYes\nNo\nN/A\nAre there any other factors that would affect your ability to accept this or any other position with KPMG? (e.g. Restraint of Trade)\n✱\nSelect...\nYes - please explain further using the text box below\nNo\nAre you currently located in New Zealand?\n✱\nSelect...\nYes\nNo\nIf not, where is your current location?\n✱\nSelect...\nN/A\nAfghanistan\nAlbania\nAlgeria\nAndorra\nAngola\nAntigua and Barbuda\nArgentina\nArmenia\nAustralia\nAustria\nAzerbaijan\nBahamas\nBahrain\nBangladesh\nBarbados\nBelarus\nBelgium\nBelize\nBenin\nBhutan\nBolivia\nBosnia and Herzegovina\nBotswana\nBrazil\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCabo Verde\nCambodia\nCameroon\nCanada\nCentral African Republic\nChad\nChile\nChina\nColombia\nComoros\nCongo, Democratic Republic of the\nCongo, Republic of the\nCosta Rica\nCôte d’Ivoire\nCroatia\nCuba\nCyprus\nCzech Republic\nDenmark\nDjibouti\nDominica\nDominican Republic\nEast Timor (Timor-Leste)\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEswatini\nEthiopia\nFiji\nFinland\nFrance\nGabon\nThe Gambia\nGeorgia\nGermany\nGhana\nGreece\nGrenada\nGuatemala\nGuinea\nGuinea-Bissau\nGuyana\nHaiti\nHonduras\nHungary\nIceland\nIndia\nIndonesia\nIran\nIraq\nIreland\nIsrael\nItaly\nJamaica\nJapan\nJordan\nKazakhstan\nKenya\nKiribati\nKorea, North\nKorea, South\nKosovo\nKuwait\nKyrgyzstan\nLaos\nLatvia\nLebanon\nLesotho\nLiberia\nLibya\nLiechtenstein\nLithuania\nLuxembourg\nMadagascar\nMalawi\nMalaysia\nMaldives\nMali\nMalta\nMarshall Islands\nMauritania\nMauritius\nMexico\nMicronesia, Federated States of\nMoldova\nMonaco\nMongolia\nMontenegro\nMorocco\nMozambique\nMyanmar (Burma)\nNamibia\nNauru\nNepal\nNetherlands\nNicaragua\nNiger\nNigeria\nNorth Macedonia\nNorway\nOman\nPakistan\nPalau\nPanama\nPapua New Guinea\nParaguay\nPeru\nPhilippines\nPoland\nPortugal\nQatar\nRomania\nRussia\nRwanda\nSaint Kitts and Nevis\nSaint Lucia\nSaint Vincent and the Grenadines\nSamoa\nSan Marino\nSao Tome and Principe\nSaudi Arabia\nSenegal\nSerbia\nSeychelles\nSierra Leone\nSingapore\nSlovakia\nSlovenia\nSolomon Islands\nSomalia\nSouth Africa\nSpain\nSri Lanka\nSudan\nSudan, South\nSuriname\nSweden\nSwitzerland\nSyria\nTaiwan\nTajikistan\nTanzania\nThailand\nTogo\nTonga\nTrinidad and Tobago\nTunisia\nTurkey\nTurkmenistan\nTuvalu\nUganda\nUkraine\nUnited Arab Emirates\nUnited Kingdom\nUnited States\nUruguay\nUzbekistan\nVanuatu\nVatican City\nVenezuela\nVietnam\nYemen\nZambia\nZimbabwe\nTo be legally entitled to work in New Zealand, you should be a citizen or permanent resident of New Zealand or hold a current work visa. Please select the appropriate answer relevant to your current situation.\n✱\nSelect...\nNew Zealand Citizen\nResident or Permanent Resident of New Zealand\nValid New Zealand Working Holiday Visa\nValid New Zealand Work Visa\nAustralian Citizen or Resident\nDo not have valid Work Visa\nValid NZ Student Visa\nIf you currently hold a work or study visa, please upload a copy of this here:\nUPLOAD FILE\nWhat is your contractual notice period?\n✱\nSelect...\nAvailable Immediately\n1 week\n2 weeks\n4 weeks/1 month\n6 weeks\n8 weeks/2 months\n12 weeks/3 months\nOther (please let us know in the box below)\nIf you are successful in the recruitment process, when would you be able to commence employment with KPMG?\n✱\nPlease indicate your salary expectations in NZD\n✱\nIf you wish to elaborate on any of the above questions, please do so here:\nThis information is being collected to enable KPMG to assess your suitability for this position and will be used for this purpose only. If you fail or refuse to provide the information requested, then your application may be rejected by KPMG. If you provide false or inaccurate information, this will be considered serious misconduct and may result in dismissal, should you be employed by KPMG. Please also note that any false information given regarding any disabilities or medical conditions, may result in your loss of entitlement to compensation from ACC / Health and Disability Insurance. Information on ethnicity and gender will be used for Equal Employment Opportunities (EEO) statistical reporting only.\n✱\nSelect...\nI agree\nI disagree\nI declare that all representations, whether oral or in writing, made by me when applying for this position are true and correct. I have not deliberately failed to disclose any matter that may materially influence KPMG’s decision to employ me. I understand that if the firm’s pre-selection checks uncover any adverse information or if false information is given or material suppressed by me, I may not be offered employment, or if a contract has been offered, it may be withdrawn.\n✱\nSelect...\nYes\nNo\nDeclaration: You have answered the above questions in relation to your application for employment, to assist KPMG to assess your suitability for this position. The questions posed are relevant to the nature and type of work undertaken in KPMG and comply with the rights and obligations under"
+  },
+  "8_Novara": {
+    "index": 8,
+    "company": "Novara",
+    "title": "Senior Manager, Integrated Demand Generation & Account-Based Marketing",
+    "url": "https://jobs.lever.co/novara/892abe04-9765-4830-95f9-42984d1d1d82/apply",
+    "field_count": 22,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 4,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 6,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 8,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 10,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 12,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "LinkedIn URL\n✱",
+        "required": true
+      },
+      {
+        "id": 17,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "SPONSORSHIP",
+        "required": false
+      },
+      {
+        "id": 20,
+        "label": "Will you now, or in the future require Novara to commence (sponsor) an immigration case in order to employ you (for example, H-1B or other employment-based immigration case)?\n✱",
+        "required": true
+      },
+      {
+        "id": 21,
+        "label": "Yes",
+        "required": true
+      },
+      {
+        "id": 22,
+        "label": "No",
+        "required": true
+      },
+      {
+        "id": 23,
+        "label": "Other (Please explain in additional information)",
+        "required": true
+      },
+      {
+        "id": 24,
+        "label": "WORK AUTHORIZATION",
+        "required": false
+      },
+      {
+        "id": 25,
+        "label": "Are you authorized to work lawfully in the United States?\n✱",
+        "required": true
+      },
+      {
+        "id": 28,
+        "label": "COMPENSATION",
+        "required": false
+      },
+      {
+        "id": 29,
+        "label": "What is your target compensation range?\n✱",
+        "required": true
+      },
+      {
+        "id": 31,
+        "label": "This role requires employees to be based in the United States or Canada. Are you currently located in the U.S. or Canada?",
+        "required": false
+      },
+      {
+        "id": 34,
+        "label": "Other",
+        "required": false
+      }
+    ],
+    "full_jd": "Senior Manager, Integrated Demand Generation & Account-Based Marketing\nRemoteMarketing /Full Time /Remote\nSUBMIT YOUR APPLICATION\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\n✱\nCurrent location\n✱\nCurrent company\nLINKS\nLinkedIn URL\n✱\nOther website\nSPONSORSHIP\nWill you now, or in the future require Novara to commence (sponsor) an immigration case in order to employ you (for example, H-1B or other employment-based immigration case)?\n✱\nYes\nNo\nOther (Please explain in additional information)\nWORK AUTHORIZATION\nAre you authorized to work lawfully in the United States?\n✱\nYes\nNo\nCOMPENSATION\nWhat is your target compensation range?\n✱\nCURRENT LOCATION\nThis role requires employees to be based in the United States or Canada. Are you currently located in the U.S. or Canada?\nYes\nNo\nOther\nSUBMIT APPLICATION\n\nNovara Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  },
+  "9_Kraken123": {
+    "index": 9,
+    "company": "Kraken123",
+    "title": "Senior Product Manager",
+    "url": "https://jobs.lever.co/kraken123/a903ef58-99cb-4efa-a653-fc2e9cfbeb75/apply",
+    "field_count": 65,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Privacy Notice",
+        "required": false
+      },
+      {
+        "id": 2,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 3,
+        "label": "Which location are you applying for?",
+        "required": false
+      },
+      {
+        "id": 4,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 5,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 6,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 7,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 9,
+        "label": "Pronouns",
+        "required": false
+      },
+      {
+        "id": 10,
+        "label": "He/him",
+        "required": false
+      },
+      {
+        "id": 11,
+        "label": "She/her",
+        "required": false
+      },
+      {
+        "id": 12,
+        "label": "They/them",
+        "required": false
+      },
+      {
+        "id": 13,
+        "label": "Xe/xem",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "Ze/hir",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "Ey/em",
+        "required": false
+      },
+      {
+        "id": 16,
+        "label": "Hir/hir",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "Fae/faer",
+        "required": false
+      },
+      {
+        "id": 18,
+        "label": "Hu/hu",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "Use name only",
+        "required": false
+      },
+      {
+        "id": 20,
+        "label": "Custom",
+        "required": false
+      },
+      {
+        "id": 21,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 23,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 25,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 27,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 29,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 30,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 32,
+        "label": "Twitter URL",
+        "required": false
+      },
+      {
+        "id": 34,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 36,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 38,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 40,
+        "label": "WHY KRAKEN?",
+        "required": false
+      },
+      {
+        "id": 41,
+        "label": "Why do you want to be a part of Kraken? (We actually read this – promise! We’re not looking for AI answers – we’re keen to hear why you’re interested in Kraken, what gets you excited about what we do, and why you think you’d be a great fit!)\n✱",
+        "required": true
+      },
+      {
+        "id": 42,
+        "label": "RTW EU MULTI-LOCATION",
+        "required": false
+      },
+      {
+        "id": 43,
+        "label": "Do you have right to work in either UK, Germany, France, Italy or Spain?\n✱",
+        "required": true
+      },
+      {
+        "id": 44,
+        "label": "Yes",
+        "required": true
+      },
+      {
+        "id": 45,
+        "label": "No",
+        "required": true
+      },
+      {
+        "id": 46,
+        "label": "SALARY EXPECTATIONS",
+        "required": false
+      },
+      {
+        "id": 47,
+        "label": "What are your salary expectations for this position?\n✱",
+        "required": true
+      },
+      {
+        "id": 48,
+        "label": "DEI Survey for Kraken",
+        "required": false
+      },
+      {
+        "id": 49,
+        "label": "What ethnicity do you identify as?Select all that apply",
+        "required": false
+      },
+      {
+        "id": 50,
+        "label": "Asian British",
+        "required": false
+      },
+      {
+        "id": 51,
+        "label": "Asian - Bangladeshi",
+        "required": false
+      },
+      {
+        "id": 52,
+        "label": "Asian - Chinese",
+        "required": false
+      },
+      {
+        "id": 53,
+        "label": "Asian - Pakistani",
+        "required": false
+      },
+      {
+        "id": 54,
+        "label": "Asian - Other",
+        "required": false
+      },
+      {
+        "id": 55,
+        "label": "Indigenous Peoples, First Nations, Native American, or Alaska Native",
+        "required": false
+      },
+      {
+        "id": 56,
+        "label": "Black - British",
+        "required": false
+      },
+      {
+        "id": 57,
+        "label": "Black - African",
+        "required": false
+      },
+      {
+        "id": 58,
+        "label": "Black - Caribbean",
+        "required": false
+      },
+      {
+        "id": 59,
+        "label": "Black - Other",
+        "required": false
+      },
+      {
+        "id": 60,
+        "label": "White - British",
+        "required": false
+      },
+      {
+        "id": 61,
+        "label": "White - Irish",
+        "required": false
+      },
+      {
+        "id": 62,
+        "label": "White - Other",
+        "required": false
+      },
+      {
+        "id": 63,
+        "label": "Multiple ethnic background",
+        "required": false
+      },
+      {
+        "id": 64,
+        "label": "Middle Eastern",
+        "required": false
+      },
+      {
+        "id": 65,
+        "label": "North African",
+        "required": false
+      },
+      {
+        "id": 66,
+        "label": "Hispanic, Latino, or Spanish origin",
+        "required": false
+      },
+      {
+        "id": 67,
+        "label": "Other race, ethnicity, or origin",
+        "required": false
+      },
+      {
+        "id": 68,
+        "label": "I'd prefer not to say",
+        "required": false
+      },
+      {
+        "id": 69,
+        "label": "What gender do you identify as?",
+        "required": false
+      },
+      {
+        "id": 70,
+        "label": "Female",
+        "required": false
+      },
+      {
+        "id": 71,
+        "label": "Male",
+        "required": false
+      },
+      {
+        "id": 72,
+        "label": "Non-binary",
+        "required": false
+      },
+      {
+        "id": 73,
+        "label": "I identify in another way",
+        "required": false
+      },
+      {
+        "id": 75,
+        "label": "Do you identify as neurodiverse?",
+        "required": false
+      },
+      {
+        "id": 79,
+        "label": "Equality, Diversity and Inclusion Survey for Kraken",
+        "required": false
+      }
+    ],
+    "full_jd": "🍪\ndismiss\nPrivacy Notice\n\nThis website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.\n\nSenior Product Manager\nLondon / Berlin / ParisArtificial Intelligence – Product /Full-Time /Remote\nSUBMIT YOUR APPLICATION\nWhich location are you applying for?\nSelect...\nLondon\nBerlin\nParis\nLinkedIn profile\nLOADING\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nPronouns\nHe/him\n\t\nShe/her\n\t\nThey/them\n\n\nXe/xem\n\t\nZe/hir\n\t\nEy/em\n\n\nHir/hir\n\t\nFae/faer\n\t\nHu/hu\nUse name only\nCustom\n\nLet the employer know what pronouns you use so that they can address you correctly.\n\nEmail\n✱\nPhone\n✱\nCurrent location\n✱\nCurrent company\nLINKS\nLinkedIn URL\nTwitter URL\nGitHub URL\nPortfolio URL\nOther website\nWHY KRAKEN?\nWhy do you want to be a part of Kraken? (We actually read this – promise! We’re not looking for AI answers – we’re keen to hear why you’re interested in Kraken, what gets you excited about what we do, and why you think you’d be a great fit!)\n✱\nRTW EU MULTI-LOCATION\nDo you have right to work in either UK, Germany, France, Italy or Spain?\n✱\nYes\nNo\nSALARY EXPECTATIONS\nWhat are your salary expectations for this position?\n✱\n\nBy applying for this position, your data will be processed as per Kraken 's .\n\nSUBMIT APPLICATION\n\nKraken Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  },
+  "10_Sonarsource": {
+    "index": 10,
+    "company": "Sonarsource",
+    "title": "Global HR Operations Program Manager",
+    "url": "https://jobs.lever.co/sonarsource/cbdc4e7c-cb7f-476e-a22a-d8773e32acf5/apply",
+    "field_count": 49,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Privacy Notice",
+        "required": false
+      },
+      {
+        "id": 2,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 5,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 7,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 9,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 11,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 13,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 16,
+        "label": "LinkedIn URL\n✱",
+        "required": true
+      },
+      {
+        "id": 18,
+        "label": "EMPLOYMENT SPONSORSHIP",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "Would you now or at any time require employer sponsorship to work in the country this role is located?\n✱",
+        "required": true
+      },
+      {
+        "id": 20,
+        "label": "CONFIRMATION OF ONSITE, IN-OFFICE POLICY",
+        "required": false
+      },
+      {
+        "id": 21,
+        "label": "Please confirm that you are able to work in the office in which this role is advertised at minimum on Mondays, Tuesdays, and Thursdays (some teams are onsite Mon-Thurs)",
+        "required": false
+      },
+      {
+        "id": 22,
+        "label": "If you have additional details around your answer, please share below.",
+        "required": false
+      },
+      {
+        "id": 23,
+        "label": "NOTICE PERIOD",
+        "required": false
+      },
+      {
+        "id": 24,
+        "label": "What is your current notice period?\n✱",
+        "required": true
+      },
+      {
+        "id": 25,
+        "label": "RELOCATION",
+        "required": false
+      },
+      {
+        "id": 26,
+        "label": "If you are not currently a resident of the location in which the job is advertised, would you be willing to relocate?\n✱",
+        "required": true
+      },
+      {
+        "id": 27,
+        "label": "U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION   (Completion is voluntary and will not subject you to adverse treatment)",
+        "required": false
+      },
+      {
+        "id": 28,
+        "label": "Gender\nSelect ...\nMale\nFemale\nDecline to self-identify",
+        "required": false
+      },
+      {
+        "id": 29,
+        "label": "Gender",
+        "required": false
+      },
+      {
+        "id": 31,
+        "label": "Race",
+        "required": false
+      },
+      {
+        "id": 32,
+        "label": "Veteran status\nSelect ...\nI am a veteran\nI am not a veteran\nDecline to self-identify",
+        "required": false
+      },
+      {
+        "id": 33,
+        "label": "Veteran status",
+        "required": false
+      },
+      {
+        "id": 34,
+        "label": "DEMOGRAPHIC SURVEY FOR SONARSOURCE",
+        "required": false
+      },
+      {
+        "id": 35,
+        "label": "What is your age range?",
+        "required": false
+      },
+      {
+        "id": 36,
+        "label": "18-20",
+        "required": false
+      },
+      {
+        "id": 37,
+        "label": "21-29",
+        "required": false
+      },
+      {
+        "id": 38,
+        "label": "30-39",
+        "required": false
+      },
+      {
+        "id": 39,
+        "label": "40-49",
+        "required": false
+      },
+      {
+        "id": 40,
+        "label": "50-59",
+        "required": false
+      },
+      {
+        "id": 41,
+        "label": "60 or older",
+        "required": false
+      },
+      {
+        "id": 42,
+        "label": "I identify my ethnicity as\n\nSelect all that apply",
+        "required": false
+      },
+      {
+        "id": 43,
+        "label": "White / Caucasian",
+        "required": false
+      },
+      {
+        "id": 44,
+        "label": "Hispanic, Latino, or Spanish origin",
+        "required": false
+      },
+      {
+        "id": 45,
+        "label": "Black or African American",
+        "required": false
+      },
+      {
+        "id": 46,
+        "label": "Asian",
+        "required": false
+      },
+      {
+        "id": 47,
+        "label": "Native Hawaiian or other Pacific Islander",
+        "required": false
+      },
+      {
+        "id": 48,
+        "label": "Indigenous Peoples, First Nations, Native American, or Alaska Native",
+        "required": false
+      },
+      {
+        "id": 49,
+        "label": "Middle Eastern or North African",
+        "required": false
+      },
+      {
+        "id": 50,
+        "label": "Some other race, ethnicity, or origin",
+        "required": false
+      },
+      {
+        "id": 51,
+        "label": "What gender do you identify as?",
+        "required": false
+      },
+      {
+        "id": 52,
+        "label": "Female",
+        "required": false
+      },
+      {
+        "id": 53,
+        "label": "Male",
+        "required": false
+      },
+      {
+        "id": 54,
+        "label": "Non-binary",
+        "required": false
+      },
+      {
+        "id": 55,
+        "label": "Prefer not to say",
+        "required": false
+      },
+      {
+        "id": 56,
+        "label": "Yes, Sonar can contact me about future job opportunities for up to 3 years\nPrivacy policy",
+        "required": false
+      }
+    ],
+    "full_jd": "🍪\ndenyaccept\nPrivacy Notice\n\nThis website uses cookies to improve your web experience. By clicking Accept, you agree to the use of cookies.\n\nGlobal HR Operations Program Manager\nAustin, TexasMission Control – People /Employee / Full-Time /On-Site\nSUBMIT YOUR APPLICATION\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\n✱\nCurrent location\n✱\nCurrent company\nLINKS\nLinkedIn URL\n✱\nEMPLOYMENT SPONSORSHIP\nWould you now or at any time require employer sponsorship to work in the country this role is located?\n✱\nCONFIRMATION OF ONSITE, IN-OFFICE POLICY\nPlease confirm that you are able to work in the office in which this role is advertised at minimum on Mondays, Tuesdays, and Thursdays (some teams are onsite Mon-Thurs)\nIf you have additional details around your answer, please share below.\nNOTICE PERIOD\nWhat is your current notice period?\n✱\nRELOCATION\nIf you are not currently a resident of the location in which the job is advertised, would you be willing to relocate?\n✱\nU.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION   (Completion is voluntary and will not subject you to adverse treatment)\n\nOur company values diversity. To ensure that we comply with reporting requirements and to learn more about how we can increase diversity in our candidate pool, we invite you to voluntarily provide demographic information in a confidential survey at the end of this application. Providing this information is optional. It will not be accessible or used in the hiring process, and has no effect on your opportunity for employment.\n\nGender\nSelect ...\nMale\nFemale\nDecline to self-identify\nRace\nSelect ...\nHispanic or Latino\nWhite (Not Hispanic or Latino)\nBlack or African American (Not Hispanic or Latino)\nNative Hawaiian or Other Pacific Islander (Not Hispanic or Latino)\nAsian (Not Hispanic or Latino)\nAmerican Indian or Alaska Native (Not Hispanic or Latino)\nTwo or More Races (Not Hispanic or Latino)\nDecline to self-identify\nVeteran status\nSelect ...\nI am a veteran\nI am not a veteran\nDecline to self-identify\nDEMOGRAPHIC SURVEY FOR SONARSOURCE\n\nWe invite you to complete this optional survey to help us evaluate our diversity and inclusion efforts. Submission of the information on this form is strictly voluntary and refusal to provide it will not subject you to any adverse treatment or affect your job application. Information obtained will be kept separate from your name or job application. This information will be kept secure and confidential and will be used solely to evaluate our diversity and inclusion efforts.\n\nWhat is your age range?\n18-20\n21-29\n30-39\n40-49\n50-59\n60 or older\nI identify my ethnicity as\n\nSelect all that apply\n\nWhite / Caucasian\nHispanic, Latino, or Spanish origin\nBlack or African American\nAsian\nNative Hawaiian or other Pacific Islander\nIndigenous Peoples, First Nations, Native American, or Alaska Native\nMiddle Eastern or North African\nSome other race, ethnicity, or origin\nWhat gender do you identify as?\nFemale\nMale\nNon-binary\nPrefer not to say\n\nYes, Sonar can contact me about future job opportunities for up to 3 years\nPrivacy policy\n\nSUBMIT APPLICATION\n\nSonar Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  },
+  "11_Paytm": {
+    "index": 11,
+    "company": "Paytm",
+    "title": "Product Management - Senior Product Manager - Ads",
+    "url": "https://jobs.lever.co/paytm/6cee2f1c-6cae-4e46-9533-d62283f56734/apply",
+    "field_count": 50,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Privacy Notice",
+        "required": false
+      },
+      {
+        "id": 2,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 3,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 5,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 6,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 8,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 10,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 12,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 14,
+        "label": "Current company\n✱",
+        "required": true
+      },
+      {
+        "id": 16,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "Github URL",
+        "required": false
+      },
+      {
+        "id": 21,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 23,
+        "label": "LMS HR QUES",
+        "required": false
+      },
+      {
+        "id": 24,
+        "label": "What is your total experience?\n✱",
+        "required": true
+      },
+      {
+        "id": 25,
+        "label": "Notice Period?\n✱",
+        "required": true
+      },
+      {
+        "id": 26,
+        "label": "Immediate Joiner",
+        "required": true
+      },
+      {
+        "id": 27,
+        "label": "Within 30 days",
+        "required": true
+      },
+      {
+        "id": 28,
+        "label": "30 - 60 Days",
+        "required": true
+      },
+      {
+        "id": 29,
+        "label": "60 - 90 Days",
+        "required": true
+      },
+      {
+        "id": 30,
+        "label": "What is your current CTC?\n✱",
+        "required": true
+      },
+      {
+        "id": 31,
+        "label": "What is your salary expectation?\n✱",
+        "required": true
+      },
+      {
+        "id": 32,
+        "label": "Please mention your reason for change.\n✱",
+        "required": true
+      },
+      {
+        "id": 33,
+        "label": "Please share a brief summary for your work experience/profile other than what is stated in your resume.\n✱",
+        "required": true
+      },
+      {
+        "id": 34,
+        "label": "Where are you based out of?\n✱",
+        "required": true
+      },
+      {
+        "id": 35,
+        "label": "DEMOGRAPHIC SURVEY",
+        "required": false
+      },
+      {
+        "id": 37,
+        "label": "What is your location?",
+        "required": false
+      },
+      {
+        "id": 38,
+        "label": "Demographic Survey for Paytm",
+        "required": false
+      },
+      {
+        "id": 39,
+        "label": "What is your age range?",
+        "required": false
+      },
+      {
+        "id": 40,
+        "label": "17 or younger",
+        "required": false
+      },
+      {
+        "id": 41,
+        "label": "18-20",
+        "required": false
+      },
+      {
+        "id": 42,
+        "label": "21-29",
+        "required": false
+      },
+      {
+        "id": 43,
+        "label": "30-39",
+        "required": false
+      },
+      {
+        "id": 44,
+        "label": "40-49",
+        "required": false
+      },
+      {
+        "id": 45,
+        "label": "50-59",
+        "required": false
+      },
+      {
+        "id": 46,
+        "label": "60 or older",
+        "required": false
+      },
+      {
+        "id": 47,
+        "label": "I identify my ethnicity asSelect all that apply",
+        "required": false
+      },
+      {
+        "id": 48,
+        "label": "White / Caucasian",
+        "required": false
+      },
+      {
+        "id": 49,
+        "label": "Hispanic, Latino, or Spanish origin",
+        "required": false
+      },
+      {
+        "id": 50,
+        "label": "Black or African American",
+        "required": false
+      },
+      {
+        "id": 51,
+        "label": "Asian",
+        "required": false
+      },
+      {
+        "id": 52,
+        "label": "Native Hawaiian or other Pacific Islander",
+        "required": false
+      },
+      {
+        "id": 53,
+        "label": "Indigenous Peoples, First Nations, Native American, or Alaska Native",
+        "required": false
+      },
+      {
+        "id": 54,
+        "label": "Middle Eastern or North African",
+        "required": false
+      },
+      {
+        "id": 55,
+        "label": "Some other race, ethnicity, or origin",
+        "required": false
+      },
+      {
+        "id": 56,
+        "label": "What gender do you identify as?",
+        "required": false
+      },
+      {
+        "id": 57,
+        "label": "Female",
+        "required": false
+      },
+      {
+        "id": 58,
+        "label": "Male",
+        "required": false
+      },
+      {
+        "id": 59,
+        "label": "Non-binary",
+        "required": false
+      }
+    ],
+    "full_jd": "🍪\ndismiss\nPrivacy Notice\n\nThis website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.\n\nProduct Management - Senior Product Manager - Ads\nBangalore, KarnatakaProduct – Paytm Ads /Full-Time Employment /On-Site\nSUBMIT YOUR APPLICATION\nLinkedIn profile\nLoading...\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\n✱\nCurrent location\n✱\nCurrent company\n✱\nLINKS\nLinkedIn URL\nGithub URL\nOther website\nLMS HR QUES\nWhat is your total experience?\n✱\nNotice Period?\n✱\nImmediate Joiner\nWithin 30 days\n30 - 60 Days\n60 - 90 Days\nWhat is your current CTC?\n✱\nWhat is your salary expectation?\n✱\nPlease mention your reason for change.\n✱\nPlease share a brief summary for your work experience/profile other than what is stated in your resume.\n✱\nWhere are you based out of?\n✱\nDEMOGRAPHIC SURVEY\nWhat is your location?\nSelect...\nAfghanistan\nAlbania\nAlgeria\nAmerican Samoa\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua and Barbuda\nArgentina\nArmenia\nAruba\nAustralia\nAustria\nAzerbaijan\nBahamas\nBahrain\nBangladesh\nBarbados\nBelarus\nBelgium\nBelize\nBenin\nBermuda\nBhutan\nBolivia\nBonaire, Sint Eustatius and Saba\nBosnia and Herzegovina\nBotswana\nBouvet Island\nBrazil\nBritish Indian Ocean Territory\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCape Verde\nCayman Islands\nCentral African Republic\nChad\nChile\nChina\nChristmas Island\nCocos (Keeling) Islands\nColombia\nComoros\nCongo\nCongo, the Democratic Republic of the\nCook Islands\nCosta Rica\nCroatia\nCuba\nCuraçao\nCyprus\nCzech Republic\nDenmark\nDjibouti\nDominica\nDominican Republic\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEswatini\nEthiopia\nFalkland Islands\nFaroe Islands\nFiji\nFinland\nFrance\nFrench Guiana\nFrench Polynesia\nFrench Southern Territories\nGabon\nGambia\nGeorgia\nGermany\nGhana\nGibraltar\nGreece\nGreenland\nGrenada\nGuadeloupe\nGuam\nGuatemala\nGuernsey\nGuinea\nGuinea-Bissau\nGuyana\nHaiti\nHeard Island and McDonald Islands\nHoly See (Vatican City State)\nHonduras\nHong Kong\nHungary\nIceland\nIndia\nIndonesia\nIran\nIraq\nIreland\nIsle of Man\nIsrael\nItaly\nIvory Coast\nJamaica\nJapan\nJersey\nJordan\nKazakhstan\nKenya\nKiribati\nKosovo\nKuwait\nKyrgyzstan\nLaos\nLatvia\nLebanon\nLesotho\nLiberia\nLibya\nLiechtenstein\nLithuania\nLuxembourg\nMacao\nMacedonia, the Former Yugoslav Republic of\nMadagascar\nMalawi\nMalaysia\nMaldives\nMali\nMalta\nMarshall Islands\nMartinique\nMauritania\nMauritius\nMayotte\nMexico\nMicronesia, Federated States of\nMoldova\nMonaco\nMongolia\nMontenegro\nMontserrat\nMorocco\nMozambique\nMyanmar\nNamibia\nNauru\nNepal\nNetherlands\nNew Caledonia\nNew Zealand\nNicaragua\nNiger\nNigeria\nNiue\nNorfolk Island\nNorth Korea\nNorthern Mariana Islands\nNorway\nOman\nPakistan\nPalau\nPalestine, State of\nPanama\nPapua New Guinea\nParaguay\nPeru\nPhilippines\nPitcairn\nPoland\nPortugal\nPuerto Rico\nQatar\nRomania\nRussia\nRwanda\nRéunion\nSaint Barthélemy\nSaint Helena, Ascension and Tristan da Cunha\nSaint Kitts and Nevis\nSaint Lucia\nSaint Martin (French part)\nSaint Pierre and Miquelon\nSaint Vincent and the Grenadines\nSamoa\nSan Marino\nSao Tome and Principe\nSaudi Arabia\nSenegal\nSerbia\nSeychelles\nSierra Leone\nSingapore\nSint Maarten (Dutch part)\nSlovakia\nSlovenia\nSolomon Islands\nSomalia\nSouth Africa\nSouth Georgia and the South Sandwich Islands\nSouth Korea\nSouth Sudan\nSpain\nSri Lanka\nSudan\nSuriname\nSvalbard and Jan Mayen\nSweden\nSwitzerland\nSyria\nTaiwan\nTajikistan\nTanzania\nThailand\nTimor-Leste\nTogo\nTokelau\nTonga\nTrinidad and Tobago\nTunisia\nTurkey\nTurkmenistan\nTurks and Caicos Islands\nTuvalu\nUganda\nUkraine\nUnited Arab Emirates\nUnited Kingdom\nUnited States\nUnited States Minor Outlying Islands\nUruguay\nUzbekistan\nVanuatu\nVenezuela\nVietnam\nVirgin Islands, British\nVirgin Islands, U.S.\nWallis and Futuna\nWestern Sahara\nYemen\nZambia\nZimbabwe\nÅland Islands\nSUBMIT APPLICATION\n\nPaytm Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  },
+  "12_Complex": {
+    "index": 12,
+    "company": "Complex",
+    "title": "TITOL™ Senior Product Manager",
+    "url": "https://jobs.lever.co/Complex/49b27d76-e54a-4ed4-887e-d15278253c2b/apply",
+    "field_count": 49,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 4,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 6,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 8,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 10,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 12,
+        "label": "Current company\n✱",
+        "required": true
+      },
+      {
+        "id": 14,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "LinkedIn URL\n✱",
+        "required": true
+      },
+      {
+        "id": 17,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 21,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 23,
+        "label": "VISA STATUS & WORK AUTHORIZATION",
+        "required": false
+      },
+      {
+        "id": 24,
+        "label": "What is your current U.S. work authorization status?\n✱",
+        "required": true
+      },
+      {
+        "id": 25,
+        "label": "U.S. Citizen",
+        "required": true
+      },
+      {
+        "id": 26,
+        "label": "U.S. Permanent Resident (Green Card holder)",
+        "required": true
+      },
+      {
+        "id": 27,
+        "label": "Authorized to work on a Visa",
+        "required": true
+      },
+      {
+        "id": 28,
+        "label": "U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION   (Completion is voluntary and will not subject you to adverse treatment)",
+        "required": false
+      },
+      {
+        "id": 29,
+        "label": "Gender\nSelect ...\nMale\nFemale\nDecline to self-identify",
+        "required": false
+      },
+      {
+        "id": 30,
+        "label": "Gender",
+        "required": false
+      },
+      {
+        "id": 32,
+        "label": "Race",
+        "required": false
+      },
+      {
+        "id": 33,
+        "label": "Veteran status\nSelect ...\nI am a veteran\nI am not a veteran\nDecline to self-identify",
+        "required": false
+      },
+      {
+        "id": 34,
+        "label": "Veteran status",
+        "required": false
+      },
+      {
+        "id": 35,
+        "label": "DEMOGRAPHIC SURVEY",
+        "required": false
+      },
+      {
+        "id": 37,
+        "label": "What is your location?",
+        "required": false
+      },
+      {
+        "id": 38,
+        "label": "Demographic Survey for NTWRK",
+        "required": false
+      },
+      {
+        "id": 39,
+        "label": "What is your age range?",
+        "required": false
+      },
+      {
+        "id": 40,
+        "label": "17 or younger",
+        "required": false
+      },
+      {
+        "id": 41,
+        "label": "18-20",
+        "required": false
+      },
+      {
+        "id": 42,
+        "label": "21-29",
+        "required": false
+      },
+      {
+        "id": 43,
+        "label": "30-39",
+        "required": false
+      },
+      {
+        "id": 44,
+        "label": "40-49",
+        "required": false
+      },
+      {
+        "id": 45,
+        "label": "50-59",
+        "required": false
+      },
+      {
+        "id": 46,
+        "label": "60 or older",
+        "required": false
+      },
+      {
+        "id": 47,
+        "label": "I identify my ethnicity asSelect all that apply",
+        "required": false
+      },
+      {
+        "id": 48,
+        "label": "White / Caucasian",
+        "required": false
+      },
+      {
+        "id": 49,
+        "label": "Hispanic, Latino, or Spanish origin",
+        "required": false
+      },
+      {
+        "id": 50,
+        "label": "Black or African American",
+        "required": false
+      },
+      {
+        "id": 51,
+        "label": "Asian",
+        "required": false
+      },
+      {
+        "id": 52,
+        "label": "Native Hawaiian or other Pacific Islander",
+        "required": false
+      },
+      {
+        "id": 53,
+        "label": "Indigenous Peoples, First Nations, Native American, or Alaska Native",
+        "required": false
+      },
+      {
+        "id": 54,
+        "label": "Middle Eastern or North African",
+        "required": false
+      },
+      {
+        "id": 55,
+        "label": "Some other race, ethnicity, or origin",
+        "required": false
+      },
+      {
+        "id": 56,
+        "label": "What gender do you identify as?",
+        "required": false
+      },
+      {
+        "id": 57,
+        "label": "Female",
+        "required": false
+      },
+      {
+        "id": 58,
+        "label": "Male",
+        "required": false
+      },
+      {
+        "id": 59,
+        "label": "Non-binary",
+        "required": false
+      },
+      {
+        "id": 60,
+        "label": "Other",
+        "required": false
+      }
+    ],
+    "full_jd": "TITOL™ Senior Product Manager\nLos AngelesTITOL™ /Full-Time /On-Site\nSUBMIT YOUR APPLICATION\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\n✱\nCurrent location\n✱\nCurrent company\n✱\nLINKS\nLinkedIn URL\n✱\nGitHub URL\nPortfolio URL\nOther website\nVISA STATUS & WORK AUTHORIZATION\nWhat is your current U.S. work authorization status?\n✱\nU.S. Citizen\nU.S. Permanent Resident (Green Card holder)\nAuthorized to work on a Visa\nU.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION   (Completion is voluntary and will not subject you to adverse treatment)\n\nOur company values diversity. To ensure that we comply with reporting requirements and to learn more about how we can increase diversity in our candidate pool, we invite you to voluntarily provide demographic information in a confidential survey at the end of this application. Providing this information is optional. It will not be accessible or used in the hiring process, and has no effect on your opportunity for employment.\n\nGender\nSelect ...\nMale\nFemale\nDecline to self-identify\nRace\nSelect ...\nHispanic or Latino\nWhite (Not Hispanic or Latino)\nBlack or African American (Not Hispanic or Latino)\nNative Hawaiian or Other Pacific Islander (Not Hispanic or Latino)\nAsian (Not Hispanic or Latino)\nAmerican Indian or Alaska Native (Not Hispanic or Latino)\nTwo or More Races (Not Hispanic or Latino)\nDecline to self-identify\nVeteran status\nSelect ...\nI am a veteran\nI am not a veteran\nDecline to self-identify\nDEMOGRAPHIC SURVEY\nWhat is your location?\nSelect...\nAfghanistan\nAlbania\nAlgeria\nAmerican Samoa\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua and Barbuda\nArgentina\nArmenia\nAruba\nAustralia\nAustria\nAzerbaijan\nBahamas\nBahrain\nBangladesh\nBarbados\nBelarus\nBelgium\nBelize\nBenin\nBermuda\nBhutan\nBolivia\nBonaire, Sint Eustatius and Saba\nBosnia and Herzegovina\nBotswana\nBouvet Island\nBrazil\nBritish Indian Ocean Territory\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCape Verde\nCayman Islands\nCentral African Republic\nChad\nChile\nChina\nChristmas Island\nCocos (Keeling) Islands\nColombia\nComoros\nCongo\nCongo, the Democratic Republic of the\nCook Islands\nCosta Rica\nCroatia\nCuba\nCuraçao\nCyprus\nCzech Republic\nDenmark\nDjibouti\nDominica\nDominican Republic\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEswatini\nEthiopia\nFalkland Islands\nFaroe Islands\nFiji\nFinland\nFrance\nFrench Guiana\nFrench Polynesia\nFrench Southern Territories\nGabon\nGambia\nGeorgia\nGermany\nGhana\nGibraltar\nGreece\nGreenland\nGrenada\nGuadeloupe\nGuam\nGuatemala\nGuernsey\nGuinea\nGuinea-Bissau\nGuyana\nHaiti\nHeard Island and McDonald Islands\nHoly See (Vatican City State)\nHonduras\nHong Kong\nHungary\nIceland\nIndia\nIndonesia\nIran\nIraq\nIreland\nIsle of Man\nIsrael\nItaly\nIvory Coast\nJamaica\nJapan\nJersey\nJordan\nKazakhstan\nKenya\nKiribati\nKosovo\nKuwait\nKyrgyzstan\nLaos\nLatvia\nLebanon\nLesotho\nLiberia\nLibya\nLiechtenstein\nLithuania\nLuxembourg\nMacao\nMacedonia, the Former Yugoslav Republic of\nMadagascar\nMalawi\nMalaysia\nMaldives\nMali\nMalta\nMarshall Islands\nMartinique\nMauritania\nMauritius\nMayotte\nMexico\nMicronesia, Federated States of\nMoldova\nMonaco\nMongolia\nMontenegro\nMontserrat\nMorocco\nMozambique\nMyanmar\nNamibia\nNauru\nNepal\nNetherlands\nNew Caledonia\nNew Zealand\nNicaragua\nNiger\nNigeria\nNiue\nNorfolk Island\nNorth Korea\nNorthern Mariana Islands\nNorway\nOman\nPakistan\nPalau\nPalestine, State of\nPanama\nPapua New Guinea\nParaguay\nPeru\nPhilippines\nPitcairn\nPoland\nPortugal\nPuerto Rico\nQatar\nRomania\nRussia\nRwanda\nRéunion\nSaint Barthélemy\nSaint Helena, Ascension and Tristan da Cunha\nSaint Kitts and Nevis\nSaint Lucia\nSaint Martin (French part)\nSaint Pierre and Miquelon\nSaint Vincent and the Grenadines\nSamoa\nSan Marino\nSao Tome and Principe\nSaudi Arabia\nSenegal\nSerbia\nSeychelles\nSierra Leone\nSingapore\nSint Maarten (Dutch part)\nSlovakia\nSlovenia\nSolomon Islands\nSomalia\nSouth Africa\nSouth Georgia and the South Sandwich Islands\nSouth Korea\nSouth Sudan\nSpain\nSri Lanka\nSudan\nSuriname\nSvalbard and Jan Mayen\nSweden\nSwitzerland\nSyria\nTaiwan\nTajikistan\nTanzania\nThailand\nTimor-Leste\nTogo\nTokelau\nTonga\nTrinidad and Tobago\nTunisia\nTurkey\nTurkmenistan\nTurks and Caicos Islands\nTuvalu\nUganda\nUkraine\nUnited Arab Emirates\nUnited Kingdom\nUnited States\nUnited States Minor Outlying Islands\nUruguay\nUzbekistan\nVanuatu\nVenezuela\nVietnam\nVirgin Islands, British\nVirgin Islands, U.S.\nWallis and Futuna\nWestern Sahara\nYemen\nZambia\nZimbabwe\nÅland Islands\nSUBMIT APPLICATION\n\nComplex Home Page\n\nJobs powered by"
+  },
+  "13_Paytm": {
+    "index": 13,
+    "company": "Paytm",
+    "title": "Product Management - Senior Product Manager - UPI Product",
+    "url": "https://jobs.lever.co/paytm/fec8e98b-d09b-4edb-b5a9-fe04aa079a3c/apply",
+    "field_count": 38,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Privacy Notice",
+        "required": false
+      },
+      {
+        "id": 2,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 3,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 5,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 6,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 8,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 10,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 12,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 14,
+        "label": "Current company\n✱",
+        "required": true
+      },
+      {
+        "id": 16,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "Github URL",
+        "required": false
+      },
+      {
+        "id": 21,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 23,
+        "label": "DEMOGRAPHIC SURVEY",
+        "required": false
+      },
+      {
+        "id": 25,
+        "label": "What is your location?",
+        "required": false
+      },
+      {
+        "id": 26,
+        "label": "Demographic Survey for Paytm",
+        "required": false
+      },
+      {
+        "id": 27,
+        "label": "What is your age range?",
+        "required": false
+      },
+      {
+        "id": 28,
+        "label": "17 or younger",
+        "required": false
+      },
+      {
+        "id": 29,
+        "label": "18-20",
+        "required": false
+      },
+      {
+        "id": 30,
+        "label": "21-29",
+        "required": false
+      },
+      {
+        "id": 31,
+        "label": "30-39",
+        "required": false
+      },
+      {
+        "id": 32,
+        "label": "40-49",
+        "required": false
+      },
+      {
+        "id": 33,
+        "label": "50-59",
+        "required": false
+      },
+      {
+        "id": 34,
+        "label": "60 or older",
+        "required": false
+      },
+      {
+        "id": 35,
+        "label": "I identify my ethnicity asSelect all that apply",
+        "required": false
+      },
+      {
+        "id": 36,
+        "label": "White / Caucasian",
+        "required": false
+      },
+      {
+        "id": 37,
+        "label": "Hispanic, Latino, or Spanish origin",
+        "required": false
+      },
+      {
+        "id": 38,
+        "label": "Black or African American",
+        "required": false
+      },
+      {
+        "id": 39,
+        "label": "Asian",
+        "required": false
+      },
+      {
+        "id": 40,
+        "label": "Native Hawaiian or other Pacific Islander",
+        "required": false
+      },
+      {
+        "id": 41,
+        "label": "Indigenous Peoples, First Nations, Native American, or Alaska Native",
+        "required": false
+      },
+      {
+        "id": 42,
+        "label": "Middle Eastern or North African",
+        "required": false
+      },
+      {
+        "id": 43,
+        "label": "Some other race, ethnicity, or origin",
+        "required": false
+      },
+      {
+        "id": 44,
+        "label": "What gender do you identify as?",
+        "required": false
+      },
+      {
+        "id": 45,
+        "label": "Female",
+        "required": false
+      },
+      {
+        "id": 46,
+        "label": "Male",
+        "required": false
+      },
+      {
+        "id": 47,
+        "label": "Non-binary",
+        "required": false
+      }
+    ],
+    "full_jd": "🍪\ndismiss\nPrivacy Notice\n\nThis website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.\n\nProduct Management - Senior Product Manager - UPI Product\nNoida, Uttar PradeshProduct – App Product /Full-Time Employment /On-Site\nSUBMIT YOUR APPLICATION\nLinkedIn profile\nLoading...\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\n✱\nCurrent location\n✱\nCurrent company\n✱\nLINKS\nLinkedIn URL\nGithub URL\nOther website\nDEMOGRAPHIC SURVEY\nWhat is your location?\nSelect...\nAfghanistan\nAlbania\nAlgeria\nAmerican Samoa\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua and Barbuda\nArgentina\nArmenia\nAruba\nAustralia\nAustria\nAzerbaijan\nBahamas\nBahrain\nBangladesh\nBarbados\nBelarus\nBelgium\nBelize\nBenin\nBermuda\nBhutan\nBolivia\nBonaire, Sint Eustatius and Saba\nBosnia and Herzegovina\nBotswana\nBouvet Island\nBrazil\nBritish Indian Ocean Territory\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCape Verde\nCayman Islands\nCentral African Republic\nChad\nChile\nChina\nChristmas Island\nCocos (Keeling) Islands\nColombia\nComoros\nCongo\nCongo, the Democratic Republic of the\nCook Islands\nCosta Rica\nCroatia\nCuba\nCuraçao\nCyprus\nCzech Republic\nDenmark\nDjibouti\nDominica\nDominican Republic\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEswatini\nEthiopia\nFalkland Islands\nFaroe Islands\nFiji\nFinland\nFrance\nFrench Guiana\nFrench Polynesia\nFrench Southern Territories\nGabon\nGambia\nGeorgia\nGermany\nGhana\nGibraltar\nGreece\nGreenland\nGrenada\nGuadeloupe\nGuam\nGuatemala\nGuernsey\nGuinea\nGuinea-Bissau\nGuyana\nHaiti\nHeard Island and McDonald Islands\nHoly See (Vatican City State)\nHonduras\nHong Kong\nHungary\nIceland\nIndia\nIndonesia\nIran\nIraq\nIreland\nIsle of Man\nIsrael\nItaly\nIvory Coast\nJamaica\nJapan\nJersey\nJordan\nKazakhstan\nKenya\nKiribati\nKosovo\nKuwait\nKyrgyzstan\nLaos\nLatvia\nLebanon\nLesotho\nLiberia\nLibya\nLiechtenstein\nLithuania\nLuxembourg\nMacao\nMacedonia, the Former Yugoslav Republic of\nMadagascar\nMalawi\nMalaysia\nMaldives\nMali\nMalta\nMarshall Islands\nMartinique\nMauritania\nMauritius\nMayotte\nMexico\nMicronesia, Federated States of\nMoldova\nMonaco\nMongolia\nMontenegro\nMontserrat\nMorocco\nMozambique\nMyanmar\nNamibia\nNauru\nNepal\nNetherlands\nNew Caledonia\nNew Zealand\nNicaragua\nNiger\nNigeria\nNiue\nNorfolk Island\nNorth Korea\nNorthern Mariana Islands\nNorway\nOman\nPakistan\nPalau\nPalestine, State of\nPanama\nPapua New Guinea\nParaguay\nPeru\nPhilippines\nPitcairn\nPoland\nPortugal\nPuerto Rico\nQatar\nRomania\nRussia\nRwanda\nRéunion\nSaint Barthélemy\nSaint Helena, Ascension and Tristan da Cunha\nSaint Kitts and Nevis\nSaint Lucia\nSaint Martin (French part)\nSaint Pierre and Miquelon\nSaint Vincent and the Grenadines\nSamoa\nSan Marino\nSao Tome and Principe\nSaudi Arabia\nSenegal\nSerbia\nSeychelles\nSierra Leone\nSingapore\nSint Maarten (Dutch part)\nSlovakia\nSlovenia\nSolomon Islands\nSomalia\nSouth Africa\nSouth Georgia and the South Sandwich Islands\nSouth Korea\nSouth Sudan\nSpain\nSri Lanka\nSudan\nSuriname\nSvalbard and Jan Mayen\nSweden\nSwitzerland\nSyria\nTaiwan\nTajikistan\nTanzania\nThailand\nTimor-Leste\nTogo\nTokelau\nTonga\nTrinidad and Tobago\nTunisia\nTurkey\nTurkmenistan\nTurks and Caicos Islands\nTuvalu\nUganda\nUkraine\nUnited Arab Emirates\nUnited Kingdom\nUnited States\nUnited States Minor Outlying Islands\nUruguay\nUzbekistan\nVanuatu\nVenezuela\nVietnam\nVirgin Islands, British\nVirgin Islands, U.S.\nWallis and Futuna\nWestern Sahara\nYemen\nZambia\nZimbabwe\nÅland Islands\nSUBMIT APPLICATION\n\nPaytm Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  },
+  "14_Hihello": {
+    "index": 14,
+    "company": "Hihello",
+    "title": "Demand Generation Manager",
+    "url": "https://jobs.lever.co/hihello/43247f8e-dde5-4004-97b3-8ea158b2400d/apply",
+    "field_count": 18,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 4,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 6,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 8,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 10,
+        "label": "Current location",
+        "required": false
+      },
+      {
+        "id": 12,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "Twitter URL",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 21,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 23,
+        "label": "HiHello",
+        "required": false
+      },
+      {
+        "id": 25,
+        "label": "DEMAND GENERATION MANAGER QUESTIONS",
+        "required": false
+      },
+      {
+        "id": 26,
+        "label": "No one matches a JD perfectly. What part of this role would be the biggest stretch for you, and how would you approach getting up to speed?\n✱",
+        "required": true
+      },
+      {
+        "id": 27,
+        "label": "What are your compensation expectations?\n✱",
+        "required": true
+      },
+      {
+        "id": 28,
+        "label": "Have you worked both in-house and at an agency?\n✱",
+        "required": true
+      }
+    ],
+    "full_jd": "Demand Generation Manager\nRemoteMarketing – Marketing Team /Full-Time Employee - Remote /Remote\nSUBMIT YOUR APPLICATION\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\n✱\nCurrent location\nCurrent company\nLINKS\nLinkedIn URL\nTwitter URL\nGitHub URL\nPortfolio URL\nHiHello\nDEMAND GENERATION MANAGER QUESTIONS\nNo one matches a JD perfectly. What part of this role would be the biggest stretch for you, and how would you approach getting up to speed?\n✱\nWhat are your compensation expectations?\n✱\nHave you worked both in-house and at an agency?\n✱\nSUBMIT APPLICATION\n\nHiHello Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  },
+  "15_Smarsh": {
+    "index": 15,
+    "company": "Smarsh",
+    "title": "Sr. Principal,  Product Manager - Agentic & Platform",
+    "url": "https://jobs.lever.co/smarsh/560e0691-f071-4f94-8aa3-b8fda6642956/apply",
+    "field_count": 62,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Privacy Notice",
+        "required": false
+      },
+      {
+        "id": 2,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 3,
+        "label": "Which location are you applying for?",
+        "required": false
+      },
+      {
+        "id": 4,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 5,
+        "label": "Resume/CV\nATTACH RESUME/CV",
+        "required": false
+      },
+      {
+        "id": 6,
+        "label": "Resume/CV",
+        "required": false
+      },
+      {
+        "id": 7,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 9,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 11,
+        "label": "Phone",
+        "required": false
+      },
+      {
+        "id": 13,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 15,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 18,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 20,
+        "label": "Twitter URL",
+        "required": false
+      },
+      {
+        "id": 22,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 24,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 26,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 28,
+        "label": "WORK AUTHORIZATION STATUS - US",
+        "required": false
+      },
+      {
+        "id": 29,
+        "label": "Will you require visa sponsorship now or in the future?\n✱",
+        "required": true
+      },
+      {
+        "id": 30,
+        "label": "Yes",
+        "required": true
+      },
+      {
+        "id": 31,
+        "label": "No",
+        "required": true
+      },
+      {
+        "id": 32,
+        "label": "SR. PRINCIPAL, PRODUCT MANAGER - AGENTIC & PLATFORM",
+        "required": false
+      },
+      {
+        "id": 33,
+        "label": "Describe a developer-facing API or platform surface you have personally owned as a product decision, not id yan engineering one. What did you define, how dou make trade-offs, and what does the spec or documentation you wrote look like?\n✱",
+        "required": true
+      },
+      {
+        "id": 34,
+        "label": "Describe a developer-facing API or platform surface you have personally owned as a product decision - not an engineering one. What did you define, how did you make trade-offs, and what does the spec or documentation you wrote look like?\n✱",
+        "required": true
+      },
+      {
+        "id": 35,
+        "label": "Describe your experience building products for regulated industries - financial services, legal technology, compliance, or similar. What did \"wrong answers carry regulatory exposure\" mean in practice for how you made product decisions?\n✱",
+        "required": true
+      },
+      {
+        "id": 36,
+        "label": "Walk us through how you have translated AI or ML model capabilities into product value, pricing, or packaging decisions. What was the model doing, how did you frame its value to customers, and how did that inform how it was sold or tiered?\n✱",
+        "required": true
+      },
+      {
+        "id": 37,
+        "label": "EAST COAST TIME ZONE WORK HOURS REQUIREMENT",
+        "required": false
+      },
+      {
+        "id": 38,
+        "label": "Are you currently based in and/or able to work Eastern Time zone hours?\n✱",
+        "required": true
+      },
+      {
+        "id": 41,
+        "label": "U.S. Equal Employment Opportunity information   (Completion is voluntary and will not subject you to adverse treatment)",
+        "required": false
+      },
+      {
+        "id": 42,
+        "label": "GenderSelect ...MaleFemaleDecline to self-identify",
+        "required": false
+      },
+      {
+        "id": 43,
+        "label": "Gender",
+        "required": false
+      },
+      {
+        "id": 45,
+        "label": "Race",
+        "required": false
+      },
+      {
+        "id": 46,
+        "label": "Self-identification of veteran status   (Completion is voluntary and will not subject you to adverse treatment)",
+        "required": false
+      },
+      {
+        "id": 47,
+        "label": "Veteran statusSelect ...I identify as one or more of the classifications of protected veteran listed aboveI am not a protected veteranI decline to self-identify for protected veteran status",
+        "required": false
+      },
+      {
+        "id": 48,
+        "label": "Veteran status",
+        "required": false
+      },
+      {
+        "id": 49,
+        "label": "Voluntary self-identification of disability",
+        "required": false
+      },
+      {
+        "id": 50,
+        "label": "Disability statusSelect ...Yes, I have a disability, or have had one in the pastNo, I do not have a disability and have not had one in the pastI do not want to answer",
+        "required": false
+      },
+      {
+        "id": 51,
+        "label": "Disability status",
+        "required": false
+      },
+      {
+        "id": 52,
+        "label": "Name",
+        "required": false
+      },
+      {
+        "id": 54,
+        "label": "Date",
+        "required": false
+      },
+      {
+        "id": 56,
+        "label": "Demographic Survey for Smarsh",
+        "required": false
+      },
+      {
+        "id": 57,
+        "label": "What is your age range?",
+        "required": false
+      },
+      {
+        "id": 58,
+        "label": "17 or younger",
+        "required": false
+      },
+      {
+        "id": 59,
+        "label": "18-20",
+        "required": false
+      },
+      {
+        "id": 60,
+        "label": "21-29",
+        "required": false
+      },
+      {
+        "id": 61,
+        "label": "30-39",
+        "required": false
+      },
+      {
+        "id": 62,
+        "label": "40-49",
+        "required": false
+      },
+      {
+        "id": 63,
+        "label": "50-59",
+        "required": false
+      },
+      {
+        "id": 64,
+        "label": "60 or older",
+        "required": false
+      },
+      {
+        "id": 65,
+        "label": "I identify my ethnicity asSelect all that apply",
+        "required": false
+      },
+      {
+        "id": 66,
+        "label": "White / Caucasian",
+        "required": false
+      },
+      {
+        "id": 67,
+        "label": "Hispanic, Latino, or Spanish origin",
+        "required": false
+      },
+      {
+        "id": 68,
+        "label": "Black or African American",
+        "required": false
+      },
+      {
+        "id": 69,
+        "label": "Asian",
+        "required": false
+      },
+      {
+        "id": 70,
+        "label": "Native Hawaiian or other Pacific Islander",
+        "required": false
+      },
+      {
+        "id": 71,
+        "label": "Indigenous Peoples, First Nations, Native American, or Alaska Native",
+        "required": false
+      },
+      {
+        "id": 72,
+        "label": "Middle Eastern or North African",
+        "required": false
+      },
+      {
+        "id": 73,
+        "label": "Some other race, ethnicity, or origin",
+        "required": false
+      },
+      {
+        "id": 74,
+        "label": "What gender do you identify as?",
+        "required": false
+      },
+      {
+        "id": 75,
+        "label": "Female",
+        "required": false
+      },
+      {
+        "id": 76,
+        "label": "Male",
+        "required": false
+      },
+      {
+        "id": 77,
+        "label": "Non-binary",
+        "required": false
+      }
+    ],
+    "full_jd": "🍪\ndenyaccept\nPrivacy Notice\n\nThis website uses cookies to improve your web experience. By clicking Accept, you agree to the use of cookies. Cookie Policy\n\nSr. Principal, Product Manager - Agentic & Platform\nUS - Remote / Atlanta / New YorkDivisions – Product Management /Full-Time /Remote\nSUBMIT YOUR APPLICATION\nWhich location are you applying for?\nSelect...\nUS - Remote\nAtlanta\nNew York\nLinkedIn profile\nLoading...\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\nCurrent location\n✱\nCurrent company\nLINKS\nLinkedIn URL\nTwitter URL\nGitHub URL\nPortfolio URL\nOther website\nWORK AUTHORIZATION STATUS - US\nWill you require visa sponsorship now or in the future?\n✱\nYes\nNo\nSR. PRINCIPAL, PRODUCT MANAGER - AGENTIC & PLATFORM\nDescribe a developer-facing API or platform surface you have personally owned as a product decision, not id yan engineering one. What did you define, how dou make trade-offs, and what does the spec or documentation you wrote look like?\n✱\nDescribe a developer-facing API or platform surface you have personally owned as a product decision - not an engineering one. What did you define, how did you make trade-offs, and what does the spec or documentation you wrote look like?\n✱\nDescribe your experience building products for regulated industries - financial services, legal technology, compliance, or similar. What did \"wrong answers carry regulatory exposure\" mean in practice for how you made product decisions?\n✱\nWalk us through how you have translated AI or ML model capabilities into product value, pricing, or packaging decisions. What was the model doing, how did you frame its value to customers, and how did that inform how it was sold or tiered?\n✱\nEAST COAST TIME ZONE WORK HOURS REQUIREMENT\nAre you currently based in and/or able to work Eastern Time zone hours?\n✱\nYes\nNo\nSUBMIT APPLICATION\n\nSmarsh Home Page\n\nJobs powered by"
+  },
+  "16_Wmg": {
+    "index": 16,
+    "company": "Wmg",
+    "title": "Product Manager",
+    "url": "https://jobs.lever.co/wmg/2badd508-5d7d-4733-b357-f2eecf7cd1b6/apply",
+    "field_count": 31,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "Resume/CV\nATTACH RESUME/CV",
+        "required": false
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV",
+        "required": false
+      },
+      {
+        "id": 4,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 6,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 8,
+        "label": "Phone",
+        "required": false
+      },
+      {
+        "id": 10,
+        "label": "Current location",
+        "required": false
+      },
+      {
+        "id": 12,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "Twitter URL",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 21,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 23,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 25,
+        "label": "INDIA ONSITE",
+        "required": false
+      },
+      {
+        "id": 26,
+        "label": "What are your Total Compensation Expectations in LPA?\n✱",
+        "required": true
+      },
+      {
+        "id": 27,
+        "label": "Working Model Preference\n✱",
+        "required": true
+      },
+      {
+        "id": 28,
+        "label": "Notice Period (In Days)\n✱",
+        "required": true
+      },
+      {
+        "id": 29,
+        "label": "DEMOGRAPHIC SURVEY FOR WARNER MUSIC INC.",
+        "required": false
+      },
+      {
+        "id": 30,
+        "label": "I identify my ethnicity as\n\nSelect all that apply",
+        "required": false
+      },
+      {
+        "id": 31,
+        "label": "White / Caucasian",
+        "required": false
+      },
+      {
+        "id": 32,
+        "label": "Hispanic, Latino, or Spanish origin",
+        "required": false
+      },
+      {
+        "id": 33,
+        "label": "Black or African American",
+        "required": false
+      },
+      {
+        "id": 34,
+        "label": "Asian",
+        "required": false
+      },
+      {
+        "id": 35,
+        "label": "Native Hawaiian or other Pacific Islander",
+        "required": false
+      },
+      {
+        "id": 36,
+        "label": "Some other race, ethnicity, or origin",
+        "required": false
+      },
+      {
+        "id": 37,
+        "label": "What gender do you identify as?",
+        "required": false
+      },
+      {
+        "id": 38,
+        "label": "Female",
+        "required": false
+      },
+      {
+        "id": 39,
+        "label": "Male",
+        "required": false
+      },
+      {
+        "id": 40,
+        "label": "Non-binary",
+        "required": false
+      },
+      {
+        "id": 41,
+        "label": "Choose not to Answer",
+        "required": false
+      }
+    ],
+    "full_jd": "Product Manager\nBangaloreProduct – Product Management /Full-Time /Hybrid\nSUBMIT YOUR APPLICATION\nResume/CV\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\nCurrent location\nCurrent company\nLINKS\nLinkedIn URL\nTwitter URL\nGitHub URL\nPortfolio URL\nOther website\nINDIA ONSITE\nWhat are your Total Compensation Expectations in LPA?\n✱\nWorking Model Preference\n✱\nSelect...\nResiding in Bangalore and willing to work in a hybrid mode\nResiding outside Bangalore but willing to relocate yourself and work in a hybrid mode\nRemote opportunities only\nNotice Period (In Days)\n✱\nSelect...\nImmediate Joiner\n1-15 days\n16-30 days\n31-45 days\n46-60 days\nMore than 60 days\nDEMOGRAPHIC SURVEY FOR WARNER MUSIC INC.\n\nWe invite you to complete this optional survey to help us evaluate our diversity and inclusion efforts. Submission of the information on this form is strictly voluntary and refusal to provide it will not subject you to any adverse treatment or affect your job application. Information obtained will be kept separate from your name or job application. This information will be kept secure and confidential and will be used solely to evaluate our diversity and inclusion efforts.\n\nI identify my ethnicity as\n\nSelect all that apply\n\nWhite / Caucasian\nHispanic, Latino, or Spanish origin\nBlack or African American\nAsian\nNative Hawaiian or other Pacific Islander\nSome other race, ethnicity, or origin\nWhat gender do you identify as?\nFemale\nMale\nNon-binary\nChoose not to Answer\nSUBMIT APPLICATION\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  },
+  "17_Ethena": {
+    "index": 17,
+    "company": "Ethena",
+    "title": "Senior Product Marketing Manager",
+    "url": "https://jobs.lever.co/ethena/7974afd4-c173-4086-9d2c-78c2349c6f62/apply",
+    "field_count": 43,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 4,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 6,
+        "label": "Pronouns",
+        "required": false
+      },
+      {
+        "id": 7,
+        "label": "He/him",
+        "required": false
+      },
+      {
+        "id": 8,
+        "label": "She/her",
+        "required": false
+      },
+      {
+        "id": 9,
+        "label": "They/them",
+        "required": false
+      },
+      {
+        "id": 10,
+        "label": "Xe/xem",
+        "required": false
+      },
+      {
+        "id": 11,
+        "label": "Ze/hir",
+        "required": false
+      },
+      {
+        "id": 12,
+        "label": "Ey/em",
+        "required": false
+      },
+      {
+        "id": 13,
+        "label": "Hir/hir",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "Fae/faer",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "Hu/hu",
+        "required": false
+      },
+      {
+        "id": 16,
+        "label": "Use name only",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "Custom",
+        "required": false
+      },
+      {
+        "id": 18,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 20,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 22,
+        "label": "Current location",
+        "required": false
+      },
+      {
+        "id": 24,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 26,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 27,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 29,
+        "label": "Twitter URL",
+        "required": false
+      },
+      {
+        "id": 31,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 33,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 35,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 37,
+        "label": "NAME PRONUNCIATION",
+        "required": false
+      },
+      {
+        "id": 38,
+        "label": "Please list your name pronunciation so our team can address you correctly.",
+        "required": false
+      },
+      {
+        "id": 39,
+        "label": "HOW DID YOU HEAR ABOUT US?",
+        "required": false
+      },
+      {
+        "id": 40,
+        "label": "How did you first hear about Ethena? If an Ethena team member brought you here, we'd love to know who so we can thank them, so please do give them a shoutout.",
+        "required": false
+      },
+      {
+        "id": 41,
+        "label": "WE'RE GLAD YOU'RE HERE!",
+        "required": false
+      },
+      {
+        "id": 42,
+        "label": "Why are you interested in joining Ethena?\n✱",
+        "required": true
+      },
+      {
+        "id": 43,
+        "label": "BACKGROUND CHECK REQUIRED",
+        "required": false
+      },
+      {
+        "id": 44,
+        "label": "This role will require a background check. This will take place once the offer has been extended. If you have any concerns, please let us know or note N/A.\n✱",
+        "required": true
+      },
+      {
+        "id": 45,
+        "label": "WORK AUTHORIZATION (U.S*)",
+        "required": true
+      },
+      {
+        "id": 46,
+        "label": "Do you now, or will you in the future require VISA sponsorship to work in the United States?\n✱",
+        "required": true
+      },
+      {
+        "id": 47,
+        "label": "Yes",
+        "required": true
+      },
+      {
+        "id": 48,
+        "label": "No",
+        "required": true
+      },
+      {
+        "id": 50,
+        "label": "Yes (located in the U.S. and not located in Montana)",
+        "required": true
+      },
+      {
+        "id": 51,
+        "label": "No (located outside the U.S. or located in Montana)",
+        "required": true
+      },
+      {
+        "id": 52,
+        "label": "Please indicate where you would be located for this role",
+        "required": false
+      },
+      {
+        "id": 53,
+        "label": "AI USAGE IN INTERVIEWS",
+        "required": false
+      },
+      {
+        "id": 55,
+        "label": "I acknowledge that I have read and understand Ethena’s AI policy for interviews.",
+        "required": true
+      }
+    ],
+    "full_jd": "Senior Product Marketing Manager\nRemoteMarketing /Full Time /Remote\nSUBMIT YOUR APPLICATION\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nPronouns\nHe/him\n\t\nShe/her\n\t\nThey/them\n\n\nXe/xem\n\t\nZe/hir\n\t\nEy/em\n\n\nHir/hir\n\t\nFae/faer\n\t\nHu/hu\nUse name only\nCustom\n\nLet the employer know what pronouns you use so that they can address you correctly.\n\nEmail\n✱\nPhone\n✱\nCurrent location\nCurrent company\nLINKS\nLinkedIn URL\nTwitter URL\nGitHub URL\nPortfolio URL\nOther website\nNAME PRONUNCIATION\nPlease list your name pronunciation so our team can address you correctly.\nHOW DID YOU HEAR ABOUT US?\nHow did you first hear about Ethena? If an Ethena team member brought you here, we'd love to know who so we can thank them, so please do give them a shoutout.\nWE'RE GLAD YOU'RE HERE!\nWhy are you interested in joining Ethena?\n✱\nBACKGROUND CHECK REQUIRED\nThis role will require a background check. This will take place once the offer has been extended. If you have any concerns, please let us know or note N/A.\n✱\nWORK AUTHORIZATION (U.S*)\nDo you now, or will you in the future require VISA sponsorship to work in the United States?\n✱\nYes\nNo\nEthena is a remote-first organization and is currently hiring for candidates based in approved locations noted in the job description. If you are selected for this role, you must be able to work and reside in one of these approved locations for the duration of your employment. Please confirm whether you’ll be able to work and reside from one of Ethena’s approved locations for the duration of your employment with Ethena.\n✱\nYes (located in the U.S. and not located in Montana)\nNo (located outside the U.S. or located in Montana)\nPlease indicate where you would be located for this role\nAI USAGE IN INTERVIEWS\nEthena does not allow the use of AI tools during interviews, including note takers, transcription tools, or recordings. Candidates must disclose any AI use during the interview process. Failure to comply may result in removal from the recruitment process.\n✱\nI acknowledge that I have read and understand Ethena’s AI policy for interviews.\n\nBy applying for this position, your data will be processed as per Ethena's .\n\nSUBMIT APPLICATION\n\nEthena Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  },
+  "18_Spotify": {
+    "index": 18,
+    "company": "Spotify",
+    "title": "Product Marketing Lead - Podcast Creator Marketing",
+    "url": "https://jobs.lever.co/spotify/c49edf5d-f300-4d57-85c6-bab115006567/apply",
+    "field_count": 75,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Privacy Notice",
+        "required": false
+      },
+      {
+        "id": 2,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 5,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 7,
+        "label": "Pronouns",
+        "required": false
+      },
+      {
+        "id": 8,
+        "label": "He/him",
+        "required": false
+      },
+      {
+        "id": 9,
+        "label": "She/her",
+        "required": false
+      },
+      {
+        "id": 10,
+        "label": "They/them",
+        "required": false
+      },
+      {
+        "id": 11,
+        "label": "Xe/xem",
+        "required": false
+      },
+      {
+        "id": 12,
+        "label": "Ze/hir",
+        "required": false
+      },
+      {
+        "id": 13,
+        "label": "Ey/em",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "Hir/hir",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "Fae/faer",
+        "required": false
+      },
+      {
+        "id": 16,
+        "label": "Hu/hu",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "Use name only",
+        "required": false
+      },
+      {
+        "id": 18,
+        "label": "Custom",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 21,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 23,
+        "label": "Current location\n✱",
+        "required": true
+      },
+      {
+        "id": 25,
+        "label": "Current company\n✱",
+        "required": true
+      },
+      {
+        "id": 27,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 28,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 30,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 32,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 34,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 36,
+        "label": "PREVIOUS SPOTIFY EMPLOYMENT",
+        "required": false
+      },
+      {
+        "id": 37,
+        "label": "Have you ever been previously employed by Spotify?\n✱",
+        "required": true
+      },
+      {
+        "id": 38,
+        "label": "No",
+        "required": true
+      },
+      {
+        "id": 39,
+        "label": "Yes - Intern",
+        "required": true
+      },
+      {
+        "id": 40,
+        "label": "Yes - Full Time Employment",
+        "required": true
+      },
+      {
+        "id": 41,
+        "label": "DEMOGRAPHIC SURVEY",
+        "required": false
+      },
+      {
+        "id": 43,
+        "label": "What is your location?",
+        "required": false
+      },
+      {
+        "id": 44,
+        "label": "Demographic Questions for Spotify",
+        "required": false
+      },
+      {
+        "id": 45,
+        "label": "What best describes your gender?",
+        "required": false
+      },
+      {
+        "id": 46,
+        "label": "Woman",
+        "required": false
+      },
+      {
+        "id": 47,
+        "label": "Man",
+        "required": false
+      },
+      {
+        "id": 48,
+        "label": "Non-binary",
+        "required": false
+      },
+      {
+        "id": 49,
+        "label": "I use another term",
+        "required": false
+      },
+      {
+        "id": 50,
+        "label": "Prefer not to disclose",
+        "required": false
+      },
+      {
+        "id": 51,
+        "label": "What is your race/ethnicity?:",
+        "required": false
+      },
+      {
+        "id": 52,
+        "label": "American Indian or Alaska Native",
+        "required": false
+      },
+      {
+        "id": 53,
+        "label": "Asian",
+        "required": false
+      },
+      {
+        "id": 54,
+        "label": "Black or African American",
+        "required": false
+      },
+      {
+        "id": 55,
+        "label": "Hispanic or Latino",
+        "required": false
+      },
+      {
+        "id": 56,
+        "label": "Native Hawaiian or Other Pacific Islander",
+        "required": false
+      },
+      {
+        "id": 57,
+        "label": "Two or More Races",
+        "required": false
+      },
+      {
+        "id": 58,
+        "label": "White (Not Hispanic or Latino)",
+        "required": false
+      },
+      {
+        "id": 60,
+        "label": "Are you a veteran/have you served in the military?",
+        "required": false
+      },
+      {
+        "id": 61,
+        "label": "Yes",
+        "required": false
+      },
+      {
+        "id": 64,
+        "label": "Demographic Question for Spotify",
+        "required": false
+      },
+      {
+        "id": 71,
+        "label": "Demographic Survey for Spotify",
+        "required": false
+      },
+      {
+        "id": 72,
+        "label": "What gender do you identify with?",
+        "required": false
+      },
+      {
+        "id": 75,
+        "label": "Choose Not to Disclose",
+        "required": false
+      },
+      {
+        "id": 76,
+        "label": "Demographic Questions from Spotify",
+        "required": false
+      },
+      {
+        "id": 83,
+        "label": "What best describes your ethnicity?",
+        "required": false
+      },
+      {
+        "id": 84,
+        "label": "Any other ethnic group",
+        "required": false
+      },
+      {
+        "id": 85,
+        "label": "Arab",
+        "required": false
+      },
+      {
+        "id": 86,
+        "label": "Asian/Asian British: Any other Asian background",
+        "required": false
+      },
+      {
+        "id": 87,
+        "label": "Asian/Asian British: Bangladeshi",
+        "required": false
+      },
+      {
+        "id": 88,
+        "label": "Asian/Asian British: Chinese",
+        "required": false
+      },
+      {
+        "id": 89,
+        "label": "Asian/Asian British: Indian",
+        "required": false
+      },
+      {
+        "id": 90,
+        "label": "Asian/Asian British: Pakistani",
+        "required": false
+      },
+      {
+        "id": 91,
+        "label": "Black/Black British: African",
+        "required": false
+      },
+      {
+        "id": 92,
+        "label": "Black/Black British: Any other Black/ African / Caribbean background",
+        "required": false
+      },
+      {
+        "id": 93,
+        "label": "Black/Black British: Caribbean",
+        "required": false
+      },
+      {
+        "id": 94,
+        "label": "Mixed: Any other mixed background",
+        "required": false
+      },
+      {
+        "id": 95,
+        "label": "Mixed: White and Asian",
+        "required": false
+      },
+      {
+        "id": 96,
+        "label": "Mixed: White and Black African",
+        "required": false
+      },
+      {
+        "id": 97,
+        "label": "Mixed: White and Black Caribbean",
+        "required": false
+      },
+      {
+        "id": 99,
+        "label": "White: Any other White background",
+        "required": false
+      },
+      {
+        "id": 100,
+        "label": "White: English/Welsh/Scottish/Northern Irish/British",
+        "required": false
+      },
+      {
+        "id": 101,
+        "label": "White: Irish",
+        "required": false
+      },
+      {
+        "id": 102,
+        "label": "White: Irish Traveller / Minkiers / Pavees (Previously known as Gypsy) 3",
+        "required": false
+      },
+      {
+        "id": 103,
+        "label": "Spotify has my consent to contact me about future job opportunities.",
+        "required": false
+      }
+    ],
+    "full_jd": "🍪\ndenyaccept\nPrivacy Notice\n\nThis website uses cookies to improve your web experience. By clicking Accept, you agree to the use of cookies.\n\nProduct Marketing Lead - Podcast Creator Marketing\nNew York, NYContent – Podcast Business /Permanent /Hybrid\nSUBMIT YOUR APPLICATION\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nPronouns\nHe/him\n\t\nShe/her\n\t\nThey/them\n\n\nXe/xem\n\t\nZe/hir\n\t\nEy/em\n\n\nHir/hir\n\t\nFae/faer\n\t\nHu/hu\nUse name only\nCustom\n\nLet the employer know what pronouns you use so that they can address you correctly.\n\nEmail\n✱\nPhone\n✱\nCurrent location\n✱\nCurrent company\n✱\nLINKS\nLinkedIn URL\nGitHub URL\nPortfolio URL\nOther website\nPREVIOUS SPOTIFY EMPLOYMENT\nHave you ever been previously employed by Spotify?\n✱\nNo\nYes - Intern\nYes - Full Time Employment\nDEMOGRAPHIC SURVEY\nWhat is your location?\nSelect...\nAfghanistan\nAlbania\nAlgeria\nAmerican Samoa\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua and Barbuda\nArgentina\nArmenia\nAruba\nAustralia\nAustria\nAzerbaijan\nBahamas\nBahrain\nBangladesh\nBarbados\nBelarus\nBelgium\nBelize\nBenin\nBermuda\nBhutan\nBolivia\nBonaire, Sint Eustatius and Saba\nBosnia and Herzegovina\nBotswana\nBouvet Island\nBrazil\nBritish Indian Ocean Territory\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCape Verde\nCayman Islands\nCentral African Republic\nChad\nChile\nChina\nChristmas Island\nCocos (Keeling) Islands\nColombia\nComoros\nCongo\nCongo, the Democratic Republic of the\nCook Islands\nCosta Rica\nCroatia\nCuba\nCuraçao\nCyprus\nCzech Republic\nDenmark\nDjibouti\nDominica\nDominican Republic\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEswatini\nEthiopia\nFalkland Islands\nFaroe Islands\nFiji\nFinland\nFrance\nFrench Guiana\nFrench Polynesia\nFrench Southern Territories\nGabon\nGambia\nGeorgia\nGermany\nGhana\nGibraltar\nGreece\nGreenland\nGrenada\nGuadeloupe\nGuam\nGuatemala\nGuernsey\nGuinea\nGuinea-Bissau\nGuyana\nHaiti\nHeard Island and McDonald Islands\nHoly See (Vatican City State)\nHonduras\nHong Kong\nHungary\nIceland\nIndia\nIndonesia\nIran\nIraq\nIreland\nIsle of Man\nIsrael\nItaly\nIvory Coast\nJamaica\nJapan\nJersey\nJordan\nKazakhstan\nKenya\nKiribati\nKosovo\nKuwait\nKyrgyzstan\nLaos\nLatvia\nLebanon\nLesotho\nLiberia\nLibya\nLiechtenstein\nLithuania\nLuxembourg\nMacao\nMacedonia, the Former Yugoslav Republic of\nMadagascar\nMalawi\nMalaysia\nMaldives\nMali\nMalta\nMarshall Islands\nMartinique\nMauritania\nMauritius\nMayotte\nMexico\nMicronesia, Federated States of\nMoldova\nMonaco\nMongolia\nMontenegro\nMontserrat\nMorocco\nMozambique\nMyanmar\nNamibia\nNauru\nNepal\nNetherlands\nNew Caledonia\nNew Zealand\nNicaragua\nNiger\nNigeria\nNiue\nNorfolk Island\nNorth Korea\nNorthern Mariana Islands\nNorway\nOman\nPakistan\nPalau\nPalestine, State of\nPanama\nPapua New Guinea\nParaguay\nPeru\nPhilippines\nPitcairn\nPoland\nPortugal\nPuerto Rico\nQatar\nRomania\nRussia\nRwanda\nRéunion\nSaint Barthélemy\nSaint Helena, Ascension and Tristan da Cunha\nSaint Kitts and Nevis\nSaint Lucia\nSaint Martin (French part)\nSaint Pierre and Miquelon\nSaint Vincent and the Grenadines\nSamoa\nSan Marino\nSao Tome and Principe\nSaudi Arabia\nSenegal\nSerbia\nSeychelles\nSierra Leone\nSingapore\nSint Maarten (Dutch part)\nSlovakia\nSlovenia\nSolomon Islands\nSomalia\nSouth Africa\nSouth Georgia and the South Sandwich Islands\nSouth Korea\nSouth Sudan\nSpain\nSri Lanka\nSudan\nSuriname\nSvalbard and Jan Mayen\nSweden\nSwitzerland\nSyria\nTaiwan\nTajikistan\nTanzania\nThailand\nTimor-Leste\nTogo\nTokelau\nTonga\nTrinidad and Tobago\nTunisia\nTurkey\nTurkmenistan\nTurks and Caicos Islands\nTuvalu\nUganda\nUkraine\nUnited Arab Emirates\nUnited Kingdom\nUnited States\nUnited States Minor Outlying Islands\nUruguay\nUzbekistan\nVanuatu\nVenezuela\nVietnam\nVirgin Islands, British\nVirgin Islands, U.S.\nWallis and Futuna\nWestern Sahara\nYemen\nZambia\nZimbabwe\nÅland Islands\n\nBy applying for this position, your data will be processed as per Spotify's Privacy Policy.\n\nSpotify has my consent to contact me about future job opportunities.\nSUBMIT APPLICATION\n\nSpotify Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. Find our AI notice here: https://lifeatspotify.com/ai-notice\n\nJobs powered by"
+  },
+  "19_Kpler": {
+    "index": 19,
+    "company": "Kpler",
+    "title": "Product Manager",
+    "url": "https://jobs.lever.co/kpler/c7103421-ccbe-43b4-b23d-752e8c8a3a9c/apply",
+    "field_count": 19,
+    "fields": [
+      {
+        "id": 1,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 2,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 3,
+        "label": "Resume/CV\nATTACH RESUME/CV",
+        "required": false
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV",
+        "required": false
+      },
+      {
+        "id": 5,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 7,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 9,
+        "label": "Phone",
+        "required": false
+      },
+      {
+        "id": 11,
+        "label": "Current location",
+        "required": false
+      },
+      {
+        "id": 13,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 16,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 18,
+        "label": "Twitter URL",
+        "required": false
+      },
+      {
+        "id": 20,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 22,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 24,
+        "label": "RIGHT TO WORK IN GREECE",
+        "required": false
+      },
+      {
+        "id": 25,
+        "label": "Do you have unrestricted right to work in Greece, without requiring Visa sponsorship now or in the future?\n✱",
+        "required": true
+      },
+      {
+        "id": 26,
+        "label": "Are you already located in Greece? If so please state which city\n✱",
+        "required": true
+      },
+      {
+        "id": 27,
+        "label": "YOUR SALARY EXPECTATION (ANNUAL GROSS)",
+        "required": false
+      },
+      {
+        "id": 29,
+        "label": "Yes, Kpler can contact me about future job opportunities for up to 3 years\nPrivacy policy",
+        "required": false
+      }
+    ],
+    "full_jd": "Product Manager\nGreeceProduct – Product Maritime & Logistics /Remote\nSUBMIT YOUR APPLICATION\nLinkedIn profile\nLoading...\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\nATTACH RESUME/CV\nFull name\n✱\nEmail\n✱\nPhone\nCurrent location\nCurrent company\nLINKS\nLinkedIn URL\nTwitter URL\nGitHub URL\nOther website\nRIGHT TO WORK IN GREECE\nDo you have unrestricted right to work in Greece, without requiring Visa sponsorship now or in the future?\n✱\nAre you already located in Greece? If so please state which city\n✱\nYOUR SALARY EXPECTATION (ANNUAL GROSS)\nYour salary expectation (annual gross)\n✱\n\nYes, Kpler can contact me about future job opportunities for up to 3 years\nPrivacy policy\n\nSUBMIT APPLICATION\n\nKpler Home Page\n\nJobs powered by"
+  },
+  "20_Coupa": {
+    "index": 20,
+    "company": "Coupa",
+    "title": "Technical Program Manager, Security & GRC  - 11745",
+    "url": "https://jobs.lever.co/coupa/f5b09f5e-9940-44fd-9628-700e4af0743d/apply",
+    "field_count": 40,
+    "fields": [
+      {
+        "id": 1,
+        "label": "Privacy Notice",
+        "required": false
+      },
+      {
+        "id": 2,
+        "label": "SUBMIT YOUR APPLICATION",
+        "required": true
+      },
+      {
+        "id": 3,
+        "label": "LinkedIn profile",
+        "required": false
+      },
+      {
+        "id": 4,
+        "label": "Resume/CV\n✱\nATTACH RESUME/CV",
+        "required": true
+      },
+      {
+        "id": 5,
+        "label": "Resume/CV\n✱",
+        "required": true
+      },
+      {
+        "id": 6,
+        "label": "Full name\n✱",
+        "required": true
+      },
+      {
+        "id": 8,
+        "label": "Pronouns",
+        "required": false
+      },
+      {
+        "id": 9,
+        "label": "He/him",
+        "required": false
+      },
+      {
+        "id": 10,
+        "label": "She/her",
+        "required": false
+      },
+      {
+        "id": 11,
+        "label": "They/them",
+        "required": false
+      },
+      {
+        "id": 12,
+        "label": "Xe/xem",
+        "required": false
+      },
+      {
+        "id": 13,
+        "label": "Ze/hir",
+        "required": false
+      },
+      {
+        "id": 14,
+        "label": "Ey/em",
+        "required": false
+      },
+      {
+        "id": 15,
+        "label": "Hir/hir",
+        "required": false
+      },
+      {
+        "id": 16,
+        "label": "Fae/faer",
+        "required": false
+      },
+      {
+        "id": 17,
+        "label": "Hu/hu",
+        "required": false
+      },
+      {
+        "id": 18,
+        "label": "Use name only",
+        "required": false
+      },
+      {
+        "id": 19,
+        "label": "Custom",
+        "required": false
+      },
+      {
+        "id": 20,
+        "label": "Email\n✱",
+        "required": true
+      },
+      {
+        "id": 22,
+        "label": "Phone\n✱",
+        "required": true
+      },
+      {
+        "id": 24,
+        "label": "Current location",
+        "required": false
+      },
+      {
+        "id": 26,
+        "label": "Current company",
+        "required": false
+      },
+      {
+        "id": 28,
+        "label": "LINKS",
+        "required": false
+      },
+      {
+        "id": 29,
+        "label": "LinkedIn URL",
+        "required": false
+      },
+      {
+        "id": 31,
+        "label": "GitHub URL",
+        "required": false
+      },
+      {
+        "id": 33,
+        "label": "Portfolio URL",
+        "required": false
+      },
+      {
+        "id": 35,
+        "label": "Other website",
+        "required": false
+      },
+      {
+        "id": 37,
+        "label": "1. INDIA/LATAM",
+        "required": false
+      },
+      {
+        "id": 38,
+        "label": "How did you learn about this role?\n✱",
+        "required": true
+      },
+      {
+        "id": 39,
+        "label": "Have you previously been employed by Coupa?\n✱",
+        "required": true
+      },
+      {
+        "id": 40,
+        "label": "What are your salary expectations (in local currency)?\n✱",
+        "required": true
+      },
+      {
+        "id": 41,
+        "label": "If your role requires it, would you be prepared to work in the office?\n✱",
+        "required": true
+      },
+      {
+        "id": 42,
+        "label": "If yes, how many days a week are you available to come into the office?",
+        "required": false
+      },
+      {
+        "id": 45,
+        "label": "For India-based roles: What is your notice period (in days)?",
+        "required": false
+      },
+      {
+        "id": 46,
+        "label": "Do you have any relatives, household members, or anyone with whom you have a close personal relationship currently employed at Coupa Software?\n✱",
+        "required": true
+      },
+      {
+        "id": 47,
+        "label": "Yes",
+        "required": true
+      },
+      {
+        "id": 48,
+        "label": "No",
+        "required": true
+      },
+      {
+        "id": 49,
+        "label": "If yes, please provide their name(s) and department(s) so we can ensure there are no potential conflicts of interest or reporting-line conflicts during the interview process.",
+        "required": false
+      },
+      {
+        "id": 50,
+        "label": "Are you currently employed by a Coupa partner?\n✱",
+        "required": true
+      },
+      {
+        "id": 51,
+        "label": "If yes, please specify the company.",
+        "required": false
+      }
+    ],
+    "full_jd": "🍪\ndenyaccept\nPrivacy Notice\n\nThis website uses cookies to improve your web experience. By clicking Accept, you agree to the use of cookies. Cookie Policy\n\nTechnical Program Manager, Security & GRC - 11745\nBogota, ColombiaDevelopment – Engineering - GRC /Mid Level /Remote\nSUBMIT YOUR APPLICATION\nLinkedIn profile\nApply with LinkedIn\n\nAuthorize sharing of selected\nLinkedIn profile details to\nauto-complete this form. Learn more\n\nResume/CV\n✱\nATTACH RESUME/CV\nFull name\n✱\nPronouns\nHe/him\n\t\nShe/her\n\t\nThey/them\n\n\nXe/xem\n\t\nZe/hir\n\t\nEy/em\n\n\nHir/hir\n\t\nFae/faer\n\t\nHu/hu\nUse name only\nCustom\n\nLet the employer know what pronouns you use so that they can address you correctly.\n\nEmail\n✱\nPhone\n✱\nCurrent location\nCurrent company\nLINKS\nLinkedIn URL\nGitHub URL\nPortfolio URL\nOther website\n1. INDIA/LATAM\nHow did you learn about this role?\n✱\nSelect...\nALPHA\nAnitaB\nBlack Tech Pipeline (BTP)\nBlacks in Technology (BIT) / Blacks United in Leading\nBuiltIn\nTechnology (BUILT)\nComparably\nCoupa Career Site\nCoupa Cares\nCurrent Customer\nEmpower\nGlassdoor\nHBCU Connect\nIlluminate\nLinkedIn\nNational Hispanic MBA Association\nNational Society of Black Engineers\nNorth Carolina A&T\nOther\nProfessional Diversity Network\nReturning Intern/Employee\nSocial Media\nWebinar\nWomen Who Code\nWomenHack\nHave you previously been employed by Coupa?\n✱\nSelect...\nYes\nNo\nWhat are your salary expectations (in local currency)?\n✱\nIf your role requires it, would you be prepared to work in the office?\n✱\nSelect...\nYes\nNo\nIf yes, how many days a week are you available to come into the office?\n3\n5\nFor India-based roles: What is your notice period (in days)?\nDo you have any relatives, household members, or anyone with whom you have a close personal relationship currently employed at Coupa Software?\n✱\nYes\nNo\nIf yes, please provide their name(s) and department(s) so we can ensure there are no potential conflicts of interest or reporting-line conflicts during the interview process.\nAre you currently employed by a Coupa partner?\n✱\nSelect...\nYes\nNo\nIf yes, please specify the company.\n\nBy applying for this position, your data will be processed as per Coupa Software, Inc. Privacy Policy.\n\nSUBMIT APPLICATION\n\nCoupa Software, Inc. Home Page\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nJobs powered by"
+  }
+}
