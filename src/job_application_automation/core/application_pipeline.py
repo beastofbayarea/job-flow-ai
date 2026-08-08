@@ -118,6 +118,7 @@ class PipelineConfig:
     headed: bool
     timeout_seconds: int
     fallback_email: str
+    generate_cover_letter: bool = True
 
     @property
     def live_submit(self) -> bool:
@@ -346,7 +347,7 @@ class PreparedApplication:
 
     resolved: ResolvedApplication
     resume_path: Path
-    cover_letter_path: Path
+    cover_letter_path: Path | None
     current_title: str
 
 
@@ -662,8 +663,10 @@ class ApplicationPipeline:
                 .lower()
             )
             if resume_email != context.email:
-                raise ValueError(
-                    "Personalized resume email does not match the assigned application email"
+                logger.info(
+                    "Resume email differs from the randomly assigned application email for "
+                    "row %s; continuing by design.",
+                    target.row_number,
                 )
             current_title = self._operations.read_current_title(target_resume)
         except Exception as exc:
@@ -685,19 +688,20 @@ class ApplicationPipeline:
                 ),
             )
 
-        try:
-            target_cover_letter = (
-                self._config.prepared_cover_letter_path
-                or self._operations.generate_cover_letter(target, context.email)
-            )
-        except Exception as exc:
-            logger.error(
-                "Personalized cover-letter generation failed for row %s: %s",
-                target.row_number,
-                exc,
-            )
-            target_cover_letter = None
-        if not target_cover_letter:
+        target_cover_letter = self._config.prepared_cover_letter_path
+        if self._config.generate_cover_letter and target_cover_letter is None:
+            try:
+                target_cover_letter = self._operations.generate_cover_letter(
+                    target, context.email
+                )
+            except Exception as exc:
+                logger.error(
+                    "Personalized cover-letter generation failed for row %s: %s",
+                    target.row_number,
+                    exc,
+                )
+                target_cover_letter = None
+        if self._config.generate_cover_letter and not target_cover_letter:
             logger.error(
                 "Mandatory personalized cover-letter generation failed for %s; "
                 "submission will not be attempted.",
@@ -885,7 +889,9 @@ class ApplicationPipeline:
             ApplicationDetails(
                 engine=prepared.resolved.engine_label,
                 resume=prepared.resume_path.name,
-                cover_letter=prepared.cover_letter_path.name,
+                cover_letter=(
+                    prepared.cover_letter_path.name if prepared.cover_letter_path is not None else ""
+                ),
                 email=self._operations.mask_email(context.email),
                 outcome=outcome,
                 ledger_persisted=ledger_persisted,

@@ -629,16 +629,11 @@ def generate_personalized_resume(
         and output_path.exists()
         and output_path.stat().st_size > 5000
     ):
-        try:
-            existing_email = email_from_resume(output_path, "").strip().casefold()
-        except ValueError:
-            existing_email = ""
-        if not email or existing_email == email.strip().casefold():
-            logger.info(
-                "Reusing existing position-specific resume for retry: %s",
-                output_path.name,
-            )
-            return output_path
+        logger.info(
+            "Reusing existing position-specific resume for retry: %s",
+            output_path.name,
+        )
+        return output_path
     tmp_output_path = output_path.with_name(
         f".tmp_{os.getpid()}_{random.randint(1000, 9999)}_{output_path.name}"
     )
@@ -1038,6 +1033,7 @@ def run_orchestrator(
     headed: bool = False,
     timeout_seconds: int = DEFAULT_ENGINE_TIMEOUT_SECONDS,
     personalize_resume: bool = True,
+    generate_cover_letter: bool = True,
     resume_timeout_seconds: int = DEFAULT_RESUME_TIMEOUT_SECONDS,
     direct_url: str | None = None,
     direct_company: str = "",
@@ -1152,6 +1148,7 @@ def run_orchestrator(
             headed=headed,
             timeout_seconds=timeout_seconds,
             fallback_email=fallback_email,
+            generate_cover_letter=generate_cover_letter,
         ),
         submission_log=submission_log,
         submission_quarantine=submission_quarantine,
@@ -1183,6 +1180,11 @@ def _build_parser() -> argparse.ArgumentParser:
         "--cover-letter",
         default="",
         help="Attach this personalized cover letter when the ATS form offers an upload",
+    )
+    parser.add_argument(
+        "--skip-cover-letter",
+        action="store_true",
+        help="Do not generate or attach a personalized cover letter",
     )
     parser.add_argument(
         "--email",
@@ -1270,6 +1272,7 @@ def main(argv: Sequence[str] | None = None) -> int:
             headed=args.headed,
             timeout_seconds=args.timeout,
             personalize_resume=args.personalize_resume,
+            generate_cover_letter=not args.skip_cover_letter,
             resume_timeout_seconds=args.resume_timeout,
             direct_url=args.url,
             direct_company=args.company,

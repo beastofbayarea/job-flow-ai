@@ -590,10 +590,19 @@ def _configured_answer(
     if explicit_answer is not None:
         return explicit_answer
     normalized_question = re.sub(r"\s+", " ", question_text).strip().lower()
+    rules = profile.get("_rules", {})
+    if (
+        "timezone" in normalized_question
+        and (" us " in f" {normalized_question} " or " eu " in f" {normalized_question} ")
+        and isinstance(rules, Mapping)
+    ):
+        configured_timezone = str(rules.get("work_country_timezone") or "").strip()
+        if configured_timezone:
+            return "Yes"
     return common_configured_answer(
         normalized_question,
         profile,
-        profile.get("_rules", {}),
+        rules,
         profile.get("_eeo_defaults", {}),
         profile.get("_field_matchers", {}),
     )
@@ -1578,6 +1587,18 @@ def fill_personal_and_files(
             if linkedin:
                 fill(page, li, linkedin)
                 flags["linkedin"] = verify_value(li, "linkedin.com", "LinkedIn")
+
+    twitter_url = str(profile.get("twitter") or "").strip()
+    if twitter_url:
+        twitter_field = (
+            page.locator(".ashby-application-form-field-entry")
+            .filter(has_text=re.compile(r"twitter\s+(?:handle|profile)|x\s+profile", re.I))
+            .locator("input:visible")
+            .first
+        )
+        if twitter_field.count() and twitter_field.is_visible():
+            fill(page, twitter_field, twitter_url)
+            verify_value(twitter_field, twitter_url, "Twitter/X")
 
     for inp in page.locator("input:visible").all():
         try:

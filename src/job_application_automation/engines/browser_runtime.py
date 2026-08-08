@@ -392,6 +392,16 @@ def reload_background_tab(
     )
 
 
+def navigate_background_tab(endpoint: str, target_id: str, url: str) -> Mapping[str, Any]:
+    """Navigate one exact background page without activating its Chrome tab."""
+    info = _cdp_target_info(endpoint, target_id)
+    return _raw_target_cdp_command(
+        str(info["webSocketDebuggerUrl"]),
+        "Page.navigate",
+        {"url": url},
+    )
+
+
 def _create_background_target(
     endpoint: str,
     *,

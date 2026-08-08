@@ -26,6 +26,7 @@ from urllib.parse import unquote, urlsplit
 from ..engines.browser_runtime import (
     close_background_tab,
     create_background_tab,
+    navigate_background_tab,
     reload_background_tab,
 )
 from ..mail.pool import load_email_pool
@@ -221,12 +222,18 @@ def _live_targets(endpoint: str) -> dict[str, dict[str, Any]]:
     }
 
 
-def _new_target(endpoint: str) -> tuple[str, str]:
+def _new_target(endpoint: str, job_url: str = "") -> tuple[str, str]:
     marker, target_id = create_background_tab(endpoint)
     target = _live_targets(endpoint).get(target_id)
     if target is None or str(target.get("url", "")) != marker:
         close_background_tab(endpoint, target_id)
         raise RuntimeError("Chrome did not retain the newly created background target")
+    if job_url:
+        try:
+            navigate_background_tab(endpoint, target_id, job_url)
+        except Exception:
+            close_background_tab(endpoint, target_id)
+            raise
     return marker, target_id
 
 
@@ -384,6 +391,8 @@ def _attempt_command(
     engine_timeout_seconds: int,
     resume_timeout_seconds: int,
     job_timeout_seconds: int,
+    skip_cover_letter: bool = False,
+    prepared_resume_path: Path | None = None,
 ) -> tuple[dict[str, Any], bool]:
     result_path.parent.mkdir(parents=True, exist_ok=True)
     result_path.unlink(missing_ok=True)
@@ -417,9 +426,13 @@ def _attempt_command(
         "--headed",
         "--no-shuffle",
     ]
+    if skip_cover_letter:
+        command.append("--skip-cover-letter")
+    if prepared_resume_path is not None:
+        command.extend(["--prepared-resume", str(prepared_resume_path)])
     environment = {
         "JOB_APP_BACKGROUND_TABS": "1",
-        "JOB_APP_CDP_ATTACH_TIMEOUT_MS": "90000",
+        "JOB_APP_CDP_ATTACH_TIMEOUT_MS": str(engine_timeout_seconds * 1_000),
         "JOB_APP_COORDINATED_RETRY": "1",
         "JOB_APP_FORBID_SUBMIT": "1",
         "JOB_APP_KEEP_TABS_OPEN": "1",
@@ -544,7 +557,7 @@ def _persist_replacement_target(
     stale_marker: str,
     result: Mapping[str, Any] | None = None,
 ) -> tuple[str, str, dict[str, Any]]:
-    replacement_marker, replacement_target_id = _new_target(endpoint)
+    replacement_marker, replacement_target_id = _new_target(endpoint, job_url)
     current = records.get(canonical)
     updated = {
         **(dict(current) if isinstance(current, Mapping) else {}),
@@ -658,6 +671,46 @@ def _run_queue(
                 if isinstance(records.get(canonical), Mapping)
                 else {}
             )
+            prepared_resume_path: Path | None = None
+            if bool(getattr(args, "prepare_resume_before_tab", False)):
+                saved_resume = str(mutable_record.get("prepared_resume", ""))
+                if saved_resume:
+                    candidate = Path(saved_resume)
+                    if candidate.is_file() and candidate.stat().st_size > 5000:
+                        prepared_resume_path = candidate
+                if prepared_resume_path is None:
+                    from .orchestrator import generate_personalized_resume
+
+                    prepared_resume_path = generate_personalized_resume(
+                        job["company"],
+                        job["title"],
+                        job["url"],
+                        args.resume_timeout,
+                        email=email,
+                    )
+                if prepared_resume_path is None:
+                    records[canonical] = {
+                        **mutable_record,
+                        "index": index,
+                        "company": job["company"],
+                        "title": job["title"],
+                        "url": job["url"],
+                        "email": email,
+                        "status": "PERSONALIZED_RESUME_FAILED",
+                        "terminal": True,
+                        "updated_at": _utc_now(),
+                    }
+                    _save_state(state_path, state)
+                    failures += 1
+                    processed_now += 1
+                    continue
+                mutable_record = {
+                    **mutable_record,
+                    "prepared_resume": str(prepared_resume_path),
+                    "updated_at": _utc_now(),
+                }
+                records[canonical] = mutable_record
+                _save_state(state_path, state)
             target_id = str(mutable_record.get("target_id", ""))
             marker = str(mutable_record.get("target_marker", ""))
             recovery_stage = int(mutable_record.get("recovery_stage", 0))
@@ -667,7 +720,11 @@ def _run_queue(
                 marker=marker,
                 job_url=job["url"],
             ):
-                marker, target_id = _new_target(endpoint)
+                marker, target_id = _new_target(endpoint, job["url"])
+            else:
+                current_target = _live_targets(endpoint).get(target_id, {})
+                if str(current_target.get("url", "")) == marker:
+                    navigate_background_tab(endpoint, target_id, job["url"])
 
             result_path = results_dir / f"{index:04d}-{_job_key(job['url'])}.json"
             while recovery_stage < len(RECOVERY_LABELS):
@@ -767,6 +824,8 @@ def _run_queue(
                     engine_timeout_seconds=args.engine_timeout,
                     resume_timeout_seconds=args.resume_timeout,
                     job_timeout_seconds=args.job_timeout,
+                    skip_cover_letter=bool(getattr(args, "skip_cover_letter", False)),
+                    prepared_resume_path=prepared_resume_path,
                 )
                 public = _public_result(result)
                 if (
@@ -881,6 +940,16 @@ def _build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--resume-timeout", type=int, default=300)
     parser.add_argument("--job-timeout", type=int, default=900)
     parser.add_argument("--limit", type=int, default=None)
+    parser.add_argument(
+        "--skip-cover-letter",
+        action="store_true",
+        help="Do not generate or attach personalized cover letters",
+    )
+    parser.add_argument(
+        "--prepare-resume-before-tab",
+        action="store_true",
+        help="Generate the personalized resume before allocating a Chrome tab",
+    )
     return parser
 
 

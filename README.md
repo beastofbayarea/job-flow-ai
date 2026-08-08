@@ -407,13 +407,15 @@ Use `--start-index` to resume and `--timeout` to set each application-engine tim
 Use `prefill-queue` for a provider-specific JSON array when every application
 must stop before submission. Run one process per ATS queue; each process uses
 the configured Chrome debugging endpoint, creates one background tab per job,
-generates a personalized resume and cover letter with one randomly selected
-configured email, fills the form, and leaves the completed tab open.
+generates personalized documents with one randomly selected configured email,
+fills the form, and leaves the completed tab open.
 
 ```powershell
 python src/job_automation.py prefill-queue `
   --queue data/application-queues/ashby-job-search-2026-08-04.json `
-  --ats ashby
+  --ats ashby `
+  --skip-cover-letter `
+  --prepare-resume-before-tab
 ```
 
 The command fails closed if the shared loopback Chrome CDP session is absent.
@@ -423,6 +425,12 @@ resumable per-platform state under `output/local-prefill/`. A render hang gets
 one reload in the same tab, followed by one retry in a replacement background
 tab; only the stale tab owned by that job is closed. Generated state, logs, and
 documents under `output/` are private and ignored by Git.
+
+Use `--skip-cover-letter` when cover letters are outside the run. With
+`--prepare-resume-before-tab`, personalized resume generation finishes before
+Chrome allocates the tab, and the new background tab opens the actual queue URL
+immediately. `--engine-timeout` bounds ATS browser work; allow separate helper
+startup time in `--job-timeout`.
 
 ### Gmail and email pool
 
