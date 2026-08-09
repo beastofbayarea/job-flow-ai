@@ -1,21 +1,31 @@
 # Workday Application Master Answers — 2026-08-09
 
-This guide covers all 50 queue entries in `data/application-queues/workday-job-search-2026-08-08.json`.
-Compensation answers preserve employer-stated ranges and use the currency identified from the posting/location.
+## Purpose and Usage
 
+This guide covers all 50 entries in `data/application-queues/workday-job-search-2026-08-08.json`. It is a preparation aid, not permission to submit an application or accept legal terms.
 
-## Live Audit Summary — 2026-08-09
+Use answers in this order of precedence:
 
-- **Scope reviewed**: all 50 source entries and every supplied Workday URL.
-- **Result**: 43 live entries representing 42 unique live requisitions; 7 closed/removed URLs; entry 34 duplicates entry 33.
-- **Application inspection**: live Apply entry points and first visible application steps were reviewed. Step counts ranged from 5 to 8. Some tenants allow a guest first step; many require account creation or email/social sign-in.
-- **Boundary**: no account was created, no personal data was entered into an employer site, no legal terms were accepted, and no application was submitted. Questions behind required-data, account, or sign-in gates are identified as conditional rather than claimed as visible.
-- **Truthfulness rule**: quantitative statements below come from the supplied résumé. Assumptions are labeled and must be confirmed before submission.
-- **Email rule**: every application email is preserved exactly as supplied, including the duplicate requisition’s existing email. Do not normalize or merge them.
+1. The exact wording and available options in the employer's form.
+2. The role-specific section in this document.
+3. The shared answer bank below.
 
-## Shared Workday Answer Bank
+Never guess. If an answer is marked **confirm**, **assumption**, **not evidenced**, or **conditional**, pause and verify it before using it. Preserve each role's assigned email and resume path exactly; the duplicate requisition intentionally retains its existing email.
+
+## Audit Snapshot
+
+- **Source queue**: 50 entries.
+- **Live review result**: 43 live entries covering 42 unique requisitions; 7 URLs were closed or removed; entry 34 duplicates entry 33.
+- **Application flow review**: Apply entry points and the first visible steps were inspected. Depending on the tenant, flows contained 5–8 steps and could require an account or sign-in.
+- **Inspection boundary**: No account was created, personal data entered, legal terms accepted, or application submitted. Questions behind gates remain conditional.
+- **Evidence rule**: Quantitative career claims are resume-derived unless a role section says otherwise. Legal, eligibility, demographic, and conflict answers must come from the candidate.
+- **Compensation rule**: Preserve the employer's stated currency, period, and range. Role-specific guidance is an application target, not salary-history evidence.
+
+## Shared Answer Bank
 
 Use these answers when the exact field appears. Role sections below override email, resume, job title, compensation, and motivation.
+
+### Contact and identity
 
 1. **First name**: Shivam
 2. **Preferred name**: Shiv
@@ -27,12 +37,18 @@ Use these answers when the exact field appears. Role sections below override ema
 8. **State**: California
 9. **Postal code**: 94108
 10. **Country of residence**: United States
+
+### Employment and professional links
+
 11. **Current employer**: Amazon Web Services
 12. **Current title**: Principal, AI Products & Platforms
 13. **Currently employed**: Yes
 14. **LinkedIn**: https://linkedin.com/in/beastofbayarea
 15. **GitHub**: https://github.com/beastofbayarea
 16. **Portfolio / publications**: https://www.researchgate.net/profile/Shivam-Singh-188
+
+### Education and availability
+
 17. **Highest degree**: Master's degree
 18. **School**: University of Michigan
 19. **Degree**: MBA
@@ -44,14 +60,22 @@ Use these answers when the exact field appears. Role sections below override ema
 25. **Open to relocation?**: Yes
 26. **Willing to travel?**: Yes
 27. **At least 18 years old?**: Yes
+
+### Work authorization and certifications
+
 28. **Legally authorized to work in the United States?**: Yes
 29. **Require U.S. sponsorship now or in the future?**: No
-30. **India work-right question**: Indian citizen; answer the exact citizenship/right-to-work option truthfully.
-31. **Other-country work authorization**: Do not infer from U.S. authorization or Indian citizenship; confirm the exact country-specific status.
+30. **India work-right question**: Indian citizen; select the exact citizenship or right-to-work option that applies.
+31. **Other-country work authorization**: Candidate supplied “yes for all.” Because authorization questions are country- and status-specific, confirm the exact answer for the role's country before using it. A role-specific section overrides this entry.
 32. **Background check consent**: Yes
 33. **Accuracy certification**: Yes
 34. **Privacy notice / data processing consent**: Yes
 35. **Electronic signature**: Shivam Singh
+
+### Voluntary self-identification
+
+These answers are candidate-supplied. Use “prefer not to answer” whenever that is the candidate's preference or the available options do not match exactly.
+
 36. **Pronouns**: They/them
 37. **Gender**: Man / Male, matching the available option
 38. **Race / ethnicity (U.S.)**: Asian / Asian American
@@ -60,7 +84,9 @@ Use these answers when the exact field appears. Role sections below override ema
 41. **Sexual orientation, if voluntarily requested**: Bisexual
 42. **Transgender, if voluntarily requested**: No
 43. **Languages**: English, French, Hindi
-44. **Conflicts, restrictive covenants, criminal history, clearance, government employment, relatives at company, or other legal declarations**: Use the provisional assumptions below only after personal confirmation; these are consequential declarations.
+44. **Conflicts, restrictive covenants, criminal history, clearance, government employment, relatives at company, or other legal declarations**: **Confirm before use.** These are consequential declarations; do not infer them from the resume.
+
+### Experience and qualification evidence
 
 45. **Total professional experience**: 12 years (2014-present).
 46. **AI / ML product experience**: 6+ years across Microsoft and AWS; 2+ years directly owning an agentic GenAI product at AWS.
@@ -75,12 +101,12 @@ Use these answers when the exact field appears. Role sections below override ema
 55. **Remote / hybrid / onsite**: Yes; willing to meet the role’s stated cadence.
 56. **Travel**: Yes; use the posting-specific percentage when stated (for example, Brunswick up to 30%, Workiva up to 20%).
 57. **Salary format**: Use the exact posting currency and period. Prefer the role-specific figure below; if the form permits text, add “negotiable within the posted range based on total compensation and scope.”
-58. **Non-U.S. authorization assumption**: Indian citizenship supports India applications. No unrestricted German, Polish, or U.K. authorization is documented; answer that sponsorship is required unless you can confirm an existing right to work.
-59. **Legal / conflict defaults (assumptions—confirm before submission)**: No known restrictive covenant preventing the role; no known relatives at the employer; no known government-employment conflict; no known criminal conviction requiring disclosure; no current security clearance. These are not résumé-derived facts.
+58. **Non-U.S. authorization**: Candidate supplied “authorization for all.” **Confirm for the specific country and status before use.** Do not infer unrestricted authorization from citizenship, residence, or authorization in another country.
+59. **Legal / conflict working assumptions**: No known restrictive covenant preventing the role; no known relatives at the employer; no known government-employment conflict; no known criminal conviction requiring disclosure; no current security clearance. **Confirm every applicable declaration before submission.** These are not resume-derived facts.
 60. **Background / drug screening**: Willing to complete lawful pre-employment checks.
 61. **Start date**: Two weeks after acceptance, or a mutually agreed date.
 62. **Reason for leaving / interest in change**: Seeking a role with broader end-to-end ownership, measurable customer and business impact, and a strong connection between strategy, technology, and execution.
-63. **Current compensation**: Do not estimate or disclose unless legally required and personally confirmed.
+63. **Current compensation**: N/A. If the form requires salary history rather than accepting N/A, do not estimate; provide it only after candidate confirmation.
 64. **Desired employment type**: Full time.
 65. **Overqualification / level mismatch**: Answer years and graduation dates exactly; do not understate seniority for associate, coordinator, analyst, or university-recruiting roles.
 
@@ -91,14 +117,14 @@ Use these only when the corresponding field appears:
 - **Are you willing to relocate?** Yes.
 - **Are you willing to work hybrid or onsite?** Yes, according to the role’s stated schedule.
 - **Are you willing to travel?** Yes, including the posting-specific percentage.
-- **Do you need accommodations?** Prefer not to answer in the application unless you want to request an accommodation; the voluntary disability response remains as supplied above.
+- **Do you need accommodations?** No, as candidate-supplied. Reconfirm if the question concerns the interview process or job duties and circumstances have changed.
 - **Can we contact your current employer?** No before an offer; yes after advance notice.
 - **Have you used AI in products?** Yes—strategy, RAG, model/prompt selection, guardrails, evals, human review, launch, and adoption for an agentic GenAI product.
 - **Have you managed budgets?** Yes—built or governed $5M, $10M, $12M, and $50M-scale investment/program cases. Use the example most relevant to the role.
 - **Have you led global or cross-functional teams?** Yes—12 workstreams, six organizations, three time zones; separately, 15+ engineers plus business/control stakeholders.
-- **Can you provide salary history?** “I prefer to discuss expectations for this role based on scope, market, and total compensation.” Supply history only if you choose and it is lawful.
-- **Do you meet every preferred qualification?** No blanket claim. Address the strongest matches and disclose material gaps identified in each role section.
-- **Consent / certification fields**: Select only after reading the employer’s exact text. Privacy consent, accuracy certification, and electronic signature are acceptable when accurate.
+- **Can you provide salary history?** “I prefer to discuss expectations for this role based on scope, market, and total compensation.” Provide history only if the candidate chooses to do so.
+- **Do you meet every preferred qualification?** Answer yes only when every listed preferred qualification is evidenced. Otherwise, address the strongest matches and disclose material gaps identified in the role section.
+- **Consent / certification fields**: Read the exact text first. Select yes only when the statement is understood, accurate, and authorized by the candidate.
 
 
 ---
