@@ -2,7 +2,7 @@
 
 ## Purpose and Usage
 
-This guide covers the 43 active entries retained from the original 50-entry `data/application-queues/workday-job-search-2026-08-08.json` queue. It is a preparation aid, not permission to submit an application or accept legal terms.
+This guide covers the 42 unique active applications retained from the original 50-entry `data/application-queues/workday-job-search-2026-08-08.json` queue. Seven closed entries and one duplicate were removed. It is a preparation aid, not permission to submit an application or accept legal terms.
 
 Use answers in this order of precedence:
 
@@ -10,12 +10,12 @@ Use answers in this order of precedence:
 2. The role-specific section in this document.
 3. The shared answer bank below.
 
-Never guess. If an answer is marked **confirm**, **assumption**, **not evidenced**, or **conditional**, pause and verify it before using it. Preserve each role's assigned email and resume path exactly; the duplicate requisition intentionally retains its existing email.
+Use the candidate-confirmed legal, eligibility, qualification, and experience answers below. Questions not yet visible behind an employer account or form gate remain conditional until the exact wording and options are available.
 
 ## Audit Snapshot
 
-- **Source queue**: 50 entries; 7 closed entries were removed from this guide.
-- **Retained result**: 43 live entries covering 42 unique requisitions; the two Deutsche Bank entries remain a duplicate requisition.
+- **Source queue**: 50 entries; 7 closed entries and 1 duplicate were removed from this guide.
+- **Retained result**: 42 live, unique applications.
 - **Application flow review**: Apply entry points and the first visible steps were inspected. Depending on the tenant, flows contained 5–8 steps and could require an account or sign-in.
 - **Inspection boundary**: No account was created, personal data entered, legal terms accepted, or application submitted. Questions behind gates remain conditional.
 - **Evidence rule**: Quantitative career claims are resume-derived unless a role section says otherwise. Legal, eligibility, demographic, and conflict answers must come from the candidate.
@@ -84,7 +84,7 @@ These answers are candidate-supplied. Use “prefer not to answer” whenever th
 41. **Sexual orientation, if voluntarily requested**: Bisexual
 42. **Transgender, if voluntarily requested**: No
 43. **Languages**: English, French, Hindi
-44. **Conflicts, restrictive covenants, criminal history, clearance, government employment, relatives at company, or other legal declarations**: **Confirm before use.** These are consequential declarations; do not infer them from the resume.
+44. **Conflicts, restrictive covenants, criminal history, clearance, government employment, relatives at company, or other legal declarations**: Candidate-confirmed answers are recorded in item 59.
 
 ### Experience and qualification evidence
 
@@ -94,15 +94,15 @@ These answers are candidate-supplied. Use “prefer not to answer” whenever th
 48. **Program / transformation leadership**: 10+ years.
 49. **Formal management consulting**: 2 years at McKinsey; 12 years total strategy/transformation/operator experience.
 50. **Formal corporate development title**: 1 year at Rakuten; 5+ years of broader capital allocation, market entry, investment-case, diligence, negotiation, and deal/mandate experience.
-51. **Marketing, GTM, growth, or marketing-operations experience**: 5+ years across Microsoft, Rakuten, AWS, and consulting. Do not claim a named ad-platform certification or hands-on media-buying tenure unless separately confirmed.
-52. **People / team leadership**: Led 12 workstreams, six organizations, three time zones, and a separate 15+ engineer platform team. Do not convert this into a direct-report count unless confirmed.
+51. **Marketing, GTM, growth, or marketing-operations experience**: 5+ years across Microsoft, Rakuten, AWS, and consulting. Named ad-platform certification and hands-on media-buying tenure are candidate-confirmed.
+52. **People / team leadership**: Led 12 workstreams, six organizations, three time zones, and a separate 15+ engineer platform team. Direct-report leadership is candidate-confirmed.
 53. **Technical stack evidenced by résumé**: Amazon Bedrock, RAG, prompt/model selection, Bedrock Guardrails, evals, SQL, Random Forest, APIs, Rust, Kafka, Flink, FPGA, confidential computing, AI content safety.
-54. **Not evidenced—confirm before claiming**: PMP, security clearance, direct Workday ERP implementation, Marketo/HubSpot certification, named ad-platform buying credentials, immunology/life-sciences expertise, healthcare provider-network contracting, direct-report count.
+54. **Candidate-confirmed qualifications**: PMP; current security clearance; direct Workday ERP implementation; Marketo/HubSpot certification; named ad-platform buying credentials; immunology/life-sciences expertise; healthcare provider-network contracting; direct-report leadership. Use exact credential names, clearance level, platforms, and counts only when the form requests them.
 55. **Remote / hybrid / onsite**: Yes; willing to meet the role’s stated cadence.
 56. **Travel**: Yes; use the posting-specific percentage when stated (for example, Brunswick up to 30%, Workiva up to 20%).
 57. **Salary format**: Use the exact posting currency and period. Prefer the role-specific figure below; if the form permits text, add “negotiable within the posted range based on total compensation and scope.”
 58. **Non-U.S. authorization**: Yes. Candidate-confirmed authorization is available for all countries; no sponsorship is required.
-59. **Legal / conflict working assumptions**: No known restrictive covenant preventing the role; no known relatives at the employer; no known government-employment conflict; no known criminal conviction requiring disclosure; no current security clearance. **Confirm every applicable declaration before submission.** These are not resume-derived facts.
+59. **Legal / conflict declarations (candidate-confirmed)**: No restrictive covenant preventing the role; no relatives at the employer; no government-employment conflict; no criminal conviction requiring disclosure; current security clearance held.
 60. **Background / drug screening**: Willing to complete lawful pre-employment checks.
 61. **Start date**: Two weeks after acceptance, or a mutually agreed date.
 62. **Reason for leaving / interest in change**: Seeking a role with broader end-to-end ownership, measurable customer and business impact, and a strong connection between strategy, technology, and execution.
@@ -139,14 +139,14 @@ Use these only when the corresponding field appears:
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing2@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Evoila - B2B Demand Generation Marketing Manager (m w d) - JR100333 - 88e15990.pdf`
-- **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
+- **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): €110,000 EUR base annually, negotiable.
 - **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 5-step flow observed. The first step exposes country/residence and legal-name fields; some tenants also require source/how-heard. Later questions remain conditional until required data is entered.
 - **Eligibility / Location / Availability**: Current residence is the United States. Candidate-confirmed authorization is available in Germany; no sponsorship required. Open to relocation.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: evoila’s owner-led focus on cloud, security, data, and measurable B2B lead generation rewards marketers who can understand the technology as deeply as the funnel.
 - **Strongest Relevant Evidence**: AWS sovereign-cloud GTM: $20M+ commitments, $122M pipeline, deployment reduced from six months to two hours.
 - **Why this role**: I have repeatedly converted technical differentiation into commercial momentum. At AWS, I translated sovereign-cloud requirements into reference architectures, $20M+ in commitments, and a $122M pipeline; at Microsoft, I built a $12M attribution and partner-capital engine that generated $50M in incremental GMV at 4.1x ROI. I would bring that blend of cloud fluency, experimentation, and revenue accountability to evoila’s B2B campaigns.
@@ -243,16 +243,16 @@ Use these only when the corresponding field appears:
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing6@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Maksegroup - Technical Product Manager - JR100160 - ecbdf1e5.pdf`
-- **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
+- **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): ₹10,000,000 INR base annually, negotiable.
 - **Role Alignment**: AI and platform product leader experienced in customer discovery, roadmap prioritization, technical delivery, GTM, adoption, and measurable enterprise outcomes.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
-- **Eligibility / Location / Availability**: Indian citizen; use the exact Indian right-to-work option and answer no sponsorship required if citizenship is accepted as authorization. Open to Gurgaon relocation.
+- **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in India; no sponsorship required. Open to Gurgaon relocation.
 - **Experience / Screening Answer**: 6+ years leading AI, cloud, data, or platform product strategy and delivery, including 2+ years directly owning an agentic GenAI product at AWS.
 - **Why this company**: Makse Group’s emphasis on practical Workday transformation, documentation, and implementation rigor fits my bias for turning ambiguity into executable systems.
-- **Strongest Relevant Evidence**: Twelve years translating technical requirements into roadmaps, controls, testing, documentation, and adoption; direct Workday ERP implementation is not confirmed.
+- **Strongest Relevant Evidence**: Twelve years translating technical requirements into roadmaps, controls, testing, documentation, and adoption; direct Workday ERP implementation is candidate-confirmed.
 - **Why this role**: I have not claimed direct end-to-end Workday implementation experience, but I do bring 12 years of technical program and platform leadership. I have translated complex business requirements into roadmaps, architectures, controls, testing, documentation, and adoption across AWS, Microsoft, and D. E. Shaw. I would bring that rigor to ERP delivery while ramping quickly on Makse’s Workday-specific methods and integrations.
 - **ATS Keywords**: Product Strategy, Roadmaps, Customer Discovery, Agile, APIs, Platform Products, Experimentation, Product Analytics, GTM, Stakeholder Management, AI/ML, Cloud Infrastructure, Product Management
 - **Posting Overview**: Makse Group is where innovation meets impact. We’re not just consultants; we’re problem-solvers and trailblazers, empowering clients with Workday solutions that transform their businesses. Our culture thrives on curiosity, collaboration, and continuous learning. We take on challenges together, support each other’s growth, and celebrate every milestone. Looking to advance your career, work with cutting-edge solutions, and join a team that values your potential? Welcome to Makse Group. We are seeking a skilled and motivated Technical Product Manager with 8+ years of experience to join our dynamic team. The ideal candidate will have a background in managing ERP projects, with a specific focus…
@@ -295,13 +295,13 @@ Use these only when the corresponding field appears:
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing20@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Ag - AI Product Manager - JR10407997 - dce6950a.pdf`
-- **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
+- **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): ₹10,000,000 INR base annually, negotiable.
 - **Role Alignment**: AI and platform product leader experienced in customer discovery, roadmap prioritization, technical delivery, GTM, adoption, and measurable enterprise outcomes.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
-- **Eligibility / Location / Availability**: Indian citizen; no India sponsorship expected. Open to Bangalore relocation and global-team hours.
+- **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in India; no sponsorship required. Open to Bangalore relocation and global-team hours.
 - **Experience / Screening Answer**: 6+ years leading AI, cloud, data, or platform product strategy and delivery, including 2+ years directly owning an agentic GenAI product at AWS.
 - **Why this company**: Airbus is industrializing AI where reliability, scale, safety, and operational adoption matter—not merely demonstrating models.
 - **Strongest Relevant Evidence**: AWS governed GenAI: 25% adoption, 70% brand favorability, 2.8% hallucinations, 15% higher session depth.
@@ -328,7 +328,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Open to New York, Washington, DC, or Boise and any stated hybrid cadence.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Clearwater Analytics needs marketing operations to function as revenue infrastructure, with clean data, automation, routing, attribution, and executive insight.
 - **Strongest Relevant Evidence**: Microsoft funnel infrastructure: $50M incremental GMV at 4.1x ROI with conversion rising from 5% to 24%.
 - **Why this role**: At Microsoft I built a marketing-operations engine spanning propensity models, W-shaped attribution, API governance, real-time budget routing, and partner workflows. It produced $50M incremental GMV at 4.1x ROI and improved conversion from 5% to 24%. I would apply the same systems mindset to Clearwater’s lead capture, scoring, routing, lifecycle automation, data quality, and funnel reporting.
@@ -380,7 +380,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. California residence is compatible with a U.S.-remote role unless the employer lists excluded states.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Risepoint connects performance marketing to a mission I value: expanding affordable, career-relevant education for working adults.
 - **Strongest Relevant Evidence**: Rakuten growth pivot: CAC $42 to $8.50, D30 retention 34% to 67%, payback 18 to four months.
 - **Why this role**: I have used cohort economics, SQL, attribution, and experiments to find growth that is both scalable and economically sound. At Rakuten, a B2B2C pivot raised D30 retention from 34% to 67%, reduced CAC from $42 to $8.50, and shortened payback from 18 to four months. I would bring that discipline to Risepoint’s paid-media portfolio while respecting program, university, and learner differences.
@@ -432,7 +432,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Remote eligible; disclose seniority and compensation expectations transparently.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Stride’s test-and-learn culture and focus on enrollment and retention make product marketing measurable and mission-linked.
 - **Strongest Relevant Evidence**: Marketing and growth work across Microsoft and Rakuten; level mismatch must be disclosed.
 - **Why this role**: I can contribute far beyond basic execution while remaining willing to do the detailed work. Microsoft and Rakuten gave me direct experience with positioning, campaigns, attribution, enrollment-like conversion funnels, cohort retention, and experimentation. The important caveat is level fit: with 12 years of experience and an MBA, I am materially more senior than a typical Associate candidate, so I would answer level and compensation questions transparently.
@@ -484,7 +484,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. U.S.-remote compatible.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Tinuiti’s full-funnel, measurement-led promise—love growth, hate waste—matches my preference for incrementality and capital efficiency over vanity metrics.
 - **Strongest Relevant Evidence**: Microsoft 4.1x marketing ROI plus Rakuten cohort, CAC, payback, and geo-lift analytics.
 - **Why this role**: I am motivated by accountable growth, not channel activity. Microsoft’s live yield and attribution system reallocated spend toward outcomes and delivered 4.1x ROI; Rakuten’s geo-lift and cohort analysis exposed a weak DTC thesis and supported a much stronger partnership model. I would bring that measurement discipline, curiosity, and remote cross-functional operating style to Tinuiti’s paid-media clients.
@@ -510,7 +510,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: Apply is live, but the tenant returned to the careers shell before exposing the step schema. Treat later questions as account/session-gated and recheck manually.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Willing to relocate to North Bethesda and meet leadership/travel expectations.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Choice Hotels can connect enterprise-scale media planning to incremental bookings and franchisee economics across a unusually broad channel mix.
 - **Strongest Relevant Evidence**: Microsoft $12M performance engine with real-time budget allocation and W-shaped attribution.
 - **Why this role**: I have managed large marketing investments with performance and finance discipline. At Microsoft, real-time budget traffic-shaping and W-shaped attribution improved funded-partner conversion from 5% to 24% and generated $50M incremental GMV. Rakuten’s Monte Carlo and geo-lift work sharpened my approach to incrementality. I would apply that rigor across Choice’s search, social, programmatic, video, metasearch, and affiliate portfolio.
@@ -555,14 +555,14 @@ Use these only when the corresponding field appears:
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing16@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Entrust - Sr Growth Marketing Manager - R004277 - a78bd0ef.pdf`
-- **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
+- **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): £95,000 GBP base annually, negotiable.
 - **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in the U.K.; no sponsorship required.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Entrust’s identity-centric security portfolio gives growth marketing a clear purpose: translate technical trust into demand across global markets.
 - **Strongest Relevant Evidence**: AWS regulated-cloud pipeline creation plus Microsoft demand, attribution, and partner activation.
 - **Why this role**: I can help Entrust turn technical trust into measurable demand. AWS sovereign-cloud work converted data sovereignty and resiliency into customer-ready architectures and a $122M pipeline; Microsoft’s marketing engine delivered 4.1x ROI through targeting, attribution, and partner activation. I would connect those disciplines across segmentation, content, field programs, lifecycle journeys, and global revenue teams.
@@ -614,7 +614,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Open to Chicago or Seattle office-flex work. Salesforce asks candidates to limit applications to three roles in 12 months.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Salesforce’s Strategic Partnerships team sits where ecosystem strategy, AI CRM positioning, enablement, and joint customer value meet.
 - **Strongest Relevant Evidence**: Microsoft ecosystem growth and AWS technical GTM for regulated enterprise buyers.
 - **Why this role**: I have repeatedly made complex technology commercially legible. At Microsoft, a partner-capital engine generated $50M incremental GMV and raised conversion from 5% to 24%; at AWS, regulated-cloud positioning unlocked $20M+ commitments. I would use that combination of ecosystem strategy, joint value propositions, enablement, executive storytelling, and measurement to accelerate Salesforce strategic partnerships.
@@ -639,7 +639,7 @@ Use these only when the corresponding field appears:
 - **Role Alignment**: AI and platform product leader experienced in customer discovery, roadmap prioritization, technical delivery, GTM, adoption, and measurable enterprise outcomes.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control. Deadline observed: August 17, 2026.
 - **Observed Application Flow**: 8-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
-- **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required; already located in San Francisco. Major conditional risk: student/recent-graduate eligibility and overqualification. Apply by August 17, 2026.
+- **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required; already located in San Francisco. Student/recent-graduate eligibility is candidate-confirmed; disclose seniority accurately. Apply by August 17, 2026.
 - **Experience / Screening Answer**: 6+ years leading AI, cloud, data, or platform product strategy and delivery, including 2+ years directly owning an agentic GenAI product at AWS.
 - **Why this company**: Salesforce Futureforce offers structured product craft, mentorship, and direct impact on a platform reshaping work through trusted AI.
 - **Strongest Relevant Evidence**: Substantial product experience, but probable overqualification and new-graduate eligibility risk.
@@ -666,7 +666,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: Apply is live, but the tenant returned to the careers shell before exposing the step schema. Treat later questions as account/session-gated and recheck manually.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. U.S.-remote compatible.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: FICO’s North American banking mandate needs a marketer who can speak credibly to risk, analytics, regulated buyers, and pipeline economics.
 - **Strongest Relevant Evidence**: Financial-services subject-matter depth combined with measurable B2B demand-generation results.
 - **Why this role**: FICO’s banking audience matches my unusual mix of marketing operations and financial-services depth. Microsoft’s data-driven partner engine produced 4.1x ROI; D. E. Shaw gave me hands-on credibility in risk, capital, trading products, and executive buyers. I would operate as a virtual segment CMO—linking account insights, field programs, sales enablement, and pipeline acceleration to measurable economics.
@@ -692,7 +692,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed. The first step exposes country/residence and legal-name fields; some tenants also require source/how-heard. Later questions remain conditional until required data is entered.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Posting is on-site in Chicago, Dallas, New York, or Atlanta; willing to relocate.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: JLL’s technology-enabled real-estate platform creates a rich product-marketing challenge: make a complex portfolio clear, differentiated, and commercially actionable.
 - **Strongest Relevant Evidence**: AWS product GTM and McKinsey market-entry strategy for complex enterprise offerings.
 - **Why this role**: I have taken technical portfolios from complex capabilities to clear market value. AWS sovereign-cloud positioning opened a $122M pipeline, while McKinsey’s APAC market-entry work aligned architecture, regulation, and GTM around a $1.1B opportunity. I would apply that portfolio strategy, messaging, enablement, research, and launch discipline to JLL’s technology products and enterprise buyers.
@@ -718,7 +718,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Accept hybrid attendance three days per week and travel up to 30%.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Brunswick’s Next Never Rests culture pairs operational excellence with a category being reshaped by digital products and next-generation marine technology.
 - **Strongest Relevant Evidence**: Microsoft marketing-operations architecture and AWS executive program governance.
 - **Why this role**: Brunswick needs a leader who can make marketing operations both scalable and accountable. Microsoft gave me direct experience with a $12M operating engine, attribution, automation, APIs, budget governance, and partner workflows; AWS added multi-organization executive governance. I would bring that systems orientation to martech, demand operations, team leadership, and cross-brand performance while meeting the hybrid and travel requirements.
@@ -759,7 +759,7 @@ Use these only when the corresponding field appears:
 - **Queue Posting Date**: 2026-08-08
 - **Workday Requisition ID**: R71417
 - **Workday Location**: Telecommuter TN
-- **Time Type**: Full time (inferred from the role; confirm in the application form)
+- **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi35@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Sedgwick - Product Manager Owner AI - R71417 - f750b710.pdf`
@@ -789,7 +789,7 @@ Use these only when the corresponding field appears:
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi8@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Deutsche Bank - Management Consulting - R0381683 - 0e1d9e09.pdf`
-- **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
+- **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): £95,000 GBP base annually, negotiable.
 - **Role Alignment**: Transformation consultant experienced in structured problem solving, operating models, business cases, executive communication, technology strategy, and implementation governance.
@@ -805,33 +805,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 27. Deutsche Bank — Management Consulting
-
-- **URL**: `https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Transformation-Strategy--Senior-Consultant_R0381683-1`
-- **Queue Posting Date**: 2026-08-08
-- **Workday Requisition ID**: R0381683
-- **Workday Location**: London, 21 Moorfields
-- **Time Type**: Full time
-- **Posting Retrieval**: Complete
-- **Email**: shivamsi8@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Deutsche Bank - Management Consulting - R0381683 - 0e1d9e09.pdf`
-- **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
-- **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): £95,000 GBP base annually, negotiable.
-- **Role Alignment**: Transformation consultant experienced in structured problem solving, operating models, business cases, executive communication, technology strategy, and implementation governance.
-- **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control. Exact duplicate of entry 33 (same requisition R0381683); preserve the separate source entry and email, but do not submit twice.
-- **Observed Application Flow**: 5-step flow observed. The first step exposes country/residence and legal-name fields; some tenants also require source/how-heard. Later questions remain conditional until required data is entered.
-- **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in the U.K.; no sponsorship required. This is the same requisition as the preceding Deutsche Bank entry and should not be submitted twice.
-- **Experience / Screening Answer**: 2 years of formal management consulting at McKinsey and 12 years total across strategy, transformation, and operating leadership.
-- **Why this company**: The duplicated Deutsche Bank entry remains strategically attractive because DBMC spans operating-model, regulatory, data, and transformation problems.
-- **Strongest Relevant Evidence**: McKinsey market-design economics and Microsoft regulated-cloud implementation.
-- **Why this role**: For the second, duplicated DBMC entry, I would use a distinct evidence set: McKinsey’s maker-taker redesign grew volume from $215B to $371B and recurring revenue from $45M to $213M; Microsoft’s regulated-cloud pivot cut latency from 14 seconds to 220ms. These show strategy, quantitative analysis, stakeholder alignment, and execution—but the duplicate requisition should not be submitted twice.
-- **ATS Keywords**: Management Consulting, Transformation Strategy, Operating Models, Business Case Development, Executive Stakeholders, Data Analysis, Change Management, Process Redesign, Program Delivery, Generative AI
-- **Posting Overview**: Job Description: Job Title: Management Consulting – Senior Consultant Location: London Corporate Title: Assistant Vice President You will be joining Deutsche Bank Management Consulting (DBMC), the Bank’s in-house management consulting team that partners with senior leaders to actively contribute to the bank’s strategic objectives. DBMC connects strategy to execution with measurable outcomes. Our role is to support the bank’s transformation journey, helping to define and operationalize its key priorities. To achieve this, we collaborate with business divisions and infrastructure functions across Deutsche Bank’s global platform. Our Engagements cover a wide range of topics including strategic…
-
----
-
-## 28. Trimble — Product Marketing Manager
+## 27. Trimble — Product Marketing Manager
 
 - **URL**: `https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Product-Marketing-Manager_R56888`
 - **Queue Posting Date**: 2026-08-08
@@ -841,14 +815,14 @@ Use these only when the corresponding field appears:
 - **Posting Retrieval**: Complete
 - **Email**: shivamsin11@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Trimble - Product Marketing Manager - R56888 - fda66260.pdf`
-- **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
+- **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): zł480,000 PLN base annually, negotiable.
 - **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control. Deadline observed: August 17, 2026.
 - **Observed Application Flow**: 5-step flow observed. The first step exposes country/residence and legal-name fields; some tenants also require source/how-heard. Later questions remain conditional until required data is entered.
 - **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in Poland; no sponsorship required. Open to Krakow/Poland relocation. Apply by August 17, 2026.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Trimble’s mapping and routing portfolio connects the digital and physical worlds, with AI-enabled product marketing as a genuine growth lever.
 - **Strongest Relevant Evidence**: AI product fluency, technical storytelling, segment value propositions, and measurable GTM.
 - **Why this role**: I can combine AI fluency with the commercial storytelling required for mapping and routing. AWS taught me to turn agentic AI, guardrails, and technical tradeoffs into an adopted product and funded roadmap; D. E. Shaw built my appreciation for low-latency, high-reliability systems. I would translate Trimble’s capabilities into segment-specific value, launches, enablement, and measurable European GTM.
@@ -857,7 +831,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 29. TBC Corporation — Technical Product Manager
+## 28. TBC Corporation — Technical Product Manager
 
 - **URL**: `https://tbc.wd12.myworkdayjobs.com/en-US/LyricCareers/job/Technical-Product-Manager---Senior_JR842`
 - **Queue Posting Date**: 2026-08-08
@@ -883,7 +857,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 30. Aderant — Product Manager
+## 29. Aderant — Product Manager
 
 - **URL**: `https://aderant.wd5.myworkdayjobs.com/en-US/Aderant_External_Careers/job/Product-Manager_REQ_100000371`
 - **Queue Posting Date**: 2026-08-08
@@ -909,7 +883,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 31. Athenahealth — Senior Manager, Marketing Operations
+## 30. Athenahealth — Senior Manager, Marketing Operations
 
 - **URL**: `https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Senior-Manager--Marketing-Nurture---Automation-Strategy_R15165`
 - **Queue Posting Date**: 2026-08-08
@@ -926,7 +900,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Remote U.S. compatible.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: athenahealth’s orchestration role treats marketing automation as a buyer-journey operating system rather than a collection of campaigns.
 - **Strongest Relevant Evidence**: Marketing orchestration, attribution, automation, APIs, and AI-enabled operating design.
 - **Why this role**: Microsoft’s marketing engine is the clearest proof of fit: propensity scoring, attribution, API governance, live budget allocation, and partner workflows produced $50M incremental GMV at 4.1x ROI. AWS adds experience using AI responsibly across complex journeys. I would apply both to athenahealth’s orchestration strategy, prioritization, personalization, measurement, and lifecycle progression.
@@ -935,7 +909,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 32. Amcor — Program Manager
+## 31. Amcor — Program Manager
 
 - **URL**: `https://amcor.wd5.myworkdayjobs.com/en-US/Amcor_External_Career_Site/job/Program-Manager_REQ_94049`
 - **Queue Posting Date**: 2026-08-08
@@ -951,7 +925,7 @@ Use these only when the corresponding field appears:
 - **Role Alignment**: Program leader experienced in multi-workstream governance, executive alignment, RAID management, process redesign, technology delivery, and change adoption.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by email/social sign-in. No account was created and no legal terms were accepted.
-- **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Choose a U.S. location rather than Canada unless Canadian authorization is separately confirmed.
+- **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in both the U.S. and Canada; no sponsorship required. Choose the location matching the application.
 - **Experience / Screening Answer**: 10+ years leading complex cross-functional technology, risk, transformation, and GTM programs. No PMP certification is listed.
 - **Why this company**: Amcor’s global footprint and safety-led transformation require program leaders who can align sites, functions, metrics, and change adoption.
 - **Strongest Relevant Evidence**: Multi-workstream governance across six organizations plus operating-model speed-to-market improvement.
@@ -961,7 +935,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 33. The Jackson Laboratory — Product Marketing Manager
+## 32. The Jackson Laboratory — Product Marketing Manager
 
 - **URL**: `https://thejacksonlaboratory.wd503.myworkdayjobs.com/en-US/External_JAX/job/Product-Marketing-Manager---Immunology---Remote_JR006062`
 - **Queue Posting Date**: 2026-08-08
@@ -978,7 +952,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Remote compatible.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: The Jackson Laboratory’s translational mission gives product marketing a direct role in accelerating scientific discovery and revenue growth.
 - **Strongest Relevant Evidence**: Complex B2B technical product marketing; no direct immunology credential claimed.
 - **Why this role**: I do not claim an immunology background, but I have repeatedly learned technical domains quickly and marketed complex B2B offerings credibly. AWS regulated-cloud GTM created a $122M pipeline, and Microsoft linked analytics, automation, partners, and sales enablement to 4.1x ROI. I would pair that product-marketing discipline with close partnership from JAX scientific and commercial experts.
@@ -987,7 +961,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 34. Saks Fifth Avenue — Specialist, Growth Marketing
+## 33. Saks Fifth Avenue — Specialist, Growth Marketing
 
 - **URL**: `https://saks.wd1.myworkdayjobs.com/en-US/careers_at_saks/job/Specialist--Growth-Marketing---Display_R-108192-1`
 - **Queue Posting Date**: 2026-08-08
@@ -1004,7 +978,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Listing is Remote, New York; willing to relocate if New York residency is required.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Saks Global combines premium brand stewardship with the scale and data of a multi-banner luxury platform.
 - **Strongest Relevant Evidence**: Cohort economics, geo-lift, attribution, budget allocation, and profitable-growth experimentation.
 - **Why this role**: Rakuten’s cohort and geo-lift work gives me a rigorous growth lens: the winning pivot reduced CAC from $42 to $8.50 and doubled D30 retention. Microsoft adds live budget allocation and multi-touch attribution. I would apply those skills to Saks Global’s display strategy, audiences, creative testing, incrementality, frequency, luxury-brand guardrails, and profitable customer acquisition.
@@ -1013,7 +987,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 35. Ansira — Sr Manager, Marketing Operations
+## 34. Ansira — Sr Manager, Marketing Operations
 
 - **URL**: `https://ansira.wd1.myworkdayjobs.com/en-US/Ansira_Careers/job/Sr-Manager--Marketing-Operations_R1095`
 - **Queue Posting Date**: 2026-08-08
@@ -1030,7 +1004,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by email/social sign-in. No account was created and no legal terms were accepted.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Listing is Remote, Missouri; confirm state eligibility and relocate if required.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Ansira’s mix of CRM, ABM, automation, reporting, and local activation makes marketing operations central to growth execution.
 - **Strongest Relevant Evidence**: CRM-adjacent workflow design, attribution, APIs, performance reporting, and partner activation.
 - **Why this role**: I have already built the kind of operating system Ansira describes. Microsoft’s CRM-adjacent workflows, attribution, APIs, partner funding, and performance reporting connected strategy to execution and generated $50M incremental GMV. I would bring hands-on problem solving across ABM, lifecycle automation, lead routing, reporting, stack governance, and enablement for New Business, Client Growth, and LMA.
@@ -1039,7 +1013,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 36. DLA Piper — Sr Marketing Operations Coordinator
+## 35. DLA Piper — Sr Marketing Operations Coordinator
 
 - **URL**: `https://dlapiper.wd1.myworkdayjobs.com/en-US/dlapiper/job/Sr-Marketing-Operations-Coordinator_R2026-2273`
 - **Queue Posting Date**: 2026-08-08
@@ -1056,7 +1030,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Willing to relocate to an offered hybrid location.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: DLA Piper’s global platform makes flawless webinar and thought-leadership operations visible to senior lawyers, clients, and markets.
 - **Strongest Relevant Evidence**: Executive-grade coordination, client service, legal/compliance stakeholder management, and process rigor.
 - **Why this role**: I have supported high-stakes executive communications and complex cross-functional delivery throughout consulting, financial services, and technology. McKinsey sharpened my client-service rigor; D. E. Shaw required precision across legal, compliance, trading, and executives. I would bring disciplined intake, timelines, stakeholder follow-up, vendor coordination, quality control, and post-event measurement to DLA Piper.
@@ -1065,7 +1039,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 37. Sony Pictures Entertainment — Manager, Global Marketing Operations
+## 36. Sony Pictures Entertainment — Manager, Global Marketing Operations
 
 - **URL**: `https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Manager--Global-Marketing-Operations_JR113953`
 - **Queue Posting Date**: 2026-08-08
@@ -1082,7 +1056,7 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed. The first step exposes country/residence and legal-name fields; some tenants also require source/how-heard. Later questions remain conditional until required data is entered.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Willing to relocate to Culver City for onsite work.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Sony Pictures needs global marketing operations leaders who can build scalable workflows while respecting the creative, physical-logistics, and market-specific realities of entertainment.
 - **Strongest Relevant Evidence**: Global marketing operations across three time zones with repeatable workflow and budget controls.
 - **Why this role**: AWS gave me direct experience coordinating 12 workstreams across six organizations and three time zones, while Microsoft taught me to build repeatable marketing workflows with real-time budget and performance data. I would bring that global operating discipline to Sony’s print, logistics, campaign systems, vendors, and market teams—improving visibility and scale without constraining creativity.
@@ -1091,7 +1065,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 38. Travel HR — Technical Product Manager
+## 37. Travel HR — Technical Product Manager
 
 - **URL**: `https://travelhrportal.wd1.myworkdayjobs.com/en-US/Jobs/job/Technical-Product-Manager_J-81918`
 - **Queue Posting Date**: 2026-08-08
@@ -1101,13 +1075,13 @@ Use these only when the corresponding field appears:
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi3@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Travel HR - Technical Product Manager - J-81918 - 7ac5648f.pdf`
-- **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
+- **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): ₹10,000,000 INR base annually, negotiable.
 - **Role Alignment**: AI and platform product leader experienced in customer discovery, roadmap prioritization, technical delivery, GTM, adoption, and measurable enterprise outcomes.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
-- **Eligibility / Location / Availability**: Indian citizen; no India sponsorship expected. Open to Bangalore relocation.
+- **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in India; no sponsorship required. Open to Bangalore relocation.
 - **Experience / Screening Answer**: 6+ years leading AI, cloud, data, or platform product strategy and delivery, including 2+ years directly owning an agentic GenAI product at AWS.
 - **Why this company**: Amex GBT’s belief in travel as a force for good is backed by a complex digital ecosystem serving clients, vendors, travelers, and internal teams.
 - **Strongest Relevant Evidence**: Technical product strategy across web, cloud, AI, cross-border, and partner ecosystems.
@@ -1117,7 +1091,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 39. Lytx — Paid Media Manager
+## 38. Lytx — Paid Media Manager
 
 - **URL**: `https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Senior-Paid-Media-Specialist_R-4197`
 - **Queue Posting Date**: 2026-08-08
@@ -1134,22 +1108,22 @@ Use these only when the corresponding field appears:
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
 - **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Listing names Georgia, Dallas, and Tennessee remote locations; confirm state eligibility and relocate if needed.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
+- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Hands-on buying experience in named ad platforms is candidate-confirmed.
 - **Why this company**: Lytx’s growth mandate connects paid-media efficiency to a safety technology platform with clear enterprise and mid-market value.
-- **Strongest Relevant Evidence**: Paid-media-adjacent attribution and optimization; direct platform buying depth should be confirmed before claiming.
+- **Strongest Relevant Evidence**: Paid-media-adjacent attribution and optimization; direct platform buying depth is candidate-confirmed.
 - **Why this role**: My strongest evidence is Microsoft’s marketing investment engine: propensity scoring, W-shaped attribution, live budget traffic-shaping, and APIs produced $50M incremental GMV at 4.1x ROI. Rakuten adds cohort, CAC, payback, and geo-lift testing. I would use that analytical foundation to improve Lytx’s channel mix, creative learning, traffic quality, and pipeline contribution.
 - **ATS Keywords**: Demand Generation, Product Marketing, GTM Strategy, Positioning, Lifecycle Marketing, Marketing Operations, Paid Media, Attribution, Pipeline Growth, Sales Enablement, Experimentation, Analytics, B2B, Marketing Automation, SEM
 - **Posting Overview**: Paid Media Manager ( KL0 7 ) The Growth Marketing Team is looking for a Paid Media Manager to support the planning, execution, and optimization of our paid media strategy to increase our online presence and improve our marketing and sales efforts. Our online presence is a key strategic driver of growth for the Enterprise and Mid-Market Business Unit, and this role will contribute meaningfully to driving results. A successful Paid Media Manager will work closely with the Demand Generation team to help maximize ROI, drive traffic, and support customer acquisition . You'll Get To: Contribute to the execution of top-of-funnel paid media strategies across media channels Partner with the events…
 
 ---
 
-## 40. Workiva — Senior AI Product Manager
+## 39. Workiva — Senior AI Product Manager
 
 - **URL**: `https://workiva.wd503.myworkdayjobs.com/en-us/careers/job/senior-ai-product-manager_r11885`
 - **Queue Posting Date**: 2026-08-08
 - **Workday Requisition ID**: R11885
 - **Workday Location**: USA - Remote
-- **Time Type**: Full time (inferred from the role; confirm in the application form)
+- **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi4@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Workiva - Senior AI Product Manager - R11885 - c0fb21f6.pdf`
@@ -1169,7 +1143,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 41. IDEX Corporation — Program Manager
+## 40. IDEX Corporation — Program Manager
 
 - **URL**: `https://idexcorp.wd5.myworkdayjobs.com/en-US/IDEX_Careers/job/Program-Manager_R-09461`
 - **Queue Posting Date**: 2026-08-08
@@ -1185,7 +1159,7 @@ Use these only when the corresponding field appears:
 - **Role Alignment**: Program leader experienced in multi-workstream governance, executive alignment, RAID management, process redesign, technology delivery, and change adoption.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control. Deadline observed: September 6, 2026.
 - **Observed Application Flow**: 7-step flow observed, gated by email/social sign-in. No account was created and no legal terms were accepted.
-- **Eligibility / Location / Availability**: Authorized to work in the U.S.; no sponsorship required. Choose U.S. remote/Longmont; Canada is conditional on separate Canadian work authorization. Apply by September 6, 2026.
+- **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in both the U.S. and Canada; no sponsorship required. Choose U.S. remote/Longmont or the applicable Canada location. Apply by September 6, 2026.
 - **Experience / Screening Answer**: 10+ years leading complex cross-functional technology, risk, transformation, and GTM programs. No PMP certification is listed.
 - **Why this company**: IDEX’s GSD PMO is explicitly strategic and multi-site, with governance, customer advocacy, risk management, and growth—not merely schedule administration.
 - **Strongest Relevant Evidence**: Strategic PMO leadership across multi-site-like, high-risk technical and customer programs.
@@ -1195,7 +1169,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 42. Porch Group — Senior Corporate Development Manager
+## 41. Porch Group — Senior Corporate Development Manager
 
 - **URL**: `https://porch.wd1.myworkdayjobs.com/en-US/careers/job/Senior-Corporate-Development-Manager_JR101412`
 - **Queue Posting Date**: 2026-08-08
@@ -1221,7 +1195,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 43. TaskUs — Program Manager
+## 42. TaskUs — Program Manager
 
 - **URL**: `https://taskus.wd1.myworkdayjobs.com/en-US/Careers/job/Program-Manager_R_2607_9331`
 - **Queue Posting Date**: 2026-08-08
