@@ -62,6 +62,7 @@ Use these for standard Lever fields unless an application record overrides them.
 | Street address | 447 Sutter Street, Ste 506 | Candidate profile |
 | Current compensation / CTC | N/A | Candidate-confirmed |
 | Certifications | None listed on the resume | Do not claim unlisted certifications |
+| Currency conversion basis | GBP 0.75, EUR 0.875, CAD 1.36, NZD 1.64, SEK 10.5, RON 4.36, INR 95.8 per USD | Applied to the candidate's USD target wherever a posting shows no local range |
 
 ## Applications
 
@@ -184,7 +185,7 @@ Use these for standard Lever fields unless an application record overrides them.
 - Posting date: 2026-08-03
 - Location/status: **Live**; London, Berlin, or Paris, remote.
 - Right to work in UK/Germany/France/Italy/Spain: **Yes**. Sponsorship: **No**.
-- Salary: **Negotiable in local currency**.
+- Salary: **GBP 90,000-120,000** for London, or **EUR 105,000-140,000** for Berlin or Paris; defer to the posted local range where one is shown.
 - Hidden survey: answer only the displayed version; neurodiversity: **Yes**.
 - Why Kraken:
 
@@ -346,7 +347,7 @@ Use these for standard Lever fields unless an application record overrides them.
 - Posting date: 2026-07-23
 - Location/status: **Live**; India/LATAM form branch.
 - How learned: **Coupa Career Site**. Previously employed: **No**.
-- Salary: **Negotiable in local currency**. Office attendance: **Yes**. India notice: **14 days**.
+- Salary: **INR 13,000,000-15,300,000 gross annually**, or the LATAM local equivalent if that branch is selected. Office attendance: **Yes**. India notice: **14 days**.
 - Relatives/close relationships at Coupa and current employment by a Coupa partner: **No**.
 - Tailored response:
 
@@ -373,7 +374,7 @@ Use these for standard Lever fields unless an application record overrides them.
 - Posting date: 2026-07-22
 - Location/status: **Live**; India/LATAM form branch.
 - How learned: **Coupa Career Site**. Prior Coupa employment: **No**.
-- Salary: **Negotiable in local currency**. Office attendance: **Yes**. India notice: **14 days**.
+- Salary: **INR 13,000,000-15,300,000 gross annually**, or the LATAM local equivalent if that branch is selected. Office attendance: **Yes**. India notice: **14 days**.
 - Relatives/close relationships and Coupa-partner employment: **No**.
 - Tailored response:
 
@@ -472,7 +473,7 @@ Use these for standard Lever fields unless an application record overrides them.
 - Posting date: 2026-07-17
 - Location/status: **Live**; remote Europe/global list. Location eligibility and local work authorization: **Yes**.
 - Payments experience: **Yes** - Rakuten cross-border payments plus D. E. Shaw financial platforms.
-- Compensation: **Negotiable in local currency**.
+- Compensation: **EUR 140,000 gross annually** for a European contract, or **$160,000 USD base** for a US-based contract.
 - Tailored response:
 
 > I bring direct payments economics and deep risk-platform experience. At Rakuten, I helped pivot investment toward B2B cross-border payments, improving LTV:CAC from 0.8 to 4.5 and reducing payback to four months. At D. E. Shaw, I led a real-time risk platform that reduced false positives from 15% to 1.8%, saved roughly $400K per month, and unlocked $85M in regulatory capital. I bring Yuno strong money movement, risk, controls, data, and technical product judgment.
@@ -484,7 +485,7 @@ Use these for standard Lever fields unless an application record overrides them.
 - Posting date: 2026-07-17
 - Location/status: **Live**; remote Europe/global list. Eligibility: **Yes**.
 - Payments experience: **Yes**.
-- Compensation: **Negotiable in local currency**.
+- Compensation: **EUR 140,000 gross annually** for a European contract, or **$160,000 USD base** for a US-based contract.
 - Tailored response:
 
 > I have built data products that convert complex operational signals into decisions. At D. E. Shaw, I scaled a Kafka/Flink/Rust risk platform to 5.4M messages per second while improving latency and control accuracy. At Microsoft, I combined propensity scoring, attribution, and live pipeline data to guide capital allocation. At Rakuten, SQL cohorts and geo-lift testing validated a major growth pivot. I can help Yuno define trusted client intelligence, data contracts, observability, and workflows that make payments data actionable for customers and internal teams.
@@ -496,7 +497,7 @@ Use these for standard Lever fields unless an application record overrides them.
 - Posting date: 2026-07-17
 - Location/status: **Live**; remote Europe/global list. Eligibility: **Yes**.
 - Payments experience: **Yes**.
-- Compensation: **Negotiable in local currency**.
+- Compensation: **EUR 140,000 gross annually** for a European contract, or **$160,000 USD base** for a US-based contract.
 - Tailored response:
 
 > I combine payments experience with a strong record of improving customer journeys. At Rakuten, cohort and geo-lift analysis supported a partnership model that doubled D30 retention and cut CAC by nearly 80%. At AWS, I helped a complex GenAI experience reach 25% adoption and increase session depth by 15%, while building controls that protected trust. I bring Yuno customer discovery, API and workflow thinking, lifecycle measurement, and close partnership with engineering, support, sales, and operations to reduce friction across the client experience.
@@ -507,7 +508,7 @@ Use these for standard Lever fields unless an application record overrides them.
 - Email: shivamsingh19@umich.edu
 - Posting date: 2026-07-17
 - Location/status: **Live**; London or Stockholm. Previous Spotify employment: **No**.
-- UK/Sweden authorization and relocation: **Yes**. Sponsorship: **No**. Salary: **Negotiable in local currency**.
+- UK/Sweden authorization and relocation: **Yes**. Sponsorship: **No**. Salary: **GBP 145,000-165,000** for London, or **SEK 2,000,000-2,300,000** for Stockholm.
 - Hidden surveys: answer only the displayed optional location variant.
 - Tailored response:
 
@@ -544,7 +545,7 @@ Use these for standard Lever fields unless an application record overrides them.
 - Email: shivamsingh28@umich.edu
 - Posting date: 2026-07-14
 - Location/status: **Live**; Amersfoort, Ghent, London, or Madrid. Location/work authorization: **Yes**. Relocation: **Yes**.
-- Base salary: **Negotiable in local currency**. Earliest start: **Two weeks after offer**.
+- Base salary: **EUR 105,000-140,000** for Amersfoort, Ghent, or Madrid, or **GBP 90,000-120,000** for London. Earliest start: **Two weeks after offer**.
 - Sponsorship: **No**. Languages: **English, French, and Hindi**.
 - Legendary achievement:
 
