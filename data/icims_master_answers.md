@@ -576,7 +576,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 13. **Are you legally authorized to work in the US?**: Yes
 14. **Will you now or in the future require visa sponsorship?**: No
 15. **Notice Period**: 2 weeks
-16. **Desired Base Salary**: $120,000–$160,000 USD
+16. **Desired Base Salary**: €85,000–€130,000 EUR
 17. **Resume Attachment**: `output/iCIMS - Melaleuca - Director of Product Education.pdf`
 18. **Why are you a fit for Melaleuca & Director of Product Education? / Custom Essay Response**:
     > IIT CS graduate & Ross MBA with 10+ years experience spanning AWS, D. E. Shaw, Microsoft, and McKinsey. I combine technical architecture expertise with commercial strategy to drive high-leverage execution. Excited to contribute to Melaleuca's growth in the Director of Product Education role.

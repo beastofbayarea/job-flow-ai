@@ -35,7 +35,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
     > At Rakuten, our consumer acquisition funnel suffered from high CAC ($42) and poor 30-day retention (34%). Through cohort analytics and a 10,000-iteration Monte Carlo model, I identified that individual B2C paid acquisition was inefficient. We pivoted to a B2B2C corporate partnership model, which improved LTV:CAC from 0.8 to 4.5, boosted D30 retention from 34% to 67%, and reduced CAC from $42 to $8.50.
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 2. Runway Ml — Growth Marketing Manager, Paid Channels
 * **URL**: `https://jobs.ashbyhq.com/runway-ml/ad77d776-ff58-4d04-b6ad-20bdd6d91929`
 
@@ -47,7 +47,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 3. **US Work Authorization**: `Yes` | **Phonetic Spelling**: `Shih-vum Sing` | **Pronouns**: `they/them`
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 3. Kestra — Product Manager, Data Orchestration
 * **URL**: `https://jobs.ashbyhq.com/kestra/4532dbcf-b71d-4a3f-bfcd-a22cb2724e9a`
 
@@ -58,7 +58,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 2. **LinkedIn**: https://linkedin.com/in/beastofbayarea
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 4. Preply — Digital PR Growth Manager
 * **URL**: `https://jobs.ashbyhq.com/preply/62c6b16d-1308-46ec-a2bb-ec06ccd347be`
 
@@ -69,7 +69,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 2. **Work Authorization**: `Yes` | **GDPR Notice Consent**: `Checked / Agreed` | **Gender**: `Man`
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 5. Weaviate — Director of Product
 * **URL**: `https://jobs.ashbyhq.com/weaviate/10c5e3e9-26eb-48d1-ab5a-d9ffb6ab432b`
 
@@ -77,7 +77,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 
 * **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\personalized-resumes\ashby-2026-08-08\weaviate-director-of-product.pdf`
 1. **Name**: Shivam Singh | **Email**: shivamhere@umich.edu | **LinkedIn**: https://linkedin.com/in/beastofbayarea
-2. **Work Authorization**: `Yes` | **Notice Period**: `2 weeks` | **Salary**: `$120,000–$160,000 USD`
+2. **Work Authorization**: `Yes` | **Notice Period**: `2 weeks` | **Salary**: $120,000–$160,000 USD
 
 ---
 
@@ -92,7 +92,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
    > Combining a Computer Science engineering degree from IIT and a Ross MBA with hands-on GenAI product leadership at AWS, I bridge deep technical LLM capabilities with clear enterprise market positioning. At AWS, I led GTM and product strategy for agentic AI copilots across 12 workstreams, unlocking $20M+ immediate commitments and a $122M pipeline; at McKinsey and Microsoft, I scaled technology positioning for C-suite executives. Tribe AI’s mission to deploy custom, enterprise-grade AI solutions matches my background translating cutting-edge AI architecture into high-value customer adoption.
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 7. Coder — Senior Product Marketing Manager
 * **URL**: `https://jobs.ashbyhq.com/Coder/afe5f104-2c78-410a-a7a7-9b0da1badbfc`
 
@@ -107,7 +107,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 5. **Visa Sponsorship**: `No`
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 8. Rogo — GTM Manager, London
 * **URL**: `https://jobs.ashbyhq.com/rogo/d3e94490-b8b5-414f-b455-64af6bc5a580`
 
@@ -121,7 +121,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 4. **Years of experience**: `10` | **University**: `University of Michigan (Ross MBA) / IIT (B.Tech CSE)`
 
 ---
-
+- **Desired Salary**: £85,000–£125,000 GBP
 ## 9. Helpscout — Lead/Principal Product Manager, Growth
 * **URL**: `https://jobs.ashbyhq.com/helpscout/c7efec74-e8f7-428f-8c33-be4e7097b2cd`
 
@@ -134,7 +134,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 3. **SaaS Growth Experience**: `Yes` | **PLG Experience**: `Yes` | **AI Policy**: `Yes`
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 10. Element451 — Director of Growth Marketing
 * **URL**: `https://jobs.ashbyhq.com/element451/f1e625bb-1961-483c-96e6-b11f4d1e6275`
 
@@ -145,7 +145,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 2. **Work Authorization**: `Yes` | **Sponsorship**: `No`
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 11. Revenuecat — Strategy & Operations Manager
 * **URL**: `https://jobs.ashbyhq.com/revenuecat/b5c7d1af-f693-4be0-8566-a10a4002b6cd`
 
@@ -155,7 +155,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 1. **Name**: Shivam Singh | **Email**: shivamsin12@umich.edu | **Proficiency**: `Expert`
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 12. Netboxlabs — Technical Program Manager
 * **URL**: `https://jobs.ashbyhq.com/netboxlabs/43c2df56-cedb-44af-86f9-53a4991466a6`
 
@@ -165,7 +165,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 1. **Name**: Shivam Singh | **Email**: shivamsing17@umich.edu | **Location**: San Francisco, CA
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 13. Supabase — Product Manager - Marketplace
 * **URL**: `https://jobs.ashbyhq.com/supabase/23c9ce7e-6b7b-4316-8f00-8f318e902441`
 
@@ -176,7 +176,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 2. **Passport Country**: `India` | **Country of Residence**: `United States`
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 14. Elevenlabs — Marketing Operations
 * **URL**: `https://jobs.ashbyhq.com/elevenlabs/1c1f4cc9-08f7-4fbb-867f-7e87e7fa19d9`
 
@@ -188,7 +188,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
    > At AWS, I lead product strategy and deployment for agentic GenAI shopping copilots using Amazon Bedrock, fine-tuned RAG models, prompt chains, Bedrock Guardrails, and automated evaluation frameworks. In my daily workflow, I leverage Claude/Gemini and AI coding assistants for prototyping, synthetic user testing, and data analysis.
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 15. Openai — Technical Program Manager, Rack Delivery
 * **URL**: `https://jobs.ashbyhq.com/openai/713a9469-fb35-49db-809e-36f67c920880`
 
@@ -200,7 +200,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
    > Computer Science engineer (IIT B.Tech) with 10+ years managing complex technical infrastructure programs across AWS, D. E. Shaw, and Microsoft. At D. E. Shaw, I led a ~$10M real-time data platform deployed on custom low-latency FPGA hardware and high-throughput servers (5.4M msg/sec). At AWS, I led sovereign-cloud deployment reference architectures reducing rollout time from 6 months to 2 hours. I have extensive experience orchestrating cross-functional engineering, hardware vendors, datacenter operations, and compliance teams for mission-critical datacenter rack delivery.
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 16. Aiprise — Senior Content Marketing Manager
 * **URL**: `https://jobs.ashbyhq.com/aiprise/f40fe1a3-8a70-480b-8df8-0cafcd471fee`
 
@@ -210,7 +210,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 1. **Name**: Shivam Singh | **Email**: shivamsi16@umich.edu | **Location**: San Francisco, CA
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 17. Pano Ai — Technical Program Manager (Hardware Deployment) - Contract
 * **URL**: `https://jobs.ashbyhq.com/pano-ai/5bc40db2-2b64-4d8c-8b3c-2df63691fb2d`
 
@@ -220,7 +220,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 1. **Name**: Shivam Singh | **Email**: shivamsingh39@umich.edu | **Work Auth**: `Yes`
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 18. Goodparty — Product Marketing Lead
 * **URL**: `https://jobs.ashbyhq.com/goodparty/b0c2df52-fa1f-4da0-9c26-8f36753b3711`
 
@@ -238,7 +238,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
    > Outcome: Reduced hallucinations to 2.8%, increased adoption by 25%, achieved 70% brand favorability, and expanded session depth by +15%.
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 19. Synthesia — Field Marketing Manager - US
 * **URL**: `https://jobs.ashbyhq.com/synthesia/58c206dd-aa2b-40a5-9a61-08f0691dc488`
 
@@ -248,7 +248,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 1. **Name**: Shivam Singh | **Email**: shivamsi8@umich.edu | **LinkedIn**: https://linkedin.com/in/beastofbayarea
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 20. Cohere — Technical Program Manager, AI Delivery, Korea
 * **URL**: `https://jobs.ashbyhq.com/cohere/cd987666-aeda-4da6-a23c-d84d4231d33b`
 
@@ -260,7 +260,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
    > Yes, I have 8+ years of experience leading complex customer-facing technical delivery for enterprise AI and cloud platforms. At AWS, I served as Principal, AI Products & Platforms, leading the technical delivery of an agentic GenAI copilot across 12 workstreams and architecting sovereign-cloud deployment reference architectures for enterprise banking clients. This unlocked $20M+ immediate commitments and compressed customer deployment time from 6 months to 2 hours.
 
 ---
-
+- **Desired Salary**: ₩120,000,000–₩160,000,000 KRW
 ## 21. Infisical — Growth Marketing Manager
 * **URL**: `https://jobs.ashbyhq.com/infisical/96f136de-3cab-4e38-942e-0f079f4b0e02`
 
@@ -274,7 +274,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
    - **Growth & Cohort Analytics**: Stress-tested DTC expansion with 10,000 Monte Carlo iterations at Rakuten; executed pivot to B2B2C model that boosted LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, and cut CAC from $42 to $8.50.
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 22. Confluent — Staff Security Risk & Compliance Program Manager - Access Management
 * **URL**: `https://jobs.ashbyhq.com/Confluent/39143513-ad4c-41fb-86ed-b939a66e53d2`
 
@@ -284,7 +284,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 1. **Name**: Shivam Singh | **Email**: shivamsi31@umich.edu | **Company**: Amazon Web Services | **Zip**: 94108
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 23. Audiohook — Director of Performance Marketing Sales
 * **URL**: `https://jobs.ashbyhq.com/audiohook/e321eedb-00cc-48a7-a901-5e1a82d4220a`
 
@@ -305,7 +305,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
    > At D. E. Shaw, during high-pressure market conditions, there was pushback to accept institutional mandates with non-standard risk requirements. I conducted rigorous quantitative risk and margin analysis demonstrating that these mandates would create capital inefficiencies under Basel III rules. I presented the data upward to executive leadership, advocating for strict targeting criteria. This disciplined approach preserved $85M in regulatory capital and allowed us to close a high-quality $500M institutional mandate instead.
 
 ---
-
+- **Desired Salary**: $120,000–$160,000 USD
 ## 24. Tremendous — Senior Product Manager
 * **URL**: `https://jobs.ashbyhq.com/tremendous/db48b621-647f-410e-8aa9-6af43cdd1797`
 
@@ -313,7 +313,7 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 
 * **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\personalized-resumes\ashby-2026-08-08\tremendous-senior-product-manager.pdf`
 1. **Name**: Shivam Singh | **Email**: shivamsingh10@umich.edu | **LinkedIn**: https://linkedin.com/in/beastofbayarea
-2. **Salary Expectation**: `$225,000–$260,000 USD` (Role Base Salary Range: `$225,000 to $300,000 USD`)
+2. **Salary Expectation**: $225,000–$260,000 USD (Listed Range: $225,000–$300,000 USD)
 
 ---
 
