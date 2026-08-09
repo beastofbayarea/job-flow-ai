@@ -219,7 +219,7 @@ Ubisoft’s Live 360 portfolio sits at a powerful intersection of platform produ
 - **Posting date:** 2026-08-04
 - **Status / location:** Live; Staines-upon-Thames, United Kingdom; hybrid
 - **Email:** `shivamsi7@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Ifs - Principal Product Manager IDP Agentic AI.pdf`
+- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
 - **Preferred compensation:** `GBP 125,000-145,000 gross base plus 15-20% variable; negotiable.`
 
 ### Message to the hiring team
@@ -269,7 +269,7 @@ QAD’s outcome-based product model—continuous market sensing, evidence-backed
 - **Posting date:** 2026-07-31
 - **Status / location:** Live; Singapore; full-time
 - **Email:** `shivamsi10@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\NCS - Product Marketing Market Development Lead AI Factory.pdf`
+- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Treatwell - Head of Product Marketing.pdf`
 - **Compensation if asked:** `SGD 220,000-260,000 base plus variable; negotiable.`
 
 ### Message to the hiring team

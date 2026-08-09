@@ -4,7 +4,7 @@ Process every job URL in each of these files. Prepare an md file with all questi
 
 For each job, use a random email from config\candidate_email_pool.json
 
-Select the closest resume from the output folder, copy and rename it accordinglyand then include its path in that job app information
+Select the closest resume from the output folder, copy and rename it accordinglyand then include its path in that job app information. Ignore the email resume mismatches.
 
 Determine the most probable answer to each using this resume. Fill all fields with any possible assumptions or estimates, keep essays concise and MECE. Make sure the salary range and currency matches the job description and location.
 

@@ -124,7 +124,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in INR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Civica - Technical Product Manager- 12 Months Contract.pdf`
+17. **Resume Attachment**: `output/Goody - Product Marketing Manager - Product Marketing & Growth.pdf`
 18. **Why are you a fit for Civica & Technical Product Manager- 12 Months Contract? / Custom Essay Response**:
     > For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Civica.
 19. **EEO Gender**: Male
@@ -171,7 +171,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in ARS; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Huzzle - Senior Growth Marketing Manager.pdf`
+17. **Resume Attachment**: `output/AlphaSense - Director, Product Marketing - Premium Content & Data - Job 8428321002.pdf`
 18. **Why are you a fit for Huzzle & Senior Growth Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Huzzle.
 19. **EEO Gender**: Male
@@ -235,7 +235,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Sand Cherry Associates - Learning Program Manager.pdf`
+17. **Resume Attachment**: `output/Vasion - Program Manager, PDLC.pdf`
 18. **Why are you a fit for Sand Cherry Associates & Learning Program Manager? / Custom Essay Response**:
     > At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Together, these examples show program governance, stakeholder alignment, dependency management, executive communication, and delivery across complex organizations. I would bring that deliberately broad toolkit to Sand Cherry Associates.
 19. **EEO Gender**: Male
@@ -331,7 +331,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Awesome Motive - Growth Manager.pdf`
+17. **Resume Attachment**: `output/AlphaSense - Director, Product Marketing - Premium Content & Data - Job 8428321002.pdf`
 18. **Why are you a fit for Awesome Motive & Growth Manager? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Awesome Motive.
 19. **EEO Gender**: Male
@@ -480,7 +480,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in ARS; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Sur - Senior Paid Media Buyer.pdf`
+17. **Resume Attachment**: `output/WATI.io - Technical Product Manager - B2B Platform.pdf`
 18. **Why are you a fit for Sur & Senior Paid Media Buyer? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Sur.
 19. **EEO Gender**: Male
@@ -530,7 +530,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Skylight - Senior Growth Marketing Manager.pdf`
+17. **Resume Attachment**: `output/AlphaSense - Director, Product Marketing - Premium Content & Data - Job 8428321002.pdf`
 18. **Why are you a fit for Skylight & Senior Growth Marketing Manager? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Skylight.
 19. **EEO Gender**: Male
@@ -579,7 +579,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Fluent, LLC - Marketing Operations Manager, Partnerships (AdTech).pdf`
+17. **Resume Attachment**: `output/Front - Marketing Operations Manager - Marketing Operations & Analytics.pdf`
 18. **Why are you a fit for Fluent, LLC & Marketing Operations Manager, Partnerships (AdTech)? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Fluent, LLC.
 19. **EEO Gender**: Male
@@ -628,7 +628,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Boundless Networks, Inc - Senior Technical Product Manager.pdf`
+17. **Resume Attachment**: `output/WATI.io - Technical Product Manager - B2B Platform.pdf`
 18. **Why are you a fit for Boundless Networks, Inc. & Senior Technical Product Manager? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Boundless Networks, Inc..
 19. **EEO Gender**: Male
@@ -672,7 +672,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/AND Digital - Technical Product Manager (contract).pdf`
+17. **Resume Attachment**: `output/Goody - Product Marketing Manager - Product Marketing & Growth.pdf`
 18. **Why are you a fit for AND Digital & Technical Product Manager (contract)? / Custom Essay Response**:
     > At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to AND Digital.
 19. **EEO Gender**: Male
@@ -803,7 +803,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Pack.com - Technical Product Manager (Gamified Commerce & Web3).pdf`
+17. **Resume Attachment**: `output/WATI.io - Lead Product Manager - E-commerce.pdf`
 18. **Why are you a fit for Pack.com & Technical Product Manager (Gamified Commerce & Web3)? / Custom Essay Response**:
     > At McKinsey, I designed a maker-taker pricing and liquidity flywheel that grew institutional trading volume from $215B to $371B and recurring revenue from $45M to $213M through elasticity, take-rate, and contribution-margin analysis. At Rakuten, I won executive-committee approval for a $50M capital-redeployment thesis after portfolio-wide ROIC analysis and stress-tested a DTC expansion with a 10,000-iteration Monte Carlo model, helping avoid an estimated $20M loss. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Pack.com.
 19. **EEO Gender**: Male
@@ -919,7 +919,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Weekday AI - demand generation.pdf`
+17. **Resume Attachment**: `output/Astra - Demand Generation Manager - Growth & Demand Generation.pdf`
 18. **Why are you a fit for Weekday AI & demand generation? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Weekday AI.
 19. **EEO Gender**: Male
@@ -1003,7 +1003,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in VND; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/GoTymeX - Product Manager Service Interactions.pdf`
+17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
 18. **Why are you a fit for GoTymeX & Product Manager | Service Interactions? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to GoTymeX.
 19. **EEO Gender**: Male
@@ -1054,7 +1054,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in LKR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Oceans - Digital Marketing Manager.pdf`
+17. **Resume Attachment**: `output/Valsoft Corporation - Product Marketing Manager.pdf`
 18. **Why are you a fit for Oceans & Digital Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Oceans.
 19. **EEO Gender**: Male
@@ -1117,7 +1117,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Sago - Program Manager, Research Ops (temporary).pdf`
+17. **Resume Attachment**: `output/Vasion - Program Manager, PDLC.pdf`
 18. **Why are you a fit for Sago & Program Manager, Research Ops (temporary)? / Custom Essay Response**:
     > At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Together, these examples show program governance, stakeholder alignment, dependency management, executive communication, and delivery across complex organizations. I would bring that deliberately broad toolkit to Sago.
 19. **EEO Gender**: Male
@@ -1164,7 +1164,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/NobleAI - Product Manager (Science-Based AI Platform).pdf`
+17. **Resume Attachment**: `output/NobleAI - Product Manager - Science-Based AI Platform.pdf`
 18. **Why are you a fit for NobleAI & Product Manager (Science-Based AI Platform)? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to NobleAI.
 19. **EEO Gender**: Male
@@ -1206,7 +1206,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in SAR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Salla - Staff Product Manager - Enterprise.pdf`
+17. **Resume Attachment**: `output/Salla - Staff Product Manager - Enterprise E-Commerce Platform.pdf`
 18. **Why are you a fit for Salla & Staff Product Manager - Enterprise? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Salla.
 19. **EEO Gender**: Male
@@ -1263,7 +1263,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Worth AI - Technical Product Manager.pdf`
+17. **Resume Attachment**: `output/Worth AI - Technical Product Manager - Generative AI Platform Strategy.pdf`
 18. **Why are you a fit for Worth AI & Technical Product Manager? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Worth AI.
 19. **EEO Gender**: Male
@@ -1362,7 +1362,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in AED; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Bayut dubizzle - Product Manager - Growth.pdf`
+17. **Resume Attachment**: `output/WATI.io - Lead Product Manager - E-commerce.pdf`
 18. **Why are you a fit for Bayut | dubizzle & Product Manager - Growth? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Bayut | dubizzle.
 19. **EEO Gender**: Male
@@ -1454,7 +1454,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in HKD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/moomoo - Assistant Marketing Manager (Brand & Creative Strategy).pdf`
+17. **Resume Attachment**: `output/Valsoft Corporation - Product Marketing Manager.pdf`
 18. **Why are you a fit for moomoo & Assistant Marketing Manager (Brand & Creative Strategy)? / Custom Essay Response**:
     > At D. E. Shaw, I originated and closed a $500M institutional mandate during Brexit uncertainty, owning targeting, technical diligence, relationship management, investment-committee negotiation, and alignment across finance, quants, IT, legal, trading, and the board. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to moomoo.
 19. **EEO Gender**: Male
@@ -1497,7 +1497,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/OnBuy - Principal Product Manager - eCommerce.pdf`
+17. **Resume Attachment**: `output/Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
 18. **Why are you a fit for OnBuy & Principal Product Manager - eCommerce? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to OnBuy.
 19. **EEO Gender**: Male
@@ -1545,7 +1545,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in PLN; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/GetResponse - Product Manager - Lifecycle Automation Platform.pdf`
+17. **Resume Attachment**: `output/T-Tech - Product Manager - Tax Technology.pdf`
 18. **Why are you a fit for GetResponse & Product Manager – Lifecycle Automation Platform? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to GetResponse.
 19. **EEO Gender**: Male
@@ -1632,7 +1632,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Mindera - Retail Product Manager - Contract - Outside IR35.pdf`
+17. **Resume Attachment**: `output/Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
 18. **Why are you a fit for Mindera & Retail Product Manager - Contract - Outside IR35? / Custom Essay Response**:
     > At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Mindera.
 19. **EEO Gender**: Male
@@ -1736,7 +1736,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Vasion - Senior Growth Marketing Manager.pdf`
+17. **Resume Attachment**: `output/AlphaSense - Director, Product Marketing - Premium Content & Data - Job 8428321002.pdf`
 18. **Why are you a fit for Vasion & Senior Growth Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Vasion.
 19. **EEO Gender**: Male
@@ -1783,7 +1783,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Culligan UK limited - Product Manager.pdf`
+17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
 18. **Why are you a fit for Culligan UK limited & Product Manager? / Custom Essay Response**:
     > At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. At Rakuten, I won executive-committee approval for a $50M capital-redeployment thesis after portfolio-wide ROIC analysis and stress-tested a DTC expansion with a 10,000-iteration Monte Carlo model, helping avoid an estimated $20M loss. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Culligan UK limited.
 19. **EEO Gender**: Male
@@ -1831,7 +1831,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in AUD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Infosys Singapore & Australia - Principal Consultant - Intelligent Marketing and AI.pdf`
+17. **Resume Attachment**: `output/Treatwell - Head of Product Marketing.pdf`
 18. **Why are you a fit for Infosys Singapore & Australia & Principal Consultant - Intelligent Marketing and AI? / Custom Essay Response**:
     > At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Infosys Singapore & Australia.
 19. **EEO Gender**: Male
@@ -1879,7 +1879,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Hospitable - Senior Product Manager (USAEurope - Remote).pdf`
+17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
 18. **Why are you a fit for Hospitable & Senior Product Manager (USA/Europe – Remote)? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Hospitable.
 19. **EEO Gender**: Male
@@ -1924,7 +1924,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/TechOp Solutions International - Program Manager- Call Center.pdf`
+17. **Resume Attachment**: `output/Vasion - Program Manager, PDLC.pdf`
 18. **Why are you a fit for TechOp Solutions International & Program Manager- Call Center? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. Together, these examples show program governance, stakeholder alignment, dependency management, executive communication, and delivery across complex organizations. I would bring that deliberately broad toolkit to TechOp Solutions International.
 19. **EEO Gender**: Male
@@ -2027,7 +2027,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in SAR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Lucidya - Principal Product Manager - Customer Service Suite.pdf`
+17. **Resume Attachment**: `output/Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
 18. **Why are you a fit for Lucidya & Principal Product Manager - Customer Service Suite? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Lucidya.
 19. **EEO Gender**: Male
@@ -2133,7 +2133,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Rokt - Senior Product Manager - Customer Data Platform.pdf`
+17. **Resume Attachment**: `output/WATI.io - Technical Product Manager - B2B Platform.pdf`
 18. **Why are you a fit for Rokt & Senior Product Manager - Customer Data Platform? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Rokt.
 19. **EEO Gender**: Male
@@ -2175,7 +2175,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Seeq - AI GTM Manager.pdf`
+17. **Resume Attachment**: `output/Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
 18. **Why are you a fit for Seeq & AI GTM Manager? / Custom Essay Response**:
     > At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Seeq.
 19. **EEO Gender**: Male
@@ -2223,7 +2223,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/HSI - AI Product Manager I.pdf`
+17. **Resume Attachment**: `output/Wealthsimple - Staff Senior Product Manager - FinTech Onboarding & KYC Compliance.pdf`
 18. **Why are you a fit for HSI & AI Product Manager I? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to HSI.
 19. **EEO Gender**: Male
@@ -2320,7 +2320,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Ripjar - Product Manager.pdf`
+17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
 18. **Why are you a fit for Ripjar & Product Manager? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Ripjar.
 19. **EEO Gender**: Male
@@ -2374,7 +2374,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Pavago - Product Marketing & GTM Lead.pdf`
+17. **Resume Attachment**: `output/Treatwell - Head of Product Marketing.pdf`
 18. **Why are you a fit for Pavago & Product Marketing & GTM Lead? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Pavago.
 19. **EEO Gender**: Male
@@ -2418,7 +2418,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in SAR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Lucidya - Senior Product Manager - Monitoring & Research.pdf`
+17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
 18. **Why are you a fit for Lucidya & Senior Product Manager - Monitoring & Research? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Lucidya.
 19. **EEO Gender**: Male
@@ -2468,7 +2468,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/LawnStarter - Senior Product Manager, Service Delivery.pdf`
+17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
 18. **Why are you a fit for LawnStarter & Senior Product Manager, Service Delivery? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to LawnStarter.
 19. **EEO Gender**: Male
@@ -2559,7 +2559,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in INR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/WATI.io - Senior Product ManagerProduct Manager - Platform.pdf`
+17. **Resume Attachment**: `output/Writesonic - AI Product Manager (Builder PM, GEO Platform).pdf`
 18. **Why are you a fit for WATI.io & Senior Product Manager/Product Manager - Platform? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to WATI.io.
 19. **EEO Gender**: Male
@@ -2740,7 +2740,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in SGD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Fuku - Product Manager - AI-Powered Recruiting Workflows.pdf`
+17. **Resume Attachment**: `output/Valsoft DemandBridge - Product Manager (US) - ERP Platform, AI-enabled workflows.pdf`
 18. **Why are you a fit for Fuku & Product Manager – AI-Powered Recruiting Workflows? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Fuku.
 19. **EEO Gender**: Male
@@ -2781,7 +2781,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/NoGood - Product Manager (Goodie AI).pdf`
+17. **Resume Attachment**: `output/Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
 18. **Why are you a fit for NoGood & Product Manager (Goodie AI)? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to NoGood.
 19. **EEO Gender**: Male

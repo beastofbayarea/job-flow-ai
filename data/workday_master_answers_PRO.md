@@ -138,7 +138,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing2@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Evoila - B2B Demand Generation Marketing Manager (m w d) - JR100333 - 88e15990.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Evoila - B2B Demand Generation Marketing Manager (m w d) - Requisition JR100333.pdf`
 - **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): €110,000 EUR base annually, negotiable.
@@ -164,7 +164,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing11@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Mizuho - Program Manager - R6856 - d2d2dd54.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Mizuho - Program Manager - Requisition R6856.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The expected base salary range is $160,000–$205,000 USD annually.
 - **Ideal Compensation Answer**: Posted range: $160,000 USD–$205,000 USD annually. Ideal answer: $189,000 USD base annually, negotiable within the posted range.
@@ -190,7 +190,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi6@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Onemagnify - Program Manager - R2145 - 8c841a35.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Onemagnify - Program Manager - Requisition R2145.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
@@ -216,7 +216,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi23@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Capitalone - Product Manager - R246372 - ddabbabb.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Capitalone - Product Manager - Requisition R246372.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: Chicago, IL: $149,800 - $171,000 for Manager, Product Management McLean, VA: $164,800 - $188,100 for Manager, Product Management Richmond, VA: $149,800 - $171,000 for Manager, Product Management Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
 - **Ideal Compensation Answer**: Posted range: $150,000 USD–$188,000 USD annually. Ideal answer: $175,000 USD base annually, negotiable within the posted range.
@@ -242,7 +242,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing6@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Maksegroup - Technical Product Manager - JR100160 - ecbdf1e5.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Maksegroup - Technical Product Manager - Requisition JR100160.pdf`
 - **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): ₹10,000,000 INR base annually, negotiable.
@@ -268,7 +268,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh22@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Ttmtech - Program Manager - R15843 - 0e8f4055.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Ttmtech - Program Manager - Requisition R15843.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: A reasonable estimate of the current range is: $66,970 - $111,617 Additional compensation: An annual or quarterly company bonus may apply based on position assignment.
 - **Ideal Compensation Answer**: Posted range: $67,000 USD–$112,000 USD annually. Ideal answer: $96,000 USD base annually, negotiable within the posted range.
@@ -294,7 +294,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing20@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Ag - AI Product Manager - JR10407997 - dce6950a.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Ag - AI Product Manager - Requisition JR10407997.pdf`
 - **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): ₹10,000,000 INR base annually, negotiable.
@@ -320,7 +320,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivhere1@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Clearwateranalytics - Marketing Operations Manager - R6182 - 693fb056.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Clearwateranalytics - Marketing Operations Manager - Requisition R6182.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: Salary Range $102,000.00 - $144,000.00 This is the pay range the Company believes it will pay for this position at the time of this posting.
 - **Ideal Compensation Answer**: Posted range: $102,000 USD–$144,000 USD annually. Ideal answer: $129,000 USD base annually, negotiable within the posted range.
@@ -346,7 +346,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh26@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Blueorigin - Senior Technical Product Manager - R66223 - 4edf57c3.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Decathlon Digital FR - Product Manager SAP S - 4HANA - Upstream referencing (f - m - d) - Job 4945104101.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: Base Pay Range for: WA applicants is $169,347.00 - $237,085.80 Other site ranges may differ Culture Statement Don’t meet all desired requirements?
 - **Ideal Compensation Answer**: Posted range: $169,000 USD–$237,000 USD annually. Ideal answer: $213,000 USD base annually, negotiable within the posted range.
@@ -372,7 +372,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing8@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Risepoint - Growth Marketing Manager - JR101290 - c84b8968.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Risepoint - Growth Marketing Manager - Requisition JR101290.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
@@ -398,7 +398,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh11@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Modivcare - Product Manager - JR103651 - a154effc.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Modivcare - Product Manager - Requisition JR103651.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: Salary: $133,300.00–$179,900.00/annually This role is bonus eligible based on individual and company performance.
 - **Ideal Compensation Answer**: Posted range: $133,000 USD–$180,000 USD annually. Ideal answer: $164,000 USD base annually, negotiable within the posted range.
@@ -424,7 +424,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing4@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Strideinc - Product Marketing Associate - JR115857 - db6dd15a.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Strideinc - Product Marketing Associate - Requisition JR115857.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: We anticipate the salary range to be $41,865.00 to $84,111.
 - **Ideal Compensation Answer**: Posted range: $42,000 USD–$84,000 USD annually. Ideal answer: $69,000 USD base annually, negotiable within the posted range.
@@ -450,7 +450,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsin2@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Aaaie - Corporate Development Principal - R7895 - 792eaf2f.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Aaaie - Corporate Development Principal - Requisition R7895.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The national range shown is $152,010-$168,900, while the broader starting range across hiring states extends to $202,550; pay is location-based.
 - **Ideal Compensation Answer**: $166,000 USD base annually for the California home-worker option, negotiable within the applicable location range.
@@ -476,7 +476,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing7@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Tinuiti - Strategist, Paid Media - R26 514 - 528eae99.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Tinuiti - Strategist, Paid Media - R26 514.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
@@ -502,7 +502,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi7@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Choicehotels - Director, Paid Media Media Planning & Activation - R21595 - f7c3b223.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Scopely - Performance Marketing Director - Job 5282076008 - Variant 2.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: Salary Range The salary range for this position is $163,287 to $192,456 annually.
 - **Ideal Compensation Answer**: Posted range: $163,000 USD–$192,000 USD annually. Ideal answer: $182,000 USD base annually, negotiable within the posted range.
@@ -528,7 +528,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsin13@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Umd - Program Manager - JR103988 - bbbc575c.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Umd - Program Manager - Requisition JR103988.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: Smith School of Business Worker Sub-Type Staff Regular Salary Range $73,812-$88574 Benefits Summary For more information on Regular Exempt benefits, select this link .
 - **Ideal Compensation Answer**: Posted range: $74,000 USD–$89,000 USD annually. Ideal answer: $83,000 USD base annually, negotiable within the posted range.
@@ -554,7 +554,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsing16@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Entrust - Sr Growth Marketing Manager - R004277 - a78bd0ef.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Entrust - Sr Growth Marketing Manager - Requisition R004277.pdf`
 - **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): £95,000 GBP base annually, negotiable.
@@ -580,7 +580,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full Time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh98@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Workday - Senior Director, Corporate Development - JR-0103013 - 4bdf9345.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Senior Director, Corporate Development - Requisition JR-0103013.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: Primary Location: USA.CA.Pleasanton Primary Location Base Pay Range: $233,500 USD - $350,300 USD Additional US Location(s) Base Pay Range: $197,200 USD - $350,300 USD Our Approach to Flexible Work With Flex Work, we’re combining the best of both worlds: in-person time and remote.
 - **Ideal Compensation Answer**: Posted range: $197,000 USD–$350,000 USD annually. Ideal answer: $297,000 USD base annually, negotiable within the posted range.
@@ -606,7 +606,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh16@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Salesforce - Product Marketing Senior Manager, Strategic Partnerships - JR346193 - eeb61fbd.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Salesforce - Product Marketing Senior Manager, Strategic Partnerships - Requisition JR346193.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The typical base salary range for this position is $143,400 - $216,900 annually.
 - **Ideal Compensation Answer**: Posted range: $143,000 USD–$217,000 USD annually. Ideal answer: $191,000 USD base annually, negotiable within the posted range.
@@ -632,7 +632,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsin15@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Salesforce - Associate Product Manager (starting summer 2027) - JR351508 - ecf06bf2.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Salesforce - Associate Product Manager (starting summer 2027) - Requisition JR351508.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The typical base salary range for this position is $132,000 - $146,000 annually. In select cities within the San Francisco and New York City metropolitan area, the base salary range for this role is $159,000 - $159,000 annually.
 - **Ideal Compensation Answer**: Posted range: $132,000 USD–$159,000 USD annually. Ideal answer: $150,000 USD base annually, negotiable within the posted range.
@@ -658,7 +658,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh42@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Fico - Director, Field Marketing Demand Generation NorAm Banking - 32130 - d48ec70f.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Tekmetric - Field Marketing Manager - Job 6118905004.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The targeted base pay range for this role is: $115,500 to $181,500 with this range reflecting differences in candidate knowledge, skills and experience.
 - **Ideal Compensation Answer**: Posted range: $116,000 USD–$182,000 USD annually. Ideal answer: $158,000 USD base annually, negotiable within the posted range.
@@ -684,7 +684,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh47@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Jll - Senior Product Marketing Manager - REQ496058 - 6652cf4e.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Jll - Senior Product Marketing Manager - Requisition REQ496058.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: Estimated compensation for this position: 128,000.00 – 173,000.00 USD per year This range is an estimate and actual compensation may differ.
 - **Ideal Compensation Answer**: Posted range: $128,000 USD–$173,000 USD annually. Ideal answer: $157,000 USD base annually, negotiable within the posted range.
@@ -710,7 +710,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi16@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Brunswick - Director of Marketing Operations - JR-050538 - 671bce7a.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Brunswick - Director of Marketing Operations - Requisition JR-050538.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The posted base-pay range is $132,500–$196,000 USD annually for the Mettawa, Illinois hybrid role.
 - **Ideal Compensation Answer**: Posted range: $132,000 USD–$196,000 USD annually. Ideal answer: $174,000 USD base annually, negotiable within the posted range.
@@ -736,7 +736,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivhere3@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Lifestance - Director, Corporate Development - JR105616 - 30847105.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Lifestance - Director, Corporate Development - Requisition JR105616.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: COMPENSATION: $210,000 - $240,000/annually, with 20% annual bonus potential and long-term incentive plan eligibility BENEFITS As a full-time employee of LifeStance Health, the following benefits are offered: medical, dental, vision, AD&D, short and long-term disability, and life insurance.
 - **Ideal Compensation Answer**: Posted range: $210,000 USD–$240,000 USD annually. Ideal answer: $230,000 USD base annually, negotiable within the posted range.
@@ -762,7 +762,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi35@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Sedgwick - Product Manager Owner AI - R71417 - f750b710.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Sedgwick - Product Manager Owner AI - Requisition R71417.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
@@ -788,7 +788,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi8@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Deutsche Bank - Management Consulting - R0381683 - 0e1d9e09.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Deutsche Bank - Management Consulting - Requisition R0381683.pdf`
 - **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): £95,000 GBP base annually, negotiable.
@@ -814,7 +814,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsin11@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Trimble - Product Marketing Manager - R56888 - fda66260.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Trimble - Product Marketing Manager - Requisition R56888.pdf`
 - **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): zł480,000 PLN base annually, negotiable.
@@ -840,7 +840,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivhere2@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - TBC Corporation - Technical Product Manager - JR842 - c37389b8.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\TBC Corporation - Technical Product Manager - Requisition JR842.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: ***The US base salary range for this full-time position is: $150,289.00 - $225,434.00 The specific salary offered to a candidate may be influenced by a variety of factors including but not limited to the candidate’s relevant experience, education, and work location.
 - **Ideal Compensation Answer**: Posted range: $150,000 USD–$225,000 USD annually. Ideal answer: $199,000 USD base annually, negotiable within the posted range.
@@ -866,7 +866,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi27@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Aderant - Product Manager - REQ 100000371 - f5845b80.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Aderant - Product Manager - REQ 100000371.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
@@ -892,7 +892,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi25@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Athenahealth - Senior Manager, Marketing Operations - R15165 - 4a12a231.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Athenahealth - Senior Manager, Marketing Operations - Requisition R15165.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The expected base-compensation range is $116,000–$196,000 USD annually.
 - **Ideal Compensation Answer**: Posted range: $116,000 USD–$196,000 USD annually. Ideal answer: $168,000 USD base annually, negotiable within the posted range.
@@ -918,7 +918,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsin17@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Amcor - Program Manager - REQ 94049 - 904dc030.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Amcor - Program Manager - REQ 94049.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: Compensation The starting salary for this position is expected to be between $112,800 to $141,000; however, base pay offered may vary within the full salary range $112,800 to $169,200 depending on job-related knowledge, skills, and experience.
 - **Ideal Compensation Answer**: Posted range: $113,000 USD–$169,000 USD annually. Ideal answer: $149,000 USD base annually, negotiable within the posted range.
@@ -944,7 +944,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi15@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - The Jackson Laboratory - Product Marketing Manager - JR006062 - 335b143d.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\The Jackson Laboratory - Product Marketing Manager - Requisition JR006062.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: ​ The salary range is $74,772 - $125,184.
 - **Ideal Compensation Answer**: Posted range: $75,000 USD–$125,000 USD annually. Ideal answer: $108,000 USD base annually, negotiable within the posted range.
@@ -970,7 +970,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh49@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Saks Fifth Avenue - Specialist, Growth Marketing - R-108192 - 7bc1bc64.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Saks Fifth Avenue - Specialist, Growth Marketing - Requisition R-108192.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: Salary Range $72,000 - $89,000* Job Description: WHO WE ARE: Saks Global is the largest multi-brand luxury retailer in the world, comprising Saks Fifth Avenue, Neiman Marcus, Bergdorf Goodman and Saks OFF 5TH.
 - **Ideal Compensation Answer**: Posted range: $72,000 USD–$89,000 USD annually. Ideal answer: $83,000 USD base annually, negotiable within the posted range.
@@ -996,7 +996,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh7@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Ansira - Sr Manager, Marketing Operations - R1095 - 1c7bf399.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Ansira - Sr Manager, Marketing Operations - Requisition R1095.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
@@ -1022,7 +1022,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh30@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - DLA Piper - Sr Marketing Operations Coordinator - R2026-2273 - 125405fc.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\DLA Piper - Sr Marketing Operations Coordinator - Requisition R2026-2273.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The firm’s expected hiring range for this position is $34.08 - $48.74 per hour depending on the candidate’s geographic market location.
 - **Ideal Compensation Answer**: Posted range: $34.08 USD–$48.74 USD per hour. Ideal answer: $43.61 USD per hour, negotiable within the posted range.
@@ -1048,7 +1048,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh15@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Sony Pictures Entertainment - Manager, Global Marketing Operations - JR113953 - b9d9912c.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Sony Pictures Entertainment - Manager, Global Marketing Operations - Requisition JR113953.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The anticipated base salary for this position is $92,879 to $120,743.
 - **Ideal Compensation Answer**: Posted range: $93,000 USD–$121,000 USD annually. Ideal answer: $111,000 USD base annually, negotiable within the posted range.
@@ -1074,7 +1074,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi3@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Travel HR - Technical Product Manager - J-81918 - 7ac5648f.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Travel HR - Technical Product Manager - Requisition J-81918.pdf`
 - **Work Authorization / Sponsorship**: Yes; candidate-confirmed authorization is available in the role’s country and no sponsorship is required.
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
 - **Ideal Compensation Answer**: Candidate compensation target (no employer range found): ₹10,000,000 INR base annually, negotiable.
@@ -1100,7 +1100,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh29@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Lytx - Paid Media Manager - R-4197 - e729a6bd.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Lytx - Paid Media Manager - Requisition R-4197.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The expected hiring salary for this position is: $136,000.00 - $172,000.00 You’re driven to succeed and so are we.
 - **Ideal Compensation Answer**: Posted range: $136,000 USD–$172,000 USD annually. Ideal answer: $159,000 USD base annually, negotiable within the posted range.
@@ -1126,7 +1126,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi4@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Workiva - Senior AI Product Manager - R11885 - c0fb21f6.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workiva - Senior AI Product Manager - Requisition R11885.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The live posting states a U.S. salary range of $129,000-$261,000, plus a discretionary annual bonus, restricted stock units, and benefits; the applicable range varies by location.
 - **Ideal Compensation Answer**: $225,000 USD base annually, negotiable within the posted range based on location, equity, bonus, and scope.
@@ -1152,7 +1152,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh33@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - IDEX Corporation - Program Manager - R-09461 - 5689b082.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\IDEX Corporation - Program Manager - Requisition R-09461.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: Total Rewards The compensation range for this position is $109,800.00 - $164,600.00, depending on experience.
 - **Ideal Compensation Answer**: Posted range: $110,000 USD–$165,000 USD annually. Ideal answer: $145,000 USD base annually, negotiable within the posted range.
@@ -1178,7 +1178,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh28@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Porch Group - Senior Corporate Development Manager - JR101412 - 92e4c3d2.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Porch Group - Senior Corporate Development Manager - Requisition JR101412.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: What You Will Get As A Porch Group Team Member Pay Range*: $138,800 – $194,300 annually *Please know your actual pay at Porch will reflect a number of factors among which are your work experience and skillsets, job-related knowledge, alignment with market and our Porch employees, as well as your geographic location.
 - **Ideal Compensation Answer**: Posted range: $139,000 USD–$194,000 USD annually. Ideal answer: $175,000 USD base annually, negotiable within the posted range.
@@ -1204,7 +1204,7 @@ Use these only when the corresponding field appears:
 - **Time Type**: Full time
 - **Posting Retrieval**: Complete
 - **Email**: shivamsingh19@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - TaskUs - Program Manager - R 2607 9331 - 451de1c1.pdf`
+- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\TaskUs - Program Manager - R 2607 9331.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: The posting contains two ranges: $97,000–$145,000 and $97,000–$130,000 USD annually. Use the narrower shared range of $97,000–$130,000 pending employer clarification.
 - **Ideal Compensation Answer**: $128,000 USD base annually, negotiable within the current $97,000-$130,000 posted range.
