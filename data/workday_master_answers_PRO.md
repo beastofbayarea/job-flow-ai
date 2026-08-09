@@ -2,7 +2,7 @@
 
 ## Purpose and Usage
 
-This guide covers all 50 entries in `data/application-queues/workday-job-search-2026-08-08.json`. It is a preparation aid, not permission to submit an application or accept legal terms.
+This guide covers the 43 active entries retained from the original 50-entry `data/application-queues/workday-job-search-2026-08-08.json` queue. It is a preparation aid, not permission to submit an application or accept legal terms.
 
 Use answers in this order of precedence:
 
@@ -14,8 +14,8 @@ Never guess. If an answer is marked **confirm**, **assumption**, **not evidenced
 
 ## Audit Snapshot
 
-- **Source queue**: 50 entries.
-- **Live review result**: 43 live entries covering 42 unique requisitions; 7 URLs were closed or removed; entry 34 duplicates entry 33.
+- **Source queue**: 50 entries; 7 closed entries were removed from this guide.
+- **Retained result**: 43 live entries covering 42 unique requisitions; the two Deutsche Bank entries remain a duplicate requisition.
 - **Application flow review**: Apply entry points and the first visible steps were inspected. Depending on the tenant, flows contained 5–8 steps and could require an account or sign-in.
 - **Inspection boundary**: No account was created, personal data entered, legal terms accepted, or application submitted. Questions behind gates remain conditional.
 - **Evidence rule**: Quantitative career claims are resume-derived unless a role section says otherwise. Legal, eligibility, demographic, and conflict answers must come from the candidate.
@@ -66,7 +66,7 @@ Use these answers when the exact field appears. Role sections below override ema
 28. **Legally authorized to work in the United States?**: Yes
 29. **Require U.S. sponsorship now or in the future?**: No
 30. **India work-right question**: Indian citizen; select the exact citizenship or right-to-work option that applies.
-31. **Other-country work authorization**: Candidate supplied “yes for all.” Because authorization questions are country- and status-specific, confirm the exact answer for the role's country before using it. A role-specific section overrides this entry.
+31. **Other-country work authorization**: Yes. Candidate-confirmed authorization is available for all countries; no sponsorship is required.
 32. **Background check consent**: Yes
 33. **Accuracy certification**: Yes
 34. **Privacy notice / data processing consent**: Yes
@@ -101,7 +101,7 @@ These answers are candidate-supplied. Use “prefer not to answer” whenever th
 55. **Remote / hybrid / onsite**: Yes; willing to meet the role’s stated cadence.
 56. **Travel**: Yes; use the posting-specific percentage when stated (for example, Brunswick up to 30%, Workiva up to 20%).
 57. **Salary format**: Use the exact posting currency and period. Prefer the role-specific figure below; if the form permits text, add “negotiable within the posted range based on total compensation and scope.”
-58. **Non-U.S. authorization**: Candidate supplied “authorization for all.” **Confirm for the specific country and status before use.** Do not infer unrestricted authorization from citizenship, residence, or authorization in another country.
+58. **Non-U.S. authorization**: Yes. Candidate-confirmed authorization is available for all countries; no sponsorship is required.
 59. **Legal / conflict working assumptions**: No known restrictive covenant preventing the role; no known relatives at the employer; no known government-employment conflict; no known criminal conviction requiring disclosure; no current security clearance. **Confirm every applicable declaration before submission.** These are not resume-derived facts.
 60. **Background / drug screening**: Willing to complete lawful pre-employment checks.
 61. **Start date**: Two weeks after acceptance, or a mutually agreed date.
@@ -141,11 +141,11 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Evoila - B2B Demand Generation Marketing Manager (m w d) - JR100333 - 88e15990.pdf`
 - **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: €110,000 EUR base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): €110,000 EUR base annually, negotiable.
 - **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 5-step flow observed. The first step exposes country/residence and legal-name fields; some tenants also require source/how-heard. Later questions remain conditional until required data is entered.
-- **Eligibility / Location / Availability**: Current residence is the United States. Assumption: no unrestricted German work authorization is documented; answer that sponsorship/visa support is required unless you can confirm otherwise. Open to relocation.
+- **Eligibility / Location / Availability**: Current residence is the United States. Candidate-confirmed authorization is available in Germany; no sponsorship required. Open to relocation.
 - **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
 - **Why this company**: evoila’s owner-led focus on cloud, security, data, and measurable B2B lead generation rewards marketers who can understand the technology as deeply as the funnel.
 - **Strongest Relevant Evidence**: AWS sovereign-cloud GTM: $20M+ commitments, $122M pipeline, deployment reduced from six months to two hours.
@@ -166,7 +166,7 @@ Use these only when the corresponding field appears:
 - **Email**: shivamsing11@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Mizuho - Program Manager - R6856 - d2d2dd54.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
-- **Posting Compensation Evidence**: This includes how to structure initiatives, project planning, budgeting, and resource allocation Deep understanding of finance, risk, operations, and data processes as well as the technologies enabling them Strong knowledge and experience of regulatory change management Product knowledge of Loans, Derivatives, Securities, and Repurchase Agreements Strong business, analytical, quantitative, problem-solving and decision making skills Proven experience of team leadership, career development of others and developing individuals in the program and change management space Exceptional stakeholder management skills including experience at performing this across multiple functions, committees and areas Superior communication skills: both written and oral with technical and non-technical staff Solid knowledge and expertise in the use of project management methodologies and tools Tolerance and understanding in multi cultures Quick learning of program objective and bank APMO guideline The expected base salary ranges from $160k-$205k.
+- **Posting Compensation Evidence**: The expected base salary range is $160,000–$205,000 USD annually.
 - **Ideal Compensation Answer**: Posted range: $160,000 USD–$205,000 USD annually. Ideal answer: $189,000 USD base annually, negotiable within the posted range.
 - **Role Alignment**: Program leader experienced in multi-workstream governance, executive alignment, RAID management, process redesign, technology delivery, and change adoption.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
@@ -193,7 +193,7 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Onemagnify - Program Manager - R2145 - 8c841a35.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
 - **Role Alignment**: Program leader experienced in multi-workstream governance, executive alignment, RAID management, process redesign, technology delivery, and change adoption.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
@@ -207,33 +207,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 4. Accenture — Management Consulting Analyst
-
-- **URL**: `https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Management-Consulting-Analyst_R00282272`
-- **Queue Posting Date**: 2026-08-08
-- **Workday Requisition ID**: Not stated
-- **Workday Location**: Remote
-- **Time Type**: Not stated
-- **Posting Retrieval**: Limited — HTTPError: HTTP Error 403: Forbidden
-- **Email**: shivamsin9@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Accenture - Management Consulting Analyst - Management-Consulting-Analys - 4a5dab8b.pdf`
-- **Work Authorization / Sponsorship**: Yes; no sponsorship required
-- **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
-- **Role Alignment**: Transformation consultant experienced in structured problem solving, operating models, business cases, executive communication, technology strategy, and implementation governance.
-- **Live URL Review**: Closed or removed as of 2026-08-09. The Workday page says the page does not exist.
-- **Observed Application Flow**: No live application flow; do not submit this URL unless the role is relisted.
-- **Eligibility / Location / Availability**: Closed URL. For a comparable U.S. role: authorized to work in the U.S.; no sponsorship required; remote/relocation flexible.
-- **Experience / Screening Answer**: 2 years of formal management consulting at McKinsey and 12 years total across strategy, transformation, and operating leadership.
-- **Why this company**: Accenture’s strategy-to-implementation model closely matches how I work: structure the problem, quantify the case, and stay through execution.
-- **Strongest Relevant Evidence**: McKinsey strategy-to-execution: $1.1B APAC entry and $50M retail-pricing impact.
-- **Why this role**: My foundation at McKinsey includes market entry, pricing, operating-model, and technology-transformation work, including a $1.1B APAC expansion and a pricing redesign that unlocked $50M in revenue. I later carried those disciplines into hands-on platform and AI delivery. Although this URL is now closed, the combination remains a strong fit for comparable Accenture transformation roles.
-- **ATS Keywords**: Management Consulting, Transformation Strategy, Operating Models, Business Case Development, Executive Stakeholders, Data Analysis, Change Management, Process Redesign, Program Delivery
-- **Posting Overview**: 
-
----
-
-## 5. Capitalone — Product Manager
+## 4. Capitalone — Product Manager
 
 - **URL**: `https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Product-Manager---Card-Partnerships-Team_R246372-1`
 - **Queue Posting Date**: 2026-08-08
@@ -259,33 +233,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 6. Ptc — Principal Demand Generation Manager
-
-- **URL**: `https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Principal-Demand-Generation-Manager_JR111088`
-- **Queue Posting Date**: 2026-08-08
-- **Workday Requisition ID**: Not stated
-- **Workday Location**: Remote
-- **Time Type**: Not stated
-- **Posting Retrieval**: Limited — HTTPError: HTTP Error 403: Forbidden
-- **Email**: shivamsingh37@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Ptc - Principal Demand Generation Manager - Principal-Demand-Generation- - ff4c132c.pdf`
-- **Work Authorization / Sponsorship**: Yes; no sponsorship required
-- **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
-- **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
-- **Live URL Review**: Closed or removed as of 2026-08-09. The Workday page says the page does not exist.
-- **Observed Application Flow**: No live application flow; do not submit this URL unless the role is relisted.
-- **Eligibility / Location / Availability**: Closed URL. For a comparable U.S. role: authorized to work in the U.S.; no sponsorship required.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
-- **Why this company**: PTC sits at the intersection of industrial technology, SaaS, and measurable enterprise demand—an unusually strong fit for a technically fluent growth leader.
-- **Strongest Relevant Evidence**: Microsoft marketing operations: $12M engine using propensity scoring, attribution, APIs, and real-time budget allocation.
-- **Why this role**: I can bridge PTC’s technical buyers, field teams, and demand engine. At Microsoft I combined propensity scoring, W-shaped attribution, real-time budget allocation, APIs, and partner funding to produce 4.1x ROI; at AWS I created regulated-cloud positioning that opened a $122M pipeline. The requisition is closed, but this is the evidence set I would use for a relisted role.
-- **ATS Keywords**: Demand Generation, Product Marketing, GTM Strategy, Positioning, Lifecycle Marketing, Marketing Operations, Paid Media, Attribution, Pipeline Growth, Sales Enablement, Experimentation, Analytics
-- **Posting Overview**: 
-
----
-
-## 7. Maksegroup — Technical Product Manager
+## 5. Maksegroup — Technical Product Manager
 
 - **URL**: `https://maksegroup.wd12.myworkdayjobs.com/en-US/openings/job/Technical-Product-Manager_JR100160`
 - **Queue Posting Date**: 2026-08-08
@@ -297,7 +245,7 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Maksegroup - Technical Product Manager - JR100160 - ecbdf1e5.pdf`
 - **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: ₹10,000,000 INR base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): ₹10,000,000 INR base annually, negotiable.
 - **Role Alignment**: AI and platform product leader experienced in customer discovery, roadmap prioritization, technical delivery, GTM, adoption, and measurable enterprise outcomes.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
@@ -311,7 +259,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 8. Ttmtech — Program Manager
+## 6. Ttmtech — Program Manager
 
 - **URL**: `https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Program-Manager_R15843`
 - **Queue Posting Date**: 2026-08-08
@@ -337,7 +285,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 9. Ag — AI Product Manager
+## 7. Ag — AI Product Manager
 
 - **URL**: `https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/AI-Product---Project-Manager_JR10407997`
 - **Queue Posting Date**: 2026-08-08
@@ -349,7 +297,7 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Ag - AI Product Manager - JR10407997 - dce6950a.pdf`
 - **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: ₹10,000,000 INR base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): ₹10,000,000 INR base annually, negotiable.
 - **Role Alignment**: AI and platform product leader experienced in customer discovery, roadmap prioritization, technical delivery, GTM, adoption, and measurable enterprise outcomes.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
@@ -363,7 +311,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 10. Clearwateranalytics — Marketing Operations Manager
+## 8. Clearwateranalytics — Marketing Operations Manager
 
 - **URL**: `https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Marketing-Operations-Manager_R6182`
 - **Queue Posting Date**: 2026-08-08
@@ -389,33 +337,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 11. Bullhorn — Technical Product Manager / Operator
-
-- **URL**: `https://bullhorn.wd1.myworkdayjobs.com/en-US/BullhornCareers/job/Technical-Product-Manager---Operator_JR1355`
-- **Queue Posting Date**: 2026-08-08
-- **Workday Requisition ID**: Not stated
-- **Workday Location**: Remote
-- **Time Type**: Not stated
-- **Posting Retrieval**: Limited — HTTPError: HTTP Error 403: Forbidden
-- **Email**: shivamsi22@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Bullhorn - Technical Product Manager Operator - Technical-Product-Manager--- - 022def39.pdf`
-- **Work Authorization / Sponsorship**: Yes; no sponsorship required
-- **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
-- **Role Alignment**: AI and platform product leader experienced in customer discovery, roadmap prioritization, technical delivery, GTM, adoption, and measurable enterprise outcomes.
-- **Live URL Review**: Closed or removed as of 2026-08-09. The Workday page says the page does not exist.
-- **Observed Application Flow**: No live application flow; do not submit this URL unless the role is relisted.
-- **Eligibility / Location / Availability**: Closed URL. Retain answers for a comparable U.S. role only.
-- **Experience / Screening Answer**: 6+ years leading AI, cloud, data, or platform product strategy and delivery, including 2+ years directly owning an agentic GenAI product at AWS.
-- **Why this company**: Bullhorn’s platform role would connect operator empathy, recruiting-workflow complexity, and AI-enabled product execution.
-- **Strongest Relevant Evidence**: AWS platform-product ownership plus Microsoft workflow, API, and operating-model execution.
-- **Why this role**: I would approach Bullhorn’s operator role as both product leader and systems builder: discover the highest-friction recruiter workflows, quantify value, sequence platform capabilities, and own adoption. AWS gave me direct agentic-AI product experience; Microsoft gave me scaled workflow, API, and operating-model experience. The URL is closed, so these answers are retained for a comparable future opening.
-- **ATS Keywords**: Product Strategy, Roadmaps, Customer Discovery, Agile, APIs, Platform Products, Experimentation, Product Analytics, GTM, Stakeholder Management, AI/ML, Cloud Infrastructure
-- **Posting Overview**: 
-
----
-
-## 12. Blueorigin — Senior Technical Product Manager
+## 9. Blueorigin — Senior Technical Product Manager
 
 - **URL**: `https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Senior-Technical-Product-Manager_R66223-1`
 - **Queue Posting Date**: 2026-08-08
@@ -441,7 +363,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 13. Risepoint — Growth Marketing Manager
+## 10. Risepoint — Growth Marketing Manager
 
 - **URL**: `https://risepoint.wd503.myworkdayjobs.com/en-US/Risepoint/job/Growth-Marketing-Manager_JR101290`
 - **Queue Posting Date**: 2026-08-08
@@ -453,7 +375,7 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Risepoint - Growth Marketing Manager - JR101290 - c84b8968.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
 - **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
@@ -467,7 +389,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 14. Modivcare — Product Manager
+## 11. Modivcare — Product Manager
 
 - **URL**: `https://modivcare.wd1.myworkdayjobs.com/en-US/careers/job/Product-Manager_JR103651`
 - **Queue Posting Date**: 2026-08-08
@@ -493,7 +415,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 15. Strideinc — Product Marketing Associate
+## 12. Strideinc — Product Marketing Associate
 
 - **URL**: `https://strideinc.wd1.myworkdayjobs.com/sk/job/us-nationwide---remote/product-marketing-associate_jr115857`
 - **Queue Posting Date**: 2026-08-08
@@ -519,7 +441,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 16. Aaaie — Corporate Development Principal
+## 13. Aaaie — Corporate Development Principal
 
 - **URL**: `https://aaaie.wd1.myworkdayjobs.com/en-US/CSAACareers/job/Corporate-Development-Principal---Remote_R7895`
 - **Queue Posting Date**: 2026-08-08
@@ -545,7 +467,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 17. Tinuiti — Strategist, Paid Media
+## 14. Tinuiti — Strategist, Paid Media
 
 - **URL**: `https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Strategist--Paid-Media_R26_514`
 - **Queue Posting Date**: 2026-08-08
@@ -557,7 +479,7 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Tinuiti - Strategist, Paid Media - R26 514 - 528eae99.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
 - **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
@@ -571,7 +493,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 18. Choicehotels — Director, Paid Media – Media Planning & Activation
+## 15. Choicehotels — Director, Paid Media – Media Planning & Activation
 
 - **URL**: `https://choicehotels.wd5.myworkdayjobs.com/en-US/External/job/Director--Paid-Media---Media-Planning---Activation_R21595`
 - **Queue Posting Date**: 2026-08-08
@@ -597,59 +519,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 19. Hcsc — Network Management Consultant
-
-- **URL**: `https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/Network-Management-Consultant----Work-From-Home_R0054964`
-- **Queue Posting Date**: 2026-08-08
-- **Workday Requisition ID**: Not stated
-- **Workday Location**: Remote
-- **Time Type**: Not stated
-- **Posting Retrieval**: Limited — HTTPError: HTTP Error 403: Forbidden
-- **Email**: shivamsi33@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Hcsc - Network Management Consultant - Network-Management-Consultan - a599ed4a.pdf`
-- **Work Authorization / Sponsorship**: Yes; no sponsorship required
-- **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
-- **Role Alignment**: Transformation consultant experienced in structured problem solving, operating models, business cases, executive communication, technology strategy, and implementation governance.
-- **Live URL Review**: Closed or removed as of 2026-08-09. The Workday page says the page does not exist.
-- **Observed Application Flow**: No live application flow; do not submit this URL unless the role is relisted.
-- **Eligibility / Location / Availability**: Closed URL. Direct provider-network contracting experience is unverified and should not be claimed.
-- **Experience / Screening Answer**: 6+ years in regulated financial-services platforms and transformation; direct healthcare provider-network contracting is not evidenced and should be answered No/0 unless separately confirmed.
-- **Why this company**: HCSC’s mission and regulated network environment require analytical transformation that balances economics, controls, and member outcomes.
-- **Strongest Relevant Evidence**: Regulated financial-services platforms and transformation; direct healthcare provider-network contracting is not confirmed.
-- **Why this role**: My most relevant experience is regulated financial-services transformation: a real-time risk platform that unlocked $85M in capital, and McKinsey work translating regulatory constraints into operating and technology choices. I would apply that combination of economics, analytics, process redesign, and stakeholder management to provider-network performance. This specific URL is closed and should not be submitted.
-- **ATS Keywords**: Management Consulting, Transformation Strategy, Operating Models, Business Case Development, Executive Stakeholders, Data Analysis, Change Management, Process Redesign, Program Delivery
-- **Posting Overview**: 
-
----
-
-## 20. Hcsc — Network Management Consultant
-
-- **URL**: `https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/Network-Management-Consultant---Work-From-Home_R0054973-1`
-- **Queue Posting Date**: 2026-08-08
-- **Workday Requisition ID**: Not stated
-- **Workday Location**: Remote
-- **Time Type**: Not stated
-- **Posting Retrieval**: Limited — HTTPError: HTTP Error 403: Forbidden
-- **Email**: shivamsingh@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Hcsc - Network Management Consultant - Network-Management-Consultan - 89b6f2d4.pdf`
-- **Work Authorization / Sponsorship**: Yes; no sponsorship required
-- **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
-- **Role Alignment**: Transformation consultant experienced in structured problem solving, operating models, business cases, executive communication, technology strategy, and implementation governance.
-- **Live URL Review**: Closed or removed as of 2026-08-09. The Workday page says the page does not exist.
-- **Observed Application Flow**: No live application flow; do not submit this URL unless the role is relisted.
-- **Eligibility / Location / Availability**: Closed URL. Direct provider-network contracting experience is unverified and should not be claimed.
-- **Experience / Screening Answer**: 6+ years in regulated financial-services platforms and transformation; direct healthcare provider-network contracting is not evidenced and should be answered No/0 unless separately confirmed.
-- **Why this company**: This HCSC requisition points to the same compelling intersection of provider-network strategy, analytics, and regulated operating change.
-- **Strongest Relevant Evidence**: Microsoft confidential-computing pivot: inference latency reduced from 14 seconds to 220ms.
-- **Why this role**: For this duplicate HCSC role variant, I would emphasize Microsoft’s regulated-cloud work: translating financial-services requirements into Azure Confidential Computing, reducing inference latency from 14 seconds to 220ms, and embedding safety and bias controls. It demonstrates my ability to convert complex requirements into workable operations. This URL is also closed.
-- **ATS Keywords**: Management Consulting, Transformation Strategy, Operating Models, Business Case Development, Executive Stakeholders, Data Analysis, Change Management, Process Redesign, Program Delivery
-- **Posting Overview**: 
-
----
-
-## 21. Umd — Program Manager
+## 16. Umd — Program Manager
 
 - **URL**: `https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Program-Manager_JR103988`
 - **Queue Posting Date**: 2026-08-08
@@ -675,7 +545,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 22. Entrust — Sr Growth Marketing Manager
+## 17. Entrust — Sr Growth Marketing Manager
 
 - **URL**: `https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/Sr-Growth-Marketing-Manager_R004277`
 - **Queue Posting Date**: 2026-08-08
@@ -687,11 +557,11 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Entrust - Sr Growth Marketing Manager - R004277 - a78bd0ef.pdf`
 - **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: £95,000 GBP base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): £95,000 GBP base annually, negotiable.
 - **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
-- **Eligibility / Location / Availability**: Assumption: no unrestricted U.K. work authorization is documented; state that sponsorship is required unless you can confirm an existing right to work.
+- **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in the U.K.; no sponsorship required.
 - **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
 - **Why this company**: Entrust’s identity-centric security portfolio gives growth marketing a clear purpose: translate technical trust into demand across global markets.
 - **Strongest Relevant Evidence**: AWS regulated-cloud pipeline creation plus Microsoft demand, attribution, and partner activation.
@@ -701,7 +571,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 23. Workday — Senior Director, Corporate Development
+## 18. Workday — Senior Director, Corporate Development
 
 - **URL**: `https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Senior-Director--Corporate-Development_JR-0103013`
 - **Queue Posting Date**: 2026-08-08
@@ -727,7 +597,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 24. Salesforce — Product Marketing Senior Manager, Strategic Partnerships
+## 19. Salesforce — Product Marketing Senior Manager, Strategic Partnerships
 
 - **URL**: `https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Product-Marketing-Senior-Manager--Strategic-Partnerships_JR346193`
 - **Queue Posting Date**: 2026-08-08
@@ -753,33 +623,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 25. Salesforce — Senior Manager, GTM Product Marketing
-
-- **URL**: `https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-Manager--GTM-Product-Marketing_JR349494`
-- **Queue Posting Date**: 2026-08-08
-- **Workday Requisition ID**: Not stated
-- **Workday Location**: Remote
-- **Time Type**: Not stated
-- **Posting Retrieval**: Limited — HTTPError: HTTP Error 403: Forbidden
-- **Email**: shivamsi5@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Salesforce - Senior Manager, GTM Product Marketing - Senior-Manager--GTM-Product- - 018263f8.pdf`
-- **Work Authorization / Sponsorship**: Yes; no sponsorship required
-- **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
-- **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
-- **Live URL Review**: Closed or removed as of 2026-08-09. The Workday page says the page does not exist.
-- **Observed Application Flow**: No live application flow; do not submit this URL unless the role is relisted.
-- **Eligibility / Location / Availability**: Closed URL. It still counts toward checking Salesforce’s three-roles-in-12-months guidance if an application was actually submitted.
-- **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
-- **Why this company**: Salesforce’s GTM Product Marketing mandate would reward someone who can translate agentic AI capabilities into credible customer outcomes and field action.
-- **Strongest Relevant Evidence**: AWS GenAI investment case, positioning, cross-functional launch, and measurable adoption.
-- **Why this role**: For a relisted GTM Product Marketing role, I would lead with AWS: I built the $100M+ GMV investment case, secured $5M in gated funding, shaped positioning, and partnered across product, science, legal, finance, and GTM to reach 25% adoption. Microsoft adds scaled attribution and field activation. The current URL is closed.
-- **ATS Keywords**: Demand Generation, Product Marketing, GTM Strategy, Positioning, Lifecycle Marketing, Marketing Operations, Paid Media, Attribution, Pipeline Growth, Sales Enablement, Experimentation, Analytics
-- **Posting Overview**: 
-
----
-
-## 26. Salesforce — Associate Product Manager (starting summer 2027)
+## 20. Salesforce — Associate Product Manager (starting summer 2027)
 
 - **URL**: `https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Associate-Product-Manager--starting-summer-2027-_JR351508-1`
 - **Queue Posting Date**: 2026-08-08
@@ -805,7 +649,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 27. Fico — Director, Field Marketing; Demand Generation – NorAm Banking
+## 21. Fico — Director, Field Marketing; Demand Generation – NorAm Banking
 
 - **URL**: `https://fico.wd1.myworkdayjobs.com/en-US/External/job/Director--Field-Marketing--Demand-Generation---NorAm-Banking_32130`
 - **Queue Posting Date**: 2026-08-08
@@ -831,7 +675,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 28. Jll — Senior Product Marketing Manager
+## 22. Jll — Senior Product Marketing Manager
 
 - **URL**: `https://jll.wd1.myworkdayjobs.com/en-us/jllcareers/job/senior-product-marketing-manager_req496058`
 - **Queue Posting Date**: 2026-08-08
@@ -857,7 +701,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 29. Brunswick — Director of Marketing Operations
+## 23. Brunswick — Director of Marketing Operations
 
 - **URL**: `https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Director-of-Marketing-Operations_JR-050538`
 - **Queue Posting Date**: 2026-08-08
@@ -868,7 +712,7 @@ Use these only when the corresponding field appears:
 - **Email**: shivamsi16@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Brunswick - Director of Marketing Operations - JR-050538 - 671bce7a.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
-- **Posting Compensation Evidence**: Location: Mettawa, IL Workplace Category: Hybrid, 3x per week Direct Reports: Yes Travel: Up to 30% Pay Range: $132,500-196,000 Visa Sponsorship: Applicants must be currently authorized to work in the United States. Required Qualifications: Bachelor’s degree in Marketing or Business, MBA preferred 10+ years marketing operations and leadership experience with a consumer product driven company Experience building or leading program management [PMO] in a complex, matrixed organization PMP, PgMP, Agile, Lean, or similar program management methodologies certification a plus Proven track record driving enterprise transformation initiatives, including AI/GenAI adoption Strong experience partnering with Procurement and managing enterprise vendor ecosystems Ability to lead a team of individuals and oversee their development to advance capabilities in program management, planning and activation enablement Ability to work cross functionally with sales, category management, product development, engineering and other disciplines Ability to lead or influence remote talent Experience driving marketing KPIs and comfort adapting process or projects based on performance Demonstrated leadership skills to inspire teams Ability to be hands-on, and work in a dynamic, entrepreneurial, deadline driven environment Ability to juggle multiple projects at once, last minute requests and quick turnarounds with a positive attitude Event strategy is a plus Must be flexible to work extended hours to support the requirements of the business Ability to work effectively in a collaborative, team environment wi
+- **Posting Compensation Evidence**: The posted base-pay range is $132,500–$196,000 USD annually for the Mettawa, Illinois hybrid role.
 - **Ideal Compensation Answer**: Posted range: $132,000 USD–$196,000 USD annually. Ideal answer: $174,000 USD base annually, negotiable within the posted range.
 - **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
@@ -883,33 +727,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 30. Sec — Product Manager
-
-- **URL**: `https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Product-Manager---Smartphones-MX-B2B_R118001`
-- **Queue Posting Date**: 2026-08-08
-- **Workday Requisition ID**: Not stated
-- **Workday Location**: Remote
-- **Time Type**: Not stated
-- **Posting Retrieval**: Limited — HTTPError: HTTP Error 403: Forbidden
-- **Email**: shivamsi19@umich.edu
-- **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Sec - Product Manager - Product-Manager---Smartphone - 045a34ad.pdf`
-- **Work Authorization / Sponsorship**: Yes; no sponsorship required
-- **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
-- **Role Alignment**: AI and platform product leader experienced in customer discovery, roadmap prioritization, technical delivery, GTM, adoption, and measurable enterprise outcomes.
-- **Live URL Review**: Closed or removed as of 2026-08-09. The Workday page says the page does not exist.
-- **Observed Application Flow**: No live application flow; do not submit this URL unless the role is relisted.
-- **Eligibility / Location / Availability**: Closed URL. For a comparable U.S. role: authorized to work in the U.S.; no sponsorship required.
-- **Experience / Screening Answer**: 6+ years leading AI, cloud, data, or platform product strategy and delivery, including 2+ years directly owning an agentic GenAI product at AWS.
-- **Why this company**: Samsung’s B2B smartphone portfolio sits at the intersection of hardware, enterprise ecosystems, partnerships, and customer-led product strategy.
-- **Strongest Relevant Evidence**: Rakuten B2B2C partnership pivot plus AWS platform-product leadership.
-- **Why this role**: Rakuten taught me how to challenge a consumer-growth thesis and pivot toward a stronger B2B2C partnership model, improving LTV:CAC from 0.8 to 4.5. Combined with AWS platform-product experience, that is relevant to Samsung’s B2B device ecosystem, channel partnerships, and enterprise customer needs. The requisition is closed, so I would reuse this answer only for a relisted role.
-- **ATS Keywords**: Product Strategy, Roadmaps, Customer Discovery, Agile, APIs, Platform Products, Experimentation, Product Analytics, GTM, Stakeholder Management, AI/ML, Cloud Infrastructure
-- **Posting Overview**: 
-
----
-
-## 31. Lifestance — Director, Corporate Development
+## 24. Lifestance — Director, Corporate Development
 
 - **URL**: `https://lifestance.wd5.myworkdayjobs.com/en-US/Careers/job/Director--Corporate-Development_JR105616-1`
 - **Queue Posting Date**: 2026-08-08
@@ -935,19 +753,19 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 32. Sedgwick — Product Manager/Owner AI
+## 25. Sedgwick — Product Manager/Owner AI
 
 - **URL**: `https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Product-Manager-Owner-AI_R71417`
 - **Queue Posting Date**: 2026-08-08
 - **Workday Requisition ID**: R71417
 - **Workday Location**: Telecommuter TN
-- **Time Type**: Not stated
+- **Time Type**: Full time (inferred from the role; confirm in the application form)
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi35@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Sedgwick - Product Manager Owner AI - R71417 - f750b710.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
 - **Role Alignment**: AI and platform product leader experienced in customer discovery, roadmap prioritization, technical delivery, GTM, adoption, and measurable enterprise outcomes.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
@@ -961,7 +779,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 33. Deutsche Bank — Management Consulting
+## 26. Deutsche Bank — Management Consulting
 
 - **URL**: `https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Transformation-Strategy--Senior-Consultant_R0381683-1`
 - **Queue Posting Date**: 2026-08-08
@@ -973,11 +791,11 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Deutsche Bank - Management Consulting - R0381683 - 0e1d9e09.pdf`
 - **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: £95,000 GBP base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): £95,000 GBP base annually, negotiable.
 - **Role Alignment**: Transformation consultant experienced in structured problem solving, operating models, business cases, executive communication, technology strategy, and implementation governance.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 5-step flow observed. The first step exposes country/residence and legal-name fields; some tenants also require source/how-heard. Later questions remain conditional until required data is entered.
-- **Eligibility / Location / Availability**: Assumption: no unrestricted U.K. work authorization is documented; state that sponsorship is required unless you can confirm otherwise. London location accepted.
+- **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in the U.K.; no sponsorship required. London location accepted.
 - **Experience / Screening Answer**: 2 years of formal management consulting at McKinsey and 12 years total across strategy, transformation, and operating leadership.
 - **Why this company**: Deutsche Bank Management Consulting offers the leverage of an in-house team that connects strategy directly to measurable execution across a global bank.
 - **Strongest Relevant Evidence**: Two years formal McKinsey consulting plus 12 years total strategy, transformation, and operator experience.
@@ -987,7 +805,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 34. Deutsche Bank — Management Consulting
+## 27. Deutsche Bank — Management Consulting
 
 - **URL**: `https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Transformation-Strategy--Senior-Consultant_R0381683-1`
 - **Queue Posting Date**: 2026-08-08
@@ -999,11 +817,11 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Deutsche Bank - Management Consulting - R0381683 - 0e1d9e09.pdf`
 - **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: £95,000 GBP base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): £95,000 GBP base annually, negotiable.
 - **Role Alignment**: Transformation consultant experienced in structured problem solving, operating models, business cases, executive communication, technology strategy, and implementation governance.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control. Exact duplicate of entry 33 (same requisition R0381683); preserve the separate source entry and email, but do not submit twice.
 - **Observed Application Flow**: 5-step flow observed. The first step exposes country/residence and legal-name fields; some tenants also require source/how-heard. Later questions remain conditional until required data is entered.
-- **Eligibility / Location / Availability**: Same work-authorization assumption as entry 33. This is the same requisition and should not be submitted twice.
+- **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in the U.K.; no sponsorship required. This is the same requisition as the preceding Deutsche Bank entry and should not be submitted twice.
 - **Experience / Screening Answer**: 2 years of formal management consulting at McKinsey and 12 years total across strategy, transformation, and operating leadership.
 - **Why this company**: The duplicated Deutsche Bank entry remains strategically attractive because DBMC spans operating-model, regulatory, data, and transformation problems.
 - **Strongest Relevant Evidence**: McKinsey market-design economics and Microsoft regulated-cloud implementation.
@@ -1013,7 +831,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 35. Trimble — Product Marketing Manager
+## 28. Trimble — Product Marketing Manager
 
 - **URL**: `https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Product-Marketing-Manager_R56888`
 - **Queue Posting Date**: 2026-08-08
@@ -1025,11 +843,11 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Trimble - Product Marketing Manager - R56888 - fda66260.pdf`
 - **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: zł480,000 PLN base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): zł480,000 PLN base annually, negotiable.
 - **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control. Deadline observed: August 17, 2026.
 - **Observed Application Flow**: 5-step flow observed. The first step exposes country/residence and legal-name fields; some tenants also require source/how-heard. Later questions remain conditional until required data is entered.
-- **Eligibility / Location / Availability**: Assumption: no unrestricted Polish work authorization is documented; state that sponsorship is required unless confirmed otherwise. Open to Krakow/Poland relocation. Apply by August 17, 2026.
+- **Eligibility / Location / Availability**: Candidate-confirmed authorization is available in Poland; no sponsorship required. Open to Krakow/Poland relocation. Apply by August 17, 2026.
 - **Experience / Screening Answer**: 5+ years across data-driven growth, GTM, partner marketing, attribution, funnel analytics, marketing operations, or product marketing. Direct hands-on buying in a named ad platform is not documented; claim it only if you can independently verify it.
 - **Why this company**: Trimble’s mapping and routing portfolio connects the digital and physical worlds, with AI-enabled product marketing as a genuine growth lever.
 - **Strongest Relevant Evidence**: AI product fluency, technical storytelling, segment value propositions, and measurable GTM.
@@ -1039,7 +857,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 36. TBC Corporation — Technical Product Manager
+## 29. TBC Corporation — Technical Product Manager
 
 - **URL**: `https://tbc.wd12.myworkdayjobs.com/en-US/LyricCareers/job/Technical-Product-Manager---Senior_JR842`
 - **Queue Posting Date**: 2026-08-08
@@ -1065,7 +883,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 37. Aderant — Product Manager
+## 30. Aderant — Product Manager
 
 - **URL**: `https://aderant.wd5.myworkdayjobs.com/en-US/Aderant_External_Careers/job/Product-Manager_REQ_100000371`
 - **Queue Posting Date**: 2026-08-08
@@ -1077,7 +895,7 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Aderant - Product Manager - REQ 100000371 - f5845b80.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
 - **Role Alignment**: AI and platform product leader experienced in customer discovery, roadmap prioritization, technical delivery, GTM, adoption, and measurable enterprise outcomes.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
@@ -1091,7 +909,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 38. Athenahealth — Senior Manager, Marketing Operations
+## 31. Athenahealth — Senior Manager, Marketing Operations
 
 - **URL**: `https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Senior-Manager--Marketing-Nurture---Automation-Strategy_R15165`
 - **Queue Posting Date**: 2026-08-08
@@ -1102,7 +920,7 @@ Use these only when the corresponding field appears:
 - **Email**: shivamsi25@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Athenahealth - Senior Manager, Marketing Operations - R15165 - 4a12a231.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
-- **Posting Compensation Evidence**: Hands-on expertise with marketing automation platforms (Marketo, HubSpot, Pardot) and CRM systems (Salesforce) Strong analytical skills with experience using reporting/BI tools (Tableau, Power BI, or similar) Systems thinker with the ability to design and communicate complex workflows Strong collaborator who can influence across teams and translate strategy into execution Strong understanding of data models, data flows, and lifecycle architecture Strong collaborator who can influence Marketing, Sales, and IT Ability to translate strategy into execution and communicate complex concepts to non-technical stakeholders AI & Automation Capabilities Demonstrated experience applying AI in marketing use cases (e.g., segmentation, personalization, lead scoring, journey decisioning, campaign optimization) Familiarity with modern AI tooling (e.g., generative AI, predictive analytics, CDPs, intent data platforms) and ability to evaluate/build use cases Understanding of prompt engineering, workflow automation, and/or integration of AI into marketing stacks Knowledge of AI governance, data privacy, and ethical considerations in marketing applications Expected Compensation $116,000 - $196,000 The base salary range shown reflects the full range for this role from minimum to maximum.
+- **Posting Compensation Evidence**: The expected base-compensation range is $116,000–$196,000 USD annually.
 - **Ideal Compensation Answer**: Posted range: $116,000 USD–$196,000 USD annually. Ideal answer: $168,000 USD base annually, negotiable within the posted range.
 - **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
@@ -1117,7 +935,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 39. Amcor — Program Manager
+## 32. Amcor — Program Manager
 
 - **URL**: `https://amcor.wd5.myworkdayjobs.com/en-US/Amcor_External_Career_Site/job/Program-Manager_REQ_94049`
 - **Queue Posting Date**: 2026-08-08
@@ -1143,7 +961,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 40. The Jackson Laboratory — Product Marketing Manager
+## 33. The Jackson Laboratory — Product Marketing Manager
 
 - **URL**: `https://thejacksonlaboratory.wd503.myworkdayjobs.com/en-US/External_JAX/job/Product-Marketing-Manager---Immunology---Remote_JR006062`
 - **Queue Posting Date**: 2026-08-08
@@ -1169,7 +987,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 41. Saks Fifth Avenue — Specialist, Growth Marketing
+## 34. Saks Fifth Avenue — Specialist, Growth Marketing
 
 - **URL**: `https://saks.wd1.myworkdayjobs.com/en-US/careers_at_saks/job/Specialist--Growth-Marketing---Display_R-108192-1`
 - **Queue Posting Date**: 2026-08-08
@@ -1195,7 +1013,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 42. Ansira — Sr Manager, Marketing Operations
+## 35. Ansira — Sr Manager, Marketing Operations
 
 - **URL**: `https://ansira.wd1.myworkdayjobs.com/en-US/Ansira_Careers/job/Sr-Manager--Marketing-Operations_R1095`
 - **Queue Posting Date**: 2026-08-08
@@ -1207,7 +1025,7 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Ansira - Sr Manager, Marketing Operations - R1095 - 1c7bf399.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: $120,000 USD base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): $120,000 USD base annually, negotiable.
 - **Role Alignment**: Growth and product-marketing leader experienced in positioning, demand generation, lifecycle programs, analytics, sales enablement, and measurable pipeline creation.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 7-step flow observed, gated by email/social sign-in. No account was created and no legal terms were accepted.
@@ -1221,7 +1039,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 43. DLA Piper — Sr Marketing Operations Coordinator
+## 36. DLA Piper — Sr Marketing Operations Coordinator
 
 - **URL**: `https://dlapiper.wd1.myworkdayjobs.com/en-US/dlapiper/job/Sr-Marketing-Operations-Coordinator_R2026-2273`
 - **Queue Posting Date**: 2026-08-08
@@ -1247,7 +1065,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 44. Sony Pictures Entertainment — Manager, Global Marketing Operations
+## 37. Sony Pictures Entertainment — Manager, Global Marketing Operations
 
 - **URL**: `https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Manager--Global-Marketing-Operations_JR113953`
 - **Queue Posting Date**: 2026-08-08
@@ -1273,7 +1091,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 45. Travel HR — Technical Product Manager
+## 38. Travel HR — Technical Product Manager
 
 - **URL**: `https://travelhrportal.wd1.myworkdayjobs.com/en-US/Jobs/job/Technical-Product-Manager_J-81918`
 - **Queue Posting Date**: 2026-08-08
@@ -1285,7 +1103,7 @@ Use these only when the corresponding field appears:
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Travel HR - Technical Product Manager - J-81918 - 7ac5648f.pdf`
 - **Work Authorization / Sponsorship**: Use the country-specific rule in the shared answer bank; do not infer eligibility
 - **Posting Compensation Evidence**: No numeric compensation range was stated in the public posting.
-- **Ideal Compensation Answer**: No numeric range found in the posting. Ideal answer if mandatory: ₹10,000,000 INR base annually, negotiable.
+- **Ideal Compensation Answer**: Candidate compensation target (no employer range found): ₹10,000,000 INR base annually, negotiable.
 - **Role Alignment**: AI and platform product leader experienced in customer discovery, roadmap prioritization, technical delivery, GTM, adoption, and measurable enterprise outcomes.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
 - **Observed Application Flow**: 6-step flow observed, gated by account creation or sign-in. No account was created, so later employer questions remain conditional.
@@ -1299,7 +1117,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 46. Lytx — Paid Media Manager
+## 39. Lytx — Paid Media Manager
 
 - **URL**: `https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Senior-Paid-Media-Specialist_R-4197`
 - **Queue Posting Date**: 2026-08-08
@@ -1325,13 +1143,13 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 47. Workiva — Senior AI Product Manager
+## 40. Workiva — Senior AI Product Manager
 
 - **URL**: `https://workiva.wd503.myworkdayjobs.com/en-us/careers/job/senior-ai-product-manager_r11885`
 - **Queue Posting Date**: 2026-08-08
 - **Workday Requisition ID**: R11885
 - **Workday Location**: USA - Remote
-- **Time Type**: Not stated
+- **Time Type**: Full time (inferred from the role; confirm in the application form)
 - **Posting Retrieval**: Complete
 - **Email**: shivamsi4@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - Workiva - Senior AI Product Manager - R11885 - c0fb21f6.pdf`
@@ -1351,7 +1169,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 48. IDEX Corporation — Program Manager
+## 41. IDEX Corporation — Program Manager
 
 - **URL**: `https://idexcorp.wd5.myworkdayjobs.com/en-US/IDEX_Careers/job/Program-Manager_R-09461`
 - **Queue Posting Date**: 2026-08-08
@@ -1377,7 +1195,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 49. Porch Group — Senior Corporate Development Manager
+## 42. Porch Group — Senior Corporate Development Manager
 
 - **URL**: `https://porch.wd1.myworkdayjobs.com/en-US/careers/job/Senior-Corporate-Development-Manager_JR101412`
 - **Queue Posting Date**: 2026-08-08
@@ -1403,7 +1221,7 @@ Use these only when the corresponding field appears:
 
 ---
 
-## 50. TaskUs — Program Manager
+## 43. TaskUs — Program Manager
 
 - **URL**: `https://taskus.wd1.myworkdayjobs.com/en-US/Careers/job/Program-Manager_R_2607_9331`
 - **Queue Posting Date**: 2026-08-08
@@ -1414,7 +1232,7 @@ Use these only when the corresponding field appears:
 - **Email**: shivamsingh19@umich.edu
 - **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\Workday - TaskUs - Program Manager - R 2607 9331 - 451de1c1.pdf`
 - **Work Authorization / Sponsorship**: Yes; no sponsorship required
-- **Posting Compensation Evidence**: Salary Range: $97,000.00 - $145,000.00 per year. Salary range: $97,000 - $130,000 USD How We Partner To Protect You: TaskUs will neither solicit money from you during your application process nor require any form of payment in order to proceed with your application.
+- **Posting Compensation Evidence**: The posting contains two ranges: $97,000–$145,000 and $97,000–$130,000 USD annually. Use the narrower shared range of $97,000–$130,000 pending employer clarification.
 - **Ideal Compensation Answer**: $128,000 USD base annually, negotiable within the current $97,000-$130,000 posted range.
 - **Role Alignment**: Program leader experienced in multi-workstream governance, executive alignment, RAID management, process redesign, technology delivery, and change adoption.
 - **Live URL Review**: Live as of 2026-08-09; the role page rendered an Apply control.
