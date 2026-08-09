@@ -24,9 +24,13 @@ target/
 *.log
 *.tmp
 *.swp
+tmp/
 output/pre-submit/
 output/*
 !output/.gitkeep
+
+# Local candidate application source data
+data/combined_france_roles.xlsx
 
 # Editors
 .vscode/
