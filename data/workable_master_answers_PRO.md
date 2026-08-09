@@ -47,12 +47,14 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Current Role**: Principal, AI Products & Platforms at AWS
 - **Education**: MBA, University of Michigan (Ross); B.Tech CSE, Indian Institute of Technology (IIT)
 - **US Work Authorization / Sponsorship**: Authorized (`Yes`); sponsorship required (`No`). This does not establish authorization in another country.
+- **Hong Kong Work Authorization / Sponsorship**: Authorized (`Yes`); sponsorship required (`No`).
 - **Notice Period**: `2 weeks`
 - **US Citizen**: `No`
 - **Prior Overnight-Shift Experience**: `Yes`
 - **On-site / Hybrid / Relocation Availability**: `Yes` for all roles.
 - **Role Discovery Source**: `LinkedIn`
 - **Employee Relationship**: `No`
+- **Privacy Policies**: All application privacy policies have been reviewed; consent answers are confirmed.
 - **Compensation**: Use the role-specific currency listed in each section; when a form explicitly requests another currency, follow the form.
 - **Voluntary EEO Reference**: Gender: Male | Race: Asian (Not Hispanic or Latino) | Veteran: I am not a protected veteran | Disability: Yes, I have a disability. Confirm before each submission; decline-to-answer options may be available.
 
@@ -139,7 +141,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Headline (Optional)** *(Optional)*: Principal, AI Products & Platforms | GenAI, B2B SaaS, Data & Growth
 - **Do you currently work at Civica?** *(Required)*: No. Options: Yes (if yes please make sure you have accessed this application via the internal careers site, called Workable Referrals.) / No.
 - **If yes, who referred you? (Optional)** *(Optional)*: N/A.
-- **Salary Expectations** *(Required)*: Open to the role's posted range in INR; negotiable based on scope and total compensation.
+- **Salary Expectations** *(Required)*: INR 11,500,000–15,300,000 gross annually, negotiable based on scope and total compensation.
 - **Current Notice Period** *(Required)*: 2 weeks
 - **Cover letter** *(Required)*: I am drawn to Civica because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
 - **Please check this box to confirm that the details provided in this application are your own and that you consent to their use. Additionally please note that Civica employees are unable to apply on behalf of another person, to do so is a breach of data protection laws, anyone found to have applied on behalf of another person will be flagged by Workable and reported to Civica.** *(Required)*: Yes. Options: YES / NO.
@@ -295,7 +297,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 - **First name** *(Required)*: Shivam
 - **Last name** *(Required)*: Singh
-- **Salary expectations** *(Required)*: Open to the role's posted range in GBP; negotiable based on scope and total compensation.
+- **Salary expectations** *(Required)*: GBP 90,000–120,000 gross annually, negotiable based on scope and total compensation.
 - **Summary (Optional)** *(Optional)*: IIT Computer Science graduate and Ross MBA with 10+ years across AWS, D. E. Shaw, Microsoft, McKinsey, and Rakuten. I lead AI products and platforms at AWS, combining technical architecture, product strategy, analytics, and go-to-market execution.
 - **Cover letter (Optional)** *(Optional)*: I am drawn to Valsoft Corporation because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
 - **Are you legally authorized to work remotely from EMEA? (UK, Ireland, etc.)** *(Required)*: No - I am currently based and work-authorized in the United States. Options: YES / NO.
@@ -391,7 +393,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 - **First name** *(Required)*: Shivam
 - **Last name** *(Required)*: Singh
-- **Expected salary** *(Required)*: Open to the role's posted range in GBP; negotiable based on scope and total compensation.
+- **Expected salary** *(Required)*: GBP 90,000–120,000 gross annually, negotiable based on scope and total compensation.
 - **Could you share your background in both accountancy and software, including how your experience in these areas has shaped your approach to product management?** *(Required)*: My background is in financial platforms, capital efficiency, and regulated software rather than professional accountancy certification. At D. E. Shaw I led a real-time risk platform that unlocked $85M in regulatory capital, and at Microsoft and AWS I translated financial-services requirements into secure cloud and AI products. This makes my product approach financially rigorous, control-aware, and technically grounded.
 - **Do you have the right to work in the UK without sponsorship and confirm that you will not require sponsorship now or in the future?** *(Required)*: No - my documented authorization is for the United States; I would require local authorization or sponsorship. Options: YES / NO.
 - **Do you have either (a) a background in accountancy (ACA, ACCA, CIMA or similar) or (b) experience working within a SaaS/software business focused on the accountancy or financial services sector?** *(Required)*: Yes - I have extensive software and financial-services experience at D. E. Shaw, Microsoft, McKinsey, and AWS, though I do not claim an ACA/ACCA/CIMA credential. Options: YES / NO.
@@ -548,7 +550,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **What's your north star metric for knowing if paid spend changes (such as increased spend) is working?** *(Required)*: Incremental contribution margin after media cost, validated against a holdout or credible baseline. I track marginal CAC, LTV:CAC, payback, conversion quality, and retention to ensure higher spend creates profitable incremental growth rather than attributed-but-nonincremental volume.
 - **Have you built a creative testing roadmap from scratch?** *(Required)*: Yes Options: YES / NO.
 - **Confirm total years of meta ads experience** *(Required)*: No dedicated Meta Ads buyer title; my directly documented experience is broader paid-growth strategy, attribution, experimentation, and budget optimization.
-- **Do you mind being hands on in meta ads day to day?** *(Required)*: Yes - I am comfortable working hands-on, while being transparent that my documented strength is analytics-led growth and marketing operations rather than a pure Meta-buyer role. Options: YES / NO.
+- **Do you mind being hands on in meta ads day to day?** *(Required)*: No - I am comfortable working hands-on, while being transparent that my documented strength is analytics-led growth and marketing operations rather than a pure Meta-buyer role. Options: YES / NO.
 - **How many meta ads do you test per week on average?** *(Required)*: Not applicable as a dedicated Meta buyer; I would establish a disciplined weekly test cadence based on spend, statistical power, and creative fatigue.
 - **Describe a paid channel or product you launched from zero. What was the before state, what did you build, and what were the outcomes?** *(Required)*: At Microsoft, I built a $12M partner marketing and demand-generation engine using propensity scoring and budget traffic-shaping, generating $50M in incremental GMV at 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I helped reposition the GTM motion, reduced CAC from $42 to $8.50, increased D30 retention from 34% to 67%, and improved LTV:CAC from 0.8 to 4.5.
 
@@ -890,7 +892,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Vehicle Inventory & Stock Management** *(Required)*: Do not select unless direct automotive-domain experience can be verified.
 - **OEM integrations and manufacturer programmes** *(Required)*: Do not select unless direct automotive-domain experience can be verified.
 - **None of the above** *(Required)*: Select.
-- **Do you have at least 7 years experience operating in a Product Management/Owner role?** *(Required)*: 10+ years of product and platform leadership across AWS, Microsoft, Rakuten, and D. E. Shaw. Examples include an AWS agentic-AI copilot portfolio across 12 workstreams, a Microsoft partner growth platform, and Rakuten lifecycle and retention products. Options: YES / NO.
+- **Do you have at least 7 years experience operating in a Product Management/Owner role?** *(Required)*: Yes - 10+ years of product and platform leadership across AWS, Microsoft, Rakuten, and D. E. Shaw. Examples include an AWS agentic-AI copilot portfolio across 12 workstreams, a Microsoft partner growth platform, and Rakuten lifecycle and retention products. Options: YES / NO.
 
 ---------------------------------------------------------------------------------
 
@@ -1076,7 +1078,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Out of all the candidates we see, why should we hire you? Convince us to bring you aboard. What makes you a standout? *** *(Required)*: At Microsoft, I built a $12M partner marketing and demand-generation engine using propensity scoring and budget traffic-shaping, generating $50M in incremental GMV at 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I helped reposition the GTM motion, reduced CAC from $42 to $8.50, increased D30 retention from 34% to 67%, and improved LTV:CAC from 0.8 to 4.5. At AWS, I have led agentic AI and copilot strategy across 12 workstreams, using customer telemetry and experiments to increase session depth by 15%, reduce hallucinations from 8% to 2.8% with RAG and guardrails, and compress client rollout cycles from six months to two hours.
 - **What is the notice period at your current workplace? *** *(Required)*: 2 weeks
 - **What is your current salary? *** *(Required)*: Prefer not to disclose current compensation at the application stage. I am happy to discuss expectations in the context of role scope, level, location, and total compensation.
-- **What is your expected salary? *** *(Required)*: Open to the role's posted range in LKR; negotiable based on scope and total compensation.
+- **What is your expected salary? *** *(Required)*: LKR 36,000,000–48,000,000 gross annually (approximately LKR 3,000,000–4,000,000 monthly), negotiable based on scope and total compensation.
 - **Do you have any prior experience working overnight shifts? If yes, what were the working hours? *** *(Required)*: Yes.
 - **Are you willing to work overnight shifts? This means 8:30 PM to 1:30 AM (IST) or 9:30 PM to 2:30 AM (IST). Please note that if you opt in for overnight shifts during your application process, you will not be allowed to opt out of it after Oceans extends an offer to you. Answering 'no' to this question is not considered a disqualifier. *** *(Required)*: Yes - I am open to the stated schedule, travel, hybrid, or on-site requirement.
 - **Do you plan to migrate in the next two years or have you applied for migration in the past two years? *** *(Required)*: No. Options: YES / NO.
@@ -1225,7 +1227,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Current Salary** *(Required)*: Prefer not to disclose current compensation at the application stage. I am happy to discuss expectations in the context of role scope, level, location, and total compensation.
 - **Summary (Optional)** *(Optional)*: IIT Computer Science graduate and Ross MBA with 10+ years across AWS, D. E. Shaw, Microsoft, McKinsey, and Rakuten. I lead AI products and platforms at AWS, combining technical architecture, product strategy, analytics, and go-to-market execution.
 - **Cover letter (Optional)** *(Optional)*: I am drawn to Salla because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
-- **Do you have six or more years of experience on product management?** *(Required)*: 10+ years of product and platform leadership across AWS, Microsoft, Rakuten, and D. E. Shaw. Examples include an AWS agentic-AI copilot portfolio across 12 workstreams, a Microsoft partner growth platform, and Rakuten lifecycle and retention products. Options: YES / NO.
+- **Do you have six or more years of experience on product management?** *(Required)*: Yes - 10+ years of product and platform leadership across AWS, Microsoft, Rakuten, and D. E. Shaw. Examples include an AWS agentic-AI copilot portfolio across 12 workstreams, a Microsoft partner growth platform, and Rakuten lifecycle and retention products. Options: YES / NO.
 - **Willing to relocate to Saudi Arabia and work on-site?** *(Required)*: Yes - I am open to the stated schedule, travel, hybrid, or on-site requirement. Options: YES / NO.
 - **Full professional fluency in Arabic and English?** *(Required)*: No - professionally fluent in English; Arabic proficiency is not listed. Options: YES / NO.
 - **language rating (Arabic):** *(Required)*: I am not comfortable writing in Arabic. Options: I write professionally with excellent clarity and tone / I’m fluent and write confidently with minimal support / I can read/understand but need help writing / I’m not comfortable writing in Arabic.
@@ -1466,9 +1468,9 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 - **First name** *(Required)*: Shivam
 - **Last name** *(Required)*: Singh
-- **Will you now or in the future require sponsorship for employment visa status to work in the country?** *(Required)*: No for the United States; I am US-authorized without current or future sponsorship. Options: Yes / No.
+- **Will you now or in the future require sponsorship for employment visa status to work in the country?** *(Required)*: No - I am legally authorized to work in Hong Kong without current or future employment sponsorship. Options: Yes / No.
 - **Are you a friend or family of a current employee of the company?** *(Required)*: No. Options: Yes / No.
-- **What is your Expected Gross Salary?** *(Required)*: Open to the role's posted range in HKD; negotiable based on scope and total compensation.
+- **What is your Expected Gross Salary?** *(Required)*: HKD 940,000–1,255,000 gross annually, negotiable based on scope and total compensation.
 
 ---------------------------------------------------------------------------------
 
@@ -1511,7 +1513,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Last name** *(Required)*: Singh
 - **Headline (Optional)** *(Optional)*: Principal, AI Products & Platforms | GenAI, B2B SaaS, Data & Growth
 - **Summary (Optional)** *(Optional)*: IIT Computer Science graduate and Ross MBA with 10+ years across AWS, D. E. Shaw, Microsoft, McKinsey, and Rakuten. I lead AI products and platforms at AWS, combining technical architecture, product strategy, analytics, and go-to-market execution.
-- **Salary expectation** *(Required)*: Open to the role's posted range in GBP; negotiable based on scope and total compensation.
+- **Salary expectation** *(Required)*: GBP 90,000–120,000 gross annually, negotiable based on scope and total compensation.
 - **Notice Period:** *(Required)*: 2 weeks
 - **Cover letter (Optional)** *(Optional)*: I am drawn to OnBuy because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
 - **Are you legally authorized to work in the United Kingdom?** *(Required)*: No - my documented authorization is for the United States; I would require local authorization or sponsorship. Options: YES / NO.
@@ -1559,7 +1561,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Last name** *(Required)*: Singh
 - **Country and city** *(Required)*: San Francisco, California, United States (94108)
 - **Possible start date:** *(Required)*: Two weeks after accepting an offer.
-- **What are your monthly salary expectations (gross)?** *(Required)*: Open to the role's posted range in PLN; negotiable based on scope and total compensation.
+- **What are your monthly salary expectations (gross)?** *(Required)*: PLN 38,000–51,000 gross per month, negotiable based on scope and total compensation.
 - **Does your level of Polish and English allow for fluent and efficient communication in the work environment in these languages?** *(Required)*: No - I am professionally fluent in English; Polish proficiency is not listed. Options: YES / NO.
 - **I have read, understand and accept the content of the Privacy Notice and consent to the processing of my data as part of this application. / I have read, understand and accept the content of the Privacy Notice and consent to the processing of my data as part of this application.** *(Optional)*: Yes - I have reviewed the policy and consent to the stated processing for recruitment purposes.
 
@@ -1848,7 +1850,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Summary (Optional)** *(Optional)*: IIT Computer Science graduate and Ross MBA with 10+ years across AWS, D. E. Shaw, Microsoft, McKinsey, and Rakuten. I lead AI products and platforms at AWS, combining technical architecture, product strategy, analytics, and go-to-market execution.
 - **Cover letter (Optional)** *(Optional)*: I am drawn to Infosys Singapore & Australia because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
 - **Current Salary (Optional)** *(Optional)*: Prefer not to disclose current compensation at the application stage. I am happy to discuss expectations in the context of role scope, level, location, and total compensation.
-- **Salary Expectations** *(Required)*: Open to the role's posted range in AUD; negotiable based on scope and total compensation.
+- **Salary Expectations** *(Required)*: AUD 175,000–230,000 gross annually, negotiable based on scope and total compensation.
 - **Notice Period** *(Required)*: 2 weeks
 - **Sponsorship Required?** *(Required)*: Yes - I am US-authorized without sponsorship, but would require country-specific authorization for a Singapore- or Australia-based role. Options: YES / NO.
 
@@ -1940,7 +1942,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Headline (Optional)** *(Optional)*: Principal, AI Products & Platforms | GenAI, B2B SaaS, Data & Growth
 - **Summary (Optional)** *(Optional)*: IIT Computer Science graduate and Ross MBA with 10+ years across AWS, D. E. Shaw, Microsoft, McKinsey, and Rakuten. I lead AI products and platforms at AWS, combining technical architecture, product strategy, analytics, and go-to-market execution.
 - **Cover letter (Optional)** *(Optional)*: I am drawn to TechOp Solutions International because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
-- **Do you have at least 10 years of overall related work experience?** *(Required)*: 10+ years Options: YES / NO.
+- **Do you have at least 10 years of overall related work experience?** *(Required)*: Yes - 10+ years. Options: YES / NO.
 - **How many years of l supervisory experience do you have?** *(Required)*: 8+ years leading cross-functional technical and business teams, including 15+ engineers at D. E. Shaw and 12 workstreams across six organizations at AWS.
 - **How many years of customer service, call center, or service desk experience do you have?** *(Required)*: No dedicated call-center title; 10+ years of adjacent experience leading customer-facing platforms, operations, risk, service workflows, and global technical programs.
 - **Are you a US Citizen? (Must be able to obtain required security clearance successfully)** *(Required)*: No. Options: YES / NO.
@@ -2337,7 +2339,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Cover letter** *(Required)*: I am drawn to Ripjar because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. At McKinsey, I designed a maker-taker pricing and liquidity flywheel that grew institutional trading volume from $215B to $371B and recurring revenue from $45M to $213M through elasticity, take-rate, and contribution-margin analysis. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
 - **Nationality** *(Required)*: Indian.
 - **Do you require a work permit for employment in the UK?** *(Required)*: Yes - I would require UK work authorization. Options: YES / NO.
-- **What are your salary expectations?** *(Required)*: Open to the role's posted range in GBP; negotiable based on scope and total compensation.
+- **What are your salary expectations?** *(Required)*: GBP 90,000–120,000 gross annually, negotiable based on scope and total compensation.
 - **Notice Period** *(Required)*: 2 weeks
 - **We are an equal opportunity employer and the intention of monitoring and analysis is to ensure that no job applicant is treated more or less favourably on the grounds of age, gender, ethnicity, religion, sexual orientation or disability. The information is for monitoring purposes only and will be treated in the strictest confidence. Completion of this form is voluntary, but the information will help us ensure equality of opportunity. We will treat all personal information in line with current data protection legislation. In order for us to process this information we require your consent, and your acknowledgement that any consent given is freely given. Your job application is not dependent on you providing this information, or on you giving your consent to our processing of the data. Please select yes/no as appropriate to signify whether you consent.** *(Required)*: Yes - I consent to the stated voluntary equal-opportunity monitoring. Options: YES / NO.
 - **This role has a top-end budget of 75k, is that within your salary expectations?** *(Required)*: Yes - I am willing to work within the stated £75,000 top-end budget for the right scope and total package. Options: YES / NO.
@@ -2482,7 +2484,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Last name** *(Required)*: Singh
 - **Cover letter (Optional)** *(Optional)*: I am drawn to LawnStarter because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
 - **Are you authorized to work in the US?** *(Required)*: Yes Options: YES / NO.
-- **Do you have at least 5+ years of product management experience?** *(Required)*: 10+ years of product and platform leadership across AWS, Microsoft, Rakuten, and D. E. Shaw. Examples include an AWS agentic-AI copilot portfolio across 12 workstreams, a Microsoft partner growth platform, and Rakuten lifecycle and retention products. Options: YES / NO.
+- **Do you have at least 5+ years of product management experience?** *(Required)*: Yes - 10+ years of product and platform leadership across AWS, Microsoft, Rakuten, and D. E. Shaw. Examples include an AWS agentic-AI copilot portfolio across 12 workstreams, a Microsoft partner growth platform, and Rakuten lifecycle and retention products. Options: YES / NO.
 - **Have you shipped an AI feature?** *(Required)*: Yes — production GenAI and agentic-AI work at AWS, including RAG, Bedrock Guardrails, prompt/evaluation requirements, and measurable hallucination reduction. Options: YES / NO.
 - **What's the most interesting thing you've done with AI?** *(Required)*: I led a RAG and guardrail program that reduced hallucinations from 8% to 2.8% while improving the usefulness and adoption of an enterprise AI copilot.
 - **What are your salary expectations? Please enter in USD annually.** *(Required)*: $120,000–$160,000 USD base annually, negotiable based on role scope and total compensation.
@@ -2527,7 +2529,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **First name** *(Required)*: Shivam
 - **Last name** *(Required)*: Singh
 - **I confirm that all information provided in my application is true** *(Required)*: Yes. Options: Yes / No.
-- **Can you please confirm your salary expectations?** *(Required)*: Open to the role's posted range in EUR; negotiable based on scope and total compensation.
+- **Can you please confirm your salary expectations?** *(Required)*: EUR 105,000–140,000 gross annually, negotiable based on scope and total compensation.
 - **Do you have the right to work ?** *(Required)*: No - my documented authorization is for the United States; I would require local authorization or sponsorship. Options: YES / NO.
 - **Are you currently based in the Amsterdam area?** *(Required)*: No — current location is San Francisco, California. Options: YES / NO.
 - **I have read, understand and accept the content of the Privacy Notice and consent to the processing of my data as part of this application. / I have read, understand and accept the content of the Privacy Notice and consent to the processing of my data as part of this application.** *(Optional)*: Yes - I have reviewed the policy and consent to the stated processing for recruitment purposes.
@@ -2669,7 +2671,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 - **Name an AI product that launched with hype but disappointed on actual usage. What went wrong at the product level?** *(Required)*: Humane AI Pin is a useful example: the launch emphasized novelty, but the product did not reliably outperform the phone on core jobs, and latency, accuracy, battery, and interaction friction weakened repeat use. The lesson is to optimize a narrow recurring job before broad capability.
 - **You have three feature requests: one from your biggest enterprise customer, one backed by strong usage data, and one the CEO is personally excited about. You can only ship one this sprint. How do you decide?** *(Required)*: I would score each against strategic fit, customer breadth, measured evidence, risk, reversibility, and effort. I would normally choose the usage-backed request if it has broad impact, while testing the enterprise and CEO requests through discovery or a lightweight prototype unless either prevents material churn or unlocks a strategic constraint.
 - **What's one product instinct you used to have that you've since changed your mind on?** *(Required)*: I used to favor shipping breadth to learn faster. I now prefer a narrower end-to-end workflow with strong instrumentation, because incomplete breadth often creates noisy feedback while a coherent job-to-be-done produces clearer evidence.
-- **Please share your current and expectated compensation** *(Required)*: Open to the role's posted range in INR; negotiable based on scope and total compensation.
+- **Please share your current and expectated compensation** *(Required)*: Current compensation: prefer not to disclose at the application stage. Expected compensation: INR 11,500,000–15,300,000 gross annually, negotiable based on scope and total compensation.
 
 ---------------------------------------------------------------------------------
 
