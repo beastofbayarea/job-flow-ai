@@ -86,6 +86,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 1. Renesas Electronics — Director of Product Management, High Performance AI and Compute Power
 
 - **URL**: `https://jobs.smartrecruiters.com/RenesasElectronics/744000142226279`
+- **Queue Title**: Director of Product Management, High Performance AI and Compute Power
+- **Location**: Austin, TEXAS, United States
+- **Posting Date**: 2026-08-07
 
 ### Complete Field Answers
 
@@ -102,6 +105,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 2. Renesas Electronics — Product Manager, Digital Multiphase Products, High Performance AI and Compute Power
 
 - **URL**: `https://jobs.smartrecruiters.com/RenesasElectronics/744000142214954`
+- **Queue Title**: Product Manager, Digital Multiphase Products, High Performance AI and Compute Power
+- **Location**: Austin, TEXAS, United States
+- **Posting Date**: 2026-08-07
 
 ### Complete Field Answers
 
@@ -118,6 +124,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 3. Gameloft — Senior Product Manager, Asphalt Legends
 
 - **URL**: `https://jobs.smartrecruiters.com/Gameloft/744000142110280`
+- **Queue Title**: Senior Product Manager - Asphalt Legends
+- **Location**: Barcelona, CT, Spain
+- **Posting Date**: 2026-08-07
 
 ### Complete Field Answers
 
@@ -134,6 +143,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 4. Freshworks — AI Product Marketing Manager
 
 - **URL**: `https://jobs.smartrecruiters.com/Freshworks/744000142009749`
+- **Queue Title**: AI Product Marketing Manager
+- **Location**: Boston, MA, United States
+- **Posting Date**: 2026-08-06
 
 ### Complete Field Answers
 
@@ -150,6 +162,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 5. Canva — Japan Growth Marketing Lead
 
 - **URL**: `https://jobs.smartrecruiters.com/Canva/6000000001289995`
+- **Queue Title**: Japan Growth Marketing Lead
+- **Location**: Tokyo, jp
+- **Posting Date**: 2026-08-06
 
 ### Complete Field Answers
 
@@ -166,6 +181,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 6. Ubisoft — Senior Product Manager, R6 eSports
 
 - **URL**: `https://jobs.smartrecruiters.com/Ubisoft2/744000141954157`
+- **Queue Title**: Senior Product Manager, R6 eSports
+- **Location**: Paris, IDF, France
+- **Posting Date**: 2026-08-06
 
 ### Complete Field Answers
 
@@ -182,6 +200,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 7. IFS — Principal Product Manager, IDP & Agentic AI
 
 - **URL**: `https://jobs.smartrecruiters.com/IFS1/744000141444954`
+- **Queue Title**: Principal Product Manager - IDP & Agentic AI
+- **Location**: Staines-upon-Thames, England, United Kingdom
+- **Posting Date**: 2026-08-04
 
 ### Complete Field Answers
 
@@ -198,6 +219,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 8. Canva — AI Program Manager (Localisation), 12-Month Contract
 
 - **URL**: `https://jobs.smartrecruiters.com/Canva/6000000001274821`
+- **Queue Title**: AI Program Manager (Localisation) - 12 Month Contract
+- **Location**: Sydney, Australia
+- **Posting Date**: 2026-07-31
 
 ### Complete Field Answers
 
@@ -214,6 +238,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 9. QAD, Inc. — Product Manager (Direct Procurement)
 
 - **URL**: `https://jobs.smartrecruiters.com/QADInc/744000140893059`
+- **Queue Title**: Product Manager (Direct Procurement)
+- **Location**: Pune, MH, India
+- **Posting Date**: 2026-07-31
 
 ### Complete Field Answers
 
@@ -230,6 +257,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 10. NCS — Product Marketing & Market Development Lead (AI Factory)
 
 - **URL**: `https://jobs.smartrecruiters.com/NCS3/6000000001276805`
+- **Queue Title**: #EG Product Marketing & Market Development Lead (AI Factory)
+- **Location**: Singapore, Singapore
+- **Posting Date**: 2026-07-31
 
 ### Complete Field Answers
 
@@ -246,6 +276,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 11. Freshworks — Specialist, Marketing Operations (UK Shift)
 
 - **URL**: `https://jobs.smartrecruiters.com/Freshworks/744000140461809`
+- **Queue Title**: Specialist - Marketing Operations (UK Shift)
+- **Location**: Chennai, India
+- **Posting Date**: 2026-07-29
 
 ### Complete Field Answers
 
@@ -262,6 +295,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 12. NBCUniversal — Product Manager, Platforms
 
 - **URL**: `https://jobs.smartrecruiters.com/NBCUniversal3/744000140498640`
+- **Queue Title**: Product Manager, Platforms
+- **Location**: New York, NEW YORK, United States
+- **Posting Date**: 2026-07-29
 
 ### Complete Field Answers
 
@@ -278,6 +314,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 13. IFS — Senior Product Manager, Copperleaf
 
 - **URL**: `https://jobs.smartrecruiters.com/IFS1/744000140278967`
+- **Queue Title**: Senior Product Manager | Copperleaf
+- **Location**: Itasca, Illinois, United States
+- **Posting Date**: 2026-07-28
 
 ### Complete Field Answers
 
@@ -294,6 +333,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 14. Renesas Electronics — Principle Regional Product Marketing Manager
 
 - **URL**: `https://jobs.smartrecruiters.com/RenesasElectronics/744000140011539`
+- **Queue Title**: Principle Regional Product Marketing Manager
+- **Location**: Kista, Sweden
+- **Posting Date**: 2026-07-27
 
 ### Complete Field Answers
 
@@ -310,6 +352,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 15. Freshworks — Staff Product Manager
 
 - **URL**: `https://jobs.smartrecruiters.com/Freshworks/744000139878879`
+- **Queue Title**: Staff Product Manager
+- **Location**: Hyderabad, India
+- **Posting Date**: 2026-07-27
 
 ### Complete Field Answers
 
@@ -326,6 +371,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 16. IFS — Outbound Product Manager, Demo Architect, IFS Loops
 
 - **URL**: `https://jobs.smartrecruiters.com/IFS1/744000139895060`
+- **Queue Title**: Outbound Product Manager, Demo Architect - IFS Loops
+- **Location**: Pune, Maharashtra, India
+- **Posting Date**: 2026-07-27
 
 ### Complete Field Answers
 
@@ -342,6 +390,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 17. NBCUniversal — Design Program Manager
 
 - **URL**: `https://jobs.smartrecruiters.com/NBCUniversal3/744000139137690`
+- **Queue Title**: Design Program Manager
+- **Location**: New York, NEW YORK, United States
+- **Posting Date**: 2026-07-22
 
 ### Complete Field Answers
 
@@ -358,6 +409,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 18. Mirantis — Technical Product Manager, AI Cloud Networking
 
 - **URL**: `https://jobs.smartrecruiters.com/Mirantis/744000139128605`
+- **Queue Title**: Technical Product Manager, AI Cloud Networking
+- **Location**: Remote, USA, United States
+- **Posting Date**: 2026-07-22
 
 ### Complete Field Answers
 
@@ -374,6 +428,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 19. QAD, Inc. — Senior Applied AI Product Manager
 
 - **URL**: `https://jobs.smartrecruiters.com/QADInc/744000138784269`
+- **Queue Title**: Senior Applied AI Product Manager
+- **Location**: Pune, MH, India
+- **Posting Date**: 2026-07-21
 
 ### Complete Field Answers
 
@@ -390,6 +447,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 20. QAD, Inc. — Senior Product Marketing Manager
 
 - **URL**: `https://jobs.smartrecruiters.com/QADInc/744000138841480`
+- **Queue Title**: Senior Product Marketing Manager
+- **Location**: Pune, India
+- **Posting Date**: 2026-07-21
 
 ### Complete Field Answers
 
@@ -406,6 +466,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 21. Canva — Creative Strategist, Growth Marketing, Milan (12-Month Contract)
 
 - **URL**: `https://jobs.smartrecruiters.com/Canva/6000000001246088`
+- **Queue Title**: Creative Strategist, Growth Marketing, Milan (12-Month Contract)
+- **Location**: Milan, Lombardy, Italy
+- **Posting Date**: 2026-07-20
 
 ### Complete Field Answers
 
@@ -422,6 +485,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 22. NBCUniversal — Product Manager, Salesforce
 
 - **URL**: `https://jobs.smartrecruiters.com/NBCUniversal3/744000138739584`
+- **Queue Title**: Product Manager - Salesforce
+- **Location**: Universal City, CALIFORNIA, United States
+- **Posting Date**: 2026-07-20
 
 ### Complete Field Answers
 
@@ -438,6 +504,9 @@ The public job pages and all 23 local resume files were available. SmartRecruite
 ## 23. Ubisoft — Product Manager, HR Data Platform (F/H/NB)
 
 - **URL**: `https://jobs.smartrecruiters.com/Ubisoft2/744000137173789`
+- **Queue Title**: Product Manager, HR Data Platform (F/H/NB)
+- **Location**: Saint-Mandé, IDF, France
+- **Posting Date**: 2026-07-10
 
 ### Complete Field Answers
 
