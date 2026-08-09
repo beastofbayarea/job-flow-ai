@@ -138,7 +138,8 @@ def fill_ashby_target(
         _wait_for_form(cdp, render_timeout)
 
         payload = json.dumps({"values": values, "answers": answers})
-        fill_script = r"""
+        fill_script = (
+            r"""
         ((payload) => {
           const normalize = value => (value || '').replace(/\s+/g, ' ').trim().toLowerCase();
           const setValue = (element, value) => {
@@ -237,7 +238,9 @@ def fill_ashby_target(
           }
           return filled;
         })
-        """ + f"({payload})"
+        """
+            + f"({payload})"
+        )
         filled = _evaluate(cdp, fill_script) or {}
 
         document = cdp.call("DOM.getDocument", {"depth": -1, "pierce": True})

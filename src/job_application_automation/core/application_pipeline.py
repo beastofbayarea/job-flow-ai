@@ -387,7 +387,7 @@ ReadResumeEmail = Callable[[Path, str], str]
 ReadCurrentTitle = Callable[[Path], str]
 EngineLabel = Callable[[Path, str], str]
 BuildEngineCommand = Callable[
-    [Path, ApplicationTarget, Path, Path, str, EngineMode, bool],
+    [Path, ApplicationTarget, Path, Path | None, str, EngineMode, bool],
     Sequence[str],
 ]
 RunProcess = Callable[[Sequence[str], ProcessSettings], CommandResult]
@@ -396,7 +396,7 @@ CreateScreenshotDirectory = Callable[[str | Path | None], Path]
 CleanupScreenshotDirectory = Callable[[Path], tuple[int, int]]
 MaskEmail = Callable[[str], str]
 RecordSubmission = Callable[
-    [SubmissionLog, Path, ApplicationTarget, str, Path, Path, str],
+    [SubmissionLog, Path, ApplicationTarget, str, Path, Path | None, str],
     SubmissionPersistence,
 ]
 WriteResults = Callable[[Path, Sequence[Mapping[str, Any]]], None]
@@ -691,9 +691,7 @@ class ApplicationPipeline:
         target_cover_letter = self._config.prepared_cover_letter_path
         if self._config.generate_cover_letter and target_cover_letter is None:
             try:
-                target_cover_letter = self._operations.generate_cover_letter(
-                    target, context.email
-                )
+                target_cover_letter = self._operations.generate_cover_letter(target, context.email)
             except Exception as exc:
                 logger.error(
                     "Personalized cover-letter generation failed for row %s: %s",
@@ -890,7 +888,9 @@ class ApplicationPipeline:
                 engine=prepared.resolved.engine_label,
                 resume=prepared.resume_path.name,
                 cover_letter=(
-                    prepared.cover_letter_path.name if prepared.cover_letter_path is not None else ""
+                    prepared.cover_letter_path.name
+                    if prepared.cover_letter_path is not None
+                    else ""
                 ),
                 email=self._operations.mask_email(context.email),
                 outcome=outcome,

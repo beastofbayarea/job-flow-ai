@@ -945,7 +945,7 @@ def _pipeline_operations(
         engine_path: Path,
         target: ApplicationTarget,
         target_resume: Path,
-        target_cover_letter: Path,
+        target_cover_letter: Path | None,
         email: str,
         mode: EngineMode,
         headed: bool,
@@ -976,7 +976,7 @@ def _pipeline_operations(
         target: ApplicationTarget,
         email: str,
         target_resume: Path,
-        target_cover_letter: Path,
+        target_cover_letter: Path | None,
         status: str,
     ) -> _SubmissionPersistence:
         job: JobRecord = {
