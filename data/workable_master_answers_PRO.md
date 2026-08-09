@@ -1,8 +1,49 @@
-# 100% Comprehensive Master Field & Answer Guide for ALL 59 Workable Job Applications
+# Workable Application Answer Guide
 
-Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
+Prepared answers for 59 Workable applications from the August 4 and August 8,
+2026 queues. Each application section keeps its own email alias, resume path,
+role-specific narrative, and fields observed on the live form.
+
+> [!IMPORTANT]
+> This is a preparation guide, not permission to submit. Recheck the live form
+> immediately before use. The candidate must confirm legal authorization,
+> sponsorship, compensation, availability, conflicts, consent, and voluntary
+> demographic responses. Never infer an answer when the form's wording or work
+> location differs from the prepared question.
+
+## How to use this guide
+
+1. Find the application by company, role, or Workable job ID.
+2. Open the listed application URL and confirm that the company and role match.
+3. Use **Complete Field-by-Field Answers** for identity, contact, resume, and
+   reusable prepared answers. The heading describes the prepared set; the live
+   form remains authoritative.
+4. Use **Live Application Form Additions** for questions observed during the
+   August 9 review. Required and optional labels are a dated snapshot and may
+   have changed.
+5. Resolve duplicate or differently worded controls against the live form. Do
+   not fill the same question twice unless the form genuinely requires it.
+6. Stop before submission and have the candidate review every personally
+   controlled answer called out above.
+
+## Queue index
+
+| Queue | Applications | Sections |
+| --- | ---: | ---: |
+| August 4, 2026 | 26 | 1-26 |
+| August 8, 2026 | 33 | 27-59 |
+| **Total** | **59** | **1-59** |
+
+Repeated companies or roles are retained because they came from separate queue
+records. Match on the application URL/job ID, not company name alone.
+
+## Candidate reference
+
+Primary evidence: `data/resumes/resume-general.pdf`
+
 - **Candidate Name**: Shivam Singh (Shiv)
 - **Phonetic Spelling**: `Shih-vum Sing` | **Pronouns**: `they/them`
+- **Email**: Use the application-specific address in the relevant section.
 - **Phone**: `+1-650-283-3478`
 - **Location**: San Francisco, California, USA (Zip: 94108)
 - **LinkedIn**: `https://linkedin.com/in/beastofbayarea`
@@ -10,12 +51,12 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 - **Portfolio / Research**: `https://www.researchgate.net/profile/Shivam-Singh-188`
 - **Current Role**: Principal, AI Products & Platforms at AWS
 - **Education**: MBA, University of Michigan (Ross); B.Tech CSE, Indian Institute of Technology (IIT)
-- **Work Auth / Sponsorship**: US Authorized (`Yes`), No visa sponsorship required (`No`)
+- **US Work Authorization / Sponsorship**: Authorized (`Yes`); sponsorship required (`No`). This does not establish authorization in another country.
 - **Notice Period**: `2 weeks`
-- **Base Salary Range**: `$120,000–$160,000 USD` (or role-specific listed range)
-- **EEO Demographics**: Gender: Male | Race: Asian (Not Hispanic or Latino) | Veteran: I am not a protected veteran | Disability: Yes, I have a disability
+- **Base Salary Reference**: `$120,000-$160,000 USD`, unless a role-specific answer states otherwise; confirm currency, pay period, and local market context.
+- **Voluntary EEO Reference**: Gender: Male | Race: Asian (Not Hispanic or Latino) | Veteran: I am not a protected veteran | Disability: Yes, I have a disability. Confirm before each submission; decline-to-answer options may be available.
 
-=================================================================================
+---
 
 ## 1. Mindrift — Ex-MBB Strategy Consultant - AI Training (Remote) (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/460E167820/apply`
@@ -54,6 +95,7 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 - **Cover letter (Optional)** *(Optional)*: I am drawn to Mindrift because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
 
 ---------------------------------------------------------------------------------
+
 
 ## 2. GoTymeX — Product Manager | Service Interactions (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/8853CE2E0C/apply`
@@ -2686,4 +2728,3 @@ Grounding Candidate Credentials (`data/resumes/resume-general.pdf`):
 - **What are your compensation expectations for the role? Please include your base salary and any other elements you'd like us to know.** *(Required)*: $120,000–$160,000 USD base annually, negotiable based on role scope and total compensation.
 
 ---------------------------------------------------------------------------------
-
