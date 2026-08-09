@@ -82,7 +82,8 @@ Use these answers for all roles unless a role-specific section below overrides t
 | Previously employed by this company? | No | Candidate profile default; employer-specific history overrides this answer |
 | Relatives employed by this company? | No | Candidate profile default; employer-specific relationships override this answer |
 | Non-compete / restrictive covenant? | No restrictions | Candidate profile explicit answer |
-| Willing to complete background check / drug screen? | Yes | Candidate profile explicitly authorizes a background check; read any separate drug-screen consent before accepting it |
+| Willing to complete a background check? | Yes | Candidate profile explicitly authorizes a background check |
+| Willing to complete a drug screen? | Not specified | Drug-screen consent is not established by the candidate profile; obtain an explicit answer if asked |
 | Criminal-history questions | Answer the exact legally required question | No universal answer is safe because wording and jurisdiction vary |
 | Willing to relocate? | Yes | Candidate profile explicit answer; relocation support requested: No |
 | Willing to travel / work evenings or weekends? | Yes, when required for the role | Candidate profile indicates schedule and location flexibility |
