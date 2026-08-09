@@ -151,6 +151,14 @@ def fill_ashby_target(
             element.dispatchEvent(new Event('change', {bubbles: true}));
           };
           const exact = new Map(Object.entries(payload.answers).map(([k, v]) => [normalize(k), v]));
+          const answerFor = label => {
+            const key = normalize(label);
+            if (exact.has(key)) return exact.get(key);
+            const matches = [...exact.entries()].filter(([candidate]) =>
+              candidate.length >= 12 && (key.includes(candidate) || candidate.includes(key))
+            );
+            return matches.length === 1 ? matches[0][1] : undefined;
+          };
           const systemFields = new Map([
             ['_systemfield_name', payload.values.name],
             ['_systemfield_email', payload.values.email],
@@ -184,7 +192,7 @@ def fill_ashby_target(
             const systemToken = [...systemFields.keys()].find(token =>
               (control.name || '').toLowerCase().includes(token)
             );
-            let value = (systemToken && systemFields.get(systemToken)) || exact.get(key) || '';
+            let value = (systemToken && systemFields.get(systemToken)) || answerFor(label) || '';
             if (!value) {
               for (const [names, candidate] of aliases) {
                 if (candidate && names.some(name => key === name || key.startsWith(name + ' '))) {
@@ -204,7 +212,7 @@ def fill_ashby_target(
               '.ashby-application-form-question-title, label, legend'
             );
             const label = (heading?.textContent || container.innerText?.split('\n')[0] || '').trim();
-            const answer = exact.get(normalize(label));
+            const answer = answerFor(label);
             if (!answer) continue;
             const wanted = normalize(answer);
             const options = [...container.querySelectorAll(

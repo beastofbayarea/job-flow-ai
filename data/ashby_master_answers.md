@@ -153,6 +153,14 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 
 * **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\personalized-resumes\ashby-2026-08-08\revenuecat-strategy-operations-manager.pdf`
 1. **Name**: Shivam Singh | **Email**: shivamsin12@umich.edu | **Proficiency**: `Expert`
+2. **Why do you want to work at RevenueCat?**:
+   > RevenueCat sits at the intersection of developer infrastructure, subscription growth, and data-driven decision-making. I am excited by the opportunity to use my experience building operating systems, analytics frameworks, and cross-functional growth programs at AWS, Microsoft, and D. E. Shaw to help a remote-first team scale efficiently while making subscription businesses easier to build and grow.
+3. **What is an example of a non-computer system you've hacked to your advantage?**:
+   > At Microsoft, I treated the partner-marketing budget process as a system to redesign. Instead of distributing funds through static co-marketing grants, I introduced propensity scoring and real-time budget shaping tied to verified conversion signals. That operating-model change raised partner conversion from 5% to 24%, produced $50M in incremental GMV, and delivered a 4.1x ROI.
+4. **What task or activity do you think AI will make much easier or better for you by next year? Why can’t it do that well today?**:
+   > AI will make operating reviews far more proactive by continuously synthesizing product, finance, support, and go-to-market signals into decision-ready scenarios. Today it can summarize each source, but it still struggles to reconcile inconsistent definitions, distinguish causation from correlation, and apply company-specific judgment without a well-governed semantic layer and human validation.
+5. **If you have implemented a net new operational process end-to-end, describe it.**:
+   > At AWS, I built an end-to-end operating process for enterprise AI delivery across 12 workstreams. I defined intake and prioritization criteria, established shared milestones and risk reviews, created reusable compliance-as-code reference architectures, and instrumented adoption and quality metrics. The process reduced deployment time from six months to two hours, supported $20M+ in immediate commitments, and created a repeatable model for scaling regulated customer implementations.
 
 ---
 - **Desired Salary**: $120,000–$160,000 USD
@@ -174,6 +182,10 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 * **Resume**: `C:\Users\Nagarro\Downloads\job-flow-ai\output\personalized-resumes\ashby-2026-08-08\supabase-product-manager-marketplace.pdf`
 1. **Name**: Shivam Singh | **Email**: shivamsingh50@umich.edu
 2. **Passport Country**: `India` | **Country of Residence**: `United States`
+3. **Tell us about your experience working in an async and/or remote environment. What practices or approaches have worked well for you? What challenges have you faced?**:
+   > I have led distributed, cross-functional programs across engineering, product, sales, compliance, and partner teams at AWS and Microsoft. The practices that work best for me are written decision records, clear owners and deadlines, concise weekly updates, recorded demos, and reserving meetings for debate or unblockers rather than status reporting. The main challenge is context fragmentation across time zones, which I address with a single source of truth, explicit handoffs, and documented assumptions and decisions.
+4. **Have you made any open source contributions in the past that you'd like to share with us?**:
+   > I do not have a major public open-source contribution to highlight. My public technical work and projects are available at https://github.com/beastofbayarea, and I would be excited to contribute to Supabase's open-source ecosystem.
 
 ---
 - **Desired Salary**: $120,000–$160,000 USD
@@ -186,6 +198,12 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 1. **Name**: Shivam Singh | **Email**: shivamsing13@umich.edu
 2. **Where are you working AI-first today?**:
    > At AWS, I lead product strategy and deployment for agentic GenAI shopping copilots using Amazon Bedrock, fine-tuned RAG models, prompt chains, Bedrock Guardrails, and automated evaluation frameworks. In my daily workflow, I leverage Claude/Gemini and AI coding assistants for prototyping, synthetic user testing, and data analysis.
+3. **What makes you excited about the ElevenLabs mission?**:
+   > ElevenLabs is making voice a programmable interface for how people create, learn, and communicate across languages. I am excited by the combination of frontier AI, exceptional product quality, and a global creator and enterprise market, and by the opportunity to build the operational systems that help that growth scale efficiently.
+4. **Describe a marketing-ops/revops automation you built end to end at a B2B SaaS company — what it did and the impact.**:
+   > At Microsoft, I redesigned a $12M partner-marketing engine from static grant allocation into an automated, signal-driven operating system. I connected propensity scoring, campaign performance, attribution, and budget-shaping workflows so partner managers could direct funds toward the highest-converting opportunities. The system generated $50M in incremental GMV at 4.1x ROI and increased partner conversion from 5% to 24%.
+5. **Which low-code/automation tools have you built in (HubSpot, Clay, Splash, Zapier/n8n)? Ever vibe-coded an internal tool? Link or describe.**:
+   > My strongest experience is building production workflows with Python, SQL, cloud services, APIs, and AI coding assistants rather than relying primarily on low-code platforms. I have rapidly prototyped internal analytics and workflow tools that connect operational data, automate evaluation and reporting, and surface decision-ready recommendations; I am comfortable translating those patterns into HubSpot, Clay, Zapier, or n8n workflows.
 
 ---
 - **Desired Salary**: $120,000–$160,000 USD
@@ -258,6 +276,8 @@ Based on Candidate Resume (`data/resumes/resume-general.pdf`) & Candidate Profil
 1. **Name**: Shivam Singh | **Email**: shivamsi17@umich.edu
 2. **Customer-Facing Enterprise AI TPM Experience**:
    > Yes, I have 8+ years of experience leading complex customer-facing technical delivery for enterprise AI and cloud platforms. At AWS, I served as Principal, AI Products & Platforms, leading the technical delivery of an agentic GenAI copilot across 12 workstreams and architecting sovereign-cloud deployment reference architectures for enterprise banking clients. This unlocked $20M+ immediate commitments and compressed customer deployment time from 6 months to 2 hours.
+3. **Do you have knowledge or experience with LLM training or optimization? Please explain.**:
+   > Yes. At AWS, I led optimization of an agentic GenAI shopping copilot using Amazon Bedrock, retrieval-augmented generation over catalog embeddings, prompt-chain tuning, Bedrock Guardrails, and automated synthetic and human-in-the-loop evaluation. The work reduced hallucinations from more than 8% to 2.8%, increased adoption by 25%, and improved session depth by 15%. My experience is strongest in applied LLM optimization, evaluation, RAG, safety, and production delivery rather than training foundation models from scratch.
 
 ---
 - **Desired Salary**: ₩120,000,000–₩160,000,000 KRW
