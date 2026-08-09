@@ -4,14 +4,29 @@
 **Live-form audit:** 9 August 2026  
 **Coverage:** 23 job URLs; 22 live application forms inspected; application 23 is closed/no longer exposes an apply form.
 
-This guide preserves the different email address assigned to every application. It is tailored to the live role descriptions and the screening-question schemas embedded in each live SmartRecruiters application.
+This is a fill-only reference for the audited SmartRecruiters forms. It preserves the unique email assigned to each application and combines shared profile data, role-specific writing, screening answers, and evidence gaps in one place.
 
-## Accuracy and assumption key
+## How to use this guide
 
-- **Ready** means supported by the supplied résumé or the original candidate profile.
-- **Estimate** means a deliberately strong, role-specific compensation or proficiency estimate. Confirm before submitting.
-- **Confirm** means the source material does not establish the answer. Do not turn it into a factual claim without candidate confirmation.
-- Strong framing is intentional; credentials, work rights, language fluency, current compensation, and legal declarations are not invented.
+1. Confirm that the posting is still live and that the form schema has not changed.
+2. Open the numbered role section and use its email and résumé exactly as listed.
+3. Apply shared answers only when the role section does not provide an override.
+4. Resolve every **Confirm** and **Estimate** item before entering it in the form.
+5. Review generated experience fields, uploads, and declarations in the browser.
+6. Stop at the final review screen. This guide does not authorize submission.
+
+Do not copy editorial text such as “assumption,” “estimate,” “confirm,” or “critical fit note” into an application field.
+
+## Answer-status key
+
+| Status | Meaning | Required action |
+|---|---|---|
+| **Ready** | Supported by the supplied résumé or candidate profile. | May be entered, then reviewed in context. |
+| **Estimate** | A role-specific compensation, availability, or proficiency recommendation. | Candidate must approve or replace it. |
+| **Confirm** | Not established by the available source material. | Obtain a factual answer; never infer it. |
+| **Critical fit note** | A material requirement is missing or only partially supported. | Apply only when the candidate can truthfully close the gap or accepts it. |
+
+Strong positioning is intentional. Credentials, work rights, language fluency, compensation, employment history, protected status, and legal declarations must never be invented.
 
 ## Shared personal-information answers
 
@@ -74,7 +89,7 @@ Use these in every live form unless a role section overrides them.
 
 ### Standard voluntary demographic answers
 
-Use only if the candidate wants to disclose:
+These fields are optional unless the form clearly states otherwise. Use them only when the candidate has chosen to disclose; “Decline to self-identify” remains valid where offered.
 
 | Field | Answer |
 |---|---|
@@ -88,6 +103,8 @@ Use only if the candidate wants to disclose:
 | U.S. military service | No, I have not served - assumed from supplied profile; confirm |
 | Military spouse / partner | No - assumption; confirm |
 | Disability | Yes, I have or previously had a disability |
+| LGBTQ+ identity | Yes |
+| Active-duty military spouse | No - assumption; confirm |
 
 ## 1. Renesas Electronics - Director of Product Management, High Performance AI and Compute Power
 
@@ -640,9 +657,3 @@ The live posting no longer exposes an “I’m interested” link, so its curren
 5. Keep résumé metrics exactly as supported: `$5M` funding, `$20M+` commitments, `$122M` pipeline, `25%` adoption, `2.8%` hallucinations, `15%` session-depth lift, `$50M` GMV, `4.1x` ROI, `34%-67%` D30 retention, `0.8-4.5` LTV:CAC, `90ms-4.2ms` latency, and `1M-5.4M` messages/sec.
 6. Read each privacy notice and legal/AI-use declaration before checking it.
 7. Recheck application 23 immediately before any future submission because the current form is closed.
-- LGBTQ+ identity: **Yes**.
-- Active-duty military spouse: **No - assumption; confirm**.
-- Race: **Asian**.
-- Veteran: **No**.
-- Disability: **Yes**.
-- Hispanic/Latino: **No**.
