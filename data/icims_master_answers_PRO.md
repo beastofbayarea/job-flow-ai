@@ -1,25 +1,46 @@
-# Updated iCIMS Application Answer Guide - 38 Roles
+# iCIMS Application Answer Guide
 
-Audit date: 2026-08-09
+- Last verified: 2026-08-09
+- Scope: 38 reviewed iCIMS URLs (1 live, 37 closed or unavailable)
+- Submission status: No applications submitted
 
-This file combines verified resume facts, candidate-supplied answers from the original Markdown, and a live review of every listed URL. No application was submitted and no personal data was entered into any employer site.
+This is a fill-assistance reference, not blanket authorization to submit. It combines resume facts, candidate-supplied answers from the original guide, and a point-in-time review of the listed URLs. Recheck the posting and confirm every answer marked **Confirm** immediately before use.
 
-## Audit outcome and important corrections
+## Quick decision
 
-- Every one of the 38 URLs was opened and reviewed.
+| Priority | Role | Status | Action |
+|---|---|---|---|
+| 1 | [Melaleuca - Director of Product Education](#19-melaleuca---director-of-product-education) | Live; onsite in Idaho Falls | Hold until relocation, schedule flexibility, email, and direct training experience are confirmed |
+| - | Remaining 37 roles | Closed, removed, or unavailable | Do not apply; retain tailored text only as reusable draft material |
+
+## How to use this guide
+
+1. Reopen the job URL and confirm the same role is still live.
+2. Start with the [canonical answers](#canonical-answers-for-every-application).
+3. Apply the role-specific overrides; an override always takes precedence.
+4. Stop at any **Confirm** item. Never infer or invent an answer.
+5. Compare the final answer with the exact wording and available options in the form.
+6. Complete the [pre-submission checklist](#pre-submission-checklist) before any submission.
+
+## Audit findings
+
+- All 38 URLs were opened and reviewed on the audit date. These statuses are a point-in-time snapshot, not a permanent guarantee.
 - 37 roles are closed, removed, or redirect to an iCIMS "requested job could not be found" page.
 - The only live role is **Melaleuca - Director of Product Education**.
 - The Melaleuca application exposes only **Email** before requiring **Next** and hCaptcha. Later application fields are not visible without transmitting an email address or signing into a candidate account.
 - The original file repeated the same 22-field template for every employer. Those fields were not verified against the live forms.
 - The original file contained **38 different `@umich.edu` email addresses**. The resume does not list an email. Do not submit any address until the candidate confirms the correct one.
 - The original file referenced 38 role-specific resume PDFs that were not provided. Use `resume-general.pdf` unless a real tailored resume is created.
-- All role-specific essays below are newly written and use varied, resume-supported evidence. Closed-role essays are retained as reusable drafts if a substantially similar position reopens.
+- Role-specific drafts use resume-supported evidence. Drafts for closed roles may be reused only after checking them against a new posting.
 
-## Evidence labels
+## Answer states
 
-- **Resume-verified**: stated in `resume-general.pdf`.
-- **Candidate-supplied**: stated in the original Markdown but not shown on the resume.
-- **Confirm**: cannot be answered truthfully from either supplied file.
+| State | Meaning | Permitted use |
+|---|---|---|
+| **Resume-verified** | Explicitly stated in `resume-general.pdf` | May be used when the form asks the same thing |
+| **Candidate-supplied** | Stated in the original Markdown but not evidenced by the resume | Reconfirm if the answer is sensitive or could have changed |
+| **Derived** | Calculated or restated from supplied facts | Verify that the form's wording supports the derivation |
+| **Confirm** | Not established by the supplied sources | Stop and obtain an explicit answer before proceeding |
 
 ## Canonical answers for every application
 
@@ -35,7 +56,7 @@ Use these answers for all roles unless a role-specific section below overrides t
 | Phone | +1-650-283-3478 | Resume-verified |
 | Current city/state | San Francisco, California | Resume-verified |
 | ZIP code | 94108 | Candidate-supplied |
-| Country | United States | Supported by current location |
+| Address country | United States | Derived from the San Francisco, California address; this does not establish citizenship or work authorization |
 | Current employer | Amazon Web Services (AWS) | Resume-verified |
 | Current title | Principal, AI Products & Platforms | Resume-verified |
 | LinkedIn | https://linkedin.com/in/beastofbayarea | Resume-verified |
@@ -50,14 +71,14 @@ Use these answers for all roles unless a role-specific section below overrides t
 | Bachelor's degree | Yes - B.Tech, Computer Science & Engineering, Indian Institute of Technology, 2010-2014 | Resume-verified |
 | Graduate degree | MBA, Strategy, Technology & Operations, University of Michigan Ross, 2022-2024 | Resume-verified |
 | Additional education | Executive coursework, Economics, Markets & Public Policy, London School of Economics, 2024 | Resume-verified |
-| Age 18 or older? | Yes | Unambiguously supported by education and work dates |
+| Age 18 or older? | Yes | Derived from education and work dates |
 | EEO gender | Male | Candidate-supplied; voluntary |
 | EEO race / ethnicity | Asian; not Hispanic or Latino | Candidate-supplied; voluntary |
 | Protected veteran | I am not a protected veteran | Candidate-supplied; voluntary |
 | Disability status | Yes, I have a disability | Candidate-supplied; voluntary; do not infer an accommodation request |
 | Accommodation needed for interview/application? | **CONFIRM** | Disability disclosure does not establish accommodation needs |
-| How did you hear about us? | Company careers page / iCIMS | Appropriate for these URLs unless a referral actually applies |
-| Employee referral | No referral identified | Confirm before answering "No" if a referral exists |
+| How did you hear about us? | Company careers page / iCIMS | Use only if this accurately describes how the role was found |
+| Employee referral | **CONFIRM** | No referral is documented; absence of evidence is not a truthful "No" |
 | Previously employed by this company? | **CONFIRM** | Not established by supplied materials |
 | Relatives employed by this company? | **CONFIRM** | Not established by supplied materials |
 | Non-compete / restrictive covenant? | **CONFIRM** | Not established by supplied materials |
@@ -65,17 +86,19 @@ Use these answers for all roles unless a role-specific section below overrides t
 | Criminal-history questions | **CONFIRM and answer exactly as legally required** | Not established; laws vary by jurisdiction |
 | Willing to relocate? | **CONFIRM for each role** | Current location alone does not establish willingness |
 | Willing to travel / work evenings or weekends? | **CONFIRM for each role** | Not established by supplied materials |
-| Salary if text is allowed | Open to market-competitive total compensation; target depends on scope, level, location, and the full package. | Strongest flexible answer consistent with supplied range |
+| Salary if text is allowed | Open to market-competitive total compensation; target depends on scope, level, location, and the full package. | Flexible response consistent with the supplied range |
 
 ### Salary values when a numeric field is mandatory
 
-These numbers stay within the candidate-supplied base range of $120,000-$160,000. Confirm before submitting.
+These are drafting defaults within the candidate-supplied US base-salary range of $120,000-$160,000. They are not approved answers. Confirm the amount, currency, pay period, location, and whether the form asks for base or total compensation before use.
 
 - Specialist, analyst, coordinator, or temporary role: **120000 USD**
 - Manager, senior manager, product manager, or program manager: **145000 USD**
 - Director or vice president role: **160000 USD**
 
-## Role-by-role reviews and tailored answers
+## Role reviews and reusable drafts
+
+Only role 19 was live on the audit date. Every other entry is archival and must not be treated as an active application target.
 
 ### 1. Morgan Advanced Materials - Technical Product Manager, Fiber and CVT, Remote
 
@@ -467,15 +490,16 @@ These numbers stay within the candidate-supplied base range of $120,000-$160,000
 
 > I can contribute rigorous paid-media measurement and fast cross-functional execution. At Microsoft, I used propensity scoring, W-shaped attribution, yield data, and real-time budget traffic-shaping to improve conversion from 5% to 24% and generate $50M in incremental GMV. At Rakuten, cohort and geo-lift analysis helped cut CAC from $42 to $8.50. For MLS, I would apply that discipline to audience, channel, creative, and pacing decisions. Because my recent roles are substantially more senior, I would explain a genuine reason for pursuing a temporary coordinator position before applying.
 
-## Final submission checklist
+## Pre-submission checklist
 
-Before using any answer from this file:
+Before submitting any application based on this file:
 
-1. Confirm the correct email address. This is the only universal required field still unresolved.
-2. Confirm relocation, travel, evening/weekend availability, and local work authorization for the specific role.
-3. Confirm salary expectations and convert to the role's currency and format.
-4. Confirm sensitive or legally consequential answers: background checks, criminal history, restrictive covenants, prior employment, relatives, and accommodations.
-5. Use `resume-general.pdf` unless a real tailored resume exists; do not reference the nonexistent role-specific PDFs from the original file.
-6. For Melaleuca, proceed only after confirming Idaho Falls relocation and the ability to substantiate the direct product/sales-training requirement.
-7. Do not apply twice to duplicate job IDs: Applied Systems 6130 and Blackhawk Network 25478.
-
+1. Verify that the URL, employer, title, location, and job ID still match a live posting.
+2. Confirm the candidate's email address; none is established by the supplied resume.
+3. Resolve every **Confirm** item, including referral, prior employment, relatives, restrictive covenants, background checks, criminal history, accommodations, relocation, travel, schedule, and work authorization for the role's country.
+4. Confirm salary amount, currency, pay period, and whether the question concerns base pay or total compensation.
+5. Use `resume-general.pdf` unless an actual tailored resume has been created and reviewed.
+6. Check that each free-text response answers the current posting and does not overstate direct industry, training, management, or technical experience.
+7. For Melaleuca, proceed only after confirming Idaho Falls relocation, schedule flexibility, and evidence for the direct product/sales-training requirement.
+8. Do not apply twice to duplicate job IDs: Applied Systems 6130 and Blackhawk Network 25478.
+9. Pause at the pre-submit review; this guide does not itself authorize submission.
