@@ -1,15 +1,9 @@
-# Job Apply Prompt
+Apply
 
-/goal
-
-Process every job URL in each file of this folder data\application-queues.
-
-Run locally (not VPS or cloud) with a parallel sub-agent for each ATS platform, one job/tab each. Leave completed tabs open and continue until the queue is exhausted.
+Run locally (not VPS or cloud) parallel sub-agents, one job/tab each. Leave completed tabs open and continue until the queue is exhausted.
 
 Reuse one Chrome debug session, open tabs in the background, skip submitted roles, and never click Submit.
 
-For each job, use a personalized resume, random email from config\candidate_email_pool.json and LLM-generated answers.
+Use short render timeouts: on a hang, reload the same tab once, then reopen once in a new background tab before skipping.
 
-Fill all fields with any possible assumptions or estimates, keep essays concise and MECE, and verify the correct resume is attached; retry its upload once.
-
-Use short render timeouts: on a hang, reload the same tab once, then reopen once in a new background tab before skipping. On errors/timeouts, clean up only the affected helper; never kill Chrome or close unrelated tabs.
+On errors/timeouts, clean up only the affected helper; never kill Chrome or close unrelated tabs.

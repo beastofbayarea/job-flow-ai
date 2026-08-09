@@ -1,9 +1,6 @@
 # Job Search Prompt
 
-T0. Update the appropriate JSON files in the data\application-queues folder with the results.
-OR Create a JSON file with the results if does not exist for that ATS platform.
-
-T1. Search for current openings on this ATS platform in the following job groups: (1) Product and Program Management — roles building or steering the roadmap, technical or AI-focused, (2) Marketing — roles promoting or growing the product, spanning Growth, Performance, Paid Media, Marketing Operations, Demand Generation, Product Marketing, and GTM Marketing, (3) VC and Corp Dev, and (4) Management Consulting. Replace any role more than 1 month old with a more recent relevant role from that company.
+T1. Search for current openings on this ATS platform in the following job groups: (1) Product and Program Management — roles building or steering the roadmap, technical or AI-focused, (2) Marketing — roles promoting or growing the product, spanning Growth, Performance, Paid Media, Marketing Operations, Demand Generation, Product Marketing, and GTM Marketing, (3) VC and Corp Dev, and (4) Management Consulting. Replace any role more than 1 week old with a more recent relevant role from that company.
 
 T2. Prioritize France, then US remote roles, then Europe, Hong Kong, UAE and Abu Dhabi, and Singapore. Skip any roles based in only Canada, Thailand, Israel, Phillipines, Germany, Ukraine, Egypt, Africa, Turkey, Poland, Russia, Belarus, Iran, Pakistan, Bangladesh, Vietnam, or Indonesia. Also skip any defense, healthcare, pharma, oil and gas, or mining based roles. Also skip any roles that require a security clearance.
 
