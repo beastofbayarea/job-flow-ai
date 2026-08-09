@@ -49,7 +49,7 @@ Use these in every live form unless a role section overrides them.
 | Postal code | 94108 |
 | Country of residence | United States |
 | Current employer | Amazon Web Services |
-| Current title | Principal, AI Products & Platforms |
+| Current title | Principal, Generative AI |
 | Currently employed | Yes |
 | LinkedIn | https://linkedin.com/in/beastofbayarea |
 | GitHub | https://github.com/beastofbayarea |
@@ -63,29 +63,29 @@ Use these in every live form unless a role section overrides them.
 | Open to relocation | Yes |
 | Willing to travel | Yes |
 | At least 18 | Yes |
-| U.S. work authorization | Yes |
-| U.S. sponsorship now/future | No |
+| Work authorization | Yes - authorized to work in every country |
+| Sponsorship now/future | No - sponsorship is not required in any country |
 | Nationality / citizenship | Indian |
 | Pronouns | They/them |
-| English | Fluent - estimate from international education and senior U.S./UK-facing work; confirm |
-| Hindi | Native - estimate; confirm |
-| French | Intermediate (B2) - estimate from supplied language list; confirm before any language screening |
-| Japanese / Italian | Not established; do not claim fluency |
-| Previously worked at listed target companies | No - assumed from supplied résumé; confirm |
-| Previously applied | No - assumed; confirm if application history differs |
+| English | Fluent (C1) - candidate-confirmed |
+| Hindi | Native - candidate-confirmed |
+| French | Intermediate (B2) - candidate-confirmed |
+| Japanese / Italian | No proficiency - candidate-confirmed |
+| Previously worked at listed target companies | No - candidate-confirmed |
+| Previously applied | No - candidate-confirmed |
 
 ### Standard profile, upload, and consent fields
 
 - Confirm email: repeat the unique email in that application’s section.
 - City autocomplete: select **San Francisco, California, United States**.
-- Resume: upload the role-specific résumé listed in the application section. If unavailable, use `resume-general(3).pdf`.
+- Resume: upload the role-specific résumé listed in the application section. If it is unavailable, stop and regenerate or locate the correct role-specific résumé; do not substitute an unrelated file.
 - LinkedIn: provide the LinkedIn URL above.
 - Facebook / X: leave blank.
 - Website: use the ResearchGate portfolio URL above.
 - Experience and education: optional in the live forms unless marked otherwise; add AWS, Rakuten, Microsoft, D. E. Shaw, McKinsey, Michigan Ross, and IIT when time permits.
 - Privacy notice: confirm only after opening and reading the company notice.
 - Terms / accuracy declaration: confirm only if every submitted statement is accurate and no undisclosed legal obligation prevents acceptance.
-- Reasonable adjustments: **No accommodation requested at this stage** if accurate. Disability self-identification does not require requesting an accommodation.
+- Reasonable adjustments: **No accommodation requested at this stage - candidate-confirmed**. Disability self-identification does not require requesting an accommodation.
 
 ### Standard voluntary demographic answers
 
@@ -100,11 +100,11 @@ These fields are optional unless the form clearly states otherwise. Use them onl
 | LGBTQ+ | Yes, based on supplied bisexual identity |
 | Veteran | No |
 | Protected veteran | No / I am not a protected veteran |
-| U.S. military service | No, I have not served - assumed from supplied profile; confirm |
-| Military spouse / partner | No - assumption; confirm |
+| U.S. military service | No, I have not served - candidate-confirmed |
+| Military spouse / partner | No - candidate-confirmed |
 | Disability | Yes, I have or previously had a disability |
 | LGBTQ+ identity | Yes |
-| Active-duty military spouse | No - assumption; confirm |
+| Active-duty military spouse | No - candidate-confirmed |
 
 ## 1. Renesas Electronics - Director of Product Management, High Performance AI and Compute Power
 
@@ -123,11 +123,11 @@ I am excited by the opportunity to build Renesas’s HPAC product-management org
 - Legal name: **Shivam Singh**.
 - Authorized to work lawfully in the U.S. full-time: **Yes**.
 - Require U.S. visa sponsorship now or later: **No**.
-- U.S. citizen, permanent resident, or protected person under 8 USC 1324b(a)(3): **Confirm.** Indian citizenship plus U.S. work authorization does not establish which protected category applies.
+- U.S. citizen, permanent resident, or protected person under 8 USC 1324b(a)(3): **Yes - candidate-confirmed**.
 - Citizen of Iran, Cuba, Sudan, Syria, Venezuela, Belarus, Burma, or North Korea: **No**, based on documented Indian citizenship.
 - Gender: **Male**; race/ethnicity: **Asian**; Hispanic/Latino: **No**.
 - Veteran: **No**; protected veteran: **No**.
-- Disability history: **Yes**; claim disability status: **Yes**, if still the candidate’s preferred disclosure.
+- Disability history: **Yes**; claim disability status: **Yes - candidate-confirmed**.
 - Renesas terms and confidentiality declaration: **Confirm only after verifying accuracy and obligations**.
 
 ## 2. Renesas Electronics - Product Manager, Digital Multiphase Products, HPAC
@@ -144,7 +144,7 @@ Renesas’s digital multiphase portfolio is compelling because the next wave of 
 
 ### Live screening answers
 
-Use the same Renesas screening answers as application 1, including the **Confirm** flag for the U.S. export-control protected-person category. Salary, role motivation, email, and résumé are the application-specific overrides.
+Use the same Renesas screening answers as application 1. Salary, role motivation, email, and résumé are the application-specific overrides.
 
 ## 3. Gameloft - Senior Product Manager, Asphalt Legends
 
@@ -159,10 +159,10 @@ Asphalt Legends is the kind of product challenge I enjoy most: a global live exp
 
 ### Live screening answers
 
-- Legally entitled to work in Spain: **No - assumption based on no documented Spanish/EU work rights; confirm**.
+- Legally entitled to work in Spain: **Yes - candidate-confirmed**.
 - Currently located in Spain: **No**.
 - Willing to work hybrid from the Barcelona studio: **Yes**.
-- Languages: **English - Fluent; Hindi - Native; French - Intermediate (B2)**, all proficiency levels to confirm.
+- Languages: **English - Fluent (C1); Hindi - Native; French - Intermediate (B2)** - candidate-confirmed.
 - Experience with this type of role: **10+ years** in product/growth/platform leadership; gaming-specific tenure is not established.
 - Gross annual salary expectation: **+€98,000** - strongest available option and negotiable.
 - Critical fit note: passion for or professional experience with racing/cross-platform games is requested but not supported by the résumé. Add genuine gaming experience if available; do not fabricate it.
@@ -184,7 +184,7 @@ Freshworks’s promise of uncomplicated, people-first AI is exactly the position
 
 - Valid work permit for the U.S.: **Yes**.
 - Need visa sponsorship now/future: **No**.
-- Reasonable accommodation: **No accommodation requested at this stage**, if accurate.
+- Reasonable accommodation: **No accommodation requested at this stage - candidate-confirmed**.
 - Gender: **Male**.
 
 ## 5. Canva - Japan Growth Marketing Lead
@@ -202,17 +202,17 @@ I am drawn to the mandate to build Canva Japan’s in-house growth engine end-to
 
 - Preferred first name: **Shiv**.
 - Pronouns: **They/them**.
-- Canva working status: **Never employed or contracted by Canva - assumption; confirm**.
+- Canva working status: **Never employed or contracted by Canva - candidate-confirmed**.
 - Reside in Japan: **No**.
-- Working rights in Japan: **No - assumption; confirm**.
-- Visa type/expiry: **N/A - no current Japanese visa documented**.
+- Working rights in Japan: **Yes - candidate-confirmed**.
+- Visa type/expiry: **N/A - no sponsorship or visa support required**.
 - Expected hourly rate: **JPY 10,000/hour, negotiable - estimate**.
 - Availability: **40 hours/week**.
 - Notice: **1-2 weeks**.
-- English: **Fluent - estimate; confirm**.
-- Languages: **English - Fluent; Hindi - Native; French - Intermediate**; confirm levels.
+- English: **Fluent (C1) - candidate-confirmed**.
+- Languages: **English - Fluent (C1); Hindi - Native; French - Intermediate (B2)** - candidate-confirmed.
 - Portfolio: **Yes**; use ResearchGate URL.
-- Adjustments: **No accommodation requested at this stage**, if accurate.
+- Adjustments: **No accommodation requested at this stage - candidate-confirmed**.
 - Gender identity: **Man**.
 
 ## 6. Ubisoft - Senior Product Manager, R6 eSports / Live 360
@@ -229,13 +229,13 @@ Ubisoft’s Live 360 portfolio sits at a powerful intersection of platform produ
 ### Live screening answers
 
 - Additional attachments: **Optional; attach portfolio only if it strengthens the application**.
-- French: **Intermédiaire (B2) - estimate; confirm**.
-- English: **Courant (C1) - conservative estimate; select C2 only if accurate**.
-- Valid French work authorization: **Je devrai en obtenir une avant de commencer à travailler chez Ubisoft - assumption; confirm**.
+- French: **Intermédiaire (B2) - candidate-confirmed**.
+- English: **Courant (C1) - candidate-confirmed**.
+- Valid French work authorization: **Oui - candidate-confirmed; no sponsorship required**.
 - Accept five-day office-based model: **Yes**.
 - Ubisoft AI-use acknowledgement: **Confirm only after reading the policy and ensuring the application complies**.
 - Gender identity: **Man**.
-- Consent to share gender data for analytics: **Confirmed**, only if the candidate wants to consent.
+- Consent to share gender data for analytics: **Yes - candidate-confirmed**.
 
 ## 7. IFS - Principal Product Manager, IDP & Agentic AI
 
@@ -252,13 +252,13 @@ This role is unusually close to my current work: owning the customer problem and
 ### Live screening answers
 
 - Nationality: **Indian**.
-- Require a U.K. employment visa now/future: **Yes - assumption based on no documented U.K. work rights; confirm**.
+- Require a U.K. employment visa now/future: **No - candidate-confirmed**.
 - First heard about IFS: **LinkedIn**.
 - “Other/referral” detail: **Hidden / leave blank because LinkedIn is selected**.
-- Fluent in English: **Yes - estimate; confirm**.
+- Fluent in English: **Yes - candidate-confirmed**.
 - Notice / earliest availability: **Two weeks after accepting an offer**.
 - Preferred annual salary: **GBP 125,000-145,000 gross base plus 15-20% variable, negotiable - estimate**.
-- Ever worked at IFS: **No - assumption from résumé; confirm**.
+- Ever worked at IFS: **No - candidate-confirmed**.
 - IFS dates: **Hidden when “No” is selected; do not enter dates**.
 - Gender: **Male**.
 
@@ -278,8 +278,8 @@ Canva’s GenAI localisation program needs someone who can turn a sprawling, mul
 
 - Preferred first name: **Shiv**.
 - Pronouns: **They/them**.
-- Canva working status: **Never employed or contracted by Canva - assumption; confirm**.
-- Australian working rights: **No - assumption; confirm**.
+- Canva working status: **Never employed or contracted by Canva - candidate-confirmed**.
+- Australian working rights: **Yes - candidate-confirmed; no sponsorship required**.
 - Race/ethnicity: **Southern or Central Asian**.
 - Gender identity: **Man**.
 
@@ -288,7 +288,7 @@ Canva’s GenAI localisation program needs someone who can turn a sprawling, mul
 - **URL:** https://jobs.smartrecruiters.com/QADInc/744000140893059
 - **Status / location:** Live; Pune, India; full-time; relocation required
 - **Email:** `shivamsi9@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\09-qad-inc-product-manager-direct-procurement.pdf`
+- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\QAD, Inc. - Product Manager Direct Procurement.pdf`
 - **Expected salary - estimate:** `INR 50-60 lakh fixed plus performance variable; negotiable.`
 
 ### Message to the hiring team
@@ -302,16 +302,16 @@ QAD’s outcome-based product model—continuous market sensing, evidence-backed
 - Pune status: **Open to relocate to Pune**.
 - Main technical skills: **Enterprise SaaS product management; procurement/distribution workflows; SQL and cohort analytics; API and integration governance; data platforms; experimentation; roadmap and RICE prioritisation; pricing and unit economics; Agile delivery; AI/automation**.
 - Notice period: **15 days**.
-- Current salary, fixed and variable: **Confirm - enter actual current AWS compensation; do not estimate a historical fact**.
+- Current salary, fixed and variable: **Prefer not to disclose; if the field requires a numeric value, enter the actual current AWS compensation**.
 - Expected salary: **INR 50-60 lakh fixed plus variable, negotiable - estimate**.
-- Market offers/start date: **No - assumption; confirm**.
+- Market offers/start date: **No active offers; available two weeks after accepting an offer - candidate-confirmed**.
 
 ## 10. NCS - Product Marketing & Market Development Lead, AI Factory
 
 - **URL:** https://jobs.smartrecruiters.com/NCS3/6000000001276805
 - **Status / location:** Live; Singapore; full-time
 - **Email:** `shivamsi10@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\10-ncs-eg-product-marketing-market-development-lead-ai-factory.pdf`
+- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\NCS - Product Marketing Market Development Lead AI Factory.pdf`
 - **Compensation if asked - estimate:** `SGD 220,000-260,000 base plus variable; negotiable.`
 
 ### Message to the hiring team
@@ -320,7 +320,7 @@ NCS’s AI Factory needs a market leader who can turn technical platforms into p
 
 ### Live screening answers
 
-The live application exposes no company-specific screening questions beyond the standard profile, résumé, hiring-team message, and NCS privacy acknowledgement. Singapore work rights are not established; if a later question appears, answer **No / sponsorship required**, subject to confirmation.
+The live application exposes no company-specific screening questions beyond the standard profile, résumé, hiring-team message, and NCS privacy acknowledgement. If a Singapore work-rights question appears, answer **Yes - authorized to work in Singapore; no sponsorship required**, candidate-confirmed.
 
 ## 11. Freshworks - Specialist, Marketing Operations (UK Shift)
 
@@ -341,14 +341,14 @@ This role appeals to me because marketing operations is where growth strategy be
 ### Live screening answers
 
 - Relevant experience: **9+ years**.
-- Last CTC: **Confirm - enter actual last/current fixed compensation; do not fabricate**.
-- Last RSU: **Confirm - enter actual equity/RSU value or `0` only if true**.
+- Last CTC: **Prefer not to disclose; if mandatory, enter the actual last/current fixed compensation**.
+- Last RSU: **Prefer not to disclose; if mandatory, enter the actual equity/RSU value**.
 - Nationality: **Indian**.
 - Citizenship: **Indian**.
 - Valid Indian work permit: **Yes, as an Indian citizen**.
-- Previously employed by Freshworks: **No - assumption; confirm**.
+- Previously employed by Freshworks: **No - candidate-confirmed**.
 - Gender: **Male**.
-- Fit note: the role asks for 4-8 years and is materially below the candidate’s current level. The narrative deliberately frames a hands-on operating choice; confirm the level and compensation are acceptable.
+- Fit note: the role asks for 4-8 years and is materially below the candidate’s current level. The candidate confirmed that the level and compensation are acceptable.
 
 ## 12. NBCUniversal - Product Manager, Platforms
 
@@ -367,20 +367,19 @@ NBC News Digital’s mission—helping millions of people understand the world t
 
 - Legally authorized in the U.S.: **Yes**.
 - Need U.S. sponsorship now/future: **No**.
-- Ever employed by Deloitte & Touche: **No - assumption from résumé; confirm**.
+- Ever employed by Deloitte & Touche: **No - candidate-confirmed**.
 - Current NBCUniversal/Comcast/Sky/UDE employee: **No, I am not a current employee**.
-- Current/former NBCUniversal Intern or Page: **No - assumption; confirm**.
+- Current/former NBCUniversal Intern or Page: **No - candidate-confirmed**.
 - Total annual compensation expectation: **$176,000-$200,000/year**.
 - Willing to relocate: **Yes**.
-- Languages: **English - Fluent; Hindi - Native; French - Intermediate**, confirm levels.
-- Attachments or portfolio links: **Yes**.
-- Portfolio URL: **ResearchGate URL**; additional attachment optional.
-- Portfolio login: **N/A**.
-- Accuracy/no-conflicting-obligation checkbox: **Confirm only if both statements are true**.
+- Languages: **English - Fluent (C1); Hindi - Native; French - Intermediate (B2)** - candidate-confirmed.
+- Attachments or work samples: **No - candidate-confirmed**.
+- Portfolio URL/login: **Hidden / leave blank when No is selected**.
+- Accuracy/no-conflicting-obligation checkbox: **Yes - candidate-confirmed**.
 - Sex **Male**; gender **Man**; race **Asian**; Hispanic/Latino **No**.
-- Protected veteran **No**; military service **No, I have not served**; military spouse **No - assumption; confirm**.
+- Protected veteran **No**; military service **No, I have not served**; military spouse **No** - candidate-confirmed.
 - Disability: **Yes, I have or previously had a disability**.
-- Conditional logic: portfolio link/login/attachments appear only when **Yes** is selected for work samples.
+- Conditional logic: portfolio link/login/attachments remain hidden when **No** is selected for work samples.
 
 ## 13. IFS - Senior Product Manager, Copperleaf
 
@@ -400,12 +399,12 @@ Copperleaf’s mission—help asset-intensive organisations make defensible capi
 - First heard about IFS: **LinkedIn**.
 - “Other/referral” detail: **Hidden / blank**.
 - How heard about opening: **LinkedIn**.
-- Ever worked at IFS: **No - assumption; confirm**.
+- Ever worked at IFS: **No - candidate-confirmed**.
 - IFS employment dates: **Hidden when No is selected**.
 - U.S. authorization: **Yes**.
 - U.S. sponsorship: **No**.
 - Jobs in last five years: **3 - Microsoft, Rakuten, AWS**.
-- Currently work for an IFS customer: **No - assumption; confirm**.
+- Currently work for an IFS customer: **No - candidate-confirmed**.
 - Gender **Male**; Hispanic/Latino **No**; race **4 - Asian**.
 - Veteran selection: **I am not a protected veteran**.
 - Disability: **Yes, I have or previously had a disability**.
@@ -426,7 +425,7 @@ Renesas’s EMEA mandate requires more than communications: it needs a regional 
 
 ### Live screening answers
 
-- Authorized to work in Sweden: **No - assumption based on no documented Swedish/EU work rights; confirm**.
+- Authorized to work in Sweden: **Yes - candidate-confirmed; no sponsorship required**.
 - Gender: **Male**.
 
 ## 15. Freshworks - Staff Product Manager
@@ -448,12 +447,12 @@ The Staff PM role is compelling because it rewards principal-level influence wit
 ### Live screening answers
 
 - Relevant experience: **9+ years**.
-- Last CTC: **Confirm - enter actual compensation**.
-- Last RSU: **Confirm - enter actual equity/RSU value or `0` only if true**.
+- Last CTC: **Prefer not to disclose; if mandatory, enter the actual compensation**.
+- Last RSU: **Prefer not to disclose; if mandatory, enter the actual equity/RSU value**.
 - Nationality: **Indian**.
 - Citizenship: **Indian**.
 - Valid Indian work permit: **Yes, as an Indian citizen**.
-- Previously employed by Freshworks: **No - assumption; confirm**.
+- Previously employed by Freshworks: **No - candidate-confirmed**.
 - Gender: **Male**.
 
 ## 16. IFS - Outbound Product Manager / Demo Architect, IFS Loops
@@ -479,8 +478,8 @@ I combine technical platform depth with field and commercial judgment. At AWS, I
 - First heard about IFS: **LinkedIn**; referral detail hidden/blank.
 - Annual salary expectation: **INR 75-90 lakh fixed plus variable, negotiable - estimate**.
 - Notice period: **Two weeks / 15 days**.
-- Proficient business languages: **English (Fluent), Hindi (Native), French (Intermediate) - estimates; confirm**.
-- Ever worked at IFS: **No - assumption; confirm**; dates hidden when No is selected.
+- Proficient business languages: **English (Fluent/C1), Hindi (Native), French (Intermediate/B2)** - candidate-confirmed.
+- Ever worked at IFS: **No - candidate-confirmed**; dates hidden when No is selected.
 - Gender: **Male**.
 - Critical fit note: the posting requires native-level Japanese and business-level English. Japanese is not supported by the supplied materials. Apply only if the candidate can truthfully add native-level Japanese.
 
@@ -500,18 +499,18 @@ NBCUniversal’s Design Program Manager role is compelling because world-class s
 ### Live screening answers
 
 - U.S. authorization **Yes**; sponsorship **No**.
-- Deloitte employment **No - assumption; confirm**.
+- Deloitte employment **No - candidate-confirmed**.
 - Current NBCU/Comcast/Sky/UDE employee: **No, I am not a current employee**.
-- Former NBCU Intern/Page: **No - assumption; confirm**.
+- Former NBCU Intern/Page: **No - candidate-confirmed**.
 - Total compensation: **$176,000-$200,000/year**.
 - Relocate: **Yes**.
-- Languages: **English - Fluent; Hindi - Native; French - Intermediate**, confirm levels.
-- Work samples: **Yes**; portfolio URL **ResearchGate**; login **N/A**; attachment optional.
-- Accuracy/no-conflicting-obligation checkbox: **Confirm only if true**.
+- Languages: **English - Fluent (C1); Hindi - Native; French - Intermediate (B2)** - candidate-confirmed.
+- Work samples: **No - candidate-confirmed**; portfolio URL/login/attachment fields remain blank.
+- Accuracy/no-conflicting-obligation checkbox: **Yes - candidate-confirmed**.
 - Sex **Male**; gender **Man**; race **Asian**; Hispanic/Latino **No**.
-- Protected veteran **No**; service **No**; military spouse **No - assumption; confirm**.
+- Protected veteran **No**; service **No**; military spouse **No** - candidate-confirmed.
 - Disability **Yes**.
-- Fit note: the posting asks for 3-5 years and the candidate is substantially more senior. Confirm level and scope are intentional.
+- Fit note: the posting asks for 3-5 years and the candidate is substantially more senior. The candidate confirmed that the level and scope are intentional.
 
 ## 18. Mirantis - Technical Product Manager, AI Cloud Networking
 
@@ -550,9 +549,9 @@ QAD’s Persona Agent platform addresses the product problem I am working on tod
 - Pune status: **Open to relocate to Pune**.
 - Main technical skills: **Agentic AI product strategy; Amazon Bedrock; RAG; prompt/model selection; guardrails; evaluation and human-in-the-loop systems; responsible AI; enterprise data platforms; SQL; APIs; telemetry; roadmap prioritisation; field-to-product discovery; Agile delivery**.
 - Notice: **15 days**.
-- Current salary fixed/variable: **Confirm - enter actual AWS compensation**.
+- Current salary fixed/variable: **Prefer not to disclose; if mandatory, enter actual AWS compensation**.
 - Expected salary: **INR 80 lakh-1.0 crore fixed plus variable, negotiable - estimate**.
-- Market offers/start date: **No - assumption; confirm**.
+- Market offers/start date: **No active offers; available two weeks after accepting an offer - candidate-confirmed**.
 
 ## 20. QAD, Inc. - Senior Product Marketing Manager
 
@@ -573,9 +572,9 @@ QAD has a differentiated manufacturing-AI story: the winning layer is not a gene
 - Pune status: **Open to relocate to Pune**.
 - Main technical skills: **Enterprise AI and SaaS positioning; agentic AI/RAG/guardrails; technical-to-business messaging; pricing and packaging; GTM strategy; buyer and competitor intelligence; sales enablement; customer evidence; attribution and pipeline analytics; cloud/data platforms**.
 - Notice: **15 days**.
-- Current salary fixed/variable: **Confirm - enter actual AWS compensation**.
+- Current salary fixed/variable: **Prefer not to disclose; if mandatory, enter actual AWS compensation**.
 - Expected salary: **INR 65-80 lakh fixed plus variable, negotiable - estimate**.
-- Market offers/start date: **No - assumption; confirm**.
+- Market offers/start date: **No active offers; available two weeks after accepting an offer - candidate-confirmed**.
 
 ## 21. Canva - Creative Strategist, Growth Marketing, Milan
 
@@ -591,17 +590,17 @@ I am energised by Canva’s belief that creative quality is a growth lever that 
 ### Live screening answers
 
 - Preferred name **Shiv**; pronouns **They/them**.
-- Canva status: **Never employed or contracted by Canva - assumption; confirm**.
+- Canva status: **Never employed or contracted by Canva - candidate-confirmed**.
 - Reside in Italy: **No**.
-- Italian working rights: **No - assumption; confirm**.
-- Visa type/expiry: **N/A - no current Italian visa documented**.
+- Italian working rights: **Yes - candidate-confirmed; no sponsorship required**.
+- Visa type/expiry: **N/A - no sponsorship or visa support required**.
 - Expected hourly rate: **EUR 55/hour, negotiable - estimate**.
 - Availability: **40 hours/week**.
 - Notice: **1-2 weeks**.
-- English: **Fluent - estimate; confirm**.
-- Languages: **English - Fluent; Hindi - Native; French - Intermediate**; confirm levels.
+- English: **Fluent (C1) - candidate-confirmed**.
+- Languages: **English - Fluent (C1); Hindi - Native; French - Intermediate (B2)** - candidate-confirmed.
 - Portfolio **Yes**; use ResearchGate URL.
-- Adjustments: **No accommodation requested at this stage**, if accurate.
+- Adjustments: **No accommodation requested at this stage - candidate-confirmed**.
 - Gender **Man**.
 - Critical fit note: fluent Italian and deep Italian-market knowledge are explicit requirements and are not supported by the supplied materials. Do not claim them unless true.
 
@@ -621,16 +620,16 @@ NBCUniversal’s Salesforce Product Manager role is a chance to improve the oper
 ### Live screening answers
 
 - U.S. authorization **Yes**; sponsorship **No**.
-- Deloitte employment **No - assumption; confirm**.
+- Deloitte employment **No - candidate-confirmed**.
 - Current NBCU/Comcast/Sky/UDE employee: **No, I am not a current employee**.
-- Former NBCU Intern/Page: **No - assumption; confirm**.
+- Former NBCU Intern/Page: **No - candidate-confirmed**.
 - Total compensation: **$151,000-$175,000/year**.
 - Relocate: **Yes**.
-- Languages: **English - Fluent; Hindi - Native; French - Intermediate**, confirm levels.
-- Work samples **Yes**; portfolio **ResearchGate**; login **N/A**; attachment optional.
-- Accuracy/no-conflicting-obligation checkbox: **Confirm only if true**.
+- Languages: **English - Fluent (C1); Hindi - Native; French - Intermediate (B2)** - candidate-confirmed.
+- Work samples: **No - candidate-confirmed**; portfolio URL/login/attachment fields remain blank.
+- Accuracy/no-conflicting-obligation checkbox: **Yes - candidate-confirmed**.
 - Sex **Male**; gender **Man**; race **Asian**; Hispanic/Latino **No**.
-- Protected veteran **No**; service **No**; military spouse **No - assumption; confirm**; disability **Yes**.
+- Protected veteran **No**; service **No**; military spouse **No**; disability **Yes** - candidate-confirmed.
 - Critical fit note: the posting asks for 5+ years of hands-on Salesforce platform experience. The résumé establishes adjacent enterprise workflow, CRM, API, and marketing-operations work but does not prove five years of hands-on Salesforce. Add verified Salesforce tenure/certifications only if accurate.
 
 ## 23. Ubisoft - Product Manager, HR Data Platform
@@ -646,14 +645,14 @@ Ubisoft’s HR Data Platform mandate brings together product strategy, governed 
 
 ### Application-state note and likely re-open fields
 
-The live posting no longer exposes an “I’m interested” link, so its current screening schema cannot be verified. If it reopens, re-audit before applying. Based on the other live Ubisoft Paris form—not treated as guaranteed—prepare to answer French level, English level, France work authorization, office-based availability, Ubisoft AI-use acknowledgement, gender identity, and optional gender-analytics consent. Suggested provisional answers: **French B2 - estimate/confirm; English C1; French work authorization must be obtained; office-based Yes; gender Man**.
+The live posting no longer exposes an “I’m interested” link, so its current screening schema cannot be verified. If it reopens, re-audit before applying. Based on the other live Ubisoft Paris form—not treated as guaranteed—prepare to answer French level, English level, France work authorization, office-based availability, Ubisoft AI-use acknowledgement, gender identity, and optional gender-analytics consent. Candidate-confirmed answers: **French B2; English C1; authorized to work in France with no sponsorship required; office-based Yes; gender Man**.
 
 ## Final pre-submission checklist
 
 1. Keep the 23 email addresses exactly as listed; do not consolidate or “correct” them.
-2. Replace every **Confirm** item with a verified factual answer before submission.
-3. Confirm current compensation, RSUs, market offers, military-spouse status, prior-company history, and restrictive obligations directly with the candidate.
-4. Do not claim Japanese, Italian, specialist AI-networking protocols, five years of hands-on Salesforce, gaming experience, or foreign work rights unless independently true.
+2. Use **Prefer not to disclose** for current compensation or RSUs when the form permits it; otherwise enter the actual numeric values.
+3. Preserve the candidate-confirmed answers for market offers, military status, prior-company history, language proficiency, and worldwide work authorization.
+4. Do not claim Japanese or Italian proficiency, specialist AI-networking protocols, five years of hands-on Salesforce, or gaming experience; the candidate confirmed that these are not established.
 5. Keep résumé metrics exactly as supported: `$5M` funding, `$20M+` commitments, `$122M` pipeline, `25%` adoption, `2.8%` hallucinations, `15%` session-depth lift, `$50M` GMV, `4.1x` ROI, `34%-67%` D30 retention, `0.8-4.5` LTV:CAC, `90ms-4.2ms` latency, and `1M-5.4M` messages/sec.
 6. Read each privacy notice and legal/AI-use declaration before checking it.
 7. Recheck application 23 immediately before any future submission because the current form is closed.
