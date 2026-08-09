@@ -121,6 +121,7 @@ def fill_ashby_target(
     answers: dict[str, str],
     command_timeout: float = 6.0,
     render_timeout: float = 10.0,
+    navigate: bool = True,
 ) -> FillResult:
     resume = resume.resolve(strict=True)
     application_url = _application_url(url)
@@ -132,7 +133,8 @@ def fill_ashby_target(
         cdp.call("Runtime.enable")
         cdp.call("Page.enable")
         cdp.call("DOM.enable")
-        cdp.call("Page.navigate", {"url": application_url})
+        if navigate:
+            cdp.call("Page.navigate", {"url": application_url})
         _wait_for_form(cdp, render_timeout)
 
         payload = json.dumps({"values": values, "answers": answers})
@@ -249,7 +251,8 @@ def fill_ashby_target(
                   '.ashby-application-form-question-title, label, legend'
                 );
                 const label = normalize(heading?.textContent || container?.innerText?.split('\n')[0]);
-                return label === 'resume' || label.startsWith('resume ');
+                return label === 'resume' || label.startsWith('resume ') || label.includes('resume')
+                  || label === 'cv' || label.startsWith('cv ') || label.includes('resume/cv');
               });
               if (!candidates.length) return false;
               candidates[0].setAttribute('data-ashby-raw-resume-target', 'true');
