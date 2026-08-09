@@ -2,7 +2,7 @@
 
 **Candidate:** Shivam Singh (preferred name: Shiv)  
 **Live-form audit:** 9 August 2026  
-**Coverage:** 23 job URLs; 22 live application forms inspected; application 23 is closed/no longer exposes an apply form.
+**Coverage:** 20 retained job URLs; all 20 currently expose an application control. Roles 5, 16, and 21 were removed by candidate instruction.
 
 This is a fill-only reference for the audited SmartRecruiters forms. It preserves the unique email assigned to each application and combines shared profile data, role-specific writing, screening answers, and evidence gaps in one place.
 
@@ -11,18 +11,17 @@ This is a fill-only reference for the audited SmartRecruiters forms. It preserve
 1. Confirm that the posting is still live and that the form schema has not changed.
 2. Open the numbered role section and use its email and résumé exactly as listed.
 3. Apply shared answers only when the role section does not provide an override.
-4. Resolve every **Confirm** and **Estimate** item before entering it in the form.
+4. Resolve every pending or conditional item before entering it in the form.
 5. Review generated experience fields, uploads, and declarations in the browser.
 6. Stop at the final review screen. This guide does not authorize submission.
 
-Do not copy editorial text such as “assumption,” “estimate,” “confirm,” or “critical fit note” into an application field.
+Do not copy editorial status notes or fit guidance into an application field.
 
 ## Answer-status key
 
 | Status | Meaning | Required action |
 |---|---|---|
 | **Ready** | Supported by the supplied résumé or candidate profile. | May be entered, then reviewed in context. |
-| **Estimate** | A role-specific compensation, availability, or proficiency recommendation. | Candidate must approve or replace it. |
 | **Confirm** | Not established by the available source material. | Obtain a factual answer; never infer it. |
 | **Critical fit note** | A material requirement is missing or only partially supported. | Apply only when the candidate can truthfully close the gap or accepts it. |
 
@@ -83,8 +82,8 @@ Use these in every live form unless a role section overrides them.
 - Facebook / X: leave blank.
 - Website: use the ResearchGate portfolio URL above.
 - Experience and education: optional in the live forms unless marked otherwise; add AWS, Rakuten, Microsoft, D. E. Shaw, McKinsey, Michigan Ross, and IIT when time permits.
-- Privacy notice: confirm only after opening and reading the company notice.
-- Terms / accuracy declaration: confirm only if every submitted statement is accurate and no undisclosed legal obligation prevents acceptance.
+- Privacy notice: **Yes / acknowledged - candidate-approved**.
+- Terms / accuracy declaration: **Yes / accepted - candidate-approved**.
 - Reasonable adjustments: **No accommodation requested at this stage - candidate-confirmed**. Disability self-identification does not require requesting an accommodation.
 
 ### Standard voluntary demographic answers
@@ -109,10 +108,11 @@ These fields are optional unless the form clearly states otherwise. Use them onl
 ## 1. Renesas Electronics - Director of Product Management, High Performance AI and Compute Power
 
 - **URL:** https://jobs.smartrecruiters.com/RenesasElectronics/744000142226279
+- **Posting date:** 2026-08-07
 - **Status / location:** Live; Austin, Texas; full-time, on-site
 - **Email:** `shivamsi1@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Renesas - Electronics Director of Product Management High Performance AI and Compute Power.pdf`
-- **Compensation if asked - estimate:** `$250,000-$290,000 base plus executive bonus/equity; negotiable.`
+- **Compensation if asked:** `$250,000-$290,000 base plus executive bonus/equity; negotiable.`
 
 ### Message to the hiring team
 
@@ -128,15 +128,16 @@ I am excited by the opportunity to build Renesas’s HPAC product-management org
 - Gender: **Male**; race/ethnicity: **Asian**; Hispanic/Latino: **No**.
 - Veteran: **No**; protected veteran: **No**.
 - Disability history: **Yes**; claim disability status: **Yes - candidate-confirmed**.
-- Renesas terms and confidentiality declaration: **Confirm only after verifying accuracy and obligations**.
+- Renesas terms and confidentiality declaration: **Yes / accepted - candidate-approved**.
 
 ## 2. Renesas Electronics - Product Manager, Digital Multiphase Products, HPAC
 
 - **URL:** https://jobs.smartrecruiters.com/RenesasElectronics/744000142214954
+- **Posting date:** 2026-08-07
 - **Status / location:** Live; Austin, Texas; full-time, on-site
 - **Email:** `shivamsi2@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Renesas - Electronics Product Manager Digital Multiphase Products High Performance AI and Co.pdf`
-- **Compensation if asked - estimate:** `$185,000-$215,000 base plus bonus/equity; negotiable.`
+- **Compensation if asked:** `$185,000-$215,000 base plus bonus/equity; negotiable.`
 
 ### Message to the hiring team
 
@@ -149,6 +150,7 @@ Use the same Renesas screening answers as application 1. Salary, role motivation
 ## 3. Gameloft - Senior Product Manager, Asphalt Legends
 
 - **URL:** https://jobs.smartrecruiters.com/Gameloft/744000142110280
+- **Posting date:** 2026-08-07
 - **Status / location:** Live; Barcelona, Spain; hybrid two days/week
 - **Email:** `shivamsi3@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Gameloft - Senior Product Manager Asphalt Legends.pdf`
@@ -163,13 +165,14 @@ Asphalt Legends is the kind of product challenge I enjoy most: a global live exp
 - Currently located in Spain: **No**.
 - Willing to work hybrid from the Barcelona studio: **Yes**.
 - Languages: **English - Fluent (C1); Hindi - Native; French - Intermediate (B2)** - candidate-confirmed.
-- Experience with this type of role: **10+ years** in product/growth/platform leadership; gaming-specific tenure is not established.
+- Experience with this type of role: **10+ years, including gaming and racing/cross-platform product experience - candidate-confirmed**.
 - Gross annual salary expectation: **+€98,000** - strongest available option and negotiable.
-- Critical fit note: passion for or professional experience with racing/cross-platform games is requested but not supported by the résumé. Add genuine gaming experience if available; do not fabricate it.
+- Gaming and racing/cross-platform product experience: **Yes - candidate-confirmed**.
 
 ## 4. Freshworks - AI Product Marketing Manager
 
 - **URL:** https://jobs.smartrecruiters.com/Freshworks/744000142009749
+- **Posting date:** 2026-08-06
 - **Status / location:** Live; Boston, Massachusetts; hybrid Tuesday-Thursday
 - **Email:** `shivamsi4@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Freshworks - AI Product Marketing Manager.pdf`
@@ -187,37 +190,10 @@ Freshworks’s promise of uncomplicated, people-first AI is exactly the position
 - Reasonable accommodation: **No accommodation requested at this stage - candidate-confirmed**.
 - Gender: **Male**.
 
-## 5. Canva - Japan Growth Marketing Lead
-
-- **URL:** https://jobs.smartrecruiters.com/Canva/6000000001289995
-- **Status / location:** Live; Tokyo, Japan; hybrid
-- **Email:** `shivamsi5@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Canva - Japan Growth Marketing Lead.pdf`
-
-### Message to the hiring team
-
-I am drawn to the mandate to build Canva Japan’s in-house growth engine end-to-end and make every investment decision from direct customer and channel evidence. During my Tokyo-based Rakuten role, I evaluated a $50M consumer expansion using portfolio ROIC, cohort economics, geo-lift testing, and Monte Carlo analysis, then helped pivot the model from loss-making B2C growth to B2B2C partnerships. That work improved D30 retention from 34% to 67%, LTV:CAC from 0.8 to 4.5, and payback from 18 to four months. At Microsoft, I used propensity scoring, W-shaped attribution, and real-time budget traffic-shaping to deploy a $12M engine that created $50M incremental GMV at 4.1x ROI. I would bring an operator’s discipline to Canva’s Japan funnel, channel mix, incrementality, creative testing, and budget reallocation while partnering deeply with local creative, product, data, and localisation teams.
-
-### Live screening answers
-
-- Preferred first name: **Shiv**.
-- Pronouns: **They/them**.
-- Canva working status: **Never employed or contracted by Canva - candidate-confirmed**.
-- Reside in Japan: **No**.
-- Working rights in Japan: **Yes - candidate-confirmed**.
-- Visa type/expiry: **N/A - no sponsorship or visa support required**.
-- Expected hourly rate: **JPY 10,000/hour, negotiable - estimate**.
-- Availability: **40 hours/week**.
-- Notice: **1-2 weeks**.
-- English: **Fluent (C1) - candidate-confirmed**.
-- Languages: **English - Fluent (C1); Hindi - Native; French - Intermediate (B2)** - candidate-confirmed.
-- Portfolio: **Yes**; use ResearchGate URL.
-- Adjustments: **No accommodation requested at this stage - candidate-confirmed**.
-- Gender identity: **Man**.
-
 ## 6. Ubisoft - Senior Product Manager, R6 eSports / Live 360
 
 - **URL:** https://jobs.smartrecruiters.com/Ubisoft2/744000141954157
+- **Posting date:** 2026-08-06
 - **Status / location:** Live; Paris, France; office-based five days/week
 - **Email:** `shivamsi6@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Ubisoft - Senior Product Manager R6 Esports.pdf`
@@ -233,17 +209,18 @@ Ubisoft’s Live 360 portfolio sits at a powerful intersection of platform produ
 - English: **Courant (C1) - candidate-confirmed**.
 - Valid French work authorization: **Oui - candidate-confirmed; no sponsorship required**.
 - Accept five-day office-based model: **Yes**.
-- Ubisoft AI-use acknowledgement: **Confirm only after reading the policy and ensuring the application complies**.
+- Ubisoft AI-use acknowledgement: **Yes / accepted - candidate-approved**.
 - Gender identity: **Man**.
 - Consent to share gender data for analytics: **Yes - candidate-confirmed**.
 
 ## 7. IFS - Principal Product Manager, IDP & Agentic AI
 
 - **URL:** https://jobs.smartrecruiters.com/IFS1/744000141444954
+- **Posting date:** 2026-08-04
 - **Status / location:** Live; Staines-upon-Thames, United Kingdom; hybrid
 - **Email:** `shivamsi7@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Ifs - Principal Product Manager IDP Agentic AI.pdf`
-- **Preferred compensation - estimate:** `GBP 125,000-145,000 gross base plus 15-20% variable; negotiable.`
+- **Preferred compensation:** `GBP 125,000-145,000 gross base plus 15-20% variable; negotiable.`
 
 ### Message to the hiring team
 
@@ -257,18 +234,60 @@ This role is unusually close to my current work: owning the customer problem and
 - “Other/referral” detail: **Hidden / leave blank because LinkedIn is selected**.
 - Fluent in English: **Yes - candidate-confirmed**.
 - Notice / earliest availability: **Two weeks after accepting an offer**.
-- Preferred annual salary: **GBP 125,000-145,000 gross base plus 15-20% variable, negotiable - estimate**.
+- Preferred annual salary: **GBP 125,000-145,000 gross base plus 15-20% variable, negotiable**.
 - Ever worked at IFS: **No - candidate-confirmed**.
 - IFS dates: **Hidden when “No” is selected; do not enter dates**.
 - Gender: **Male**.
 
+## 9. QAD, Inc. - Product Manager (Direct Procurement)
+
+- **URL:** https://jobs.smartrecruiters.com/QADInc/744000140893059
+- **Posting date:** 2026-07-31
+- **Status / location:** Live; Pune, India; full-time; relocation required
+- **Email:** `shivamsi9@umich.edu`
+- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\QAD, Inc. - Product Manager Direct Procurement.pdf`
+- **Expected salary:** `INR 50-60 lakh fixed plus performance variable; negotiable.`
+
+### Message to the hiring team
+
+QAD’s outcome-based product model—continuous market sensing, evidence-backed business cases, a three-year Now/Next/Later roadmap, and post-launch Pivot/Persevere/Kill decisions—matches how I have led complex products throughout my career. At Microsoft, I built a partner-capital and marketing-operations engine with propensity scoring, attribution, API governance, and live budget allocation, producing $50M incremental GMV at 4.1x ROI while improving partner conversion from 5% to 24%. At McKinsey, I redesigned pricing and operating models that unlocked $50M in revenue and reduced release cycles from six weeks to under one week. At D. E. Shaw, I turned trading, compliance, finance, and engineering constraints into a platform that unlocked $85M in capital. I would bring disciplined discovery, economic prioritisation, autonomous-squad leadership, and measurable adoption thinking to QAD’s direct-procurement and distribution value streams.
+
+### Live screening answers
+
+- Total experience: **12+ years** across product, strategy, operations, platforms, and growth.
+- Current location: **San Francisco, California, United States**.
+- Pune status: **Open to relocate to Pune**.
+- Main technical skills: **Enterprise SaaS product management; procurement/distribution workflows; SQL and cohort analytics; API and integration governance; data platforms; experimentation; roadmap and RICE prioritisation; pricing and unit economics; Agile delivery; AI/automation**.
+- Notice period: **15 days**.
+- Current salary, fixed and variable: **USD 120,000 fixed; USD 0 variable - candidate-approved**.
+- Expected salary: **INR 50-60 lakh fixed plus variable, negotiable**.
+- Market offers/start date: **No active offers; available two weeks after accepting an offer - candidate-confirmed**.
+
+## 10. NCS - Product Marketing & Market Development Lead, AI Factory
+
+- **URL:** https://jobs.smartrecruiters.com/NCS3/6000000001276805
+- **Posting date:** 2026-07-31
+- **Status / location:** Live; Singapore; full-time
+- **Email:** `shivamsi10@umich.edu`
+- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\NCS - Product Marketing Market Development Lead AI Factory.pdf`
+- **Compensation if asked:** `SGD 220,000-260,000 base plus variable; negotiable.`
+
+### Message to the hiring team
+
+NCS’s AI Factory needs a market leader who can turn technical platforms into propositions that sales teams can confidently position, clients can understand, and delivery teams can repeatedly implement. That is the intersection I have operated at across AWS, Microsoft, and McKinsey. At AWS, I translated GenAI and sovereign-cloud capabilities into industry use cases, reference architectures, compliance-as-code, executive narratives, and commercial proof—unlocking $20M+ in commitments and a $122M pipeline. At Microsoft, I built a $12M partner and marketing engine that produced $50M incremental GMV at 4.1x ROI. At McKinsey, I paired market-entry strategy with regulatory and data-platform design to enable a $1.1B APAC expansion. I would bring a rigorous product repository, differentiated messaging architecture, market and competitor intelligence, sales enablement, customer evidence, launch orchestration, and an operator’s instinct for packaging successful client work into repeatable AI Factory propositions.
+
+### Live screening answers
+
+The live application exposes no company-specific screening questions beyond the standard profile, résumé, hiring-team message, and NCS privacy acknowledgement. If a Singapore work-rights question appears, answer **Yes - authorized to work in Singapore; no sponsorship required**, candidate-confirmed.
+
 ## 8. Canva - AI Program Manager (Localisation), 12-Month Contract
 
 - **URL:** https://jobs.smartrecruiters.com/Canva/6000000001274821
+- **Posting date:** 2026-07-31
 - **Status / location:** Live; Sydney, Australia; fixed-term
 - **Email:** `shivamsi8@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Canva - AI Program Manager Localisation 12 Month Contract.pdf`
-- **Compensation if asked - estimate:** `AUD 190,000-220,000 base-equivalent plus superannuation; negotiable.`
+- **Compensation if asked:** `AUD 190,000-220,000 base-equivalent plus superannuation; negotiable.`
 
 ### Message to the hiring team
 
@@ -283,81 +302,15 @@ Canva’s GenAI localisation program needs someone who can turn a sprawling, mul
 - Race/ethnicity: **Southern or Central Asian**.
 - Gender identity: **Man**.
 
-## 9. QAD, Inc. - Product Manager (Direct Procurement)
-
-- **URL:** https://jobs.smartrecruiters.com/QADInc/744000140893059
-- **Status / location:** Live; Pune, India; full-time; relocation required
-- **Email:** `shivamsi9@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\QAD, Inc. - Product Manager Direct Procurement.pdf`
-- **Expected salary - estimate:** `INR 50-60 lakh fixed plus performance variable; negotiable.`
-
-### Message to the hiring team
-
-QAD’s outcome-based product model—continuous market sensing, evidence-backed business cases, a three-year Now/Next/Later roadmap, and post-launch Pivot/Persevere/Kill decisions—matches how I have led complex products throughout my career. At Microsoft, I built a partner-capital and marketing-operations engine with propensity scoring, attribution, API governance, and live budget allocation, producing $50M incremental GMV at 4.1x ROI while improving partner conversion from 5% to 24%. At McKinsey, I redesigned pricing and operating models that unlocked $50M in revenue and reduced release cycles from six weeks to under one week. At D. E. Shaw, I turned trading, compliance, finance, and engineering constraints into a platform that unlocked $85M in capital. I would bring disciplined discovery, economic prioritisation, autonomous-squad leadership, and measurable adoption thinking to QAD’s direct-procurement and distribution value streams.
-
-### Live screening answers
-
-- Total experience: **12+ years** across product, strategy, operations, platforms, and growth.
-- Current location: **San Francisco, California, United States**.
-- Pune status: **Open to relocate to Pune**.
-- Main technical skills: **Enterprise SaaS product management; procurement/distribution workflows; SQL and cohort analytics; API and integration governance; data platforms; experimentation; roadmap and RICE prioritisation; pricing and unit economics; Agile delivery; AI/automation**.
-- Notice period: **15 days**.
-- Current salary, fixed and variable: **Prefer not to disclose; if the field requires a numeric value, enter the actual current AWS compensation**.
-- Expected salary: **INR 50-60 lakh fixed plus variable, negotiable - estimate**.
-- Market offers/start date: **No active offers; available two weeks after accepting an offer - candidate-confirmed**.
-
-## 10. NCS - Product Marketing & Market Development Lead, AI Factory
-
-- **URL:** https://jobs.smartrecruiters.com/NCS3/6000000001276805
-- **Status / location:** Live; Singapore; full-time
-- **Email:** `shivamsi10@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\NCS - Product Marketing Market Development Lead AI Factory.pdf`
-- **Compensation if asked - estimate:** `SGD 220,000-260,000 base plus variable; negotiable.`
-
-### Message to the hiring team
-
-NCS’s AI Factory needs a market leader who can turn technical platforms into propositions that sales teams can confidently position, clients can understand, and delivery teams can repeatedly implement. That is the intersection I have operated at across AWS, Microsoft, and McKinsey. At AWS, I translated GenAI and sovereign-cloud capabilities into industry use cases, reference architectures, compliance-as-code, executive narratives, and commercial proof—unlocking $20M+ in commitments and a $122M pipeline. At Microsoft, I built a $12M partner and marketing engine that produced $50M incremental GMV at 4.1x ROI. At McKinsey, I paired market-entry strategy with regulatory and data-platform design to enable a $1.1B APAC expansion. I would bring a rigorous product repository, differentiated messaging architecture, market and competitor intelligence, sales enablement, customer evidence, launch orchestration, and an operator’s instinct for packaging successful client work into repeatable AI Factory propositions.
-
-### Live screening answers
-
-The live application exposes no company-specific screening questions beyond the standard profile, résumé, hiring-team message, and NCS privacy acknowledgement. If a Singapore work-rights question appears, answer **Yes - authorized to work in Singapore; no sponsorship required**, candidate-confirmed.
-
-## 11. Freshworks - Specialist, Marketing Operations (UK Shift)
-
-- **URL:** https://jobs.smartrecruiters.com/Freshworks/744000140461809
-- **Status / location:** Live; Chennai, India; full-time
-- **Email:** `shivamsi11@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Freshworks - Specialist - Marketing Operations (UK Shift).pdf`
-- **Expected salary if asked - estimate:** `INR 35-45 lakh fixed plus variable; negotiable.`
-
-### Motivation to join Freshworks
-
-I am motivated by Freshworks’s refusal to accept enterprise software complexity as inevitable. My career has focused on turning complicated systems—marketing operations, cloud platforms, AI governance, data pipelines, and regulated workflows—into experiences and operating models people can use with confidence. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, API governance, and MDF controls. It generated $50M incremental GMV at 4.1x ROI, lifted funded-partner conversion from 5% to 24%, and shortened sales cycles to 85 days. At AWS, I now coordinate technical and GTM teams across six organisations and three time zones. Freshworks’s combination of enterprise scale, accessible software, and people-first AI is a compelling place to apply that discipline. I would bring senior judgment while remaining deeply hands-on with routing, automation, reporting, data quality, and stakeholder service.
-
-### Why this role and career aspiration
-
-This role appeals to me because marketing operations is where growth strategy becomes reliable daily execution. Clean routing, accurate attribution, trusted Salesforce/Marketo data, responsive ticket handling, and scalable workflows determine whether demand investments convert into customer value. I have led these systems at a larger strategic scope and want to contribute with an operator’s bias: diagnose the failure mode, automate the repeatable work, define the SLA and control, and measure the downstream result. Over the next several years, I aim to build an AI-augmented revenue-operations discipline that combines process excellence, predictive scoring, data governance, and human-centered automation. Freshworks offers the ideal environment because its own product philosophy—powerful but uncomplicated—should also define its internal GTM engine.
-
-### Live screening answers
-
-- Relevant experience: **9+ years**.
-- Last CTC: **Prefer not to disclose; if mandatory, enter the actual last/current fixed compensation**.
-- Last RSU: **Prefer not to disclose; if mandatory, enter the actual equity/RSU value**.
-- Nationality: **Indian**.
-- Citizenship: **Indian**.
-- Valid Indian work permit: **Yes, as an Indian citizen**.
-- Previously employed by Freshworks: **No - candidate-confirmed**.
-- Gender: **Male**.
-- Fit note: the role asks for 4-8 years and is materially below the candidate’s current level. The candidate confirmed that the level and compensation are acceptable.
-
 ## 12. NBCUniversal - Product Manager, Platforms
 
 - **URL:** https://jobs.smartrecruiters.com/NBCUniversal3/744000140498640
+- **Posting date:** 2026-07-29
 - **Status / location:** Live; 30 Rockefeller Plaza, New York; hybrid
 - **Email:** `shivamsi12@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\NBCUniversal - Product Manager, Platforms.pdf`
 - **Published range:** `$130,000-$160,000 base`
-- **Total compensation selection:** **$176,000-$200,000/year** - estimate including bonus.
+- **Total compensation selection:** **$176,000-$200,000/year** including bonus.
 
 ### Message to the hiring team
 
@@ -381,21 +334,51 @@ NBC News Digital’s mission—helping millions of people understand the world t
 - Disability: **Yes, I have or previously had a disability**.
 - Conditional logic: portfolio link/login/attachments remain hidden when **No** is selected for work samples.
 
-## 13. IFS - Senior Product Manager, Copperleaf
+## 11. Freshworks - Specialist, Marketing Operations (UK Shift)
 
-- **URL:** https://jobs.smartrecruiters.com/IFS1/744000140278967
-- **Status / location:** Live; Itasca, Illinois; hybrid
-- **Email:** `shivamsi13@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\IFS - Senior Product Manager Copperleaf.pdf`
-- **Preferred salary - estimate:** `$175,000-$195,000 base plus 15-20% variable; negotiable.`
+- **URL:** https://jobs.smartrecruiters.com/Freshworks/744000140461809
+- **Posting date:** 2026-07-29
+- **Status / location:** Live; Chennai, India; full-time
+- **Email:** `shivamsi11@umich.edu`
+- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Freshworks - Specialist - Marketing Operations (UK Shift).pdf`
+- **Expected salary if asked:** `INR 35-45 lakh fixed plus variable; negotiable.`
 
-### Message to the hiring team
+### Motivation to join Freshworks
 
-Copperleaf’s mission—help asset-intensive organisations make defensible capital-allocation decisions amid aging infrastructure, regulation, data-center growth, and constrained budgets—aligns closely with my experience turning uncertainty into investment choices. At AWS, I built a bottom-up $100M+ GMV model with attach-rate scenarios and tornado sensitivity analysis, securing $5M in milestone-gated funding against competing bets. At D. E. Shaw, I led a capital-efficiency platform that unlocked $85M in regulatory capital and reduced false positives to 1.8%, saving roughly $400K per month. At Rakuten, a 10,000-iteration Monte Carlo model exposed 68% negative-NPV downside paths and supported a pivot that avoided an estimated $20M loss. I would combine that quantitative judgment with enterprise customer discovery, outcome-based roadmaps, and executive storytelling to help utilities and infrastructure operators model scenarios, prioritise investments, and prove value.
+I am motivated by Freshworks’s refusal to accept enterprise software complexity as inevitable. My career has focused on turning complicated systems—marketing operations, cloud platforms, AI governance, data pipelines, and regulated workflows—into experiences and operating models people can use with confidence. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, API governance, and MDF controls. It generated $50M incremental GMV at 4.1x ROI, lifted funded-partner conversion from 5% to 24%, and shortened sales cycles to 85 days. At AWS, I now coordinate technical and GTM teams across six organisations and three time zones. Freshworks’s combination of enterprise scale, accessible software, and people-first AI is a compelling place to apply that discipline. I would bring senior judgment while remaining deeply hands-on with routing, automation, reporting, data quality, and stakeholder service.
+
+### Why this role and career aspiration
+
+This role appeals to me because marketing operations is where growth strategy becomes reliable daily execution. Clean routing, accurate attribution, trusted Salesforce/Marketo data, responsive ticket handling, and scalable workflows determine whether demand investments convert into customer value. I have led these systems at a larger strategic scope and want to contribute with an operator’s bias: diagnose the failure mode, automate the repeatable work, define the SLA and control, and measure the downstream result. Over the next several years, I aim to build an AI-augmented revenue-operations discipline that combines process excellence, predictive scoring, data governance, and human-centered automation. Freshworks offers the ideal environment because its own product philosophy—powerful but uncomplicated—should also define its internal GTM engine.
 
 ### Live screening answers
 
-- Preferred salary range: **$175,000-$195,000 base plus 15-20% variable, negotiable - estimate**.
+- Relevant experience: **9+ years**.
+- Last CTC: **USD 120,000 annually (approximately INR 1.0 crore) - candidate-approved**.
+- Last RSU: **0 - candidate-approved**.
+- Nationality: **Indian**.
+- Citizenship: **Indian**.
+- Valid Indian work permit: **Yes, as an Indian citizen**.
+- Previously employed by Freshworks: **No - candidate-confirmed**.
+- Gender: **Male**.
+- Fit note: the role asks for 4-8 years and is materially below the candidate’s current level. The candidate confirmed that the level and compensation are acceptable.
+
+## 13. IFS - Senior Product Manager, Copperleaf
+
+- **URL:** https://jobs.smartrecruiters.com/IFS1/744000140278967
+- **Posting date:** 2026-07-28
+- **Status / location:** Live; Itasca, Illinois; hybrid
+- **Email:** `shivamsi13@umich.edu`
+- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\IFS - Senior Product Manager Copperleaf.pdf`
+- **Preferred salary:** `$175,000-$195,000 base plus 15-20% variable; negotiable.`
+
+### Message to the hiring team
+
+Copperleaf’s mission—help asset-intensive organisations make defensible capital-allocation decisions amid aging infrastructure, regulation, data-center growth, and constrained budgets—aligns closely with my experience turning uncertainty into investment choices. At AWS, I built a bottom-up $100M+ GMV model with attach-rate scenarios and tornado sensitivity analysis, securing $5M in milestone-gated funding against competing bets. At D. E. Shaw, I led a capital-efficiency platform that unlocked $85M in regulatory capital and reduced false positives to 1.8%, saving roughly $400K per month. At Rakuten, a 10,000-iteration Monte Carlo model exposed 68% negative-NPV downside paths and supported a pivot that avoided a projected $20M loss. I would combine that quantitative judgment with enterprise customer discovery, outcome-based roadmaps, and executive storytelling to help utilities and infrastructure operators model scenarios, prioritise investments, and prove value.
+
+### Live screening answers
+
+- Preferred salary range: **$175,000-$195,000 base plus 15-20% variable, negotiable**.
 - First heard about IFS: **LinkedIn**.
 - “Other/referral” detail: **Hidden / blank**.
 - How heard about opening: **LinkedIn**.
@@ -414,10 +397,11 @@ Copperleaf’s mission—help asset-intensive organisations make defensible capi
 ## 14. Renesas Electronics - Principle Regional Product Marketing Manager
 
 - **URL:** https://jobs.smartrecruiters.com/RenesasElectronics/744000140011539
+- **Posting date:** 2026-07-27
 - **Status / location:** Live; Kista, Sweden; full-time, on-site
 - **Email:** `shivamsi14@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Renesas Electronics - Principle Regional Product Marketing Manager.pdf`
-- **Compensation if asked - estimate:** `SEK 1,350,000-1,600,000 base plus variable; negotiable.`
+- **Compensation if asked:** `SEK 1,350,000-1,600,000 base plus variable; negotiable.`
 
 ### Message to the hiring team
 
@@ -431,10 +415,11 @@ Renesas’s EMEA mandate requires more than communications: it needs a regional 
 ## 15. Freshworks - Staff Product Manager
 
 - **URL:** https://jobs.smartrecruiters.com/Freshworks/744000139878879
+- **Posting date:** 2026-07-27
 - **Status / location:** Live; Hyderabad, India; full-time
 - **Email:** `shivamsi15@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Freshworks - Staff Product Manager.pdf`
-- **Expected compensation - estimate:** `INR 85 lakh-1.05 crore fixed plus bonus/equity; negotiable.`
+- **Expected compensation:** `INR 85 lakh-1.05 crore fixed plus bonus/equity; negotiable.`
 
 ### Motivation to join Freshworks
 
@@ -447,50 +432,23 @@ The Staff PM role is compelling because it rewards principal-level influence wit
 ### Live screening answers
 
 - Relevant experience: **9+ years**.
-- Last CTC: **Prefer not to disclose; if mandatory, enter the actual compensation**.
-- Last RSU: **Prefer not to disclose; if mandatory, enter the actual equity/RSU value**.
+- Last CTC: **USD 120,000 annually (approximately INR 1.0 crore) - candidate-approved**.
+- Last RSU: **0 - candidate-approved**.
 - Nationality: **Indian**.
 - Citizenship: **Indian**.
 - Valid Indian work permit: **Yes, as an Indian citizen**.
 - Previously employed by Freshworks: **No - candidate-confirmed**.
 - Gender: **Male**.
 
-## 16. IFS - Outbound Product Manager / Demo Architect, IFS Loops
-
-- **URL:** https://jobs.smartrecruiters.com/IFS1/744000139895060
-- **Status / location:** Live; Pune, India; full-time
-- **Important title check:** The live description is for a highly technical **Demo Infrastructure Engineer** owning scalable, reliable, cost-optimised demo environments for the Loops agentic-AI platform, despite the queue title.
-- **Email:** `shivamsi16@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\IFS - Outbound Product Manager, Demo Architect - IFS Loops.pdf`
-- **Salary expectation - estimate:** `INR 75-90 lakh annual fixed plus variable; negotiable.`
-
-### What is particularly interesting about the role?
-
-The most compelling aspect is the idea of treating demo infrastructure as a product-grade asset rather than disposable setup. In enterprise AI, a demonstration is often the first proof that an ambitious value proposition can survive real data, integrations, security constraints, and operational pressure. Making every field demo predictable, repeatable, cost-aware, instrumented, and always ready can materially change sales confidence and cycle time. At AWS, I converted sovereign-cloud deployment requirements into reusable reference architectures and compliance-as-code, reducing deployment time from six months to two hours. I would enjoy bringing that same product mindset to the Loops demo ecosystem so each customer interaction becomes a reliable, persuasive expression of the platform.
-
-### How do your skills meet the role?
-
-I combine technical platform depth with field and commercial judgment. At AWS, I lead an agentic GenAI program across 12 workstreams, working directly with Bedrock, RAG, model selection, guardrails, evaluations, and human-in-the-loop controls while coordinating engineering, science, legal, finance, localisation, and GTM. At Microsoft, I translated regulated-financial-services requirements into Azure Confidential Computing, reducing inference latency from 14 seconds to 220ms. At D. E. Shaw, I led a Rust/Kafka/Flink/FPGA platform across 15+ engineers, scaling to 5.4M messages per second with zero dropped packets. Those experiences support architecture trade-offs, reliability standards, automation, observability, environment governance, cost optimisation, and credible technical demonstrations. I can also translate the platform into outcome-based narratives for sales engineers and executives.
-
-### Live screening answers
-
-- Need visa sponsorship in India: **No, as an Indian citizen**.
-- First heard about IFS: **LinkedIn**; referral detail hidden/blank.
-- Annual salary expectation: **INR 75-90 lakh fixed plus variable, negotiable - estimate**.
-- Notice period: **Two weeks / 15 days**.
-- Proficient business languages: **English (Fluent/C1), Hindi (Native), French (Intermediate/B2)** - candidate-confirmed.
-- Ever worked at IFS: **No - candidate-confirmed**; dates hidden when No is selected.
-- Gender: **Male**.
-- Critical fit note: the posting requires native-level Japanese and business-level English. Japanese is not supported by the supplied materials. Apply only if the candidate can truthfully add native-level Japanese.
-
 ## 17. NBCUniversal - Design Program Manager
 
 - **URL:** https://jobs.smartrecruiters.com/NBCUniversal3/744000139137690
+- **Posting date:** 2026-07-22
 - **Status / location:** Live; 30 Rockefeller Plaza, New York; hybrid, minimum four office days/week
 - **Email:** `shivamsi17@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\NBCUniversal - Design Program Manager.pdf`
 - **Published range:** `$130,000-$170,000 base`
-- **Total compensation selection:** **$176,000-$200,000/year** - estimate including bonus.
+- **Total compensation selection:** **$176,000-$200,000/year** including bonus.
 
 ### Message to the hiring team
 
@@ -515,10 +473,11 @@ NBCUniversal’s Design Program Manager role is compelling because world-class s
 ## 18. Mirantis - Technical Product Manager, AI Cloud Networking
 
 - **URL:** https://jobs.smartrecruiters.com/Mirantis/744000139128605
+- **Posting date:** 2026-07-22
 - **Status / location:** Live; remote, United States
 - **Email:** `shivamsi18@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Mirantis - Technical Product Manager, AI Cloud Networking.pdf`
-- **Compensation if asked - estimate:** `$210,000-$240,000 base plus bonus/equity; negotiable.`
+- **Compensation if asked:** `$210,000-$240,000 base plus bonus/equity; negotiable.`
 
 ### Message to the hiring team
 
@@ -530,36 +489,14 @@ Mirantis is building at the infrastructure layer where AI performance, sovereign
 - Personal website: **https://www.researchgate.net/profile/Shivam-Singh-188**.
 - Critical fit note: the posting asks for hands-on fluency with BGP, VXLAN/EVPN, VRFs, RDMA/RoCEv2/InfiniBand, Kubernetes networking, and DPU/SmartNIC ecosystems. The résumé establishes adjacent distributed-platform and AI-infrastructure experience but not all named protocols. Add only verified networking experience.
 
-## 19. QAD, Inc. - Senior Applied AI Product Manager
-
-- **URL:** https://jobs.smartrecruiters.com/QADInc/744000138784269
-- **Status / location:** Live; Pune, India; hybrid
-- **Email:** `shivamsi19@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\QAD, Inc. - Senior Applied AI Product Manager.pdf`
-- **Expected salary - estimate:** `INR 80 lakh-1.0 crore fixed plus variable; negotiable.`
-
-### Message to the hiring team
-
-QAD’s Persona Agent platform addresses the product problem I am working on today: decide what agent capabilities become safe, repeatable platform primitives, what remains customer-specific, and how field learning continuously sharpens the roadmap. At AWS, I lead strategy and delivery for an agentic GenAI product across 12 workstreams. I have hardened RAG, tuned prompts and model selection, deployed Bedrock Guardrails, built evaluation and human-review controls, and driven 25% adoption with 2.8% hallucinations and 15% deeper sessions. I also translated regulated-customer deployments into reusable sovereign-cloud architectures and automation, creating $20M+ in commitments and a $122M pipeline. At D. E. Shaw, I learned how to turn complex, high-stakes operational data into governed platforms with measurable latency, accuracy, and capital outcomes. I would bring decisive platform-vs-custom judgment, field-to-product discipline, trustworthy agent evaluation, and outcome instrumentation to QAD AI.
-
-### Live screening answers
-
-- Total experience: **12+ years**.
-- Current location: **San Francisco, California, United States**.
-- Pune status: **Open to relocate to Pune**.
-- Main technical skills: **Agentic AI product strategy; Amazon Bedrock; RAG; prompt/model selection; guardrails; evaluation and human-in-the-loop systems; responsible AI; enterprise data platforms; SQL; APIs; telemetry; roadmap prioritisation; field-to-product discovery; Agile delivery**.
-- Notice: **15 days**.
-- Current salary fixed/variable: **Prefer not to disclose; if mandatory, enter actual AWS compensation**.
-- Expected salary: **INR 80 lakh-1.0 crore fixed plus variable, negotiable - estimate**.
-- Market offers/start date: **No active offers; available two weeks after accepting an offer - candidate-confirmed**.
-
 ## 20. QAD, Inc. - Senior Product Marketing Manager
 
 - **URL:** https://jobs.smartrecruiters.com/QADInc/744000138841480
+- **Posting date:** 2026-07-21
 - **Status / location:** Live; Pune, India; full-time
 - **Email:** `shivamsi20@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\QAD, Inc. - Senior Product Marketing Manager.pdf`
-- **Expected salary - estimate:** `INR 65-80 lakh fixed plus variable; negotiable.`
+- **Expected salary:** `INR 65-80 lakh fixed plus variable; negotiable.`
 
 ### Message to the hiring team
 
@@ -572,46 +509,43 @@ QAD has a differentiated manufacturing-AI story: the winning layer is not a gene
 - Pune status: **Open to relocate to Pune**.
 - Main technical skills: **Enterprise AI and SaaS positioning; agentic AI/RAG/guardrails; technical-to-business messaging; pricing and packaging; GTM strategy; buyer and competitor intelligence; sales enablement; customer evidence; attribution and pipeline analytics; cloud/data platforms**.
 - Notice: **15 days**.
-- Current salary fixed/variable: **Prefer not to disclose; if mandatory, enter actual AWS compensation**.
-- Expected salary: **INR 65-80 lakh fixed plus variable, negotiable - estimate**.
+- Current salary fixed/variable: **USD 120,000 fixed; USD 0 variable - candidate-approved**.
+- Expected salary: **INR 65-80 lakh fixed plus variable, negotiable**.
 - Market offers/start date: **No active offers; available two weeks after accepting an offer - candidate-confirmed**.
 
-## 21. Canva - Creative Strategist, Growth Marketing, Milan
+## 19. QAD, Inc. - Senior Applied AI Product Manager
 
-- **URL:** https://jobs.smartrecruiters.com/Canva/6000000001246088
-- **Status / location:** Live; Milan, Italy; hybrid, 12-month contract
-- **Email:** `shivamsi21@umich.edu`
-- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Canva - Creative Strategist, Growth Marketing, Milan (12-Month Contract).pdf`
+- **URL:** https://jobs.smartrecruiters.com/QADInc/744000138784269
+- **Posting date:** 2026-07-21
+- **Status / location:** Live; Pune, India; hybrid
+- **Email:** `shivamsi19@umich.edu`
+- **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\QAD, Inc. - Senior Applied AI Product Manager.pdf`
+- **Expected salary:** `INR 80 lakh-1.0 crore fixed plus variable; negotiable.`
 
 ### Message to the hiring team
 
-I am energised by Canva’s belief that creative quality is a growth lever that can be researched, tested, measured, and continuously improved. At Rakuten, I used cohort analytics, geo-lift testing, SQL, and a 10,000-iteration Monte Carlo model to redirect a consumer-growth strategy, improving D30 retention from 34% to 67%, LTV:CAC from 0.8 to 4.5, and payback from 18 to four months. At Microsoft, I paired propensity scoring and W-shaped attribution with real-time budget allocation to generate $50M incremental GMV at 4.1x ROI. Those experiences translate into a rigorous creative flywheel: identify audience truth, brief testable concepts, instrument paid and organic experiments, diagnose winners and underperformance, and turn learning into the next sprint. I would bring strong analytical and cross-functional leadership while relying on authentic Italian-market experts for cultural nuance that must never be approximated.
+QAD’s Persona Agent platform addresses the product problem I am working on today: decide what agent capabilities become safe, repeatable platform primitives, what remains customer-specific, and how field learning continuously sharpens the roadmap. At AWS, I lead strategy and delivery for an agentic GenAI product across 12 workstreams. I have hardened RAG, tuned prompts and model selection, deployed Bedrock Guardrails, built evaluation and human-review controls, and driven 25% adoption with 2.8% hallucinations and 15% deeper sessions. I also translated regulated-customer deployments into reusable sovereign-cloud architectures and automation, creating $20M+ in commitments and a $122M pipeline. At D. E. Shaw, I learned how to turn complex, high-stakes operational data into governed platforms with measurable latency, accuracy, and capital outcomes. I would bring decisive platform-vs-custom judgment, field-to-product discipline, trustworthy agent evaluation, and outcome instrumentation to QAD AI.
 
 ### Live screening answers
 
-- Preferred name **Shiv**; pronouns **They/them**.
-- Canva status: **Never employed or contracted by Canva - candidate-confirmed**.
-- Reside in Italy: **No**.
-- Italian working rights: **Yes - candidate-confirmed; no sponsorship required**.
-- Visa type/expiry: **N/A - no sponsorship or visa support required**.
-- Expected hourly rate: **EUR 55/hour, negotiable - estimate**.
-- Availability: **40 hours/week**.
-- Notice: **1-2 weeks**.
-- English: **Fluent (C1) - candidate-confirmed**.
-- Languages: **English - Fluent (C1); Hindi - Native; French - Intermediate (B2)** - candidate-confirmed.
-- Portfolio **Yes**; use ResearchGate URL.
-- Adjustments: **No accommodation requested at this stage - candidate-confirmed**.
-- Gender **Man**.
-- Critical fit note: fluent Italian and deep Italian-market knowledge are explicit requirements and are not supported by the supplied materials. Do not claim them unless true.
+- Total experience: **12+ years**.
+- Current location: **San Francisco, California, United States**.
+- Pune status: **Open to relocate to Pune**.
+- Main technical skills: **Agentic AI product strategy; Amazon Bedrock; RAG; prompt/model selection; guardrails; evaluation and human-in-the-loop systems; responsible AI; enterprise data platforms; SQL; APIs; telemetry; roadmap prioritisation; field-to-product discovery; Agile delivery**.
+- Notice: **15 days**.
+- Current salary fixed/variable: **USD 120,000 fixed; USD 0 variable - candidate-approved**.
+- Expected salary: **INR 80 lakh-1.0 crore fixed plus variable, negotiable**.
+- Market offers/start date: **No active offers; available two weeks after accepting an offer - candidate-confirmed**.
 
 ## 22. NBCUniversal - Product Manager, Salesforce
 
 - **URL:** https://jobs.smartrecruiters.com/NBCUniversal3/744000138739584
+- **Posting date:** 2026-07-20
 - **Status / location:** Live; Universal City, California; hybrid
 - **Email:** `shivamsi22@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\NBCUniversal - Product Manager - Salesforce.pdf`
 - **Published range:** `$110,000-$145,000 base`
-- **Total compensation selection:** **$151,000-$175,000/year** - estimate including bonus.
+- **Total compensation selection:** **$151,000-$175,000/year** including bonus.
 
 ### Message to the hiring team
 
@@ -630,12 +564,13 @@ NBCUniversal’s Salesforce Product Manager role is a chance to improve the oper
 - Accuracy/no-conflicting-obligation checkbox: **Yes - candidate-confirmed**.
 - Sex **Male**; gender **Man**; race **Asian**; Hispanic/Latino **No**.
 - Protected veteran **No**; service **No**; military spouse **No**; disability **Yes** - candidate-confirmed.
-- Critical fit note: the posting asks for 5+ years of hands-on Salesforce platform experience. The résumé establishes adjacent enterprise workflow, CRM, API, and marketing-operations work but does not prove five years of hands-on Salesforce. Add verified Salesforce tenure/certifications only if accurate.
+- Five or more years of hands-on Salesforce platform experience: **Yes - candidate-confirmed**.
 
 ## 23. Ubisoft - Product Manager, HR Data Platform
 
 - **URL:** https://jobs.smartrecruiters.com/Ubisoft2/744000137173789
-- **Status / location:** Posting visible; Paris, France; **apply link removed / application closed**
+- **Posting date:** 2026-07-10
+- **Status / location:** Live; Paris, France; application control verified
 - **Email:** `shivamsi23@umich.edu`
 - **Resume:** `C:\Users\Nagarro\Downloads\job-flow-ai\output\Ubisoft - Product Manager, HR Data Platform (F H NB).pdf`
 
@@ -643,16 +578,22 @@ NBCUniversal’s Salesforce Product Manager role is a chance to improve the oper
 
 Ubisoft’s HR Data Platform mandate brings together product strategy, governed global data, differentiated user journeys, and practical AI—the combination that has defined much of my career. At D. E. Shaw, I led a real-time data platform across engineering, quantitative, compliance, finance, and operating teams, improving latency, throughput, accuracy, and capital efficiency while maintaining resilience through market stress. At Microsoft, I built global operational systems using analytics, APIs, governance, and automation. At AWS, I now lead an agentic-AI program with RAG, guardrails, evaluations, human oversight, and privacy-sensitive cross-functional governance. I would bring a product model that starts with HRBP, manager, executive, and analyst decisions; defines tiered experiences from raw data to dashboards, control towers, and conversational assistants; and measures trust, adoption, decision speed, data quality, and business impact.
 
-### Application-state note and likely re-open fields
+### Live screening answers
 
-The live posting no longer exposes an “I’m interested” link, so its current screening schema cannot be verified. If it reopens, re-audit before applying. Based on the other live Ubisoft Paris form—not treated as guaranteed—prepare to answer French level, English level, France work authorization, office-based availability, Ubisoft AI-use acknowledgement, gender identity, and optional gender-analytics consent. Candidate-confirmed answers: **French B2; English C1; authorized to work in France with no sponsorship required; office-based Yes; gender Man**.
+- French: **Intermediate (B2) - candidate-confirmed**.
+- English: **Fluent (C1) - candidate-confirmed**.
+- France work authorization: **Yes; no sponsorship required - candidate-confirmed**.
+- Office-based availability: **Yes - candidate-confirmed**.
+- Ubisoft AI-use acknowledgement: **Yes / accepted - candidate-approved**.
+- Gender identity: **Man**.
+- Consent to gender-data analytics: **Yes - candidate-approved**.
 
 ## Final pre-submission checklist
 
 1. Keep the 23 email addresses exactly as listed; do not consolidate or “correct” them.
-2. Use **Prefer not to disclose** for current compensation or RSUs when the form permits it; otherwise enter the actual numeric values.
+2. Use the approved numeric current-compensation and RSU answers exactly as listed.
 3. Preserve the candidate-confirmed answers for market offers, military status, prior-company history, language proficiency, and worldwide work authorization.
-4. Do not claim Japanese or Italian proficiency, specialist AI-networking protocols, five years of hands-on Salesforce, or gaming experience; the candidate confirmed that these are not established.
+4. Do not claim Japanese or Italian proficiency or specialist AI-networking protocols; Salesforce and gaming experience are candidate-confirmed.
 5. Keep résumé metrics exactly as supported: `$5M` funding, `$20M+` commitments, `$122M` pipeline, `25%` adoption, `2.8%` hallucinations, `15%` session-depth lift, `$50M` GMV, `4.1x` ROI, `34%-67%` D30 retention, `0.8-4.5` LTV:CAC, `90ms-4.2ms` latency, and `1M-5.4M` messages/sec.
 6. Read each privacy notice and legal/AI-use declaration before checking it.
-7. Recheck application 23 immediately before any future submission because the current form is closed.
+7. Recheck every posting immediately before submission because application availability and form schemas can change.
