@@ -1,10 +1,10 @@
 # Job Search Prompt
 
-T1. Search for current openings on this ATS platform in the following job groups: (1) Product and Program Management — roles building or steering the roadmap, technical or AI-focused, (2) Marketing — roles promoting or growing the product, spanning Growth, Performance, Paid Media, Marketing Operations, Demand Generation, Product Marketing, and GTM Marketing, (3) VC and Corp Dev, and (4) Management Consulting. Replace any role more than 1 week old with a more recent relevant role from that company.
+T1. Search for current openings on this ATS platform in the following job groups: (1) Product and Program Management — roles building or steering the roadmap, technical or AI-focused, (2) Marketing — roles promoting or growing the product, spanning Growth, Performance, Paid Media, Marketing Operations, Demand Generation, Product Marketing, and GTM Marketing, (3) VC and Corp Dev, and (4) Management Consulting. Replace any role more than 2 weeks old with a more recent relevant role from that company.
 
 T2. Prioritize France, then US remote roles, then Europe, Hong Kong, UAE and Abu Dhabi, and Singapore. Skip any roles based in only Canada, Thailand, Israel, Phillipines, Germany, Ukraine, Egypt, Africa, Turkey, Poland, Russia, Belarus, Iran, Pakistan, Bangladesh, Vietnam, or Indonesia. Also skip any defense, healthcare, pharma, oil and gas, or mining based roles. Also skip any roles that require a security clearance.
 
-Skip the following companies: Jobgether, Palantir, Northrop Grumman, The Aerospace Corporation, Peraton, CACI International, SAIC, Leidos, MANTECH, L3Harris Technologies, General Dynamics Mission Systems, HII Mission Technologies, MITRE, Vannevar Labs, Torch Technologies, Radiance Technologies, Riverside Research, Scientific Research Corporation, BlueHalo, Noblis, SpaceX, Blue Origin, Shield AI, Anduril Industries
+Skip the following companies: Jobgether, Palantir, SpaceX, Blue Origin, Shield AI, Anduril Industries
 
 T3. Use the five-column format: Posting Date, Company, Title, Location, URL. Ensure every URL links directly to the specific posting and not any generic job board. Remove all query parameters, including UTM, gh_src, referrals, and error parameters, but make sure to keep gh_jid. Add as many qualifying roles as possible and make all changes directly in the workbook.
 
