@@ -52,7 +52,7 @@ Use these answers for all roles unless a role-specific section below overrides t
 | Preferred name | Shiv | Resume-verified |
 | Phonetic spelling | Shih-vum Sing | Candidate-supplied |
 | Pronouns | they/them | Candidate-supplied |
-| Email | shiv-ai-pm@umich.edu | Candidate profile and `base-resume.txt`; use the assigned application email instead when the workflow supplies one |
+| Email | shiv-ai-pm@umich.edu | Candidate profile and `1-product-management-agentic-ai-platforms-source.txt`; use the assigned application email instead when the workflow supplies one |
 | Phone | +1-650-283-3478 | Resume-verified |
 | Current city/state | San Francisco, California | Resume-verified |
 | ZIP code | 94108 | Candidate-supplied |

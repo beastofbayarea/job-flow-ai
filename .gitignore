@@ -31,6 +31,8 @@ output/*
 
 # Local candidate application source data
 data/combined_france_roles.xlsx
+data/resumes/**/*.pdf
+data/resumes/**/*.txt
 
 # Editors
 .vscode/

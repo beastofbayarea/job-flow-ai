@@ -25248,7 +25248,7 @@ Scale AI's Staff Technical Product Manager role calls for AI product strategy, d
 
 - **Requirement / control:** Required; input_text
 - **Answer:** Principal Product Manager, Technical - Generative AI
-- **Evidence:** Verified current title in data/resumes/base-resume.txt.
+- **Evidence:** Verified current title in data/resumes/1-product-management-agentic-ai-platforms-source.txt.
 
 ### Location questions
 
@@ -26030,7 +26030,7 @@ Scale AI's Product Manager, Gen AI role calls for AI product strategy, data-driv
 
 - **Requirement / control:** Required; input_text
 - **Answer:** Principal Product Manager, Technical - Generative AI
-- **Evidence:** Verified current title in data/resumes/base-resume.txt.
+- **Evidence:** Verified current title in data/resumes/1-product-management-agentic-ai-platforms-source.txt.
 
 ### Location questions
 

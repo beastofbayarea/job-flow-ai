@@ -2,7 +2,7 @@
   "schema_version": 2,
   "headless": false,
   "download_root": "output",
-  "candidate_evidence_file": "resumes/base-resume.txt",
+  "candidate_evidence_file": "resumes/1-product-management-agentic-ai-platforms-source.txt",
   "skip_application_question_topics": [
     "internal mobility",
     "internal candidate",

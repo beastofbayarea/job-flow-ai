@@ -58,8 +58,9 @@ uv run playwright install chromium
 
 # Review the five tracked files under config before live use.
 
-# Create your resume source file
-# Edit data\resumes\base-resume.txt with your actual resume content
+# Add your private default resume assets
+# Place the upload PDF at data\resumes\1-product-management-agentic-ai-platforms.pdf
+# Edit data\resumes\1-product-management-agentic-ai-platforms-source.txt with tagged source content
 
 # Verify setup
 uv run python src/job_automation.py email-pool --count 1
@@ -141,7 +142,8 @@ job-flow-ai/
 | **Python 3.10+** | Runtime environment | All commands |
 | **Chromium** | Browser automation | Application workflows |
 | **Candidate config** | Profile, answers, policies | Resume & application workflows |
-| **Resume source** | Base resume content (`data/resumes/base-resume.txt`) | Resume generation |
+| **Base resume PDF** | Default upload (`data/resumes/1-product-management-agentic-ai-platforms.pdf`) | Application workflows |
+| **Resume source** | Tagged resume content (`data/resumes/1-product-management-agentic-ai-platforms-source.txt`) | Resume generation |
 | **Google OAuth** | Gmail API access | Gmail commands |
 | **Vertex AI** (optional) | AI-powered resume/cover letter | Falls back to rule-based if absent |
 | **PuTTY tools** | VPS document archive | `documents store/retrieve` commands |
@@ -209,7 +211,8 @@ Tracked examples are safe templates. Copy and personalize them; the resulting fi
 | --- | --- | --- |
 | Candidate profile and answer policy | `config/candidate_profile_config.json` | Review before live use. |
 | Candidate email addresses | `config/candidate_email_pool.json` | Review before live use. |
-| Resume source material | `data/resumes/base-resume.txt` | Create from the candidate's resume; this is required for tailored resumes. |
+| Default resume upload | `data/resumes/1-product-management-agentic-ai-platforms.pdf` | Supply the private PDF used when a tailored resume is unavailable. |
+| Resume source material | `data/resumes/1-product-management-agentic-ai-platforms-source.txt` | Create from the candidate's resume; this is required for tailored resumes. |
 | Runtime defaults | `config/runtime_config.json` | Single tracked operational configuration file. |
 | Vertex service account | Path selected in `config/runtime_config.json` | Supply the credential outside Git. |
 | Gmail desktop OAuth client and token | `config/credentials.json`, `config/token.json` | Download OAuth desktop-client credentials from Google Cloud; the token is created during authorization. |
@@ -582,7 +585,7 @@ Common issues and solutions:
 | OAuth authentication failures | Re-authorize using Gmail flow; check `credentials.json` |
 | VPS connection refused | Verify SSH host key fingerprint in `vps_config.json` |
 | Application timeouts | Increase `--timeout` flag or check network stability |
-| Resume generation fails | Ensure `data/resumes/base-resume.txt` exists with valid content |
+| Resume generation fails | Ensure the configured `application.resume_source_file` exists and contains valid tagged content; application workflows also require `application.base_resume_file` |
 
 ---
 
