@@ -2,8 +2,8 @@
   "schema_version": 1,
   "application": {
     "tracker_file": "data/ai_product_manager_job_tracker.xlsx",
-    "base_resume_file": "data/resumes/1-product-management-agentic-ai-platforms.pdf",
-    "resume_source_file": "data/resumes/1-product-management-agentic-ai-platforms-source.txt",
+    "base_resume_file": "data/resumes/product-management-generative-agentic-ai-platforms.pdf",
+    "resume_source_file": "data/resumes/product-management-generative-agentic-ai-platforms-source.txt",
     "results_file": "output/orchestration_results.json",
     "submission_log_file": "output/submission_log.json",
     "queue_progress_file": "output/job_url_queue_progress.json",
