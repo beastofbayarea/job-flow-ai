@@ -1,6 +1,6 @@
 # Workable Application Answer Guide
 
-Prepared answers for 58 unique Workable applications from the August 4 and August 8,
+Prepared answers for 52 unique Workable applications from the August 4 and August 8,
 2026 queues. Each application section keeps its own email alias, resume path,
 role-specific narrative, and fields observed on the live form.
 
@@ -34,7 +34,7 @@ traceability.
 
 ## Candidate reference
 
-Primary evidence: `data/resumes/resume-general.pdf`
+Primary evidence: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 
 - **Candidate Name**: Shivam Singh (Shiv)
 - **Phonetic Spelling**: `Shih-vum Sing` | **Pronouns**: `they/them`
@@ -60,48 +60,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---
 
-## 1. BIP Ventures — Junior AI Engineer | Financial Services | Venture Capital (August 08 Queue)
-* **Application Form URL**: `https://apply.workable.com/j/75C9D6B9AF/apply`
-* **Posting Date**: `2026-08-07` (Workable published date)
-* **Role Location**: Atlanta, United States (Hybrid)
-* **Compensation Currency**: `USD`
-
-### Complete Field-by-Field Answers (No Skipped Fields):
-1. **Full Name**: Shivam Singh
-2. **Preferred Name**: Shiv
-3. **Phonetic Spelling**: Shih-vum Sing
-4. **Pronouns**: they/them
-5. **Email**: shivamsingh26@umich.edu
-6. **Phone Number**: +1-650-283-3478
-7. **Current Location**: San Francisco, California, United States (Zip: 94108)
-8. **Current Company**: Amazon Web Services (AWS)
-9. **Current Title**: Principal, AI Products & Platforms
-10. **LinkedIn Profile**: https://linkedin.com/in/beastofbayarea
-11. **GitHub Profile**: https://github.com/beastofbayarea
-12. **Portfolio / Research**: https://www.researchgate.net/profile/Shivam-Singh-188
-13. **Are you legally authorized to work in the US?**: Yes
-14. **Will you now or in the future require visa sponsorship to work in the US?**: No
-15. **Notice Period**: 2 weeks
-16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/BIP Ventures - Junior AI Engineer Financial Services Venture Capital.pdf`
-18. **Why are you a fit for BIP Ventures & Junior AI Engineer | Financial Services | Venture Capital? / Custom Essay Response**:
-    > My IIT Computer Science degree, Ross MBA in strategy, technology and operations, and LSE executive coursework let me connect engineering depth, commercial judgment, economics, and public-policy constraints. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to BIP Ventures.
-19. **EEO Gender**: Male
-20. **EEO Race / Ethnicity**: Asian (Not Hispanic or Latino)
-21. **EEO Veteran Status**: I am not a protected veteran
-22. **EEO Disability Status**: Yes, I have a disability
-
-### Live Application Form Additions (Verified August 9, 2026):
-
-> Live-form status: **Active**. Required/optional markers below reflect the form at the verification date. Answers are optimized from the supplied resume; personally controlled legal, compensation, consent, and availability statements should be reviewed before submission.
-
-- **First name** *(Required)*: Shivam
-- **Last name** *(Required)*: Singh
-- **Cover letter (Optional)** *(Optional)*: I am drawn to BIP Ventures because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
-
----------------------------------------------------------------------------------
-
-## 2. Civica — Technical Product Manager- 12 Months Contract (August 08 Queue)
+## 1. Civica — Technical Product Manager- 12 Months Contract (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/7AEBE60530/apply`
 * **Posting Date**: `2026-08-06` (Workable published date)
 * **Role Location**: India (Remote)
@@ -124,7 +83,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in INR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Goody - Product Marketing Manager - Product Marketing & Growth.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-data-platform-applied-machine-learning.pdf`
 18. **Why are you a fit for Civica & Technical Product Manager- 12 Months Contract? / Custom Essay Response**:
     > For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Civica.
 19. **EEO Gender**: Male
@@ -148,7 +107,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 3. Huzzle — Senior Growth Marketing Manager (August 08 Queue)
+## 2. Huzzle — Senior Growth Marketing Manager (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/3DD9407100/apply`
 * **Posting Date**: `2026-08-06` (Workable published date)
 * **Role Location**: Argentina (Remote)
@@ -171,7 +130,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in ARS; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/AlphaSense - Director, Product Marketing - Premium Content & Data - Job 8428321002.pdf`
+17. **Resume Attachment**: `data/resumes/growth-marketing-product-led-growth-user-acquisition-generative-ai.pdf`
 18. **Why are you a fit for Huzzle & Senior Growth Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Huzzle.
 19. **EEO Gender**: Male
@@ -212,7 +171,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 4. Sand Cherry Associates — Learning Program Manager (August 08 Queue)
+## 3. Sand Cherry Associates — Learning Program Manager (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/9D0615DCD1/apply`
 * **Posting Date**: `2026-08-05` (Workable published date)
 * **Role Location**: United States (Remote)
@@ -235,7 +194,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Vasion - Program Manager, PDLC.pdf`
+17. **Resume Attachment**: `data/resumes/technical-program-management-generative-ai-sovereign-cloud-ecommerce.pdf`
 18. **Why are you a fit for Sand Cherry Associates & Learning Program Manager? / Custom Essay Response**:
     > At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Together, these examples show program governance, stakeholder alignment, dependency management, executive communication, and delivery across complex organizations. I would bring that deliberately broad toolkit to Sand Cherry Associates.
 19. **EEO Gender**: Male
@@ -260,7 +219,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 5. Valsoft Corporation — Product Marketing Manager (August 08 Queue)
+## 4. Valsoft Corporation — Product Marketing Manager (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/435713E085/apply`
 * **Posting Date**: `2026-08-05` (Workable published date)
 * **Role Location**: United Kingdom (Remote)
@@ -283,7 +242,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Valsoft Corporation - Product Marketing Manager.pdf`
+17. **Resume Attachment**: `data/resumes/product-marketing-generative-ai-platforms-adoption-monetization.pdf`
 18. **Why are you a fit for Valsoft Corporation & Product Marketing Manager? / Custom Essay Response**:
     > At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Valsoft Corporation.
 19. **EEO Gender**: Male
@@ -308,7 +267,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 6. Awesome Motive — Growth Manager (August 08 Queue)
+## 5. Awesome Motive — Growth Manager (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/426BC71356/apply`
 * **Posting Date**: `2026-08-05` (Workable published date)
 * **Role Location**: West Palm Beach, United States (Remote)
@@ -331,7 +290,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/AlphaSense - Director, Product Marketing - Premium Content & Data - Job 8428321002.pdf`
+17. **Resume Attachment**: `data/resumes/growth-marketing-product-led-growth-user-acquisition-generative-ai.pdf`
 18. **Why are you a fit for Awesome Motive & Growth Manager? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Awesome Motive.
 19. **EEO Gender**: Male
@@ -356,58 +315,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 7. T-Tech — Product Manager - Tax Technology (August 08 Queue)
-* **Application Form URL**: `https://apply.workable.com/j/D095AA42C5/apply`
-* **Posting Date**: `2026-08-04` (Workable published date)
-* **Role Location**: United Kingdom (Remote)
-* **Compensation Currency**: `GBP`
-
-### Complete Field-by-Field Answers (No Skipped Fields):
-1. **Full Name**: Shivam Singh
-2. **Preferred Name**: Shiv
-3. **Phonetic Spelling**: Shih-vum Sing
-4. **Pronouns**: they/them
-5. **Email**: shivamsi23@umich.edu
-6. **Phone Number**: +1-650-283-3478
-7. **Current Location**: San Francisco, California, United States (Zip: 94108)
-8. **Current Company**: Amazon Web Services (AWS)
-9. **Current Title**: Principal, AI Products & Platforms
-10. **LinkedIn Profile**: https://linkedin.com/in/beastofbayarea
-11. **GitHub Profile**: https://github.com/beastofbayarea
-12. **Portfolio / Research**: https://www.researchgate.net/profile/Shivam-Singh-188
-13. **Are you legally authorized to work in the US?**: Yes
-14. **Will you now or in the future require visa sponsorship to work in the US?**: No
-15. **Notice Period**: 2 weeks
-16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/T-Tech - Product Manager - Tax Technology.pdf`
-18. **Why are you a fit for T-Tech & Product Manager - Tax Technology? / Custom Essay Response**:
-    > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to T-Tech.
-19. **EEO Gender**: Male
-20. **EEO Race / Ethnicity**: Asian (Not Hispanic or Latino)
-21. **EEO Veteran Status**: I am not a protected veteran
-22. **EEO Disability Status**: Yes, I have a disability
-
-### Live Application Form Additions (Verified August 9, 2026):
-
-> Live-form status: **Active**. Required/optional markers below reflect the form at the verification date. Answers are optimized from the supplied resume; personally controlled legal, compensation, consent, and availability statements should be reviewed before submission.
-
-- **First name** *(Required)*: Shivam
-- **Last name** *(Required)*: Singh
-- **Expected salary** *(Required)*: GBP 90,000–120,000 gross annually, negotiable based on scope and total compensation.
-- **Could you share your background in both accountancy and software, including how your experience in these areas has shaped your approach to product management?** *(Required)*: My background is in financial platforms, capital efficiency, and regulated software rather than professional accountancy certification. At D. E. Shaw I led a real-time risk platform that unlocked $85M in regulatory capital, and at Microsoft and AWS I translated financial-services requirements into secure cloud and AI products. This makes my product approach financially rigorous, control-aware, and technically grounded.
-- **Do you have the right to work in the UK without sponsorship and confirm that you will not require sponsorship now or in the future?** *(Required)*: No - my documented authorization is for the United States; I would require local authorization or sponsorship. Options: YES / NO.
-- **Do you have either (a) a background in accountancy (ACA, ACCA, CIMA or similar) or (b) experience working within a SaaS/software business focused on the accountancy or financial services sector?** *(Required)*: Yes - I have extensive software and financial-services experience at D. E. Shaw, Microsoft, McKinsey, and AWS, though I do not claim an ACA/ACCA/CIMA credential. Options: YES / NO.
-- **Can you describe your experience managing products in SaaS, professional services, or managed services environments? What types of products have you worked on, and what were your main responsibilities?** *(Required)*: I have led enterprise cloud, AI, data, and risk platforms across AWS, Microsoft, D. E. Shaw, and McKinsey engagements. My responsibilities covered customer discovery, business cases, requirements, architecture trade-offs, roadmaps, controls, launch, adoption, and measurable commercial outcomes.
-- **What experience do you have leading and developing teams? Could you provide examples of how you've supported team growth and fostered collaboration?** *(Required)*: At D. E. Shaw I led a $10M platform across 15+ engineers and business stakeholders; at AWS I coordinate 12 workstreams across six organizations and three time zones. I create clear outcomes and decision rights, coach through context rather than task assignment, and use shared metrics and retrospectives to improve delivery.
-- **Where do you currently live?** *(Required)*: San Francisco, California, United States.
-- **Are you willing to travel to London once or twice a month, as well as travel to client sites?** *(Required)*: Yes - I am open to the stated schedule, travel, hybrid, or on-site requirement. Options: YES / NO.
-- **Have you owned a product or client delivery initiative end-to-end (from requirements through to delivery)?** *(Required)*: Yes - I have owned initiatives from discovery and business case through requirements, architecture, delivery, controls, launch, and adoption, including a 12-workstream GenAI product at AWS and a $10M risk platform at D. E. Shaw. Options: YES / NO.
-- **Do you have experience working directly with external paying clients in a product owner role?** *(Required)*: Yes - I have worked directly with enterprise clients and institutional investors, including originating and closing a $500M mandate and shaping regulated-cloud architectures that unlocked $20M+ in commitments. Options: YES / NO.
-- **Please describe your experience working with Microsoft Azure?** *(Required)*: At Microsoft I translated regulated-financial-services needs into Azure architecture, replacing fully homomorphic encryption with Azure Confidential Computing to reduce inference latency from 14 seconds to 220 milliseconds while incorporating AI Content Safety guardrails and bias testing.
-
----------------------------------------------------------------------------------
-
-## 8. Tiger Analytics Inc. — Associate Director- Product Manager (Retail) (August 08 Queue)
+## 6. Tiger Analytics Inc. — Associate Director- Product Manager (Retail) (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/8CC94CEBAA/apply`
 * **Posting Date**: `2026-08-04` (Workable published date)
 * **Role Location**: Dallas, United States
@@ -430,7 +338,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
+17. **Resume Attachment**: `data/resumes/product-management-data-platform-applied-machine-learning.pdf`
 18. **Why are you a fit for Tiger Analytics Inc. & Associate Director- Product Manager (Retail)? / Custom Essay Response**:
     > At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Tiger Analytics Inc..
 19. **EEO Gender**: Male
@@ -457,7 +365,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 9. Sur — Senior Paid Media Buyer (August 08 Queue)
+## 7. Sur — Senior Paid Media Buyer (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/864D29BBE1/apply`
 * **Posting Date**: `2026-08-04` (Workable published date)
 * **Role Location**: Buenos Aires, Argentina (Remote)
@@ -480,7 +388,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in ARS; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/WATI.io - Technical Product Manager - B2B Platform.pdf`
+17. **Resume Attachment**: `data/resumes/growth-marketing-product-led-growth-user-acquisition-generative-ai.pdf`
 18. **Why are you a fit for Sur & Senior Paid Media Buyer? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Sur.
 19. **EEO Gender**: Male
@@ -507,7 +415,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 10. Skylight — Senior Growth Marketing Manager (August 04 Queue)
+## 8. Skylight — Senior Growth Marketing Manager (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/685F29FAAA/apply`
 * **Posting Date**: `2026-08-04` (Workable published date)
 * **Role Location**: United States (Remote)
@@ -530,7 +438,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/AlphaSense - Director, Product Marketing - Premium Content & Data - Job 8428321002.pdf`
+17. **Resume Attachment**: `data/resumes/growth-marketing-product-led-growth-user-acquisition-generative-ai.pdf`
 18. **Why are you a fit for Skylight & Senior Growth Marketing Manager? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Skylight.
 19. **EEO Gender**: Male
@@ -556,7 +464,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 11. Fluent, LLC — Marketing Operations Manager, Partnerships (AdTech) (August 08 Queue)
+## 9. Fluent, LLC — Marketing Operations Manager, Partnerships (AdTech) (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/619498D304/apply`
 * **Posting Date**: `2026-08-04` (Workable published date)
 * **Role Location**: New York, United States (Hybrid)
@@ -579,7 +487,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Front - Marketing Operations Manager - Marketing Operations & Analytics.pdf`
+17. **Resume Attachment**: `data/resumes/marketing-operations-revenue-operations-ai-crm-cdp-attribution.pdf`
 18. **Why are you a fit for Fluent, LLC & Marketing Operations Manager, Partnerships (AdTech)? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Fluent, LLC.
 19. **EEO Gender**: Male
@@ -605,7 +513,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 12. Boundless Networks, Inc. — Senior Technical Product Manager (August 08 Queue)
+## 10. Boundless Networks, Inc. — Senior Technical Product Manager (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/8F417E2E0D/apply`
 * **Posting Date**: `2026-08-03` (Workable published date)
 * **Role Location**: United States (Remote)
@@ -628,7 +536,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/WATI.io - Technical Product Manager - B2B Platform.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-data-platform-applied-machine-learning.pdf`
 18. **Why are you a fit for Boundless Networks, Inc. & Senior Technical Product Manager? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Boundless Networks, Inc..
 19. **EEO Gender**: Male
@@ -649,7 +557,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 13. AND Digital — Technical Product Manager (contract) (August 08 Queue)
+## 11. AND Digital — Technical Product Manager (contract) (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/6A2A8A540D/apply`
 * **Posting Date**: `2026-08-03` (Workable published date)
 * **Role Location**: Edinburgh, United Kingdom (Hybrid)
@@ -672,7 +580,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Goody - Product Marketing Manager - Product Marketing & Growth.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-data-platform-applied-machine-learning.pdf`
 18. **Why are you a fit for AND Digital & Technical Product Manager (contract)? / Custom Essay Response**:
     > At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to AND Digital.
 19. **EEO Gender**: Male
@@ -698,7 +606,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 14. Mindrift — Ex-MBB Strategy Consultant - AI Training (Remote) (August 04 Queue)
+## 12. Mindrift — Ex-MBB Strategy Consultant - AI Training (Remote) (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/460E167820/apply`
 * **Posting Date**: `2026-08-03` (Workable published date)
 * **Role Location**: United States (Remote)
@@ -721,7 +629,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Mindrift - Ex-MBB Strategy Consultant - AI Training (Remote).pdf`
+17. **Resume Attachment**: `data/resumes/strategy-consulting-ai-transformation-enterprise-advisory.pdf`
 18. **Why are you a fit for Mindrift & Ex-MBB Strategy Consultant - AI Training (Remote)? / Custom Essay Response**:
     > At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. At Rakuten, I won executive-committee approval for a $50M capital-redeployment thesis after portfolio-wide ROIC analysis and stress-tested a DTC expansion with a 10,000-iteration Monte Carlo model, helping avoid an estimated $20M loss. Together, these examples show structured problem solving, investment judgment, executive influence, quantitative modeling, and high-stakes stakeholder management. I would bring that deliberately broad toolkit to Mindrift.
 19. **EEO Gender**: Male
@@ -739,7 +647,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 15. Mindrift — Ex-MBB Strategy Consultant - AI Training (Remote) (August 08 Queue)
+## 13. Mindrift — Ex-MBB Strategy Consultant - AI Training (Remote) (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/40E0BE40F2/apply`
 * **Posting Date**: `2026-08-03` (Workable published date)
 * **Role Location**: France (Remote)
@@ -762,7 +670,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in EUR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Mindrift - Ex-MBB Strategy Consultant - AI Training (Remote).pdf`
+17. **Resume Attachment**: `data/resumes/strategy-consulting-ai-transformation-enterprise-advisory.pdf`
 18. **Why are you a fit for Mindrift & Ex-MBB Strategy Consultant - AI Training (Remote)? / Custom Essay Response**:
     > At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. At Rakuten, I won executive-committee approval for a $50M capital-redeployment thesis after portfolio-wide ROIC analysis and stress-tested a DTC expansion with a 10,000-iteration Monte Carlo model, helping avoid an estimated $20M loss. Together, these examples show structured problem solving, investment judgment, executive influence, quantitative modeling, and high-stakes stakeholder management. I would bring that deliberately broad toolkit to Mindrift.
 19. **EEO Gender**: Male
@@ -780,7 +688,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 16. Pack.com — Technical Product Manager (Gamified Commerce & Web3) (August 08 Queue)
+## 14. Pack.com — Technical Product Manager (Gamified Commerce & Web3) (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/92008E238C/apply`
 * **Posting Date**: `2026-07-31` (Workable published date)
 * **Role Location**: United States (Remote)
@@ -803,7 +711,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/WATI.io - Lead Product Manager - E-commerce.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for Pack.com & Technical Product Manager (Gamified Commerce & Web3)? / Custom Essay Response**:
     > At McKinsey, I designed a maker-taker pricing and liquidity flywheel that grew institutional trading volume from $215B to $371B and recurring revenue from $45M to $213M through elasticity, take-rate, and contribution-margin analysis. At Rakuten, I won executive-committee approval for a $50M capital-redeployment thesis after portfolio-wide ROIC analysis and stress-tested a DTC expansion with a 10,000-iteration Monte Carlo model, helping avoid an estimated $20M loss. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Pack.com.
 19. **EEO Gender**: Male
@@ -836,67 +744,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 17. Pinewood.AI — Product Manager - Fixed Operations (August 08 Queue)
-* **Application Form URL**: `https://apply.workable.com/j/6CCEA0B187/apply`
-* **Posting Date**: `2026-07-30` (Workable published date)
-* **Role Location**: Fort Lauderdale, United States (Hybrid)
-* **Compensation Currency**: `USD`
-
-### Complete Field-by-Field Answers (No Skipped Fields):
-1. **Full Name**: Shivam Singh
-2. **Preferred Name**: Shiv
-3. **Phonetic Spelling**: Shih-vum Sing
-4. **Pronouns**: they/them
-5. **Email**: shivamsingh98@umich.edu
-6. **Phone Number**: +1-650-283-3478
-7. **Current Location**: San Francisco, California, United States (Zip: 94108)
-8. **Current Company**: Amazon Web Services (AWS)
-9. **Current Title**: Principal, AI Products & Platforms
-10. **LinkedIn Profile**: https://linkedin.com/in/beastofbayarea
-11. **GitHub Profile**: https://github.com/beastofbayarea
-12. **Portfolio / Research**: https://www.researchgate.net/profile/Shivam-Singh-188
-13. **Are you legally authorized to work in the US?**: Yes
-14. **Will you now or in the future require visa sponsorship to work in the US?**: No
-15. **Notice Period**: 2 weeks
-16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Pinewood.AI - Product Manager - Fixed Operations.pdf`
-18. **Why are you a fit for Pinewood.AI & Product Manager - Fixed Operations? / Custom Essay Response**:
-    > At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show program governance, stakeholder alignment, dependency management, executive communication, and delivery across complex organizations. I would bring that deliberately broad toolkit to Pinewood.AI.
-19. **EEO Gender**: Male
-20. **EEO Race / Ethnicity**: Asian (Not Hispanic or Latino)
-21. **EEO Veteran Status**: I am not a protected veteran
-22. **EEO Disability Status**: Yes, I have a disability
-
-### Live Application Form Additions (Verified August 9, 2026):
-
-> Live-form status: **Active**. Required/optional markers below reflect the form at the verification date. Answers are optimized from the supplied resume; personally controlled legal, compensation, consent, and availability statements should be reviewed before submission.
-
-- **First name** *(Required)*: Shivam
-- **Last name** *(Required)*: Singh
-- **Photo (Optional)** *(Optional)*: Leave blank; the resume, LinkedIn profile, and portfolio already provide the relevant professional information.
-- **Summary (Optional)** *(Optional)*: IIT Computer Science graduate and Ross MBA with 10+ years across AWS, D. E. Shaw, Microsoft, McKinsey, and Rakuten. I lead AI products and platforms at AWS, combining technical architecture, product strategy, analytics, and go-to-market execution.
-- **What are your salary expectations?** *(Required)*: $120,000–$160,000 USD base annually, negotiable based on role scope and total compensation.
-- **Do you hold valid right to work in the USA?** *(Required)*: Yes Options: YES / NO.
-- **Do you currently have the right to work in the USA? (You will be asked to produce original documents to prove eligibility during the interview stage. Failure to do so may result in your application being rejected).** *(Required)*: Yes Options: YES / NO.
-- **Do you hold a valid US passport?** *(Required)*: No. The supplied profile identifies Indian nationality; US work authorization does not imply possession of a US passport. Options: YES / NO.
-- **Where are you based? This position is hybrid in Fort Lauderdale, Florida. Please only apply if you can be flexible.** *(Required)*: San Francisco, California. Yes, I am flexible and willing to work on-site in Fort Lauderdale.
-- **Please can you tell me your notice period for changing jobs?** *(Required)*: 2 weeks
-- **Do you have experience working in the Automotive Retail Sector?** *(Required)*: No direct automotive-retail sector experience is stated. Options: YES / NO.
-- **Have you operated in a Product role working for a SaaS business?** *(Required)*: Yes — predominantly enterprise B2B SaaS and digital platforms. Options: YES / NO.
-- **Which of the following automotive-retail product areas have you worked on or have experience with? (Select all that apply)** *(Required)*: Select **None of the above**. The candidate has strong adjacent finance, CRM, accounting, and platform experience, but no verified automotive-retail product ownership.
-- **Vehicle Sales** *(Required)*: Do not select unless direct automotive-domain experience can be verified.
-- **Finance & Insurance (F&I)** *(Required)*: Do not select; adjacent experience is not the same as verified automotive-retail ownership.
-- **Customer Relationship Management (CRM)** *(Required)*: Do not select; adjacent experience is not the same as verified automotive-retail ownership.
-- **Accounting & Financials** *(Required)*: Do not select; adjacent experience is not the same as verified automotive-retail ownership.
-- **Aftersales (Workshop, Service & Parts)** *(Required)*: Do not select unless direct automotive-domain experience can be verified.
-- **Vehicle Inventory & Stock Management** *(Required)*: Do not select unless direct automotive-domain experience can be verified.
-- **OEM integrations and manufacturer programmes** *(Required)*: Do not select unless direct automotive-domain experience can be verified.
-- **None of the above** *(Required)*: Select.
-- **Do you have at least 7 years experience operating in a Product Management/Owner role?** *(Required)*: Yes - 10+ years of product and platform leadership across AWS, Microsoft, Rakuten, and D. E. Shaw. Examples include an AWS agentic-AI copilot portfolio across 12 workstreams, a Microsoft partner growth platform, and Rakuten lifecycle and retention products. Options: YES / NO.
-
----------------------------------------------------------------------------------
-
-## 18. Weekday AI — demand generation (August 08 Queue)
+## 15. Weekday AI — demand generation (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/1F67B56875/apply`
 * **Posting Date**: `2026-07-30` (Workable published date)
 * **Role Location**: San Francisco, United States
@@ -919,7 +767,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Astra - Demand Generation Manager - Growth & Demand Generation.pdf`
+17. **Resume Attachment**: `data/resumes/growth-marketing-product-led-growth-user-acquisition-generative-ai.pdf`
 18. **Why are you a fit for Weekday AI & demand generation? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Weekday AI.
 19. **EEO Gender**: Male
@@ -938,7 +786,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 19. Pavago — Paid Media Specialist (August 08 Queue)
+## 16. Pavago — Paid Media Specialist (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/EAA8C83A23/apply`
 * **Posting Date**: `2026-07-28` (Workable published date)
 * **Role Location**: Poland (Remote)
@@ -961,7 +809,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in PLN; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Pavago - Paid Media Specialist.pdf`
+17. **Resume Attachment**: `data/resumes/growth-marketing-product-led-growth-user-acquisition-generative-ai.pdf`
 18. **Why are you a fit for Pavago & Paid Media Specialist? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Pavago.
 19. **EEO Gender**: Male
@@ -980,7 +828,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 20. GoTymeX — Product Manager | Service Interactions (August 04 Queue)
+## 17. GoTymeX — Product Manager | Service Interactions (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/8853CE2E0C/apply`
 * **Posting Date**: `2026-07-27` (Workable published date)
 * **Role Location**: Ho Chi Minh City, Vietnam (Hybrid)
@@ -1003,7 +851,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in VND; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for GoTymeX & Product Manager | Service Interactions? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to GoTymeX.
 19. **EEO Gender**: Male
@@ -1031,7 +879,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 21. Oceans — Digital Marketing Manager (August 08 Queue)
+## 18. Oceans — Digital Marketing Manager (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/721D1A73E1/apply`
 * **Posting Date**: `2026-07-27` (Workable published date)
 * **Role Location**: Sri Lanka (Remote)
@@ -1054,7 +902,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in LKR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Valsoft Corporation - Product Marketing Manager.pdf`
+17. **Resume Attachment**: `data/resumes/growth-marketing-product-led-growth-user-acquisition-generative-ai.pdf`
 18. **Why are you a fit for Oceans & Digital Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Oceans.
 19. **EEO Gender**: Male
@@ -1094,7 +942,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 22. Sago — Program Manager, Research Ops (temporary) (August 08 Queue)
+## 19. Sago — Program Manager, Research Ops (temporary) (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/AA562DC547/apply`
 * **Posting Date**: `2026-07-23` (Workable published date)
 * **Role Location**: New York, United States
@@ -1117,7 +965,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Vasion - Program Manager, PDLC.pdf`
+17. **Resume Attachment**: `data/resumes/technical-program-management-generative-ai-sovereign-cloud-ecommerce.pdf`
 18. **Why are you a fit for Sago & Program Manager, Research Ops (temporary)? / Custom Essay Response**:
     > At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Together, these examples show program governance, stakeholder alignment, dependency management, executive communication, and delivery across complex organizations. I would bring that deliberately broad toolkit to Sago.
 19. **EEO Gender**: Male
@@ -1141,7 +989,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 23. NobleAI — Product Manager (Science-Based AI Platform) (August 04 Queue)
+## 20. NobleAI — Product Manager (Science-Based AI Platform) (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/noble-ai/j/522D73BED4/apply`
 * **Posting Date**: `2026-07-23` (Workable published date)
 * **Role Location**: United States (Remote)
@@ -1164,7 +1012,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/NobleAI - Product Manager - Science-Based AI Platform.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for NobleAI & Product Manager (Science-Based AI Platform)? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to NobleAI.
 19. **EEO Gender**: Male
@@ -1183,7 +1031,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 24. Salla — Staff Product Manager - Enterprise (August 04 Queue)
+## 21. Salla — Staff Product Manager - Enterprise (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/4F024CDE7A/apply`
 * **Posting Date**: `2026-07-23` (Workable published date)
 * **Role Location**: Jeddah, Saudi Arabia
@@ -1206,7 +1054,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in SAR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Salla - Staff Product Manager - Enterprise E-Commerce Platform.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-data-platform-applied-machine-learning.pdf`
 18. **Why are you a fit for Salla & Staff Product Manager - Enterprise? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Salla.
 19. **EEO Gender**: Male
@@ -1240,7 +1088,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 25. Worth AI — Technical Product Manager (August 04 Queue)
+## 22. Worth AI — Technical Product Manager (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/worthai/j/07A879FF0B/apply`
 * **Posting Date**: `2026-07-23` (Workable published date)
 * **Role Location**: Orlando, United States (Remote)
@@ -1263,7 +1111,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Worth AI - Technical Product Manager - Generative AI Platform Strategy.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for Worth AI & Technical Product Manager? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Worth AI.
 19. **EEO Gender**: Male
@@ -1290,7 +1138,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 26. Capital Factory — Investor Relations Associate (August 08 Queue)
+## 23. Capital Factory — Investor Relations Associate (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/8784437AAD/apply`
 * **Posting Date**: `2026-07-22` (Workable published date)
 * **Role Location**: Austin, United States
@@ -1313,7 +1161,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Capital Factory - Investor Relations Associate.pdf`
+17. **Resume Attachment**: `data/resumes/investor-relations-venture-funds-capital-formation.pdf`
 18. **Why are you a fit for Capital Factory & Investor Relations Associate? / Custom Essay Response**:
     > At D. E. Shaw, I originated and closed a $500M institutional mandate during Brexit uncertainty, owning targeting, technical diligence, relationship management, investment-committee negotiation, and alignment across finance, quants, IT, legal, trading, and the board. At Rakuten, I won executive-committee approval for a $50M capital-redeployment thesis after portfolio-wide ROIC analysis and stress-tested a DTC expansion with a 10,000-iteration Monte Carlo model, helping avoid an estimated $20M loss. Together, these examples show structured problem solving, investment judgment, executive influence, quantitative modeling, and high-stakes stakeholder management. I would bring that deliberately broad toolkit to Capital Factory.
 19. **EEO Gender**: Male
@@ -1339,7 +1187,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 27. Bayut | dubizzle — Product Manager - Growth (August 08 Queue)
+## 24. Bayut | dubizzle — Product Manager - Growth (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/C404EE864E/apply`
 * **Posting Date**: `2026-07-21` (Workable published date)
 * **Role Location**: Dubai, United Arab Emirates
@@ -1362,7 +1210,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in AED; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/WATI.io - Lead Product Manager - E-commerce.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for Bayut | dubizzle & Product Manager - Growth? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Bayut | dubizzle.
 19. **EEO Gender**: Male
@@ -1386,7 +1234,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 28. Valsoft / DemandBridge — Product Manager (US) – ERP Platform, AI-enabled workflows (August 04 Queue)
+## 25. Valsoft / DemandBridge — Product Manager (US) – ERP Platform, AI-enabled workflows (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/valsoft-corp/j/BAD86FB6C2/apply`
 * **Posting Date**: `2026-07-21` (Workable published date)
 * **Role Location**: United States (Remote)
@@ -1409,7 +1257,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Valsoft DemandBridge - Product Manager (US) - ERP Platform, AI-enabled workflows.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for Valsoft / DemandBridge & Product Manager (US) – ERP Platform, AI-enabled workflows? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Valsoft Corporation.
 19. **EEO Gender**: Male
@@ -1431,50 +1279,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 29. moomoo — Assistant Marketing Manager (Brand & Creative Strategy) (August 08 Queue)
-* **Application Form URL**: `https://apply.workable.com/j/281D4D8E3B/apply`
-* **Posting Date**: `2026-07-21` (Workable published date)
-* **Role Location**: Hong Kong, Hong Kong
-* **Compensation Currency**: `HKD`
-
-### Complete Field-by-Field Answers (No Skipped Fields):
-1. **Full Name**: Shivam Singh
-2. **Preferred Name**: Shiv
-3. **Phonetic Spelling**: Shih-vum Sing
-4. **Pronouns**: they/them
-5. **Email**: shivamsing@umich.edu
-6. **Phone Number**: +1-650-283-3478
-7. **Current Location**: San Francisco, California, United States (Zip: 94108)
-8. **Current Company**: Amazon Web Services (AWS)
-9. **Current Title**: Principal, AI Products & Platforms
-10. **LinkedIn Profile**: https://linkedin.com/in/beastofbayarea
-11. **GitHub Profile**: https://github.com/beastofbayarea
-12. **Portfolio / Research**: https://www.researchgate.net/profile/Shivam-Singh-188
-13. **Are you legally authorized to work in the US?**: Yes
-14. **Will you now or in the future require visa sponsorship to work in the US?**: No
-15. **Notice Period**: 2 weeks
-16. **Desired Base Salary**: Open to the role's posted range in HKD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Valsoft Corporation - Product Marketing Manager.pdf`
-18. **Why are you a fit for moomoo & Assistant Marketing Manager (Brand & Creative Strategy)? / Custom Essay Response**:
-    > At D. E. Shaw, I originated and closed a $500M institutional mandate during Brexit uncertainty, owning targeting, technical diligence, relationship management, investment-committee negotiation, and alignment across finance, quants, IT, legal, trading, and the board. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to moomoo.
-19. **EEO Gender**: Male
-20. **EEO Race / Ethnicity**: Asian (Not Hispanic or Latino)
-21. **EEO Veteran Status**: I am not a protected veteran
-22. **EEO Disability Status**: Yes, I have a disability
-
-### Live Application Form Additions (Verified August 9, 2026):
-
-> Live-form status: **Active**. Required/optional markers below reflect the form at the verification date. Answers are optimized from the supplied resume; personally controlled legal, compensation, consent, and availability statements should be reviewed before submission.
-
-- **First name** *(Required)*: Shivam
-- **Last name** *(Required)*: Singh
-- **Will you now or in the future require sponsorship for employment visa status to work in the country?** *(Required)*: No - I am legally authorized to work in Hong Kong without current or future employment sponsorship. Options: Yes / No.
-- **Are you a friend or family of a current employee of the company?** *(Required)*: No. Options: Yes / No.
-- **What is your Expected Gross Salary?** *(Required)*: HKD 940,000–1,255,000 gross annually, negotiable based on scope and total compensation.
-
----------------------------------------------------------------------------------
-
-## 30. OnBuy — Principal Product Manager - eCommerce (August 08 Queue)
+## 26. OnBuy — Principal Product Manager - eCommerce (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/BC600FB3A4/apply`
 * **Posting Date**: `2026-07-20` (Workable published date)
 * **Role Location**: Manchester, United Kingdom (Hybrid)
@@ -1497,7 +1302,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for OnBuy & Principal Product Manager - eCommerce? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to OnBuy.
 19. **EEO Gender**: Male
@@ -1522,7 +1327,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 31. GetResponse — Product Manager – Lifecycle Automation Platform (August 04 Queue)
+## 27. GetResponse — Product Manager – Lifecycle Automation Platform (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/getresponse/j/B535082D44/apply`
 * **Posting Date**: `2026-07-20` (Workable published date)
 * **Role Location**: Poland (Remote)
@@ -1545,7 +1350,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in PLN; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/T-Tech - Product Manager - Tax Technology.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for GetResponse & Product Manager – Lifecycle Automation Platform? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to GetResponse.
 19. **EEO Gender**: Male
@@ -1567,7 +1372,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 32. Maker Lab — Audience Strategy Lead (August 08 Queue)
+## 28. Maker Lab — Audience Strategy Lead (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/286E9CBD68/apply`
 * **Posting Date**: `2026-07-16` (Workable published date)
 * **Role Location**: Gurugram, India (Remote)
@@ -1590,7 +1395,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in INR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Maker Lab - Audience Strategy Lead.pdf`
+17. **Resume Attachment**: `data/resumes/data-science-marketing-analytics-predictive-modeling.pdf`
 18. **Why are you a fit for Maker Lab & Audience Strategy Lead? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Maker Lab.
 19. **EEO Gender**: Male
@@ -1609,7 +1414,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 33. Mindera — Retail Product Manager - Contract - Outside IR35 (August 08 Queue)
+## 29. Mindera — Retail Product Manager - Contract - Outside IR35 (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/F42128AD13/apply`
 * **Posting Date**: `2026-07-14` (Workable published date)
 * **Role Location**: London, United Kingdom (Hybrid)
@@ -1632,7 +1437,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for Mindera & Retail Product Manager - Contract - Outside IR35? / Custom Essay Response**:
     > At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Mindera.
 19. **EEO Gender**: Male
@@ -1654,66 +1459,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 34. Hyprwork — Creative Strategist, Performance Marketing (August 08 Queue)
-* **Application Form URL**: `https://apply.workable.com/j/BED6FEFFED/apply`
-* **Posting Date**: `2026-07-14` (Workable published date)
-* **Role Location**: Buenos Aires, Argentina (Remote)
-* **Compensation Currency**: `ARS`
-
-### Complete Field-by-Field Answers (No Skipped Fields):
-1. **Full Name**: Shivam Singh
-2. **Preferred Name**: Shiv
-3. **Phonetic Spelling**: Shih-vum Sing
-4. **Pronouns**: they/them
-5. **Email**: shivamsingh20@umich.edu
-6. **Phone Number**: +1-650-283-3478
-7. **Current Location**: San Francisco, California, United States (Zip: 94108)
-8. **Current Company**: Amazon Web Services (AWS)
-9. **Current Title**: Principal, AI Products & Platforms
-10. **LinkedIn Profile**: https://linkedin.com/in/beastofbayarea
-11. **GitHub Profile**: https://github.com/beastofbayarea
-12. **Portfolio / Research**: https://www.researchgate.net/profile/Shivam-Singh-188
-13. **Are you legally authorized to work in the US?**: Yes
-14. **Will you now or in the future require visa sponsorship to work in the US?**: No
-15. **Notice Period**: 2 weeks
-16. **Desired Base Salary**: Open to the role's posted range in ARS; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Hyprwork - Creative Strategist, Performance Marketing.pdf`
-18. **Why are you a fit for Hyprwork & Creative Strategist, Performance Marketing? / Custom Essay Response**:
-    > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Hyprwork.
-19. **EEO Gender**: Male
-20. **EEO Race / Ethnicity**: Asian (Not Hispanic or Latino)
-21. **EEO Veteran Status**: I am not a protected veteran
-22. **EEO Disability Status**: Yes, I have a disability
-
-### Live Application Form Additions (Verified August 9, 2026):
-
-> Live-form status: **Active**. Required/optional markers below reflect the form at the verification date. Answers are optimized from the supplied resume; personally controlled legal, compensation, consent, and availability statements should be reviewed before submission.
-
-- **First name** *(Required)*: Shivam
-- **Last name** *(Required)*: Singh
-- **Headline** *(Required)*: Principal, AI Products & Platforms | GenAI, B2B SaaS, Data & Growth
-- **Summary (Optional)** *(Optional)*: IIT Computer Science graduate and Ross MBA with 10+ years across AWS, D. E. Shaw, Microsoft, McKinsey, and Rakuten. I lead AI products and platforms at AWS, combining technical architecture, product strategy, analytics, and go-to-market execution.
-- **Cover letter (Optional)** *(Optional)*: I am drawn to Hyprwork because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
-- **How many years of experience do you have in creative strategy or performance creative for direct-response advertising (DTC, ecommerce, or paid media)?** *(Required)*: 6+ years of directly relevant growth strategy, performance analytics, positioning, and experimentation. I pair creative hypotheses with attribution, cohort quality, marginal CAC, payback, and incrementality to scale winning concepts.
-- **Walk us through one direct-response ad (video or static) you strategized that produced measurable results. What was the angle, why did you choose it, and what were the KPIs?** *(Required)*: At Microsoft, I built a $12M partner marketing and demand-generation engine using propensity scoring and budget traffic-shaping, generating $50M in incremental GMV at 4.1x ROI and increasing partner conversion from 5% to 24%. At Rakuten, I helped reposition the GTM motion, reduced CAC from $42 to $8.50, increased D30 retention from 34% to 67%, and improved LTV:CAC from 0.8 to 4.5.
-- **Which platforms have you created performance creative for (Meta, TikTok, YouTube, Native/Taboola/Outbrain, Google)? Describe your depth on each.** *(Required)*: My documented strength is cross-channel growth strategy, attribution, experimentation, and budget allocation rather than day-to-day creative production in each named ad platform. I have led performance systems at $12M scale and would partner closely with channel specialists while owning the measurement and testing architecture.
-- **Describe your process for diagnosing creative fatigue and deciding what to test next. What data do you look at and how do you prioritize?** *(Required)*: I diagnose fatigue through declining thumb-stop/CTR, rising CPM and CPA, falling conversion quality, frequency, audience saturation, and cohort-level payback. I segment by audience, angle, format, placement, and lifecycle stage, then prioritize tests by expected impact, evidence strength, production effort, and statistical power, refreshing the highest-spend bottleneck first.
-- **Share a link to your portfolio, case studies, or examples of creative work you strategized or directed.** *(Required)*: https://github.com/beastofbayarea and https://www.researchgate.net/profile/Shivam-Singh-188
-- **What is your monthly salary expectation in USD?** *(Required)*: $10,000–$13,333 USD gross per month, negotiable based on scope and total compensation.
-- **Are you available to overlap with 8 AM - 12 PM EST for live collaboration?** *(Required)*: Yes - I am open to the stated schedule, travel, hybrid, or on-site requirement. Options: YES / NO.
-- **Select your english level** *(Required)*: Advanced Options: Basic / Intermediate / Advance / Native.
-- **What is the primary Direct-to-Consumer (DTC) niche in which you have the most experience?** *(Required)*: Select **Other DTC Niche** — ecommerce, marketplaces, and digital-retail growth. This best reflects the documented Rakuten and consumer-growth experience without claiming an unsupported category.
-- **Health & Wellness / Supplements** *(Required)*: Do not select unless the application requires one category; the resume supports ecommerce and DTC strategy but not this specific niche.
-- **Beauty & Cosmetics / Skincare** *(Required)*: Do not select unless the application requires one category; the resume supports ecommerce and DTC strategy but not this specific niche.
-- **Fashion & Apparel** *(Required)*: Do not select unless the application requires one category; the resume supports ecommerce and DTC strategy but not this specific niche.
-- **Home Goods & Decor** *(Required)*: Do not select unless the application requires one category; the resume supports ecommerce and DTC strategy but not this specific niche.
-- **Pet Care & Accessories** *(Required)*: Do not select unless the application requires one category; the resume supports ecommerce and DTC strategy but not this specific niche.
-- **Other DTC Niche** *(Required)*: Select — ecommerce, marketplaces, and digital-retail growth.
-- **I do not have DTC experience (e.g., my background is primarily B2B, Lead Gen, or App Installs)** *(Required)*: Do not select - I evaluated a $50M DTC expansion at Rakuten and led adjacent B2C/B2B2C growth work.
-
----------------------------------------------------------------------------------
-
-## 35. Vasion — Senior Growth Marketing Manager (August 04 Queue)
+## 30. Vasion — Senior Growth Marketing Manager (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/B079EF2975/apply`
 * **Posting Date**: `2026-07-14` (Workable published date)
 * **Role Location**: Lehi, United States (Remote)
@@ -1736,7 +1482,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/AlphaSense - Director, Product Marketing - Premium Content & Data - Job 8428321002.pdf`
+17. **Resume Attachment**: `data/resumes/growth-marketing-product-led-growth-user-acquisition-generative-ai.pdf`
 18. **Why are you a fit for Vasion & Senior Growth Marketing Manager? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Vasion.
 19. **EEO Gender**: Male
@@ -1760,7 +1506,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 36. Culligan UK limited — Product Manager (August 08 Queue)
+## 31. Culligan UK limited — Product Manager (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/A7FA494F43/apply`
 * **Posting Date**: `2026-07-14` (Workable published date)
 * **Role Location**: United Kingdom (Remote)
@@ -1783,7 +1529,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-data-platform-applied-machine-learning.pdf`
 18. **Why are you a fit for Culligan UK limited & Product Manager? / Custom Essay Response**:
     > At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. At Rakuten, I won executive-committee approval for a $50M capital-redeployment thesis after portfolio-wide ROIC analysis and stress-tested a DTC expansion with a 10,000-iteration Monte Carlo model, helping avoid an estimated $20M loss. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Culligan UK limited.
 19. **EEO Gender**: Male
@@ -1808,7 +1554,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 37. Infosys Singapore & Australia — Principal Consultant - Intelligent Marketing and AI (August 04 Queue)
+## 32. Infosys Singapore & Australia — Principal Consultant - Intelligent Marketing and AI (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/7AA52A733D/apply`
 * **Posting Date**: `2026-07-13` (Workable published date)
 * **Role Location**: Sydney, Australia (Hybrid)
@@ -1831,7 +1577,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in AUD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Treatwell - Head of Product Marketing.pdf`
+17. **Resume Attachment**: `data/resumes/strategy-consulting-ai-transformation-enterprise-advisory.pdf`
 18. **Why are you a fit for Infosys Singapore & Australia & Principal Consultant - Intelligent Marketing and AI? / Custom Essay Response**:
     > At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Infosys Singapore & Australia.
 19. **EEO Gender**: Male
@@ -1856,7 +1602,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 38. Hospitable — Senior Product Manager (USA/Europe – Remote) (August 04 Queue)
+## 33. Hospitable — Senior Product Manager (USA/Europe – Remote) (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/hospitable/j/30879CFDC1/apply`
 * **Posting Date**: `2026-07-13` (Workable published date)
 * **Role Location**: Remote, United States (Remote)
@@ -1879,7 +1625,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for Hospitable & Senior Product Manager (USA/Europe – Remote)? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Hospitable.
 19. **EEO Gender**: Male
@@ -1901,63 +1647,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 39. TechOp Solutions International — Program Manager- Call Center (August 08 Queue)
-* **Application Form URL**: `https://apply.workable.com/j/EE50CD94F0/apply`
-* **Posting Date**: `2026-07-10` (Workable published date)
-* **Role Location**: Austin, United States (Remote)
-* **Compensation Currency**: `USD`
-
-### Complete Field-by-Field Answers (No Skipped Fields):
-1. **Full Name**: Shivam Singh
-2. **Preferred Name**: Shiv
-3. **Phonetic Spelling**: Shih-vum Sing
-4. **Pronouns**: they/them
-5. **Email**: shivamsi14@umich.edu
-6. **Phone Number**: +1-650-283-3478
-7. **Current Location**: San Francisco, California, United States (Zip: 94108)
-8. **Current Company**: Amazon Web Services (AWS)
-9. **Current Title**: Principal, AI Products & Platforms
-10. **LinkedIn Profile**: https://linkedin.com/in/beastofbayarea
-11. **GitHub Profile**: https://github.com/beastofbayarea
-12. **Portfolio / Research**: https://www.researchgate.net/profile/Shivam-Singh-188
-13. **Are you legally authorized to work in the US?**: Yes
-14. **Will you now or in the future require visa sponsorship to work in the US?**: No
-15. **Notice Period**: 2 weeks
-16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Vasion - Program Manager, PDLC.pdf`
-18. **Why are you a fit for TechOp Solutions International & Program Manager- Call Center? / Custom Essay Response**:
-    > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. Together, these examples show program governance, stakeholder alignment, dependency management, executive communication, and delivery across complex organizations. I would bring that deliberately broad toolkit to TechOp Solutions International.
-19. **EEO Gender**: Male
-20. **EEO Race / Ethnicity**: Asian (Not Hispanic or Latino)
-21. **EEO Veteran Status**: I am not a protected veteran
-22. **EEO Disability Status**: Yes, I have a disability
-
-### Live Application Form Additions (Verified August 9, 2026):
-
-> Live-form status: **Active**. Required/optional markers below reflect the form at the verification date. Answers are optimized from the supplied resume; personally controlled legal, compensation, consent, and availability statements should be reviewed before submission.
-
-- **First name** *(Required)*: Shivam
-- **Last name** *(Required)*: Singh
-- **Photo (Optional)** *(Optional)*: Leave blank; the resume, LinkedIn profile, and portfolio already provide the relevant professional information.
-- **Headline (Optional)** *(Optional)*: Principal, AI Products & Platforms | GenAI, B2B SaaS, Data & Growth
-- **Summary (Optional)** *(Optional)*: IIT Computer Science graduate and Ross MBA with 10+ years across AWS, D. E. Shaw, Microsoft, McKinsey, and Rakuten. I lead AI products and platforms at AWS, combining technical architecture, product strategy, analytics, and go-to-market execution.
-- **Cover letter (Optional)** *(Optional)*: I am drawn to TechOp Solutions International because the role calls for someone who can move from insight to execution without losing technical or commercial rigor. At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. Beyond that example, my career spans strategy consulting, regulated financial platforms, AI product leadership, growth economics, and global operating programs. That range would let me contribute a fresh perspective, partner effectively with specialists, and adapt quickly as the role evolves.
-- **Do you have at least 10 years of overall related work experience?** *(Required)*: Yes - 10+ years. Options: YES / NO.
-- **How many years of l supervisory experience do you have?** *(Required)*: 8+ years leading cross-functional technical and business teams, including 15+ engineers at D. E. Shaw and 12 workstreams across six organizations at AWS.
-- **How many years of customer service, call center, or service desk experience do you have?** *(Required)*: No dedicated call-center title; 10+ years of adjacent experience leading customer-facing platforms, operations, risk, service workflows, and global technical programs.
-- **Are you a US Citizen? (Must be able to obtain required security clearance successfully)** *(Required)*: No. Options: YES / NO.
-- **What is your highest level of education completed?** *(Required)*: MBA, University of Michigan Ross School of Business; B.Tech in Computer Science, IIT.
-- **Please describe your management experience in 2–3 sentences. “See my resume” is not an acceptable answer.** *(Required)*: I lead cross-functional AI product execution across 12 workstreams, aligning engineering, design, data, security, operations, and commercial stakeholders. I stay hands-on with requirements, metrics, architecture trade-offs, and launch readiness.
-- **Please provide a minimum of three complete sentences explaining how your experience aligns with the job requirements. ( "See my resume" or similar statements or responses of this nature are not acceptable and may result in your application not being considered for this role.)** *(Required)*: IIT Computer Science graduate and Ross MBA with 10+ years across AWS, D. E. Shaw, Microsoft, McKinsey, and Rakuten. I lead AI products and platforms at AWS, combining technical architecture, product strategy, analytics, and go-to-market execution. At AWS, I have led agentic AI and copilot strategy across 12 workstreams, using customer telemetry and experiments to increase session depth by 15%, reduce hallucinations from 8% to 2.8% with RAG and guardrails, and compress client rollout cycles from six months to two hours. I bring structured program leadership, stakeholder alignment, technical fluency, and a record of measurable execution.
-- **Do you reside in Austin, TX?** *(Required)*: No — current location is San Francisco, California. Options: YES / NO.
-- **What city do you reside in?** *(Required)*: San Francisco, California, United States (94108)
-- **What is your desired salary?** *(Required)*: $120,000–$160,000 USD base annually, negotiable based on role scope and total compensation.
-- **Do you have at least a bachelor’s degree or higher?** *(Required)*: Yes Options: YES / NO.
-- **How many years of total work experience do you have?** *(Required)*: 10+ years
-
----------------------------------------------------------------------------------
-
-## 40. Vasion — Program Manager, PDLC (August 08 Queue)
+## 34. Vasion — Program Manager, PDLC (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/8C22D83D09/apply`
 * **Posting Date**: `2026-07-09` (Workable published date)
 * **Role Location**: Lehi, United States (Remote)
@@ -1980,7 +1670,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Vasion - Program Manager, PDLC.pdf`
+17. **Resume Attachment**: `data/resumes/technical-program-management-generative-ai-sovereign-cloud-ecommerce.pdf`
 18. **Why are you a fit for Vasion & Program Manager, PDLC? / Custom Essay Response**:
     > At AWS, I built a bottom-up GenAI investment case with market sizing, attach-rate scenarios, sensitivity analysis, and a $100M+ GMV model, securing $5M in milestone-gated funding against competing bets. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Together, these examples show program governance, stakeholder alignment, dependency management, executive communication, and delivery across complex organizations. I would bring that deliberately broad toolkit to Vasion.
 19. **EEO Gender**: Male
@@ -2004,7 +1694,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 41. Lucidya — Principal Product Manager - Customer Service Suite (August 04 Queue)
+## 35. Lucidya — Principal Product Manager - Customer Service Suite (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/3A08CC918F/apply`
 * **Posting Date**: `2026-07-09` (Workable published date)
 * **Role Location**: Riyadh, Saudi Arabia (Hybrid)
@@ -2027,7 +1717,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in SAR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for Lucidya & Principal Product Manager - Customer Service Suite? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Lucidya.
 19. **EEO Gender**: Male
@@ -2055,7 +1745,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 42. VIVANT CORP — Growth Marketing Coordinator (August 08 Queue)
+## 36. VIVANT CORP — Growth Marketing Coordinator (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/F09CC274C0/apply`
 * **Posting Date**: `2026-07-08` (Workable published date)
 * **Role Location**: Farmers Branch, United States (Hybrid)
@@ -2078,7 +1768,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/VIVANT CORP - Growth Marketing Coordinator.pdf`
+17. **Resume Attachment**: `data/resumes/growth-marketing-product-led-growth-user-acquisition-generative-ai.pdf`
 18. **Why are you a fit for VIVANT CORP & Growth Marketing Coordinator? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to VIVANT CORP.
 19. **EEO Gender**: Male
@@ -2110,7 +1800,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 43. Rokt — Senior Product Manager - Customer Data Platform (August 08 Queue)
+## 37. Rokt — Senior Product Manager - Customer Data Platform (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/472F6E5AE8/apply`
 * **Posting Date**: `2026-07-08` (Workable published date)
 * **Role Location**: New York, United States
@@ -2133,7 +1823,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/WATI.io - Technical Product Manager - B2B Platform.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-data-platform-applied-machine-learning.pdf`
 18. **Why are you a fit for Rokt & Senior Product Manager - Customer Data Platform? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Rokt.
 19. **EEO Gender**: Male
@@ -2152,7 +1842,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 44. Seeq — AI GTM Manager (August 04 Queue)
+## 38. Seeq — AI GTM Manager (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/AFB9FB3A91/apply`
 * **Posting Date**: `2026-06-24` (Workable published date)
 * **Role Location**: United States (Remote)
@@ -2175,7 +1865,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
+17. **Resume Attachment**: `data/resumes/marketing-operations-revenue-operations-ai-crm-cdp-attribution.pdf`
 18. **Why are you a fit for Seeq & AI GTM Manager? / Custom Essay Response**:
     > At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Seeq.
 19. **EEO Gender**: Male
@@ -2200,7 +1890,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 45. HSI — AI Product Manager I (August 04 Queue)
+## 39. HSI — AI Product Manager I (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/hsi-1/j/9FB6FD5DF5/apply`
 * **Posting Date**: `2026-06-19` (Workable published date)
 * **Role Location**: Frisco, United States (Remote)
@@ -2223,7 +1913,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Wealthsimple - Staff Senior Product Manager - FinTech Onboarding & KYC Compliance.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for HSI & AI Product Manager I? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to HSI.
 19. **EEO Gender**: Male
@@ -2253,7 +1943,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 46. Gridium — Product Manager - Data and Integrations (August 04 Queue)
+## 40. Gridium — Product Manager - Data and Integrations (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/268299DDE1/apply`
 * **Posting Date**: `2026-06-19` (Workable published date)
 * **Role Location**: United States (Remote)
@@ -2276,7 +1966,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Gridium - Product Manager - Data and Integrations.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-data-platform-applied-machine-learning.pdf`
 18. **Why are you a fit for Gridium & Product Manager - Data and Integrations? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Gridium.
 19. **EEO Gender**: Male
@@ -2297,7 +1987,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 47. Ripjar — Product Manager (August 04 Queue)
+## 41. Ripjar — Product Manager (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/6BCF4824FE/apply`
 * **Posting Date**: `2026-06-16` (Workable published date)
 * **Role Location**: Cheltenham, United Kingdom (Remote)
@@ -2320,7 +2010,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in GBP; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-data-platform-applied-machine-learning.pdf`
 18. **Why are you a fit for Ripjar & Product Manager? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Ripjar.
 19. **EEO Gender**: Male
@@ -2351,7 +2041,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 48. Pavago — Product Marketing & GTM Lead (August 04 Queue)
+## 42. Pavago — Product Marketing & GTM Lead (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/60100426A1/apply`
 * **Posting Date**: `2026-06-10` (Workable published date)
 * **Role Location**: United States (Remote)
@@ -2374,7 +2064,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Treatwell - Head of Product Marketing.pdf`
+17. **Resume Attachment**: `data/resumes/product-marketing-generative-ai-platforms-adoption-monetization.pdf`
 18. **Why are you a fit for Pavago & Product Marketing & GTM Lead? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Pavago.
 19. **EEO Gender**: Male
@@ -2395,7 +2085,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 49. Lucidya — Senior Product Manager - Monitoring & Research (August 04 Queue)
+## 43. Lucidya — Senior Product Manager - Monitoring & Research (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/37C1CAB41E/apply`
 * **Posting Date**: `2026-06-04` (Workable published date)
 * **Role Location**: Riyadh, Saudi Arabia (Remote)
@@ -2418,7 +2108,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in SAR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for Lucidya & Senior Product Manager - Monitoring & Research? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Lucidya.
 19. **EEO Gender**: Male
@@ -2445,7 +2135,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 50. LawnStarter — Senior Product Manager, Service Delivery (August 04 Queue)
+## 44. LawnStarter — Senior Product Manager, Service Delivery (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/lawnstarter/j/EBB6DC8BC9/apply`
 * **Posting Date**: `2026-06-02` (Workable published date)
 * **Role Location**: Austin, United States (Remote)
@@ -2468,7 +2158,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Ubisoft - Senior Product Manager R6 Esports.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for LawnStarter & Senior Product Manager, Service Delivery? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At McKinsey, I designed elasticity-based retail pricing across key-value and long-tail portfolios, unlocking $50M in revenue and reducing speed-to-market from six weeks to under one week through agile pods, hindcasting, and change management. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to LawnStarter.
 19. **EEO Gender**: Male
@@ -2491,7 +2181,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 51. Treatwell — Head of Product Marketing (August 08 Queue)
+## 45. Treatwell — Head of Product Marketing (August 08 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/4933CD8ADF/apply`
 * **Posting Date**: `2026-05-08` (independently corroborated; the custom Workable domain omits published-date metadata)
 * **Role Location**: Amsterdam, Netherlands (Hybrid)
@@ -2514,7 +2204,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in EUR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Treatwell - Head of Product Marketing.pdf`
+17. **Resume Attachment**: `data/resumes/product-marketing-generative-ai-platforms-adoption-monetization.pdf`
 18. **Why are you a fit for Treatwell & Head of Product Marketing? / Custom Essay Response**:
     > At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show experimentation, attribution, lifecycle economics, customer segmentation, and disciplined allocation of growth capital. I would bring that deliberately broad toolkit to Treatwell.
 19. **EEO Gender**: Male
@@ -2536,7 +2226,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 52. WATI.io — Senior Product Manager/Product Manager - Platform (August 04 Queue)
+## 46. WATI.io — Senior Product Manager/Product Manager - Platform (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/0054C594F5/apply`
 * **Posting Date**: `2026-04-23` (Workable published date)
 * **Role Location**: Bengaluru, India (Remote)
@@ -2559,7 +2249,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in INR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Writesonic - AI Product Manager (Builder PM, GEO Platform).pdf`
+17. **Resume Attachment**: `data/resumes/product-management-data-platform-applied-machine-learning.pdf`
 18. **Why are you a fit for WATI.io & Senior Product Manager/Product Manager - Platform? / Custom Essay Response**:
     > At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to WATI.io.
 19. **EEO Gender**: Male
@@ -2578,7 +2268,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 53. Lucidya — Senior Product Manager - AI Agent Platform (August 04 Queue)
+## 47. Lucidya — Senior Product Manager - AI Agent Platform (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/DDEBF39BE1/apply`
 * **Posting Date**: `2026-04-17` (Workable published date)
 * **Role Location**: Riyadh, Saudi Arabia
@@ -2601,7 +2291,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in SAR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Lucidya - Senior Product Manager - AI Agent Platform.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for Lucidya & Senior Product Manager - AI Agent Platform? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Lucidya.
 19. **EEO Gender**: Male
@@ -2628,7 +2318,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 54. Writesonic — AI Product Manager (Builder PM, GEO Platform) (August 04 Queue)
+## 48. Writesonic — AI Product Manager (Builder PM, GEO Platform) (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/writesonic/j/F7E014216A/apply`
 * **Posting Date**: `2026-04-12` (Workable published date)
 * **Role Location**: India (Remote)
@@ -2651,7 +2341,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in INR; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Writesonic - AI Product Manager (Builder PM, GEO Platform).pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for Writesonic & AI Product Manager (Builder PM, GEO Platform)? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. For regulated financial services at Microsoft, I reframed a fully homomorphic encryption design into Azure Confidential Computing, cutting inference latency from 14 seconds to 220 milliseconds while adding AI Content Safety guardrails and bias testing. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to Writesonic.
 19. **EEO Gender**: Male
@@ -2675,7 +2365,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 55. WATI.io — Technical Product Manager - B2B Platform (August 04 Queue)
+## 49. WATI.io — Technical Product Manager - B2B Platform (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/64BDBE1F49/apply`
 * **Posting Date**: `2026-03-10` (Workable published date)
 * **Role Location**: Shenzhen, China
@@ -2698,7 +2388,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in CNY; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/WATI.io - Technical Product Manager - B2B Platform.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-data-platform-applied-machine-learning.pdf`
 18. **Why are you a fit for WATI.io & Technical Product Manager - B2B Platform? / Custom Essay Response**:
     > At AWS, I architected a sovereign-cloud GTM for regulated banking, translating data sovereignty into reference architectures and compliance-as-code that unlocked $20M+ in commitments, built a $122M pipeline, and reduced deployment from six months to two hours. At D. E. Shaw, I led a roughly $10M real-time risk platform across 15+ engineers, scaling throughput to 5.4M messages per second, cutting latency from 90ms to 4.2ms, reducing false positives from 15% to 1.8%, and unlocking $85M in regulatory capital. Together, these examples show technical product judgment, scalable architecture, controls, API and data fluency, rigorous evaluation, and outcome-based roadmapping. I would bring that deliberately broad toolkit to WATI.io.
 19. **EEO Gender**: Male
@@ -2717,7 +2407,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 56. Fuku — Product Manager – AI-Powered Recruiting Workflows (August 04 Queue)
+## 50. Fuku — Product Manager – AI-Powered Recruiting Workflows (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/fuku/j/8245F1F699/apply`
 * **Posting Date**: `2026-03-07` (Workable published date)
 * **Role Location**: Singapore, Singapore
@@ -2740,7 +2430,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in SGD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Valsoft DemandBridge - Product Manager (US) - ERP Platform, AI-enabled workflows.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for Fuku & Product Manager – AI-Powered Recruiting Workflows? / Custom Essay Response**:
     > At AWS, I led an agentic GenAI shopping copilot across 12 workstreams, using RAG, Bedrock, guardrails, evals, and human review to reach 25% adoption, 70% brand favorability, 2.8% hallucinations, and 15% higher session depth. At McKinsey, I enabled a $1.1B APAC market entry by translating Vietnam and Indonesia data-localization rules into data-platform architecture and GTM choices for CFO, CIO, and CMO stakeholders. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to Fuku.
 19. **EEO Gender**: Male
@@ -2758,7 +2448,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 57. NoGood — Product Manager (Goodie AI) (August 04 Queue)
+## 51. NoGood — Product Manager (Goodie AI) (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/nogood/j/C0A13A034D/apply`
 * **Posting Date**: `2026-03-03` (Workable published date)
 * **Role Location**: New York, United States (Hybrid)
@@ -2781,7 +2471,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in USD; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/Tiger Analytics Inc - Associate Director- Product Manager (Retail).pdf`
+17. **Resume Attachment**: `data/resumes/product-marketing-generative-ai-platforms-adoption-monetization.pdf`
 18. **Why are you a fit for NoGood & Product Manager (Goodie AI)? / Custom Essay Response**:
     > At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to NoGood.
 19. **EEO Gender**: Male
@@ -2814,7 +2504,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 
 ---------------------------------------------------------------------------------
 
-## 58. WATI.io — Lead Product Manager - E-commerce (August 04 Queue)
+## 52. WATI.io — Lead Product Manager - E-commerce (August 04 Queue)
 * **Application Form URL**: `https://apply.workable.com/j/69EE906E89/apply`
 * **Posting Date**: `2025-11-13` (Workable published date)
 * **Role Location**: Shenzhen, China
@@ -2837,7 +2527,7 @@ Primary evidence: `data/resumes/resume-general.pdf`
 14. **Will you now or in the future require visa sponsorship to work in the US?**: No
 15. **Notice Period**: 2 weeks
 16. **Desired Base Salary**: Open to the role's posted range in CNY; negotiable based on scope, location, and total compensation.
-17. **Resume Attachment**: `output/WATI.io - Lead Product Manager - E-commerce.pdf`
+17. **Resume Attachment**: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
 18. **Why are you a fit for WATI.io & Lead Product Manager - E-commerce? / Custom Essay Response**:
     > At Rakuten, I used cohort analytics, SQL, and geo-lift testing to help shift a DTC thesis toward B2B2C partnerships, improving LTV:CAC from 0.8 to 4.5, D30 retention from 34% to 67%, CAC from $42 to $8.50, and payback from 18 to four months. At Microsoft, I built a $12M marketing-operations and partner-capital engine using propensity scoring, W-shaped attribution, real-time budget traffic-shaping, and API governance; it produced $50M incremental GMV at 4.1x ROI and raised partner conversion from 5% to 24%. Together, these examples show customer-led product strategy, commercial judgment, analytics, cross-functional execution, and measurable ownership of outcomes. I would bring that deliberately broad toolkit to WATI.io.
 19. **EEO Gender**: Male
