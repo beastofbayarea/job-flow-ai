@@ -1,37 +1,5 @@
 # Workable Application Answer Guide
 
-Prepared answers for 52 unique Workable applications from the August 4 and August 8,
-2026 queues. Each application section keeps its own email alias, resume path,
-role-specific narrative, and fields observed on the live form.
-
-> [!IMPORTANT]
-> This is a preparation guide, not permission to submit. Recheck the live form
-> immediately before use. The candidate must confirm legal authorization,
-> sponsorship, compensation, availability, conflicts, consent, and voluntary
-> demographic responses. Never infer an answer when the form's wording or work
-> location differs from the prepared question.
-
-## How to use this guide
-
-1. Find the application by company, role, or Workable job ID.
-2. Open the listed application URL and confirm that the company and role match.
-3. Use **Complete Field-by-Field Answers** for identity, contact, resume, and
-   reusable prepared answers. The heading describes the prepared set; the live
-   form remains authoritative.
-4. Use **Live Application Form Additions** for questions observed during the
-   August 9 review. Required and optional labels are a dated snapshot and may
-   have changed.
-5. Resolve duplicate or differently worded controls against the live form. Do
-   not fill the same question twice unless the form genuinely requires it.
-6. Stop before submission and have the candidate review every personally
-   controlled answer called out above.
-
-## Ordering and deduplication
-
-Applications are deduplicated by Workable job ID and sorted by authoritative
-posting date, newest first. Queue intake dates remain in section titles for
-traceability.
-
 ## Candidate reference
 
 Primary evidence: `data/resumes/product-management-generative-agentic-ai-platforms.pdf`
@@ -71,7 +39,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi5@umich.edu
+5. **Email**: shivamsi21@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -118,7 +86,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin@umich.edu
+5. **Email**: shivamsingh5@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -182,7 +150,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh40@umich.edu
+5. **Email**: shivamsingh25@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -230,7 +198,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh44@umich.edu
+5. **Email**: shivamsing16@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -278,7 +246,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi17@umich.edu
+5. **Email**: shivamsi22@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -326,7 +294,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi26@umich.edu
+5. **Email**: shivamsing9@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -376,7 +344,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamhere@umich.edu
+5. **Email**: shivamsingh31@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -426,7 +394,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh34@umich.edu
+5. **Email**: shivamsi5@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -475,7 +443,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh41@umich.edu
+5. **Email**: sup.its.shiv@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -524,7 +492,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi28@umich.edu
+5. **Email**: shivamsin10@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -568,7 +536,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsing3@umich.edu
+5. **Email**: shivamsi39@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -617,7 +585,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh17@umich.edu
+5. **Email**: shivamsin9@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -658,7 +626,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsing18@umich.edu
+5. **Email**: shivamsingh21@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -699,7 +667,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin15@umich.edu
+5. **Email**: shivamsi8@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -755,7 +723,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivhere3@umich.edu
+5. **Email**: shivamsin7@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -797,7 +765,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin20@umich.edu
+5. **Email**: shivamsing14@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -839,7 +807,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin5@umich.edu
+5. **Email**: shivamsingh14@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -890,7 +858,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivhere2@umich.edu
+5. **Email**: shivamsingh22@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -953,7 +921,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsing1@umich.edu
+5. **Email**: shivamsingh4@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1000,7 +968,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi1@umich.edu
+5. **Email**: shivamsing1@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1042,7 +1010,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin4@umich.edu
+5. **Email**: shivamsing@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1099,7 +1067,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh1@umich.edu
+5. **Email**: shivamsingh42@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1149,7 +1117,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin6@umich.edu
+5. **Email**: shivamsi2@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1198,7 +1166,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin17@umich.edu
+5. **Email**: shivamsingh7@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1245,7 +1213,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh50@umich.edu
+5. **Email**: shivamsingh6@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1290,7 +1258,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi6@umich.edu
+5. **Email**: shivamsi28@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1338,7 +1306,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: sup.its.shiv@umich.edu
+5. **Email**: shivamsi26@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1383,7 +1351,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin19@umich.edu
+5. **Email**: shivamsi23@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1425,7 +1393,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi16@umich.edu
+5. **Email**: shivamsing11@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1470,7 +1438,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh3@umich.edu
+5. **Email**: shivamsi13@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1517,7 +1485,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh11@umich.edu
+5. **Email**: shivamsi18@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1565,7 +1533,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi32@umich.edu
+5. **Email**: shivamsi4@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1613,7 +1581,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin14@umich.edu
+5. **Email**: shivamsi37@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1658,7 +1626,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin11@umich.edu
+5. **Email**: shivamsingh99@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1705,7 +1673,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi29@umich.edu
+5. **Email**: shivamsin2@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1756,7 +1724,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh47@umich.edu
+5. **Email**: shivamsi38@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1811,7 +1779,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh49@umich.edu
+5. **Email**: shivamsingh10@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1853,7 +1821,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi33@umich.edu
+5. **Email**: shivamsingh39@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1901,7 +1869,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsing13@umich.edu
+5. **Email**: shivamsi27@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1954,7 +1922,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi20@umich.edu
+5. **Email**: shivamsingh15@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -1998,7 +1966,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin13@umich.edu
+5. **Email**: shivamsingh3@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -2052,7 +2020,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin9@umich.edu
+5. **Email**: shivamsingh44@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -2096,7 +2064,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi39@umich.edu
+5. **Email**: shivamsin4@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -2146,7 +2114,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivhere1@umich.edu
+5. **Email**: shivamsing7@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -2192,7 +2160,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh35@umich.edu
+5. **Email**: shivamsin@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -2237,7 +2205,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin12@umich.edu
+5. **Email**: shivamsi29@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -2279,7 +2247,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi15@umich.edu
+5. **Email**: shivamsingh28@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -2329,7 +2297,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi37@umich.edu
+5. **Email**: shivamsingh29@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -2376,7 +2344,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi18@umich.edu
+5. **Email**: shivamsingh8@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -2418,7 +2386,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsi13@umich.edu
+5. **Email**: shivamsingh30@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -2459,7 +2427,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsin16@umich.edu
+5. **Email**: shivamsingh98@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
@@ -2515,7 +2483,7 @@ Primary evidence: `data/resumes/product-management-generative-agentic-ai-platfor
 2. **Preferred Name**: Shiv
 3. **Phonetic Spelling**: Shih-vum Sing
 4. **Pronouns**: they/them
-5. **Email**: shivamsingh21@umich.edu
+5. **Email**: shivamsingh43@umich.edu
 6. **Phone Number**: +1-650-283-3478
 7. **Current Location**: San Francisco, California, United States (Zip: 94108)
 8. **Current Company**: Amazon Web Services (AWS)
