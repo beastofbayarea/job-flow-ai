@@ -1,6 +1,6 @@
 # Job Search Prompt
 
-## T1. Roles and recency
+## T1. Target roles
 
 Search for current openings on this ATS platform in these job groups:
 
@@ -9,25 +9,14 @@ Search for current openings on this ATS platform in these job groups:
 - VC and Corporate Development.
 - Management Consulting.
 
-Replace any role more than 2 weeks old with a more recent relevant role from that company.
+## T2. Mandatory filters
 
-## T2. Location and company exclusions
+- Keep only roles posted within the last 2 weeks. Replace older roles with a more recent relevant role from the same company.
+- Include only roles based in France, US remote, Hong Kong, UAE (including Abu Dhabi), or Noida, India.
+- Exclude roles in defense, healthcare, pharma, oil and gas, or mining, and any role requiring a security clearance.
+- Skip these companies: Jobgether, Palantir, SpaceX, Blue Origin, Shield AI, and Anduril Industries.
 
-Include only roles based in France, US remote, Hong Kong, UAE (including Abu Dhabi), or Noida, India.
-
-Exclude roles in defense, healthcare, pharma, oil and gas, or mining, and any role requiring a security clearance.
-
-Skip these companies: Jobgether, Palantir, SpaceX, Blue Origin, Shield AI, and Anduril Industries.
-
-## T3. Output format and URLs
-
-Use this five-column format: Posting Date, Company, Title, Location, URL.
-
-- Link directly to the specific posting, never a generic job board.
-- Remove all query parameters, including UTM, gh_src, referrals, and error parameters, but retain gh_jid if present.
-- Add as many qualifying roles as possible.
-
-## T4. Selection rules
+## T3. Selection rules
 
 - Retain at most 3 best-fit, diverse roles per company.
 - Include only active, individual postings.
@@ -36,6 +25,14 @@ Use this five-column format: Posting Date, Company, Title, Location, URL.
 - Include only postings controlled by an identifiable end employer; exclude recruitment agencies, aggregators, employer-of-record boards, and anonymous-client listings.
 - Apply the three-role limit to the actual hiring employer, not the board token or a subsidiary name.
 - Find each role's latest published or reposted date, searching again when it is missing, and sort newest to oldest by Posting Date.
+
+## T4. Output format and URLs
+
+Use this five-column format: Posting Date, Company, Title, Location, URL.
+
+- Link directly to the specific posting, never a generic job board.
+- Remove all query parameters, including UTM, gh_src, referrals, and error parameters, but retain gh_jid if present.
+- Add as many qualifying roles as possible.
 
 ## T5. Lever-specific rules
 
