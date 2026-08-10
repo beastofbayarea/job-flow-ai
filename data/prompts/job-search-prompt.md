@@ -2,7 +2,7 @@
 
 T1. Search for current openings on this ATS platform in the following job groups: (1) Product and Program Management — roles building or steering the roadmap, technical or AI-focused, (2) Marketing — roles promoting or growing the product, spanning Growth, Performance, Paid Media, Marketing Operations, Demand Generation, Product Marketing, and GTM Marketing, (3) VC and Corp Dev, and (4) Management Consulting. Replace any role more than 2 weeks old with a more recent relevant role from that company.
 
-T2. Prioritize France, then US remote roles, then Europe, Hong Kong, UAE and Abu Dhabi, and Singapore. Skip any roles based in only Canada, Thailand, Israel, Phillipines, Germany, Ukraine, Egypt, Africa, Turkey, Poland, Russia, Belarus, Iran, Pakistan, Bangladesh, Vietnam, or Indonesia. Also skip any defense, healthcare, pharma, oil and gas, or mining based roles. Also skip any roles that require a security clearance.
+T2. Include only roles based in France, US remote, Hong Kong, UAE (including Abu Dhabi), or Noida, India. Skip any defense, healthcare, pharma, oil and gas, or mining based roles. Also skip any roles that require a security clearance.
 
 Skip the following companies: Jobgether, Palantir, SpaceX, Blue Origin, Shield AI, Anduril Industries
 
