@@ -1,0 +1,127 @@
+Use the browser to open and complete the Lever applications listed below. Open each application in a separate tab.
+
+## Standard candidate details
+- Name: Shivam Singh
+- Current company: Amazon Web Services
+- LinkedIn: [https://linkedin.com/in/beastofbayarea](https://linkedin.com/in/beastofbayarea)
+- GitHub: https://github.com/beastofbayarea
+- Other website: [https://goodreads.com/beastofbayarea](https://goodreads.com/beastofbayarea)
+- US/international phone: +1 202-630-3211
+- India phone: +91-9910865758
+- India location: Noida, Uttar Pradesh, India
+- Default US location when appropriate: San Francisco, California, United States
+- India applications: use Noida, Uttar Pradesh, India and +91-9910865758.
+
+Use the email contained in the selected resume:
+- AI Product Marketing: [shiv-ai-pmm@umich.edu](mailto\:shiv-ai-pmm@umich.edu)
+- AI Product: [shiv-ai-product@umich.edu](mailto\:shiv-ai-product@umich.edu)
+- FinTech Product: [shiv-fintech-product@umich.edu](mailto\:shiv-fintech-product@umich.edu)
+- Growth Marketing: [shiv-growth-mkt@umich.edu](mailto\:shiv-growth-mkt@umich.edu)
+- Marketing Operations/RevOps: [shiv-mkt-ops@umich.edu](mailto\:shiv-mkt-ops@umich.edu)
+
+## Resume mapping
+
+| TabCompany and roleResume |                                                                            |                                       |
+| ------------------------- | -------------------------------------------------------------------------- | ------------------------------------- |
+| 1                         | TeamSnap — Product Marketing Manager (B2B)                                 | shivam-singh-ai-pmm.pdf               |
+| 2                         | Quantum Workplace — Director of Demand Generation and Marketing Operations | shivam-singh-marketing-ops-revops.pdf |
+| 3                         | Paytm — Senior Product Manager, Lending Platform                           | shivam-singh-fintech-product.pdf      |
+| 4                         | Paytm — Product Manager, Devices                                           | shivam-singh-fintech-product.pdf      |
+| 5                         | Actian — Product Marketing Director, Database Solutions                    | shivam-singh-ai-pmm.pdf               |
+| 6                         | CommonLit — Growth Marketer, Lead Generation                               | shivam-singh-growth-marketing.pdf     |
+| 7                         | Airalo — Product Marketing, Senior Manager                                 | shivam-singh-ai-pmm.pdf               |
+| 8                         | Ethena — Senior Product Marketing Manager                                  | shivam-singh-ai-pmm.pdf               |
+| 9                         | Outreach — Senior Director, Growth Marketing                               | shivam-singh-growth-marketing.pdf     |
+| 10                        | Smarsh — Senior Account-Based Marketing Manager                            | shivam-singh-marketing-ops-revops.pdf |
+| 11                        | Doctrine — Senior AI Product Manager                                       | shivam-singh-ai-product.pdf           |
+| 12                        | Veepee — Senior CRM Project Manager, Personalized Promotions & Wallet      | shivam-singh-growth-marketing.pdf     |
+| 13                        | Airalo — Marketing Manager, Arabia & Africa                                | shivam-singh-growth-marketing.pdf     |
+| 14                        | Employ — Demand Generation Manager                                         | shivam-singh-growth-marketing.pdf     |
+| 15                        | Actian — Principal Product Marketing Manager, Data & BI                    | shivam-singh-ai-pmm.pdf               |
+| 16                        | Theodo — Product Manager, AI Modernisation                                 | shivam-singh-ai-product.pdf           |
+| 17                        | Outreach — Senior Product Marketing Manager, Growth                        | shivam-singh-ai-pmm.pdf               |
+| 18                        | Jobscan — Senior Growth Marketing Manager, Content & Lifecycle             | shivam-singh-growth-marketing.pdf     |
+| 19                        | Theodo — Product Manager, RetailTech                                       | shivam-singh-fintech-product.pdf      |
+| 20                        | 1inch — Senior Technical Product Manager, Swap                             | shivam-singh-fintech-product.pdf      |
+| 21                        | Brevo — Senior Product Manager                                             | shivam-singh-ai-product.pdf           |
+
+- Paytm Senior PM, Lending:
+  - Current CTC: INR 70,00,000 total annual CTC
+  - Expected: INR 85,00,000 total annual CTC, negotiable
+- Paytm PM, Devices:
+  - Current CTC: INR 70,00,000 total annual CTC
+  - Expected: INR 78,00,000 total annual CTC, negotiable
+- Airalo Senior Product Marketing Manager:
+  - AED 420,000 annual base, negotiable
+- Airalo Marketing Manager:
+  - AED 300,000 annual base, negotiable
+- Veepee:
+  - EUR 70,000 annual gross base, negotiable
+- Employ:
+  - USD 150,000 annual base plus approximately 15% target bonus, negotiable
+- 1inch:
+  - USD 200,000 annual base equivalent, negotiable based on total compensation and UAE structure
+- Brevo:
+  - EUR 90,000–105,000 annual gross base plus 10–15% variable, negotiable
+
+For both Paytm roles:
+
+- Location: Noida, Uttar Pradesh, India
+- Phone: +91-9910865758
+- Total experience: 12 years
+- Notice period: Within 30 days
+- Demographic location: India
+- Age range: 30–39
+- Ethnicity: Asian
+- Gender: Male
+
+For the Lending Platform role, emphasize:
+
+- Regulated FinTech and data products across AWS, Microsoft, D. E. Shaw, and McKinsey
+- Launching a digital bank to 100,000 active users in 90 days
+- Using 400+ alternative-data features, eKYC, and a regulatory sandbox
+- Improving approval rates from 10% to 40% while holding NPL at 2.4%
+- Credit-risk decisioning, analytics, compliance, and scaled platform ownership
+
+1. TeamSnap
+   [https://jobs.lever.co/teamsnap/3066bec7-b3ce-44ca-8b7d-676e641cf982/apply](https://jobs.lever.co/teamsnap/3066bec7-b3ce-44ca-8b7d-676e641cf982/apply)
+2. Quantum Workplace
+   [https://jobs.lever.co/QuantumWorkplace/809a33ef-99a9-413c-84cd-edbad7141970/apply](https://jobs.lever.co/QuantumWorkplace/809a33ef-99a9-413c-84cd-edbad7141970/apply)
+3. Paytm — Senior Product Manager, Lending Platform
+   [https://jobs.lever.co/paytm/75992181-c0d0-44e7-805a-6dddfd0fe23b/apply](https://jobs.lever.co/paytm/75992181-c0d0-44e7-805a-6dddfd0fe23b/apply)
+4. Paytm — Product Manager, Devices
+   [https://jobs.lever.co/paytm/650d048f-1e1b-429b-96e0-e673c511cf9d/apply](https://jobs.lever.co/paytm/650d048f-1e1b-429b-96e0-e673c511cf9d/apply)
+5. Actian — Product Marketing Director
+   [https://jobs.lever.co/actian/8aa32b00-1a52-48e6-9c71-2f03643f1f4e/apply](https://jobs.lever.co/actian/8aa32b00-1a52-48e6-9c71-2f03643f1f4e/apply)
+6. CommonLit
+   [https://jobs.lever.co/commonlit/d7c7c813-3464-4e47-b2bb-c613dfee3bad/apply](https://jobs.lever.co/commonlit/d7c7c813-3464-4e47-b2bb-c613dfee3bad/apply)
+7. Airalo — Product Marketing, Senior Manager
+   [https://jobs.lever.co/airalo/8898efa5-f46c-46cd-9d87-251ad34ca423/apply](https://jobs.lever.co/airalo/8898efa5-f46c-46cd-9d87-251ad34ca423/apply)
+8. Ethena
+   [https://jobs.lever.co/ethena/7974afd4-c173-4086-9d2c-78c2349c6f62/apply](https://jobs.lever.co/ethena/7974afd4-c173-4086-9d2c-78c2349c6f62/apply)
+9. Outreach — Senior Director, Growth Marketing
+   [https://jobs.lever.co/outreach/40ffc01a-1ffd-4625-893f-3f9a2006dfec/apply](https://jobs.lever.co/outreach/40ffc01a-1ffd-4625-893f-3f9a2006dfec/apply)
+10. Smarsh
+    [https://jobs.lever.co/smarsh/89fcfe70-7765-4980-8bbe-0657133834fc/apply](https://jobs.lever.co/smarsh/89fcfe70-7765-4980-8bbe-0657133834fc/apply)
+11. Doctrine
+    [https://jobs.lever.co/doctrine/b11e15a6-ecf4-4e69-8c7d-559ba7ed4efb/apply](https://jobs.lever.co/doctrine/b11e15a6-ecf4-4e69-8c7d-559ba7ed4efb/apply)
+12. Veepee
+    [https://jobs.lever.co/veepee/231e8df8-cf64-4a38-b8ce-1ce11c379d4d/apply](https://jobs.lever.co/veepee/231e8df8-cf64-4a38-b8ce-1ce11c379d4d/apply)
+13. Airalo — Marketing Manager
+    [https://jobs.lever.co/airalo/02fa73a5-0ca2-436f-a5f7-bea0704a9774/apply](https://jobs.lever.co/airalo/02fa73a5-0ca2-436f-a5f7-bea0704a9774/apply)
+14. Employ
+    [https://jobs.lever.co/employ/04d10c7c-404e-4426-81ca-f48663364727/apply](https://jobs.lever.co/employ/04d10c7c-404e-4426-81ca-f48663364727/apply)
+15. Actian — Principal Product Marketing Manager
+    [https://jobs.lever.co/actian/0c78246b-3468-4bfd-8334-92eb738e16ed/apply](https://jobs.lever.co/actian/0c78246b-3468-4bfd-8334-92eb738e16ed/apply)
+16. Theodo — AI Modernisation
+    [https://jobs.lever.co/theodo/6cdcb59b-5a49-4033-8ba2-bab464629939/apply](https://jobs.lever.co/theodo/6cdcb59b-5a49-4033-8ba2-bab464629939/apply)
+17. Outreach — Senior Product Marketing Manager, Growth
+    [https://jobs.lever.co/outreach/e73a73a7-0d05-4137-9dca-7ce36fbf125d/apply](https://jobs.lever.co/outreach/e73a73a7-0d05-4137-9dca-7ce36fbf125d/apply)
+18. Jobscan
+    [https://jobs.lever.co/jobscan-2/103299c7-8c4d-4ccd-b281-da31b5b0beb6/apply](https://jobs.lever.co/jobscan-2/103299c7-8c4d-4ccd-b281-da31b5b0beb6/apply)
+19. Theodo — RetailTech
+    [https://jobs.lever.co/theodo/4b458c95-1120-4a4f-a7e2-0d5ef8732f20/apply](https://jobs.lever.co/theodo/4b458c95-1120-4a4f-a7e2-0d5ef8732f20/apply)
+20. 1inch
+    [https://jobs.lever.co/1inch/34d86c62-439d-47db-81e3-11786d70525e/apply](https://jobs.lever.co/1inch/34d86c62-439d-47db-81e3-11786d70525e/apply)
+21. Brevo
+    [https://jobs.lever.co/brevo/b3cc667c-dc00-40c6-8546-865942f96131/apply](https://jobs.lever.co/brevo/b3cc667c-dc00-40c6-8546-865942f96131/apply)
