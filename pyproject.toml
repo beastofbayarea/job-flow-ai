@@ -7,13 +7,13 @@ requires-python = ">=3.10"
 dependencies = [
     "ddgs>=0.1.0",
     "google-api-python-client>=2.100.0",
-    "google-auth-httplib2>=0.2.0",
+    "google-auth-httplib2>=0.4.1",
     "google-auth-oauthlib>=1.2.0",
-    "google-genai>=0.1.0",
+    "google-genai>=2.18.1",
     "openpyxl>=3.1.0",
     "playwright>=1.40.0",
     "PyMuPDF>=1.23.0",
-    "pypdf>=4.0.0",
+    "pypdf>=6.16.0",
     "reportlab>=4.0.0",
     "requests>=2.31.0",
     "websockets>=14.0",
@@ -21,7 +21,7 @@ dependencies = [
 
 [project.optional-dependencies]
 observability = [
-    "sentry-sdk>=2.22,<3.0",
+    "sentry-sdk>=2.68.0,<3.0",
 ]
 structured = [
     "pydantic>=2.7,<3.0",
@@ -31,7 +31,7 @@ structured = [
 dev = [
     "mypy>=1.15,<3.0",
     "pip-audit>=2.9,<3.0",
-    "ruff>=0.6,<1.0",
+    "ruff>=0.16.3,<1.0",
     "setuptools>=83.0.0",
 ]
 
