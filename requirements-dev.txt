@@ -1,5 +1,5 @@
 -e .[observability,structured]
 mypy>=1.15,<3.0
 pip-audit>=2.9,<3.0
-ruff>=0.6,<1.0
+ruff>=0.16.3,<1.0
 setuptools>=83.0.0
